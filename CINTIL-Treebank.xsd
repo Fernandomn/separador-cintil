@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://nlx.di.fc.ul.pt"
+	xmlns="http://nlx.di.fc.ul.pt"
+	elementFormDefault="qualified"
+	version="1.1">
+
+<!-- type declarations -->
+
+	<!-- resource type: Lexical Resource Type-->
+
+	<xs:complexType name="LexicalResourceType">
+		<xs:complexContent>
+			<xs:extension base="ResourceType">
+				<xs:sequence>
+					<xs:element name="resourceType" type="xs:string" fixed="LexicalResource"/>
+					<xs:element name="language" type="language" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>LanguageISO639-iso-639-3-codeType http://www.isocat.org/rest/dc/2484</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="lexiconType" type="lexiconType" ><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2487</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="size" type="size" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2580 http://www.isocat.org/rest/dc/2583</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="coverageType" type="coverageType"/>
+					<xs:element name="domain" type="xs:string" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2467</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="annotationFormat" type="xs:string"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2562</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="informationContained" type="informationContained" minOccurs="0" maxOccurs="unbounded"/>
+			   </xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+
+
+
+
+	<!-- resource type: Written Corpora -->
+
+	<xs:complexType name="WrittenCorpusType">
+		<xs:complexContent>
+			<xs:extension base="ResourceType">
+		<xs:sequence>
+				<xs:element name="resourceType" type="xs:string" fixed="WrittenCorpus"/>
+				<xs:element name="corpusType" type="corpusType"/>
+			    <xs:element name="language" type="language" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>LanguageISO639-iso-639-3-codeType http://www.isocat.org/rest/dc/2484</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="size" type="size" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2580 http://www.isocat.org/rest/dc/2583</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="coverageType" type="coverageType"/>
+			    <xs:element name="domain" type="xs:string" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2467</xs:documentation></xs:annotation></xs:element>
+			    <xs:element name="annotationFormat" type="xs:string"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2562</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="annotation" type="annotation"/>
+			    <xs:element name="annotationLevelType" type="annotationLevelType" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2462</xs:documentation></xs:annotation></xs:element>
+			    <xs:element name="corpus" minOccurs="1" maxOccurs="unbounded">
+  			  	<xs:complexType>
+    					<xs:sequence>
+			    			<xs:element name="sentence"  minOccurs="1" maxOccurs="unbounded">
+  							<xs:complexType>
+   								 <xs:sequence>
+     									<xs:element name="id" type="xs:string"/>
+      									<xs:element name="raw" type="xs:string"/>
+      									<xs:element name="tree" type="xs:string"/>
+    								  </xs:sequence>
+  							</xs:complexType>
+						</xs:element>
+   				         </xs:sequence>
+ 				</xs:complexType>
+			    </xs:element>
+			    <xs:element name="tagset" type="xs:string" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2497</xs:documentation></xs:annotation></xs:element>
+			</xs:sequence>
+		</xs:extension>
+	</xs:complexContent>
+</xs:complexType>
+
+
+<!-- resource type: Oral Corpora -->
+
+<xs:complexType name="OralCorpusType">
+	<xs:complexContent>
+		<xs:extension base="ResourceType">
+			<xs:sequence>
+				<xs:element name="resourceType" type="xs:string" fixed="OralCorpus"/>
+				<xs:element name="corpusType" type="corpusType"/>
+				<xs:element name="language" type="language" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>LanguageISO639-iso-639-3-codeType http://www.isocat.org/rest/dc/2484</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="size" type="size" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2580 http://www.isocat.org/rest/dc/2583</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="domain" type="xs:string" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2467</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="annotationFormat" type="xs:string"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2562</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="transcription" type="transcription"/>
+				<xs:element name="annotation" type="annotation"/>
+				<xs:element name="annotationLevelType" type="annotationLevelType" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2462</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="tagset" type="xs:string" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2497</xs:documentation></xs:annotation></xs:element>
+			</xs:sequence>
+		</xs:extension>
+	</xs:complexContent>
+</xs:complexType>
+
+<!-- resource type: Multimodal Corpora -->
+
+<xs:complexType name="MultimodalCorpusType">
+	<xs:complexContent>
+		<xs:extension base="ResourceType">
+			<xs:sequence>
+				<xs:element name="resourceType" type="xs:string" fixed="MultimodalCorpus"/>
+				<xs:element name="corpusType" type="corpusType"/>
+				<xs:element name="language" type="language" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>LanguageISO639-iso-639-3-codeType http://www.isocat.org/rest/dc/2484</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="size" type="size" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2580 http://www.isocat.org/rest/dc/2583</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="domain" type="xs:string" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2467</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="annotationFormat" type="xs:string"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2562</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="transcription" type="transcription"/>
+				<xs:element name="annotation" type="annotation"/>
+				<xs:element name="annotationLevelType" type="annotationLevelType" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2462</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="tagset" type="xs:string" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2497</xs:documentation></xs:annotation></xs:element>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+
+
+	<!-- resource type: Tools -->
+
+	<xs:complexType name="ToolType">
+		<xs:complexContent>
+			<xs:extension base="ResourceType">
+				<xs:sequence>
+					<xs:element name="resourceType" type="xs:string" fixed="Tool"/>
+					<xs:element name="language" type="language" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>LanguageISO639-iso-639-3-codeType http://www.isocat.org/rest/dc/2484</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="runningEnvironment" type="runningEnvironment"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2576</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="languageDependency" type="languageDependency"/>
+					<xs:element name="operatingSystem" type="operatingSystem" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2572</xs:documentation></xs:annotation></xs:element>
+					<xs:element name="task" type="task" minOccurs="0" maxOccurs="unbounded"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2500</xs:documentation></xs:annotation></xs:element>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+
+	<!-- lexiconType -->
+
+	<xs:simpleType name="lexiconType"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2487</xs:documentation></xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="monolingual"/>
+			<xs:enumeration value="bilingual"/>
+			<xs:enumeration value="multilingual"/>
+			<xs:enumeration value="computational lexicon"/>
+			<xs:enumeration value="machine readable dictionary"/>
+			<xs:enumeration value="multimedia dictionary"/>
+			<xs:enumeration value="other"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- operations type -->
+
+	<xs:simpleType name="task"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2500</xs:documentation></xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="named entity recognition"/>
+			<xs:enumeration value="language guessing"/>
+			<xs:enumeration value="clustering"/>
+			<xs:enumeration value="tokenization"/>
+			<xs:enumeration value="format conversion"/>
+			<xs:enumeration value="OCR - Optical Character Recognition"/>
+			<xs:enumeration value="Spell checking"/>
+			<xs:enumeration value="stemming/lemmatization"/>
+			<xs:enumeration value="chunking/segmenting"/>
+			<xs:enumeration value="analysis"/>
+			<xs:enumeration value="morphological tagging"/>
+			<xs:enumeration value="morphosyntactic tagging"/>
+			<xs:enumeration value="syntactic tagging"/>
+			<xs:enumeration value="semantic tagging"/>
+			<xs:enumeration value="alignment"/>
+			<xs:enumeration value="keyword extraction"/>
+			<xs:enumeration value="lexicon/terminology extraction"/>
+			<xs:enumeration value="statistics analysis"/>
+			<xs:enumeration value="Word Sense Disambiguation"/>
+			<xs:enumeration value="terminology management"/>
+			<xs:enumeration value="summarization"/>
+			<xs:enumeration value="text mining"/>
+			<xs:enumeration value="machine translation"/>
+			<xs:enumeration value="speech recognition"/>
+			<xs:enumeration value="text to speech"/>
+			<xs:enumeration value="querying"/>
+			<xs:enumeration value="corpus workbench"/>
+			<xs:enumeration value="management"/>
+			<xs:enumeration value="indexing"/>
+			<xs:enumeration value="knowledge representation"/>
+			<xs:enumeration value="corpus processing"/>
+			<xs:enumeration value="other"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- size type -->
+
+	<xs:complexType name="size"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2580 http://www.isocat.org/rest/dc/2583</xs:documentation></xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="sizeUnit" type="xs:string"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+
+	<!-- corpusType type -->
+
+	<xs:simpleType name="corpusType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="monolingual"/>
+			<xs:enumeration value="bilingual"/>
+			<xs:enumeration value="multilingual"/>
+			<xs:enumeration value="aligned_document"/>
+			<xs:enumeration value="aligned_paragraph"/>
+			<xs:enumeration value="aligned_sentence"/>
+			<xs:enumeration value="aligned_word"/>
+			<xs:enumeration value="parallel"/>
+			<xs:enumeration value="comparable"/>
+			<xs:enumeration value="transcribed"/>
+			<xs:enumeration value="read"/>
+			<xs:enumeration value="spontaneous"/>
+			<xs:enumeration value="dialogue"/>
+			<xs:enumeration value="monologue"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+
+	<!-- informationContained type -->
+
+	<xs:simpleType name="informationContained">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="definition"/>
+			<xs:enumeration value="equivalents"/>
+			<xs:enumeration value="neologisms"/>
+			<xs:enumeration value="example of use"/>
+			<xs:enumeration value="collocations"/>
+			<xs:enumeration value="selectional restrictions"/>
+			<xs:enumeration value="phonology"/>
+			<xs:enumeration value="morphology"/>
+			<xs:enumeration value="syntax"/>
+			<xs:enumeration value="semantics"/>
+			<xs:enumeration value="phonetics"/>
+			<xs:enumeration value="synonyms"/>
+			<xs:enumeration value="antonyms"/>
+			<xs:enumeration value="etymology"/>
+			<xs:enumeration value="related entry/entries"/>
+			<xs:enumeration value="context"/>
+			<xs:enumeration value="source"/>
+			<xs:enumeration value="other"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+		<!-- annotationLevelType type -->
+
+	<xs:simpleType name="annotationLevelType"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2462</xs:documentation></xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="syntax"/>
+			<xs:enumeration value="morphology"/>
+			<xs:enumeration value="semantics"/>
+			<xs:enumeration value="morphosyntax"/>
+			<xs:enumeration value="phonology"/>
+			<xs:enumeration value="pragmatics"/>
+			<xs:enumeration value="lemmatization"/>
+			<xs:enumeration value="stemming"/>
+			<xs:enumeration value="POS tagging"/>
+			<xs:enumeration value="below-PoS tagging"/>
+			<xs:enumeration value="shallow parsing"/>
+			<xs:enumeration value="nerc"/>
+			<xs:enumeration value="srl"/>
+			<xs:enumeration value="sense annotation"/>
+			<xs:enumeration value="time annotation"/>
+			<xs:enumeration value="event annotation"/>
+			<xs:enumeration value="topic annotation"/>
+			<xs:enumeration value="prosody"/>
+			<xs:enumeration value="gesture"/>
+			<xs:enumeration value="location"/>
+			<xs:enumeration value="age"/>
+			<xs:enumeration value="facial expression"/>
+			<xs:enumeration value="object annotation"/>
+			<xs:enumeration value="image categorization"/>
+			<xs:enumeration value="cross-media annotation"/>
+			<xs:enumeration value="speaker annotation"/>
+			<xs:enumeration value="text recognition from images and videos"/>
+			<xs:enumeration value="acoustic events annotation"/>
+			<xs:enumeration value="movement annotation"/>
+			<xs:enumeration value="other"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- language type -->
+	
+	<xs:complexType name="language"><xs:annotation><xs:documentation>LanguageISO639-iso-639-3-codeType http://www.isocat.org/rest/dc/2482</xs:documentation></xs:annotation>
+		<xs:simpleContent>
+			<xs:extension base="xs:string">
+				<xs:attribute name="languageID" type="ISO639" use="optional"/>
+			</xs:extension>
+		</xs:simpleContent>
+	</xs:complexType>
+	
+	<xs:simpleType name="ISO639">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[A-Za-z][A-Za-z][A-Za-z]?"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- annotation type -->
+
+	<xs:simpleType name="annotation">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="full"/>
+			<xs:enumeration value="partial"/>
+			<xs:enumeration value="null"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- transcription type -->
+
+	<xs:simpleType name="transcription">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="full"/>
+			<xs:enumeration value="partial"/>
+			<xs:enumeration value="null"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- CoverageType type -->
+
+	<xs:simpleType name="coverageType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="general"/>
+			<xs:enumeration value="domain specific"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- ExecutionEnvironment type -->
+
+	<xs:simpleType name="runningEnvironment"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2576</xs:documentation></xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="GUI"/>
+			<xs:enumeration value="command line"/>
+			<xs:enumeration value="web service"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+
+	<!-- OperatingSystem type -->
+
+	<xs:simpleType name="operatingSystem"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2572</xs:documentation></xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="windows"/>
+			<xs:enumeration value="linux"/>
+			<xs:enumeration value="mac-os"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- languageDependency type -->
+
+	<xs:simpleType name="languageDependency">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="yes"/>
+			<xs:enumeration value="no"/>
+		</xs:restriction>
+	</xs:simpleType>	
+
+
+	
+
+	<xs:complexType name="ResourceType">
+		<xs:sequence>
+			<xs:sequence>
+				<xs:element name="resourceTitle" type="xs:string"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2545</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="persistentIdentifier" type="xs:string" minOccurs="0" maxOccurs="1"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2573 
+					(Specification of a persistent identifier that refers to the resource or tool/service this metadata information describes)</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="url" type="xs:anyURI"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2546</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="organization" type="xs:string"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2459</xs:documentation></xs:annotation></xs:element>
+				<xs:element name="contactEmail" type="xs:string"><xs:annotation><xs:documentation>http://www.isocat.org/rest/dc/2521 http://www.isocat.org/rest/dc/2454</xs:documentation></xs:annotation></xs:element>
+			</xs:sequence>
+		</xs:sequence>
+	</xs:complexType>
+
+
+	<!-- TOP elements (Top element is Resource (ResourceTyped)....................................... -->
+
+
+	<xs:element name="Resource" abstract="true" type="ResourceType"/>
+	
+		<!-- ResourceType allows for one of the following elements. Each element has its own type.
+		     Types are defined above..... -->
+
+	<xs:element name="LexicalResource" substitutionGroup="Resource" type="LexicalResourceType"/>
+	<xs:element name="WrittenCorpus" substitutionGroup="Resource" type="WrittenCorpusType"/>
+	<xs:element name="OralCorpus" substitutionGroup="Resource" type="OralCorpusType"/>
+	<xs:element name="MultimodalCorpus" substitutionGroup="Resource" type="MultimodalCorpusType"/>
+	<xs:element name="Tool" substitutionGroup="Resource" type="ToolType"/>
+
+
+</xs:schema>

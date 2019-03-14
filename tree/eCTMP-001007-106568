@@ -1,0 +1,1 @@
+(S (S (S (NP (N' (N Karl) (N Popper)) (PNT ,)) (VP (VP (V leu) (NP (ART o) (N índice))) (ADV lentamente))) (S (PNT ,) (S (S (VP (V vagueou) (PP (P por_) (NP (ART a) (N sala))))) (S (PNT ,) (S (S (S (VP (V voltou) (PP (P a) (VP (V sentar) (NP (CL -se)))))) (PNT ,)) (S (CONJ e) (S (VP (V disse) (NP (CL -me)))))))))) (PNT :))

@@ -1,0 +1,1 @@
+(S (VP (V' (V Há) (PP (PNT ,) (PP (P por) (NP (N exemplo))) (PNT ,))) (NP (ART um) (N' (N acidente) (CP (CP (NP (REL que)) (S (VP (V envolve) (NP (NP (ART um) (N automóvel)) (NP (CONJ e) (NP (ART um) (N' (N carro) (PP (P de) (NP (N bois)))))))))) (CP (PNT ,) (CP (CONJ e) (CP (ADV onde) (S (VP (V intervém)) (NP (ART um) (N polícia)))))))))) (PNT .))

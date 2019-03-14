@@ -1,0 +1,1 @@
+(S (S (S (NP (N Pedro)) (VP (PP (PNT ,) (PP (P de) (NP (CARD 27) (N anos))) (PNT ,)) (VP (VP (V estava) (A sozinho)) (ADVP (ADV junto) (PP (P a_) (NP (ART o) (N' (N cais) (PP (P de_) (NP (ART a) (N Ribeira)))))))))) (S (CONJ e) (S (VP (VP (V teve) (NP (ART um) (N sobressalto))) (PP (P a_) (NP (ART a) (N' (N aproximação) (PP (P de_) (NP (ART a) (N reportagem)))))))))) (PNT :))

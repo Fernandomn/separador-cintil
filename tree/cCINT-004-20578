@@ -1,0 +1,1 @@
+(S (S (S (S (NP (ART O) (N padre)) (VP (V rezou) (NP (ART uma) (N' (ORD última) (N oração))))) (PNT ,)) (S (CONJ e) (S (NP (ART o) (N caixão)) (VP (VP (V' (V foi) (ADV então)) (VP (V colocado) (PP (P em_) (NP (ART o) (N forno))))) (PP (PNT ,) (PP (P com) (NP (ART a) (N' (N ajuda) (PP (P de) (NP (N cordas))))))))))) (PNT .))

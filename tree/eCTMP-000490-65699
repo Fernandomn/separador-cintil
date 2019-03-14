@@ -1,0 +1,1 @@
+(S (S (S (NP (CARD' (CARD Trinta) (CARD mil)) (N homens)) (VP (V fazem) (NP (ART o) (N' (N policiamento) (PP (P de_) (NP (ART a) (N cidade))))))) (S (PNT ,) (S (S (NP (ART os) (N hotéis)) (VP (V estão) (AP (V esgotados)))) (S (PNT ,) (S (NP (ART a) (N temperatura)) (VP (V ronda) (NP (ART os) (N' (CARD 40) (N graus))))))))) (PNT .))

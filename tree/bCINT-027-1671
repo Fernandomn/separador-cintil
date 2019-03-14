@@ -1,0 +1,1 @@
+(S (S (NP (ART A) (N' (N ideia) (PP (P de_) (NP (ART as) (N' (N' (N eleições) (A directas)) (PP (P para) (NP (ART os) (N' (N órgãos) (A políticos))))))))) (VP (PP (PNT ,) (PP (P por) (NP (N exemplo))) (PNT ,)) (VP (V' (V é) (ADV assim)) (VP (V apresentada) (PP (P a_) (NP (ART as) (N bases))))))) (PNT :))

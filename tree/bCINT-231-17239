@@ -1,0 +1,1 @@
+(S (S (NP (ART A) (N' (N pessoa) (CP (NP (REL que)) (S (VP (VP (V morreu) (PP (P com) (NP (ART um) (N' (N ataque) (A cardíaco))))) (PP (P em_) (NP (ART o) (N' (N local) (PP (P de_) (NP (ART a) (N explosão))))))))))) (VP (V era) (NP (ART um) (N' (N jornalista) (A turco))))) (PNT .))
