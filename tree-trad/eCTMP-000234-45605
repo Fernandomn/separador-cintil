@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VP (VP (RB Não) (VB editámos)) (PP (IN em) (NP (NNS papel)))) (NP (CC porque) (S (VP (VP (RB não) (VB era)) (ADJP (JJ importante) (PP (IN para) (NP (DT a) (NP (WP$ nossa) (NNS estratégia)))))))))) (. .)))
+(S (. ') (S (S (VP (VP (VP (RB Não) (VB editámos)) (PP (IN em) (NP (NNS papel)))) (NP (CC porque) (S (VP (VP (RB não) (VB era)) (ADJP (JJ importante) (PP (IN para) (NP (DT a) (NP (PRP$ nossa) (NNS estratégia)))))))))) (. .)))

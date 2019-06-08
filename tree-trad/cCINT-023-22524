@@ -1,1 +1,1 @@
-(S (S (VP (RB Já) (VP (VP (NP (PRP te)) (VB disse)) (SBAR (IN que) (S (NP (DT o) (NP (WP$ meu) (NNS cão))) (VP (VP (RB não) (VB toma)) (NP (NNS drogas)))))))) (. .))
+(S (S (VP (RB Já) (VP (VP (NP (PRP te)) (VB disse)) (SBAR (IN que) (S (NP (DT o) (NP (PRP$ meu) (NNS cão))) (VP (VP (RB não) (VB toma)) (NP (NNS drogas)))))))) (. .))

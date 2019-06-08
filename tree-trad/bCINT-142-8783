@@ -1,1 +1,1 @@
-(S (. ") (S (S (S (NP (DT A) (NP (WP$ minha) (NNS culpabilidade))) (VP (VB é) (JJ clara))) (S (CC mas) (S (NP (DT a) (NP (WP$ minha) (NNS inocência))) (VP (VB é) (JJ absoluta))))) (. .)))
+(S (. ") (S (S (S (NP (DT A) (NP (PRP$ minha) (NNS culpabilidade))) (VP (VB é) (JJ clara))) (S (CC mas) (S (NP (DT a) (NP (PRP$ minha) (NNS inocência))) (VP (VB é) (JJ absoluta))))) (. .)))

@@ -1,1 +1,1 @@
-(S (S (VP (PP (NP (PRP Este) (NNS ano))) (VP (RB nem) (VP (VB chega) (PP (IN a) (NP (NP (CD 20) (NP (NP (SYM por) (SYM cento)) (PP (IN de_) (NP (DT o) (NNS orçamento))))))))))) (. .))
+(S (S (VP (PP (NP (PRP Este) (NNS ano))) (VP (RB nem) (VP (VB chega) (PP (IN a) (NP (NP (CD 20) (NP (NP (NN por) (NN cento)) (PP (IN de_) (NP (DT o) (NNS orçamento))))))))))) (. .))

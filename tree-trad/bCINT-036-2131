@@ -1,1 +1,1 @@
-(S (S (S (NP (JJ Toda) (NP (DT a) (NP (WP$ minha) (NNS vida)))) (VP (VB foi) (VP (VB entregue) (PP (IN a) (NP (NNS Deus)))))) (S (CC e) (S (NP (PRP eu)) (VP (VP (VB encontro) (NP (DT a) (NP (NNS acção) (PP (IN de) (NP (NNS Deus)))))) (PP (IN em) (NP (JJ tudo))))))) (. .))
+(S (S (S (NP (JJ Toda) (NP (DT a) (NP (PRP$ minha) (NNS vida)))) (VP (VB foi) (VP (VB entregue) (PP (IN a) (NP (NNS Deus)))))) (S (CC e) (S (NP (PRP eu)) (VP (VP (VB encontro) (NP (DT a) (NP (NNS acção) (PP (IN de) (NP (NNS Deus)))))) (PP (IN em) (NP (JJ tudo))))))) (. .))

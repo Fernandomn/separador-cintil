@@ -1,1 +1,1 @@
-(S (S (NP (PRP Este)) (VP (VB é) (NP (DT o) (NP (WP$ meu) (NP (NNS irmão) (NNS Pedro)))))) (. .))
+(S (S (NP (PRP Este)) (VP (VB é) (NP (DT o) (NP (PRP$ meu) (NP (NNS irmão) (NNS Pedro)))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (CD Sessenta) (CD e) (CD sete)) (NP (SYM por) (SYM cento)))) (VP (VP (VB atribuem) (NP (PRP este) (NNS desfasamento))) (PP (IN a_) (NP (DT a) (NP (NNS nota) (ADJP (VB obtida) (PP (IN em_) (NP (DT a) (NNS PGA))))))))) (. .))
+(S (S (NP (NP (NP (CD Sessenta) (CD e) (CD sete)) (NP (NN por) (NN cento)))) (VP (VP (VB atribuem) (NP (PRP este) (NNS desfasamento))) (PP (IN a_) (NP (DT a) (NP (NNS nota) (ADJP (VB obtida) (PP (IN em_) (NP (DT a) (NNS PGA))))))))) (. .))

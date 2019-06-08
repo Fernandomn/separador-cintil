@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VB É) (JJ incrível)) (SBAR (IN que) (S (NP (DT o) (NNS Estado)) (VP (VP (VB permita) (NP (PRP isto))) (PP (IN em_) (NP (DT as) (NP (WP$ suas) (NNS instalações)))))))) (. .)))
+(S (. ') (S (S (VP (VB É) (JJ incrível)) (SBAR (IN que) (S (NP (DT o) (NNS Estado)) (VP (VP (VB permita) (NP (PRP isto))) (PP (IN em_) (NP (DT as) (NP (PRP$ suas) (NNS instalações)))))))) (. .)))

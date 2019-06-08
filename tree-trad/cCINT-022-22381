@@ -1,1 +1,1 @@
-(S (S (NP (PRP Esse) (NNS assunto)) (VP (VB é) (NP (NP (RB só) (WP$ vosso))))) (. .))
+(S (S (NP (PRP Esse) (NNS assunto)) (VP (VB é) (NP (NP (RB só) (PRP$ vosso))))) (. .))

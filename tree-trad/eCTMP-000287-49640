@@ -1,1 +1,1 @@
-(CP (. ') (SBAR (SBAR (SBAR (NP (UH Ah) (. ,)) (S (NP (DT o) (NP (NNS Zé) (NNS Carlos))) (VP (VB foi) (NP (WP$ meu) (NNS irmão))))) (. !)) (. ...)))
+(SBAR (. ') (SBAR (SBAR (SBAR (INTJ (UH Ah) (. ,)) (S (NP (DT o) (NP (NNS Zé) (NNS Carlos))) (VP (VB foi) (NP (PRP$ meu) (NNS irmão))))) (. !)) (. ...)))

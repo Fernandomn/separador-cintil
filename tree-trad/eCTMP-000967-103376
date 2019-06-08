@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (PP (PP (IN em_) (NP (PRP este) (NNS momento))) (. ,)) (VP (VB estou) (PP (IN a) (NP (NP (CD 80) (NP (NP (SYM por) (SYM cento)) (PP (IN de_) (NP (DT as) (NP (WP$ minhas) (NNS capacidades))))))))))) (. .)) (. '))
+(S (. ') (S (S (VP (PP (PP (IN em_) (NP (PRP este) (NNS momento))) (. ,)) (VP (VB estou) (PP (IN a) (NP (NP (CD 80) (NP (NP (NN por) (NN cento)) (PP (IN de_) (NP (DT as) (NP (PRP$ minhas) (NNS capacidades))))))))))) (. .)) (. '))

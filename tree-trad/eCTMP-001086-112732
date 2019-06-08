@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (WP$ sua) (NP (NP (NNS actividade) (JJ pedagógica)) (PP (IN em_) (NP (DT a) (NNS UE)))))) (VP (VP (VB foi) (VB interrompida)) (PP (IN em_) (NP (DT o) (NP (NNS ano) (JJ seguinte)))))) (. .))
+(S (S (NP (DT A) (NP (PRP$ sua) (NP (NP (NNS actividade) (JJ pedagógica)) (PP (IN em_) (NP (DT a) (NNS UE)))))) (VP (VP (VB foi) (VB interrompida)) (PP (IN em_) (NP (DT o) (NP (NNS ano) (JJ seguinte)))))) (. .))

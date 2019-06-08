@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (NP (DT A) (NP (WP$ minha) (NNS mulher))) (NP (CC e) (NP (NP (NNS Nilton)) (NP (. ,) (NP (DT o) (NP (WP$ meu) (NP (NNS filho) (PP (IN de) (NP (CD seis) (NNS anos)))))) (. ,))))) (VP (VB continuam) (PP (IN em) (NP (NNS Tirana))))) (. .)))
+(S (. ') (S (S (NP (NP (DT A) (NP (PRP$ minha) (NNS mulher))) (NP (CC e) (NP (NP (NNS Nilton)) (NP (. ,) (NP (DT o) (NP (PRP$ meu) (NP (NNS filho) (PP (IN de) (NP (CD seis) (NNS anos)))))) (. ,))))) (VP (VB continuam) (PP (IN em) (NP (NNS Tirana))))) (. .)))

@@ -43,8 +43,9 @@ def tradutor(tag):
             "D": "DT",  # Artigo
             "DA": "DT",  # Artigos Definidos
             "ART": "DT",  # Artigo
-            "ART'": "NP",  # Artigo [REVISAR] (TODO) nota: unico caso em que essa tag aparece está errado.
-                            # o artigo 'Primeiros passos na aquisição da sintaxe:' chama NP de DT. talvez ajude. 
+            # Artigo [REVISAR] (TODO) nota: unico caso em que essa tag aparece está errado.
+            "ART'": "NP",
+                            # o artigo 'Primeiros passos na aquisição da sintaxe:' chama NP de DT. talvez ajude.
                             # mas acho que é melhor corrigir essa árvore.
             "DEM": "PRP",  # Demonstrativos
             "DFR": "CD",  # Denominadores de Fracções
@@ -73,18 +74,22 @@ def tradutor(tag):
             "PNM": "NP",  # Parte de Nome (TODO) v
             "PNT": ".",  # Pontuação
             "POSS": "PRP$",  # Possessivos v
-            "POSS'": "NP",  # Possessivos (TODO) nota: não existe um sintagma pronominal. o jeito é manter o NP msm
+            # Possessivos (TODO) nota: não existe um sintagma pronominal. o jeito é manter o NP msm
+            "POSS'": "NP",
             "POSSP": "NP",  # Possessivos (TODO) nota: não ocorre
             "PPA": "VBN",  # Particípios passados que não formam tempos compostos
             "P": "IN",  # Preposição
             "PP": "PP",  # Sintagmas Preposicionais
             "P'": "PP",  # Sintagmas Preposicionais
             "PPT": "VBN",  # Particípios passados em tempos compostos
-            "PERCENT": "NN",  # simbolo percentual nota: pode ser pronome + substantivo tbm ('por cento')
-                                # guia oficial diz 'LDFR1…LDFRn'. 
-                                # nota2: PTB considera o % como NN (single noum) 
-            "PERCENT'": "NP",  # Sintagma percentual (TODO) nota: pode ser substituido por um termo so 'por cento'
-            "PERCENTP": "NP",  # Sintagma percentual (TODO) nota: ptb considera como NP
+            # simbolo percentual nota: pode ser pronome + substantivo tbm ('por cento')
+            "PERCENT": "NN",
+            # guia oficial diz 'LDFR1…LDFRn'.
+            # nota2: PTB considera o % como NN (single noum)
+            # Sintagma percentual (TODO) nota: pode ser substituido por um termo so 'por cento'
+            "PERCENT'": "NP",
+            # Sintagma percentual (TODO) nota: ptb considera como NP
+            "PERCENTP": "NP",
             "PREP": "IN",  # Preposições
             "PRS": "PRP",  # Pronomes Pessoais
             "QNT": "JJ",  # Quantificadores
@@ -117,15 +122,16 @@ for corpus in raiz.findall('base:corpus', ns):
         raw = sentenca.find('base:raw', ns)
         tree = sentenca.find('base:tree', ns)
         treeText = tree.text
-        for index in range(len(treeText)-1, 0, -1):
+        # for index in range(len(treeText)-1, 0, -1):
+        for index in reversed(range(len(treeText))):
             caractere = treeText[index]
             if(caractere == '('):
                 inicio = index+1
                 final = inicio + treeText[inicio:].index(' ')
                 classe = treeText[inicio:final]
-                print(raw.text)
-                print(treeText)
-                print(classe)
+                # print(raw.text)
+                # print(treeText)
+                # print(classe)
                 treeText = treeText[:inicio] + \
                     tradutor(classe)+treeText[final:]
 

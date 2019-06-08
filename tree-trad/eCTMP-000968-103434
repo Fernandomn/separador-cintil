@@ -1,1 +1,1 @@
-(S (S (NP (DT As) (NP (NNS questões) (PP (IN de_) (NP (PRP esta) (NNS secção))))) (VP (VB solicitam) (NP (DT o) (NP (WP$ seu) (NP (NNS posicionamento) (PP (IN perante) (NP (NP (NNS problemáticas) (JJ actuais))))))))) (. .))
+(S (S (NP (DT As) (NP (NNS questões) (PP (IN de_) (NP (PRP esta) (NNS secção))))) (VP (VB solicitam) (NP (DT o) (NP (PRP$ seu) (NP (NNS posicionamento) (PP (IN perante) (NP (NP (NNS problemáticas) (JJ actuais))))))))) (. .))

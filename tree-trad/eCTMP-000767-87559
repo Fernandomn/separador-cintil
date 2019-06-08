@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NP (NNS Bolsa) (NNS Russa) (NNS de) (NNS Mercadorias) (NNS e) (NNS Matérias-Primas)))) (. ,)) (S (NP (DT o) (NP (WP$ seu) (NNS preço))) (VP (VB atingiu) (NP (NP (CD 8,5) (CD mil)) (NNS rublos))))) (. .))
+(S (S (PP (PP (IN Em_) (NP (DT a) (NP (NNS Bolsa) (NNS Russa) (NNS de) (NNS Mercadorias) (NNS e) (NNS Matérias-Primas)))) (. ,)) (S (NP (DT o) (NP (PRP$ seu) (NNS preço))) (VP (VB atingiu) (NP (NP (CD 8,5) (CD mil)) (NNS rublos))))) (. .))

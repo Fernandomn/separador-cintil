@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NP (WP$ seus) (NNS amigos))) (VP (VB dizem) (SBAR (IN que) (S (NP (NNS Xiong)) (VP (VP (RB não) (VB suporta)) (NP (DT a) (NNS imperfeição))))))) (. .))
+(S (S (NP (DT Os) (NP (PRP$ seus) (NNS amigos))) (VP (VB dizem) (SBAR (IN que) (S (NP (NNS Xiong)) (VP (VP (RB não) (VB suporta)) (NP (DT a) (NNS imperfeição))))))) (. .))

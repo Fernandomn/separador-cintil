@@ -1,1 +1,1 @@
-(S (S (S (NP (DT A) (NP (WP$ nossa) (NNS identidade))) (VP (VB é) (JJ forte))) (S (. ,) (S (S (VP (VB é) (JJ original))) (S (. ,) (S (VP (VB constitui) (NP (DT uma) (NP (NNS riqueza) (ADJP (RB muito) (JJ grande)))))))))) (. .))
+(S (S (S (NP (DT A) (NP (PRP$ nossa) (NNS identidade))) (VP (VB é) (JJ forte))) (S (. ,) (S (S (VP (VB é) (JJ original))) (S (. ,) (S (VP (VB constitui) (NP (DT uma) (NP (NNS riqueza) (ADJP (RB muito) (JJ grande)))))))))) (. .))

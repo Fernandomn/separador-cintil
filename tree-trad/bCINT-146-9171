@@ -1,1 +1,1 @@
-(S (S (ADVP (ADVP (RB Antes) (PP (IN de_) (NP (PRP isso)))) (. ,)) (S (NP (NP (NNS Tim) (NNS Burton))) (VP (VB ataca) (PP (IN com) (NP (DT o) (NP (NP (WP$ seu) (WP$ próprio)) (NP (NNS surrealismo) (JJ bizarro)))))))) (. :))
+(S (S (ADVP (ADVP (RB Antes) (PP (IN de_) (NP (PRP isso)))) (. ,)) (S (NP (NP (NNS Tim) (NNS Burton))) (VP (VB ataca) (PP (IN com) (NP (DT o) (NP (NP (PRP$ seu) (PRP$ próprio)) (NP (NNS surrealismo) (JJ bizarro)))))))) (. :))

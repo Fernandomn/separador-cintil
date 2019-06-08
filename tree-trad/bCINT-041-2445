@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS Rádio) (NNS de) (NNS Israel))) (VP (VP (VB iniciou) (NP (DT o) (NP (WP$ seu) (NNS noticiário)))) (S (VB dizendo)))) (. :))
+(S (S (NP (DT A) (NP (NNS Rádio) (NNS de) (NNS Israel))) (VP (VP (VB iniciou) (NP (DT o) (NP (PRP$ seu) (NNS noticiário)))) (S (VB dizendo)))) (. :))

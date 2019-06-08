@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Dão) (NP (DT um) (NNS nome))) (PP (IN a_) (NP (DT o) (NP (WP$ vosso) (NNS som)))))) (. ?))
+(S (S (VP (VP (VB Dão) (NP (DT um) (NNS nome))) (PP (IN a_) (NP (DT o) (NP (PRP$ vosso) (NNS som)))))) (. ?))

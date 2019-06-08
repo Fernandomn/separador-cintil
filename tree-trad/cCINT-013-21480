@@ -1,1 +1,1 @@
-(CP (SBAR (ADVP (RB Não) (. ,)) (S (VP (RB ainda) (VP (RB não) (VB adormeceu))))) (. .))
+(SBAR (SBAR (ADVP (RB Não) (. ,)) (S (VP (RB ainda) (VP (RB não) (VB adormeceu))))) (. .))

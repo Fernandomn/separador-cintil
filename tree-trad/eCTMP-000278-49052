@@ -1,1 +1,1 @@
-(CP (SBAR (ADVP (RB Ora) (. ,)) (S (NP (DT a) (NNS fé)) (VP (RB jamais) (VP (VB poderá) (VP (VB ser) (NP (DT um) (NNS país))))))) (. .))
+(SBAR (SBAR (ADVP (RB Ora) (. ,)) (S (NP (DT a) (NNS fé)) (VP (RB jamais) (VP (VB poderá) (VP (VB ser) (NP (DT um) (NNS país))))))) (. .))

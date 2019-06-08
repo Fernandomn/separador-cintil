@@ -1,1 +1,1 @@
-(CP (SBAR (ADVP (RB Ora) (. ,)) (S (S (NP (PRP isso)) (S (RB já) (S (NP (PRP nós)) (VP (VP (VB temos) (PP (IN em_) (NP (DT a) (NP (WP$ nossa) (NNS zona))))))))) (S (CC e) (S (VP (VP (RB não) (VB foi)) (JJ preciso)) (NP (DT um) (NNS parque)))))) (. .))
+(SBAR (SBAR (ADVP (RB Ora) (. ,)) (S (S (NP (PRP isso)) (S (RB já) (S (NP (PRP nós)) (VP (VP (VB temos) (PP (IN em_) (NP (DT a) (NP (PRP$ nossa) (NNS zona))))))))) (S (CC e) (S (VP (VP (RB não) (VB foi)) (JJ preciso)) (NP (DT um) (NNS parque)))))) (. .))

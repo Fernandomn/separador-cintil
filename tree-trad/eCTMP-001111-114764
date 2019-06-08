@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Traz) (NP (JJ tudo))) (PP (IN em_) (NP (DT uma) (NP (NNS caixa) (SBAR (NP (PRP que)) (S (VP (VB constitui) (NP (DT a) (NP (WP$ sua) (NP (JJ única) (NNS bagagem)))))))))))) (. .))
+(S (S (VP (VP (VB Traz) (NP (JJ tudo))) (PP (IN em_) (NP (DT uma) (NP (NNS caixa) (SBAR (NP (PRP que)) (S (VP (VB constitui) (NP (DT a) (NP (PRP$ sua) (NP (JJ única) (NNS bagagem)))))))))))) (. .))

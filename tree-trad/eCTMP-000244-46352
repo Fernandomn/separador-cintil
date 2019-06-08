@@ -1,1 +1,1 @@
-(S (S (S (S (S (VP (VP (RB Não) (VB quer)) (VP (VB dizer) (SBAR (IN que) (S (VP (VB seja) (NP (JJ todos) (NP (DT os) (NNS dias))))))))) (. ,)) (S (CC mas) (S (NP (PRP essa) (NNS decisão)) (VP (VB deve) (VP (VB ser) (NP (WP$ nossa))))))) (. ')) (. .))
+(S (S (S (S (S (VP (VP (RB Não) (VB quer)) (VP (VB dizer) (SBAR (IN que) (S (VP (VB seja) (NP (JJ todos) (NP (DT os) (NNS dias))))))))) (. ,)) (S (CC mas) (S (NP (PRP essa) (NNS decisão)) (VP (VB deve) (VP (VB ser) (NP (PRP$ nossa))))))) (. ')) (. .))

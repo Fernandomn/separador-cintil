@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (WP$ nossa) (NNS posição))) (VP (VP (VP (RB não) (VB é)) (NP (DT a) (NP (JJ mesma) (NP (PP (IN de) (NP (DT outros) (NNS países))))))) (NP (. ,) (NP (CC porque) (S (NP (PRP nós)) (VP (VB somos) (NP (DT uma) (NP (NNS nação) (JJ diferente))))))))) (. .))
+(S (S (NP (DT A) (NP (PRP$ nossa) (NNS posição))) (VP (VP (VP (RB não) (VB é)) (NP (DT a) (NP (JJ mesma) (NP (PP (IN de) (NP (DT outros) (NNS países))))))) (NP (. ,) (NP (CC porque) (S (NP (PRP nós)) (VP (VB somos) (NP (DT uma) (NP (NNS nação) (JJ diferente))))))))) (. .))

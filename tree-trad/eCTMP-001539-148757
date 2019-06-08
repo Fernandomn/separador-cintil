@@ -1,1 +1,1 @@
-(S (S (PP (IN em_) (NP (PRP este) (NNS momento))) (S (PP (. ,) (PP (IN em_) (NP (DT a) (NP (WP$ minha) (NNS opinião)))) (. ,)) (S (NP (PRP ele)) (VP (VP (VB é) (RB já)) (NP (DT uma) (NP (NNS figura) (JJ nacional))))))) (. .))
+(S (S (PP (IN em_) (NP (PRP este) (NNS momento))) (S (PP (. ,) (PP (IN em_) (NP (DT a) (NP (PRP$ minha) (NNS opinião)))) (. ,)) (S (NP (PRP ele)) (VP (VP (VB é) (RB já)) (NP (DT uma) (NP (NNS figura) (JJ nacional))))))) (. .))

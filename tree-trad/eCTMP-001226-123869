@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Disseram) (NP (PRP -me))) (SBAR (IN que) (S (NP (DT a) (NP (WP$ minha) (NNS filha))) (VP (VB tinha) (NP (NNS sida))))))) (. .))
+(S (S (VP (VP (VB Disseram) (NP (PRP -me))) (SBAR (IN que) (S (NP (DT a) (NP (PRP$ minha) (NNS filha))) (VP (VB tinha) (NP (NNS sida))))))) (. .))

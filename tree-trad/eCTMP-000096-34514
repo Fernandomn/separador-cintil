@@ -1,1 +1,1 @@
-(S (NP (NNS Défice)) (VP (VB diminui) (PP (IN para) (NP (NP (CD 2,2) (NP (SYM por) (SYM cento)))))))
+(S (NP (NNS Défice)) (VP (VB diminui) (PP (IN para) (NP (NP (CD 2,2) (NP (NN por) (NN cento)))))))

@@ -1,1 +1,1 @@
-(S (. ') (S (NP (DT O) (NP (WP$ meu) (NNS nome))) (VP (VB é) (NP (NP (NNS Júlio) (NNS Dantas.))))) (. '))
+(S (. ') (S (NP (DT O) (NP (PRP$ meu) (NNS nome))) (VP (VB é) (NP (NP (NNS Júlio) (NNS Dantas.))))) (. '))

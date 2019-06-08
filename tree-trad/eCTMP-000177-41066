@@ -1,1 +1,1 @@
-(S (S (NP (NNS Lucas)) (VP (VP (VB sorri) (RB sempre)) (PP (. ,) (PP (PP (IN debaixo) (IN de_)) (NP (DT o) (NP (WP$ seu) (NP (NNS boné) (JJ branco)))))))) (. .))
+(S (S (NP (NNS Lucas)) (VP (VP (VB sorri) (RB sempre)) (PP (. ,) (PP (PP (IN debaixo) (IN de_)) (NP (DT o) (NP (PRP$ seu) (NP (NNS boné) (JJ branco)))))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (VP (RB Inclusivamente) (VP (VB tinha) (NP (DT um) (NP (NP (NNS tio) (WP$ meu)) (SBAR (SBAR (NP (PRP que)) (S (VP (VB era) (NP (NP (NNS padre) (JJ jesuíta)))))) (SBAR (CC e) (SBAR (NP (PRP que)) (S (NP (PRP eu)) (VP (VB admirava))))))))))) (. .))
+(S (S (VP (RB Inclusivamente) (VP (VB tinha) (NP (DT um) (NP (NP (NNS tio) (PRP$ meu)) (SBAR (SBAR (NP (PRP que)) (S (VP (VB era) (NP (NP (NNS padre) (JJ jesuíta)))))) (SBAR (CC e) (SBAR (NP (PRP que)) (S (NP (PRP eu)) (VP (VB admirava))))))))))) (. .))

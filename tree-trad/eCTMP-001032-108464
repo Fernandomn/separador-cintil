@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (WP$ sua) (NNS pesca))) (VP (ADVP (. ,) (ADVP (RB ainda) (RB por) (RB cima)) (. ,)) (VP (VP (RB não) (VB é)) (JJ difícil)))) (. .))
+(S (S (NP (DT A) (NP (PRP$ sua) (NNS pesca))) (VP (ADVP (. ,) (ADVP (RB ainda) (RB por) (RB cima)) (. ,)) (VP (VP (RB não) (VB é)) (JJ difícil)))) (. .))

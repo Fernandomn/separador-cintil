@@ -1,1 +1,1 @@
-(S (S (S (S (VP (RB Não) (VP (NP (PRP se)) (VB construiu))) (NP (DT um) (NP (NNS mundo) (JJ diferente)))) (PP (IN para) (NP (ADJP (JJ cada) (JJ um)) (NP (PP (IN de_) (NP (DT os) (NP (WP$ seus) (NNS temas)))))))) (PP (. ,) (PP (IN em) (NP (NNS estúdio))))) (. .))
+(S (S (S (S (VP (RB Não) (VP (NP (PRP se)) (VB construiu))) (NP (DT um) (NP (NNS mundo) (JJ diferente)))) (PP (IN para) (NP (ADJP (JJ cada) (JJ um)) (NP (PP (IN de_) (NP (DT os) (NP (PRP$ seus) (NNS temas)))))))) (PP (. ,) (PP (IN em) (NP (NNS estúdio))))) (. .))

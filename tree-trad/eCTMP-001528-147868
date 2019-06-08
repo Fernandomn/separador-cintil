@@ -1,1 +1,1 @@
-(S (S (VP (VB Mudaram) (PP (IN de) (NP (NNS mãos)))) (NP (NP (CD 27,8) (NP (NP (SYM por) (SYM cento)) (PP (IN de_) (NP (DT a) (NNS empresa))))))) (. .))
+(S (S (VP (VB Mudaram) (PP (IN de) (NP (NNS mãos)))) (NP (NP (CD 27,8) (NP (NP (NN por) (NN cento)) (PP (IN de_) (NP (DT a) (NNS empresa))))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Louise) (NNS de_) (NNS a) (NNS Cunha) (NNS Teles))) (VP (PP (. ,) (PP (IN por) (NP (WP$ seu) (NNS lado))) (. ,)) (VP (VB é) (ADJP (RB menos) (JJ optimista))))) (. .))
+(S (S (NP (NP (NNS Louise) (NNS de_) (NNS a) (NNS Cunha) (NNS Teles))) (VP (PP (. ,) (PP (IN por) (NP (PRP$ seu) (NNS lado))) (. ,)) (VP (VB é) (ADJP (RB menos) (JJ optimista))))) (. .))
