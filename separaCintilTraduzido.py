@@ -1,6 +1,9 @@
 import xml.etree.ElementTree as ET
 
+# TODO: Pegar correções da tabela no drive, e criar scripts necessários
+
 # Referencia:
+# http://amyrey.web.unc.edu/classes/ling-101-online/tutorials/how-to-draw-syntax-trees/
 # http://cintil.ul.pt/pt/cintilwhatsin.html#breakdown
 # https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 # https://www.sketchengine.eu/penn-treebank-tagset/
@@ -29,11 +32,10 @@ def tradutor(tag):
             "ADV'": "ADVP",  # Sintagma Adverbial
             "CARD": "CD",  # Cardinais
             "CARD'": "NP",  # Sintagmas Cardinais
-            "C": "IN",  # Complemento (TODO) v
-            "CP": "SBAR",  # Sintagma Complemental (TODO) v
-            "C'": "SBAR",  # Sintagma Complemental (TODO) v
+            "C": "IN",  # Complemento (TODO) objeto
+            "CP": "SBAR",  # Sintagma Objetal (TODO) v
+            "C'": "SBAR",  # Sintagma Objetal (TODO) v
             "CJ": "CC",  # Conjunções [explicar]
-            # referencia: http://amyrey.web.unc.edu/classes/ling-101-online/tutorials/how-to-draw-syntax-trees/
             "CONJ": "CC",  # Conjunções
             "CONJ'": "NP",  # sintagma Conjuntivo (TODO)
             "CONJP": "NP",  # sintagma Conjuntivo (TODO)
@@ -73,7 +75,7 @@ def tradutor(tag):
             "PADR": "NN",  # Parte de Endereço
             "PNM": "NP",  # Parte de Nome (TODO) v
             "PNT": ".",  # Pontuação
-            "POSS": "PRP$",  # Possessivos v
+            "POSS": "PP$",  # Possessivos v
             # Possessivos (TODO) nota: não existe um sintagma pronominal. o jeito é manter o NP msm
             "POSS'": "NP",
             "POSSP": "NP",  # Possessivos (TODO) nota: não ocorre
@@ -92,7 +94,7 @@ def tradutor(tag):
             "PERCENTP": "NP",
             "PREP": "IN",  # Preposições
             "PRS": "PRP",  # Pronomes Pessoais
-            "QNT": "JJ",  # Quantificadores
+            "QNT": "PRP",  # Quantificadores
             "D1": "DT",  # Quantificadores
             "D2": "JJ",  # Quantificadores
             "QNT'": "ADJP",  # Quantificadores
