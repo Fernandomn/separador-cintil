@@ -1,0 +1,79 @@
+Tag Original (Português) & Nome da Tag & Tag Convertida & Observações\\
+A & Adjetivo & JJ & \\
+A' & Sintagma Adjetival & ADJP & \\
+ADJ & Adjetivos & JJ & \\
+ADV & Advérbios & RB & \\
+ADV' & Sintagma Adverbial & ADVP & \\
+ADVP & Sintagma Adverbial & ADVP & \\
+AP & Sintagma Adjetival & ADJP & \\
+ART & Artigo & DT & \\
+ART' & Artigo & NP & "Não existe um Sintagma específico para artigos. Mas artigos sempre estão relacionados a Substantivos, por isso a escolha"\\
+C & Complementador & ? & \\
+C' & Sintagma Complemental & ? & \\
+CARD & Cardinais & CD & \\
+CARD' & Sintagmas Cardinais & NP & "Não existe um Sintagma específico para números. Porém, eles vão ter valor de substantivo ou de adjetivo"\\
+CJ & Conjunções & CC & "Na prática, essa tag nunca ocorre"\\
+CL & Clíticos & PRP & "Em mais de 20% de ocorrências, Clíticos aparecem SOMENTE como pronomes."\\
+CN & Nomes comuns & NNS & \\
+CONJ & Conjunções & CC & precisa ser revisto. o artigo do PTB diz que pode-se substituir conjunções subordinadas por IN. mas ainda falta as coordenadas.\\
+CONJ' & sintagma Conjuntivo & NP & precisa ser revisto. \\
+CONJP & sintagma Conjuntivo & NP & precisa ser revisto. \\
+CP & Sintagma Complemental & SBAR & rever\\
+D & Artigo & DT & \\
+D1 & Quantificadores & DT & "Único caso em que essa tag aparece, D1 se comporta como Artigo"\\
+D2 & Quantificadores & JJ & "único caso em que essa tag aparece, D2 se comporta como Adjetivo"\\
+DA & Artigos Definidos & DT & "Apesar de ambas linguas diferenciarem artigos Definidos de Indefinidos, o PTB considera apenas uma tag para os dois"\\
+DEM & Demonstrativos & PRP & \\
+DFR & Denominadores de Fracções & CD & Não aparece em nenhum caso.\\
+DGT & Numerais Árabes & CD & Não aparece em nenhum caso.\\
+DGTR & Numerais Romanos & CD & Não aparece em nenhum caso.\\
+DM & Marcadores Discursivos & UH & Não aparece em nenhum caso.\\
+EADR & Endereços Electrónicos & NN & Não aparece em nenhum caso.\\
+EOE & Fim de Enumeração & IN & Não aparece em nenhum caso.\\
+EXC & Exclamação & UH & Não aparece em nenhum caso.\\
+GER & Gerúndios & VBG & Não aparece em nenhum caso.\\
+GERAUX & Gerúndio ter/haver em tempos compostos & VBG & Não aparece em nenhum caso.\\
+IA & Artigos Indefinidos & DT & Ver DA\\
+IND & Indefinidos & PRP & "Pronomes indefinidos (tudo, alguém, ninguém...)"\\
+INF & Infinitivo & VB & \\
+INFAUX & Infinitivo ter/haver em tempos compostos & VB & PTB não possui separações desse tipo\\
+INT & Interrogativos & WP & Equivale às wh-questions \\
+ITJ & Interjeições & UH & \\
+ITJ' & Sintagma de Interjeição & INTJ & "Pelo manual de ""bracketing"" do PTB, ""INTJ | Interjection. Corresponds approximately to the part-of-speech tag UH (see the POS guidelines [Santorini 1990])."""\\
+LTR & Letras & NN & \\
+MGT & Unidade de Medida & NN & \\
+MTH & Meses & NNP & São nomes próprios\\
+N & Substantivo & NNS & \\
+N' & Sintagmas Nominais & NP & \\
+NP & Sintagmas Nominais & NP & \\
+ORD & Ordinais & CD & \\
+P & Preposição & IN & \\
+P' & Sintagmas Preposicionais & PP & \\
+PADR & Parte de Endereço & NN & \\
+PERCENT & simbolo percentual nota & NN & Nota 1: pode ser pronome + substantivo tbm ('por cento'). Nota 2: PTB considera o % como NN (single noum)\\
+PERCENT' & Sintagma percentual (TODO) nota & NP & Nota 1: guia oficial diz 'LDFR1…LDFRn'. Nota 2: PTB considera como NP\\
+PERCENTP & Sintagma percentual (TODO) nota & NP & \\
+PNM & Parte de Nome (TODO) v & NP & \\
+PNT & Pontuação & ? & FAZER SCRIPT\\
+POSS & Possessivos & PP\$ & \\
+POSS' & Possessivos & NP & Não existe um sintagma pronominal. Mantivemos como NP\\
+POSSP & Possessivos & NP & Não aparece em nenhum caso.\\
+PP & Sintagmas Preposicionais & PP & \\
+PPA & Particípios passados que não formam tempos compostos & VBN & \\
+PPT & Particípios passados em tempos compostos & VBN & \\
+PREP & Preposições & IN & \\
+PRS & Pronomes Pessoais & PRP & \\
+QNT & Quantificadores & PRP & "De acordo com Castilho (Nova Gramática do Português Brasileiro, 2010), ""Os pronomes abrigam as seguintes subclasses [...]: pessoais, demonstrativos, possessivos e quantificadores [...]"""\\
+QNT' & Sintagma de Quantificadores & ADJP & "De acordo com Castilho (Nova Gramática do Português Brasileiro, 2010), ""O artigo, os demonstrativos, os possessivos, os quantificadores e alguns adjetivos compõem os especificadores do sintagma nominal"""\\
+REL & Relativos & PRP & Pronomes relativos\\
+S & Sentença & S & \\
+STT & Títulos Sociais & NN & \\
+SYB & Símbolos & SYM & \\
+TERMN & Terminações Opcionais & SYM & Não aparece em nenhum caso.\\
+UM & um ou uma & CD & Não aparece em nenhum caso.\\
+UNIT & Unidade de Medida Abreviada & NN & \\
+V & Verbos  & VB & \\
+V' & Sintagma Verbal & VP & "(que não são PPA, PPT, INF ou GER)"\\
+VAUX & Formas Finitas de ter ou haver em tempos compostos & VB & \\
+VP & Sintagma Verbal & VP & \\
+WD & Dias da Semana & NNP & Nome próprio\\
