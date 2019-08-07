@@ -13,6 +13,10 @@ import xml.etree.ElementTree as ET
 # https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/determinantes-quantificadores-e-pronomes/29575
 # https://pt.pons.com
 
+# https://nlp.stanford.edu/software/parser-faq.html#headfinder
+# Why do I get the exception "null head found for tree" after training my own parser model?
+# The default HeadFinder is written specifically for the PTB. If you train a parser on trees that use a different set of productions, the default HeadFinder will not know how to handle this and will throw this exception. The easiest way to get around this problem is to use LeftHeadFinder instead. You can also get a slight performance increase by writing a custom HeadFinder for your treebank and using that instead.
+
 arvore = ET.parse('CINTIL-Treebank.xml')
 raiz = arvore.getroot()
 
