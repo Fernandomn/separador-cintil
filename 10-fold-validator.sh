@@ -20,7 +20,8 @@ jarFile="stanford-parser.jar"
 # jarFile="$HOME/projeto-final-parsers/stanford-parser-full-2017-06-09/stanford-parser.jar"
 memAmmout="-mx4g"
 nameParser="edu.stanford.nlp.parser.lexparser.LexicalizedParser"
-serializedGrammarFilename="$HOME/projeto-final-parsers/serialized-files/serialCINTIL"
+serializedGrammarFilename="$HOME/projeto-final-parsers/serialized-files/serialGrammarCINTIL"
+textGrammarFilename="$HOME/projeto-final-parsers/serialized-files/textGrammarCINTIL"
 outputFormat='wordsAndTags,penn,typedDependencies'
 mkdir -p $HOME/projeto-final-parsers/outputs/treinoCINTIL/treino
 outputFilesDirectory="$HOME/projeto-final-parsers/outputs/treinoCINTIL/treino"
@@ -40,17 +41,18 @@ while (("$count" < "$qntFolds")); do
 
   trainingCmd="java -cp $jarFile $memAmmout $nameParser 
   -train $trainFilesPath
-  -test  $testFilePath
+  -test $testFilePath
   -saveToSerializedFile $serializedGrammarFilename
+  -saveToTextFile $textGrammarFilename
   -writeOutputFiles
   -outputFormat $outputFormat
   -outputFormatOptions $outputFormatOptions
-  -nthreads $nthreads
   -outputFilesDirectory $outputFilesDirectory
   "
+  # -nthreads $nthreads
   # > $resultFile
 
-  echo $trainingCmd
+  # echo $trainingCmd
   $trainingCmd | tee $resultFile
 
   count=$(($count + 1))

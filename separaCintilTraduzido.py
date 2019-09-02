@@ -53,7 +53,7 @@ def tradutor(tag):
             "ART'": "NP",
                             # o artigo 'Primeiros passos na aquisição da sintaxe:' chama NP de DT. talvez ajude.
                             # mas acho que é melhor corrigir essa árvore.
-            "DEM": "PRP",  # Demonstrativos
+            "DEM": "DT",  # Demonstrativos -> Para o PTB, this, that, these, those são, também, artigos. logo, DEM -> DT.
             "DFR": "CD",  # Denominadores de Fracções
             "DGTR": "CD",  # Numerais Romanos
             "DGT": "CD",  # Numerais Árabes
