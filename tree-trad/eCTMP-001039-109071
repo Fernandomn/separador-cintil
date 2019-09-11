@@ -1,1 +1,1 @@
-(S (S (S (VP (VP (VB É) (RB só)) (NP (PRP isso) (NP (SBAR (NP (PRP que)) (S (VB interessa))))))) (. .)) (. '))
+(S (S (S (VP (VP (VB É) (RB só)) (NP (DT isso) (NP (SBAR (NP (PRP que)) (S (VB interessa))))))) (. .)) (. '))

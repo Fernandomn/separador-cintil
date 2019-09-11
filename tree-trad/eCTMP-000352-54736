@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (PRP$ sua) (NNS missão))) (VP (VP (VB foi) (VB interrompida)) (PP (IN a_) (NP (DT o) (NP (NNS fim) (PP (IN de) (NP (NP (CD dois) (NNS anos)) (NP (CC e) (NP (JJ alguns) (NNS meses)))))))))) (. .))
+(S (S (NP (DT A) (NP (PP$ sua) (NNS missão))) (VP (VP (VB foi) (VB interrompida)) (PP (IN a_) (NP (DT o) (NP (NNS fim) (PP (IN de) (NP (NP (CD dois) (NNS anos)) (NP (CONJ e) (NP (PRP alguns) (NNS meses)))))))))) .))

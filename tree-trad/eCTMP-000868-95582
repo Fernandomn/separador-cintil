@@ -1,1 +1,1 @@
-(S (NP (NP (NP (DT A) (NNS voz)) (NP (CC e) (NP (DT a) (NNS vez)))) (PP (IN de) (NP (NNS África)))))
+(S (NP (NP (NP (DT A) (NNS voz)) (NP (CONJ e) (NP (DT a) (NNS vez)))) (PP (IN de) (NP (NNS África)))))

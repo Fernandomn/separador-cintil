@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (NP (PRP essa))) (NP (DT a) (NP (PRP$ sua) (NNS vontade)))) (. ?))
+(S (S (VP (VB É) (NP (DT essa))) (NP (DT a) (NP (PP$ sua) (NNS vontade)))) ?))

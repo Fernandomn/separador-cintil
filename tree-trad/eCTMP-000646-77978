@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (NP (CC Quando) (S (NP (NNS Sines)) (VB espirra))) (. ,)) (S (NP (NP (NNS Santo) (NNS André))) (VP (VB tem) (NP (DT uma) (NNS pneumonia))))) (. .)) (. '))
+(S (. ') (S (S (CONJP (CONJP (CONJ Quando) (S (NP (NNS Sines)) (VB espirra))) (. ,)) (S (NP (NP (NNS Santo) (NNS André))) (VP (VB tem) (NP (DT uma) (NNS pneumonia))))) (. .)) (. '))

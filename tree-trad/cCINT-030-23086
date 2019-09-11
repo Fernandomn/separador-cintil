@@ -1,1 +1,1 @@
-(S (S (NP (PRP Isso)) (VP (RB nem) (VP (VB é) (ADJP (JJ próprio) (PP (IN de) (NP (DT uma) (NNS rapariga))))))) (. ...))
+(S (S (NP (DT Isso)) (VP (RB nem) (VP (VB é) (ADJP (JJ próprio) (PP (IN de) (NP (DT uma) (NNS rapariga))))))) .))

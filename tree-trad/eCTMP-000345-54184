@@ -1,1 +1,1 @@
-(S (NP (NP (DT Uma) (NNS poesia)) (NP (CC e) (NP (CD dois) (NNS poetas)))))
+(S (NP (NP (DT Uma) (NNS poesia)) (NP (CONJ e) (NP (CD dois) (NNS poetas)))))

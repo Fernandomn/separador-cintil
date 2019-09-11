@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Joaquim) (NNS Trigo) (NNS de) (NNS Negreiros))) (NP (CC e) (NP (NP (NNS António) (NNS Mesquita) (NNS *))))))
+(S (NP (NP (NP (NNS Joaquim) (NNS Trigo) (NNS de) (NNS Negreiros))) (NP (CONJ e) (NP (NP (NNS António) (NNS Mesquita) (NNS *))))))

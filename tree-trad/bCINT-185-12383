@@ -1,1 +1,1 @@
-(S (. ") (S (S (VP (VP (VP (RB Não) (VB faço)) (NP (DT a) (NNS região))) (PP (IN a_) (NP (DT a) (NP (PRP$ minha) (NNS medida)))))) (. .)) (. "))
+(S ") (S (S (VP (VP (VP (RB Não) (VB faço)) (NP (DT a) (NNS região))) (PP (IN a_) (NP (DT a) (NP (PP$ minha) (NNS medida)))))) .)) "))

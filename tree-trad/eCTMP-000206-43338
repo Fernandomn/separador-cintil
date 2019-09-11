@@ -1,1 +1,1 @@
-(S (. ') (S (VP (NP (NP (CC Quando) (S (NP (DT os) (NP (NNS rendimentos) (PP (IN de_) (NP (DT as) (NNS pessoas))))) (VP (VB são) (JJ altos)))) (. ,)) (VP (VB há) (NP (NP (NNS possibilidades) (PP (IN para) (NP (DT a) (NP (NNS agricultura) (JJ biológica)))))))) (. .)))
+(S ') (S (VP (CONJP (CONJP (CONJ Quando) (S (NP (DT os) (NP (NNS rendimentos) (PP (IN de_) (NP (DT as) (NNS pessoas))))) (VP (VB são) (JJ altos)))) ,)) (VP (VB há) (NP (NP (NNS possibilidades) (PP (IN para) (NP (DT a) (NP (NNS agricultura) (JJ biológica)))))))) .)))

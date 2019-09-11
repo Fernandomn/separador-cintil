@@ -1,1 +1,1 @@
-(S (S (SBAR (S (. ') (S (ADVP (RB Agora) (. ,)) (S (NP (JJ tudo)) (VP (VB será) (JJ diferente)))) (. ')) (. ,)) (S (VP (VB adiantou)))) (. .))
+(S (S (SBAR (S ') (S (ADVP (RB Agora) ,)) (S (NP (PRP tudo)) (VP (VB será) (JJ diferente)))) ')) ,)) (S (VP (VB adiantou)))) .))

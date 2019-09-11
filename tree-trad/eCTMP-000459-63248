@@ -1,1 +1,1 @@
-(S (S (PP (IN a_) (NP (DT o) (NP (NNS lado) (PP (IN de_) (NP (PRP esses) (NNS gabinetes)))))) (S (VP (VB estão)) (NP (CD duas) (NNS salas)))) (. .))
+(S (S (PP (IN a_) (NP (DT o) (NP (NNS lado) (PP (IN de_) (NP (DT esses) (NNS gabinetes)))))) (S (VP (VB estão)) (NP (CD duas) (NNS salas)))) .))

@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Berta) (NNS Rodrigues))) (NP (CC e) (NP (NP (NNS José) (NNS Bento) (NNS Amaro))))))
+(S (NP (NP (NP (NNS Berta) (NNS Rodrigues))) (NP (CONJ e) (NP (NP (NNS José) (NNS Bento) (NNS Amaro))))))

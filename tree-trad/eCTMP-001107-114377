@@ -1,1 +1,1 @@
-(S (S (NP (JJ Todos) (NP (DT os) (NP (NNS brancos) (SBAR (NP (PRP que)) (S (VP (VB estiveram) (PP (IN em_) (NP (DT o) (NNS governo))))))))) (VP (VB saíram) (PP (IN por) (NP (NP (NNS vontade) (PRP$ própria)))))) (. .))
+(S (S (NP (PRP Todos) (NP (DT os) (NP (NNS brancos) (SBAR (NP (PRP que)) (S (VP (VB estiveram) (PP (IN em_) (NP (DT o) (NNS governo))))))))) (VP (VB saíram) (PP (IN por) (NP (NP (NNS vontade) (PP$ própria)))))) (. .))

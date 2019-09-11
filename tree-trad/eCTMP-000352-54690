@@ -1,1 +1,1 @@
-(S (. ') (NP (NP (NP (JJ Muita) (NNS parra)) (NP (CC e) (NP (JJ pouca) (NNS uva)))) (. .)) (. '))
+(S ') (NP (NP (NP (PRP Muita) (NNS parra)) (NP (CONJ e) (NP (PRP pouca) (NNS uva)))) .)) '))

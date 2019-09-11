@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NNS anandamida)) (VP (ADVP (. ,) (RB porém) (. ,)) (VP (VB vai) (VP (VB obrigar) (PP (IN a) (VP (VB refazer) (NP (JJ alguns) (NNS estudos)))))))) (. .))
+(S (S (NP (DT A) (NNS anandamida)) (VP (ADVP (. ,) (RB porém) (. ,)) (VP (VB vai) (VP (VB obrigar) (PP (IN a) (VP (VB refazer) (NP (PRP alguns) (NNS estudos)))))))) (. .))

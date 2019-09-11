@@ -1,1 +1,1 @@
-(S (S (VP (NP (NP (CC Se) (S (NP (PRP ele)) (VP (VP (RB não) (VB pedia)) (NP (NNS ajuda))))) (. ,)) (VP (VP (RB não) (VB queria)) (SBAR (IN que) (S (VP (NP (PRP o)) (VB ajudassem))))))) (. .))
+(S (S (VP (CONJP (CONJP (CONJ Se) (S (NP (PRP ele)) (VP (VP (RB não) (VB pedia)) (NP (NNS ajuda))))) (. ,)) (VP (VP (RB não) (VB queria)) (SBAR (IN que) (S (VP (NP (PRP o)) (VB ajudassem))))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (NP (DT o) (NNS Manuel)) (VP (VB mora) (ADVP (ADVP (ADVP (ADVP (ADVP (RB muito) (. ,)) (RB muito)) (RB mais)) (RB perto)) (NP (NP (CC de_) (CC o) (CC que)) (NP (DT A) (NNS Maria)))))) (. .))
+(S (S (NP (DT o) (NNS Manuel)) (VP (VB mora) (ADVP (ADVP (ADVP (ADVP (ADVP (RB muito) ,) (RB muito)) (RB mais)) (RB perto)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT A) (NNS Maria)))))) .)

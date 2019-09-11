@@ -1,1 +1,1 @@
-(S (S (S (NP (DT Os) (NNS militantes)) (VP (VB escolheram) (NP (DT um) (NP (PP (IN de_) (NP (PRP essas) (NNS listas))))))) (. ')) (. .))
+(S (S (S (NP (DT Os) (NNS militantes)) (VP (VB escolheram) (NP (DT um) (NP (PP (IN de_) (NP (DT essas) (NNS listas))))))) (. ')) (. .))

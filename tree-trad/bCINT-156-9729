@@ -1,1 +1,1 @@
-(S (. ") (S (S (S (VP (VB Houve) (NP (NP (NNS jogadores) (ADJP (JJ melhores) (NP (CC que) (NP (DT outros))))))) (. ,)) (S (CC mas) (S (NP (PRP isso)) (VP (VB acontece) (PP (IN com) (NP (JJ todas) (NP (DT as) (NNS equipas)))))))) (. .)))
+(S ") (S (S (S (VP (VB Houve) (NP (NP (NNS jogadores) (ADJP (JJ melhores) (CONJP (CONJ que) (NP (DT outros))))))) ,)) (S (CONJ mas) (S (NP (DT isso)) (VP (VB acontece) (PP (IN com) (NP (PRP todas) (NP (DT as) (NNS equipas)))))))) .)))

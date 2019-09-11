@@ -1,1 +1,1 @@
-(S (S (NP (PRP Isso)) (S (NP (PRP eu)) (VP (VP (VP (VB consegui) (PP (IN em) (NP (NNS Portugal)))) (PP (IN em) (NP (CD dois) (NNS meses))))))) (. .))
+(S (S (NP (DT Isso)) (S (NP (PRP eu)) (VP (VP (VP (VB consegui) (PP (IN em) (NP (NNS Portugal)))) (PP (IN em) (NP (CD dois) (NNS meses))))))) (. .))

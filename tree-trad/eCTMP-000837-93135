@@ -1,1 +1,1 @@
-(S (S (S (ADVP (RB Depois) (. ,)) (S (S (VP (VB controlaram) (NP (DT o) (NNS jogo)))) (S (CC e) (S (VP (VB ganharam) (PP (IN com) (NP (NNS justiça)))))))) (. ')) (. .))
+(S (S (S (ADVP (RB Depois) (. ,)) (S (S (VP (VB controlaram) (NP (DT o) (NNS jogo)))) (S (CONJ e) (S (VP (VB ganharam) (PP (IN com) (NP (NNS justiça)))))))) (. ')) (. .))

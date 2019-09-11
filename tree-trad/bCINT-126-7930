@@ -1,1 +1,1 @@
-(S (. ") (S (S (NP (PRP Isto)) (VP (NP (CC se) (S (VP (VP (RB não) (VB fosse)) (ADJP (RB tão) (JJ grave))))) (VP (VB era) (NP (DT uma) (NNS anedota))))) (. .)))
+(S ") (S (S (NP (DT Isto)) (VP (CONJP (CONJ se) (S (VP (VP (RB não) (VB fosse)) (ADJP (RB tão) (JJ grave))))) (VP (VB era) (NP (DT uma) (NNS anedota))))) .)))

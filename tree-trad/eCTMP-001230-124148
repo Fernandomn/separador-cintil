@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NP (NP (NNS caixotes) (PP (IN de_) (NP (DT o) (NNS lixo)))) (PP (. ,) (PP (IN em_) (NP (PRP esses) (NNS locais))) (. ,)))) (VP (VB foram) (VB selados))) (. .))
+(S (S (NP (DT Os) (NP (NP (NNS caixotes) (PP (IN de_) (NP (DT o) (NNS lixo)))) (PP (. ,) (PP (IN em_) (NP (DT esses) (NNS locais))) (. ,)))) (VP (VB foram) (VB selados))) (. .))

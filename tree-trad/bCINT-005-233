@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em) (NP (JJ todo) (NP (PRP este) (NNS processo)))) (. ,)) (S (NP (DT o) (NP (NNS papel) (PP (IN de_) (NP (DT o) (NNS professor))))) (VP (VP (VB é) (RB igualmente)) (JJ fulcral)))) (. .))
+(S (S (PP (PP (IN Em) (NP (PRP todo) (NP (DT este) (NNS processo)))) ,) (S (NP (DT o) (NP (NNS papel) (PP (IN de_) (NP (DT o) (NNS professor))))) (VP (VP (VB é) (RB igualmente)) (JJ fulcral)))) .)

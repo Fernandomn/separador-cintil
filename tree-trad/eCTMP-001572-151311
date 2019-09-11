@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NNS deputados)) (VP (VP (VB podem) (VP (VB sugeri#) (NP (PRP -lo)))) (PP (PP (PP (IN através) (IN de_)) (NP (DT os) (NP (NNS grupos) (JJ parlamentares)))) (ADVP (CC ou) (RB individualmente))))) (. .))
+(S (S (NP (DT Os) (NNS deputados)) (VP (VP (VB podem) (VP (VB sugeri#) (NP (PRP -lo)))) (PP (PP (PP (IN através) (IN de_)) (NP (DT os) (NP (NNS grupos) (JJ parlamentares)))) (ADVP (CONJ ou) (RB individualmente))))) (. .))

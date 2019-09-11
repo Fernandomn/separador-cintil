@@ -1,1 +1,1 @@
-(S (. ') (S (S (S (VP (VB Somos) (JJ jugoslavos))) (S (CC mas) (S (VP (RB também) (VP (VB somos) (JJ europeus)))))) (. .)))
+(S ') (S (S (S (VP (VB Somos) (JJ jugoslavos))) (S (CONJ mas) (S (VP (RB também) (VP (VB somos) (JJ europeus)))))) .)))

@@ -1,1 +1,1 @@
-(S (. ') (NP (NP (NP (DT A) (NNS privatização)) (NP (CC ou) (NP (DT um) (NP (NNS canal) (PP (IN sem) (NP (JJ qualquer) (NP (NNS motivação) (JJ comercial)))))))) (. .)) (. '))
+(S (. ') (NP (NP (NP (DT A) (NNS privatização)) (NP (CONJ ou) (NP (DT um) (NP (NNS canal) (PP (IN sem) (NP (PRP qualquer) (NP (NNS motivação) (JJ comercial)))))))) (. .)) (. '))

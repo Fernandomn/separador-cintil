@@ -1,1 +1,1 @@
-(S (S (SBAR (S (. ') (S (S (NP (NP (CC Quando) (S (NP (PRP ela)) (VB morde))) (. ,)) (S (NP (DT o) (NNS veneno)) (VP (VB sai) (PP (IN por_) (NP (DT a) (NP (JJ outra) (NNS ponta))))))) (. !)) (. ')) (. ,)) (S (VP (VP (VB concluiu) (RB prontamente))) (NP (DT uma) (NNS miúda)))) (. .))
+(S (S (SBAR (S (. ') (S (S (CONJP (CONJP (CONJ Quando) (S (NP (PRP ela)) (VB morde))) (. ,)) (S (NP (DT o) (NNS veneno)) (VP (VB sai) (PP (IN por_) (NP (DT a) (NP (JJ outra) (NNS ponta))))))) (. !)) (. ')) (. ,)) (S (VP (VP (VB concluiu) (RB prontamente))) (NP (DT uma) (NNS miúda)))) (. .))

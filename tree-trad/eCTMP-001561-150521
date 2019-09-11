@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Matos) (NNS Chaves))) (VP (PP (IN em_) (NP (DT os) (NP (NNS GP) (PP (IN de) (NP (NP (NNS Inglaterra)) (NP (CC e) (NP (NNS Alemanha))))))))))
+(S (NP (NP (NNS Matos) (NNS Chaves))) (VP (PP (IN em_) (NP (DT os) (NP (NNS GP) (PP (IN de) (NP (NP (NNS Inglaterra)) (NP (CONJ e) (NP (NNS Alemanha))))))))))

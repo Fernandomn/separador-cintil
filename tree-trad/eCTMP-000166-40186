@@ -1,1 +1,1 @@
-(S (S (NP (JJ Todas) (NP (PRP estas) (NNS asserções))) (VP (VB são) (JJ falsas))) (. .))
+(S (S (NP (PRP Todas) (NP (DT estas) (NNS asserções))) (VP (VB são) (JJ falsas))) .))

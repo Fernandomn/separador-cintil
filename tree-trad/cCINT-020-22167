@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Há) (NP (NP (NNS centenas) (PP (IN de) (NP (NP (NNS autocarros) (PP (IN para) (NP (DT o) (NNS Rossio))))))))) (. ,)) (S (CC mas) (S (VP (RB nunca) (VP (VB aparecem) (NP (CC quando) (S (VP (VB precisamos) (PP (IN de_) (NP (PRP eles))))))))))) (. .))
+(S (S (S (VP (VB Há) (NP (NP (NNS centenas) (PP (IN de) (NP (NP (NNS autocarros) (PP (IN para) (NP (DT o) (NNS Rossio))))))))) ,)) (S (CONJ mas) (S (VP (RB nunca) (VP (VB aparecem) (CONJP (CONJ quando) (S (VP (VB precisamos) (PP (IN de_) (NP (PRP eles))))))))))) .))

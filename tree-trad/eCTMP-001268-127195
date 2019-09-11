@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NNS concorrência)) (VP (VB é) (ADJP (JJ enorme) (PP (CC e) (PP (IN de) (NP (NP (JJ grande) (NNS qualidade)))))))) (. .))
+(S (S (NP (DT A) (NNS concorrência)) (VP (VB é) (ADJP (JJ enorme) (PP (CONJ e) (PP (IN de) (NP (NP (JJ grande) (NNS qualidade)))))))) (. .))

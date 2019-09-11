@@ -1,1 +1,1 @@
-(S (S (. ') (S (VP (VB Vivemos) (PP (IN em_) (NP (DT um) (NP (NNS país) (JJ pobre)))))) (. ')) (. .))
+(S (S ') (S (VP (VB Vivemos) (PP (IN em_) (NP (DT um) (NP (NNS país) (JJ pobre)))))) ')) .))

@@ -1,1 +1,1 @@
-(S (S (VP (VB Sei) (SBAR (IN que) (S (NP (PRP essa) (NNS conversa)) (VP (VB é) (PP (IN contra) (NP (DT a) (NNS maré)))))))) (. .))
+(S (S (VP (VB Sei) (SBAR (IN que) (S (NP (DT essa) (NNS conversa)) (VP (VB é) (PP (IN contra) (NP (DT a) (NNS maré)))))))) (. .))

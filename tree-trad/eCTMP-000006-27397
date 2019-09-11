@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Hervé) (NNS Guibert))) (VP (VB gostava) (PP (IN de_) (NP (DT os) (NNS cegos))))) (. .))
+(S (S (NP (NP (NNS Hervé) (NNS Guibert))) (VP (VB gostava) (PP (IN de_) (NP (DT os) (NNS cegos))))) .))

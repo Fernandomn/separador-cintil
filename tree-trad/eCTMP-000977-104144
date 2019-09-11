@@ -1,1 +1,1 @@
-(S (S (VP (NP (CC Se) (S (RB assim) (S (VP (VP (RB não) (VB for)))))) (VP (VB bisarão) (NP (DT o) (NNS título))))) (. .))
+(S (S (VP (CONJP (CONJ Se) (S (RB assim) (S (VP (VP (RB não) (VB for)))))) (VP (VB bisarão) (NP (DT o) (NNS título))))) (. .))

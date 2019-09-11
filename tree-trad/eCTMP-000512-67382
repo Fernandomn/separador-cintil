@@ -1,1 +1,1 @@
-(S (S (VP (RB Já) (VP (VP (VB era) (RB assim)) (NP (S (VP (VB há) (NP (CD dez) (NNS anos)))))))) (. .))
+(S (S (VP (RB Já) (VP (VP (VB era) (RB assim)) (CONJP (S (VP (VB há) (NP (CD dez) (NNS anos)))))))) .))

@@ -1,1 +1,1 @@
-(S (S (S (NP (DT A) (NNS funcionária)) (VP (VB apresentou) (NP (NNS queixa)))) (S (CC e) (S (NP (NP (NNS Anthony) (NNS Brewer))) (VP (VB foi) (VB multado))))) (. .))
+(S (S (S (NP (DT A) (NNS funcionária)) (VP (VB apresentou) (NP (NNS queixa)))) (S (CONJ e) (S (NP (NP (NNS Anthony) (NNS Brewer))) (VP (VB foi) (VB multado))))) (. .))

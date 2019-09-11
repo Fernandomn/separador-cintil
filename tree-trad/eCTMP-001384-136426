@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (PP (IN Apesar) (IN de)) (NP (JJ tudo))) (. ,)) (VP (VP (RB não) (VB teve)) (NP (JJ qualquer) (NP (NNS influência) (PP (IN em_) (NP (DT o) (NNS resultado)))))))) (. .))
+(S (S (VP (PP (PP (PP (IN Apesar) (IN de)) (NP (PRP tudo))) (. ,)) (VP (VP (RB não) (VB teve)) (NP (PRP qualquer) (NP (NNS influência) (PP (IN em_) (NP (DT o) (NNS resultado)))))))) (. .))

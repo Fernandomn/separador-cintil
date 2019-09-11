@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS ensaiador)) (VP (VB é) (NP (NP (NP (NNS António) (NNS Carvalho))) (NP (. ,) (NP (NP (NNS actor) (NP (CC e) (NNS coreógrafo))) (PP (IN em_) (NP (DT o) (NNS Bando)))))))) (. .))
+(S (S (NP (DT O) (NNS ensaiador)) (VP (VB é) (NP (NP (NP (NNS António) (NNS Carvalho))) (NP (. ,) (NP (NP (NNS actor) (NP (CONJ e) (NNS coreógrafo))) (PP (IN em_) (NP (DT o) (NNS Bando)))))))) (. .))

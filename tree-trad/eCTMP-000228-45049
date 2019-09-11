@@ -1,1 +1,1 @@
-(S (. ') (S (VP (PP (PP (IN Por) (NP (NNS Deus))) (PP (CC e) (PP (IN por_) (NP (DT a) (NNS Espanha))))))) (. '))
+(S ') (S (VP (PP (PP (IN Por) (NP (NNS Deus))) (PP (CONJ e) (PP (IN por_) (NP (DT a) (NNS Espanha))))))) '))

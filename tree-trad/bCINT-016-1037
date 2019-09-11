@@ -1,1 +1,1 @@
-(S (S (NP (NP (. ') (NP (CD Dois) (NP (NNS homens) (ADJP (ADJP (JJ grandes) (. ,)) (PP (IN de) (NP (NP (JJ grandes) (NNS apetites))))))) (. ')) (. ,)) (S (VP (VB escreveu)) (NP (DT a) (NP (NNS agência) (NNS Reuter))))) (. .))
+(S (S (NP (NP '' (NP (CD Dois) (NP (NNS homens) (ADJP (ADJP (JJ grandes) ,) (PP (IN de) (NP (NP (JJ grandes) (NNS apetites))))))) ``) ,) (S (VP (VB escreveu)) (NP (DT a) (NP (NNS agência) (NNS Reuter))))) .)

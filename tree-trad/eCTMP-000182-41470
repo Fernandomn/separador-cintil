@@ -1,1 +1,1 @@
-(S (S (S (NP (JJ Alguns)) (VP (VB foram) (VB torturados))) (S (CC e) (S (VP (VB acabaram) (PP (IN por) (VB morrer)))))) (. .))
+(S (S (S (NP (PRP Alguns)) (VP (VB foram) (VB torturados))) (S (CONJ e) (S (VP (VB acabaram) (PP (IN por) (VB morrer)))))) .))

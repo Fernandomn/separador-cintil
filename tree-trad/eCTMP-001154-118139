@@ -1,1 +1,1 @@
-(S (S (. ') (S (VP (NP (NP (CC Se) (S (VP (VB forem) (ADJP (RB bem) (JJ educados))))) (. ,)) (VP (VP (VB serão) (RB obrigatoriamente)) (NP (NP (JJ bons) (NNS doutores)))))) (. ')) (. .))
+(S (S (. ') (S (VP (CONJP (CONJP (CONJ Se) (S (VP (VB forem) (ADJP (RB bem) (JJ educados))))) (. ,)) (VP (VP (VB serão) (RB obrigatoriamente)) (NP (NP (JJ bons) (NNS doutores)))))) (. ')) (. .))

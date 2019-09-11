@@ -1,1 +1,1 @@
-(S (VP (VP (VB Há) (RB ainda)) (NP (JJ numerosos) (NP (NNS boletins) (ADJP (JJ maçónicos) (ADJP (. ,) (ADJP (JJ espíritas) (ADJP (CC e) (JJ teosóficos)))))))) (. .))
+(S (VP (VP (VB Há) (RB ainda)) (NP (PRP numerosos) (NP (NNS boletins) (ADJP (JJ maçónicos) (ADJP ,) (ADJP (JJ espíritas) (ADJP (CONJ e) (JJ teosóficos)))))))) .))

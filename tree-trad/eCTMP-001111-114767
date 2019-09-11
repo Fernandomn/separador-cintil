@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (DT Os) (NP (PRP$ meus) (NP (NNS romances) (ADVP (RB a) (RB sério))))) (VP (VP (VB ficaram) (JJ todos)) (PP (IN em_) (NP (DT a) (NNS Rússia))))) (. .)))
+(S (. ') (S (S (NP (DT Os) (NP (PP$ meus) (NP (NNS romances) (ADVP (RB a) (RB sério))))) (VP (VP (VB ficaram) (PRP todos)) (PP (IN em_) (NP (DT a) (NNS Rússia))))) (. .)))

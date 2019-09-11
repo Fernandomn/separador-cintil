@@ -1,1 +1,1 @@
-(S (S (PP (IN de_) (NP (PRP esta) (NNS vez))) (S (NP (JJ tudo)) (VP (VB é) (JJ diferente)))) (. .))
+(S (S (PP (IN de_) (NP (DT esta) (NNS vez))) (S (NP (PRP tudo)) (VP (VB é) (JJ diferente)))) .))

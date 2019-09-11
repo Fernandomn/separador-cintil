@@ -1,1 +1,1 @@
-(S (S (. ') (S (VP (VB Devemos) (VP (VB repor) (NP (DT a) (NP (NNS liberdade) (PP (IN de_) (NP (DT os) (NP (NNS horários) (JJ comerciais))))))))) (. ')) (. .))
+(S (S ') (S (VP (VB Devemos) (VP (VB repor) (NP (DT a) (NP (NNS liberdade) (PP (IN de_) (NP (DT os) (NP (NNS horários) (JJ comerciais))))))))) ')) .))

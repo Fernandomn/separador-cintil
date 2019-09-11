@@ -1,1 +1,1 @@
-(S (S (NP (PRP Isso)) (VP (VP (VB põe) (ADVP (RB de) (RB facto))) (NP (DT um) (NNS problema)))) (. .))
+(S (S (NP (DT Isso)) (VP (VP (VB põe) (ADVP (RB de) (RB facto))) (NP (DT um) (NNS problema)))) (. .))

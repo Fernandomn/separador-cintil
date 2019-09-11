@@ -1,1 +1,1 @@
-(S (NP (NNS Mubarak)) (VP (VB acusa) (NP (NP (NNS Grã-Bretanha)) (NP (CC e) (NP (NNS Afeganistão))))))
+(S (NP (NNS Mubarak)) (VP (VB acusa) (NP (NP (NNS Grã-Bretanha)) (NP (CONJ e) (NP (NNS Afeganistão))))))

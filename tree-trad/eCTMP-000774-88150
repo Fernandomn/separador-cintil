@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (NP (PRP esta))) (NP (DT a) (NP (NNS razão) (SBAR (PP (IN por) (NP (PRP que))) (S (NP (DT o) (NP (NNS processo) (PP (IN de) (NP (NNS canonização))))) (VP (VB inclui) (NP (JJ tantas) (NP (NNS fases))))))))) (. .))
+(S (S (VP (VB É) (NP (DT esta))) (NP (DT a) (NP (NNS razão) (SBAR (PP (IN por) (NP (PRP que))) (S (NP (DT o) (NP (NNS processo) (PP (IN de) (NP (NNS canonização))))) (VP (VB inclui) (NP (PRP tantas) (NP (NNS fases))))))))) (. .))

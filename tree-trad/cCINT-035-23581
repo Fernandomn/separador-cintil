@@ -1,1 +1,1 @@
-(S (S (VP (NP (CC Quando) (S (VP (VB estava) (PP (IN com) (NP (DT a) (NP (PRP$ minha) (NNS mãe))))))) (VP (VB tinha) (PP (IN de) (VP (NP (PRP a)) (VB consolar)))))) (. .))
+(S (S (VP (CONJP (CONJ Quando) (S (VP (VB estava) (PP (IN com) (NP (DT a) (NP (PP$ minha) (NNS mãe))))))) (VP (VB tinha) (PP (IN de) (VP (NP (PRP a)) (VB consolar)))))) .))

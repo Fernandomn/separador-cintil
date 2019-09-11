@@ -1,1 +1,1 @@
-(S (NP (NP (CC Nem) (NP (CD dez))) (NP (. ,) (NP (NP (NP (CC nem) (NP (CD cinco))) (. ,)) (NP (CC nem) (NP (CD três)))))) (. .))
+(S (NP (NP (CONJ Nem) (NP (CD dez))) (NP (. ,) (NP (NP (NP (CONJ nem) (NP (CD cinco))) (. ,)) (NP (CONJ nem) (NP (CD três)))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS António) (NNS Guterres))) (VP (VP (VB vai) (VP (VB ter) (NP (DT uma) (NP (NP (NNS campanha) (JJ eleitoral)) (PRP$ própria))))) (PP (IN em_) (NP (DT o) (NP (NNS teste) (PP (IN de_) (NP (DT o) (NP (NNS final) (PP (IN de_) (NP (DT o) (NNS ano))))))))))) (. .))
+(S (S (NP (NP (NNS António) (NNS Guterres))) (VP (VP (VB vai) (VP (VB ter) (NP (DT uma) (NP (NP (NNS campanha) (JJ eleitoral)) (PP$ própria))))) (PP (IN em_) (NP (DT o) (NP (NNS teste) (PP (IN de_) (NP (DT o) (NP (NNS final) (PP (IN de_) (NP (DT o) (NNS ano))))))))))) (. .))

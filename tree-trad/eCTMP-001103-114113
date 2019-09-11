@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS preço)) (VP (VB varia) (PP (IN em_) (NP (DT as) (NP (JJ diferentes) (NP (NNS regiões) (JJ espanholas))))))) (. .))
+(S (S (NP (DT O) (NNS preço)) (VP (VB varia) (PP (IN em_) (NP (DT as) (NP (PRP diferentes) (NP (NNS regiões) (JJ espanholas))))))) (. .))

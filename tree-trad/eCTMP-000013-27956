@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VP (VP (VB Apaixonei) (NP (PRP -me))) (RB imediatamente)) (PP (IN por_) (NP (DT a) (NP (. ') (NP (NNS Casa) (NNS de_) (NNS os) (NNS Espíritos)) (. ')))))) (. .)))
+(S ') (S (S (VP (VP (VP (VB Apaixonei) (NP (PRP -me))) (RB imediatamente)) (PP (IN por_) (NP (DT a) (NP ') (NP (NNS Casa) (NNS de_) (NNS os) (NNS Espíritos)) ')))))) .)))

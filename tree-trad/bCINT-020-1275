@@ -1,1 +1,1 @@
-(S (S (VP (VB Está) (NP (JJ tudo))) (PP (IN em_) (NP (DT a) (NP (NNS Portaria) (NNS 163) (NNS /) (NNS 96) (NNS -lrb-) (NNS B) (NNS -rrb-))))) (. .))
+(S (S (VP (VB Está) (NP (PRP tudo))) (PP (IN em_) (NP (DT a) (NP (NNS Portaria) (NNS 163) (NNS /) (NNS 96) (NNS -lrb-) (NNS B) (NNS -rrb-))))) .)

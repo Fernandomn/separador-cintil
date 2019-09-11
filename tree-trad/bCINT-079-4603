@@ -1,1 +1,1 @@
-(S (S (S (NP (PRP Isto))) (PP (PP (IN segundo) (NP (DT a) (NP (PRP$ minha) (NNS memória)))) (PP (CC e) (PP (IN segundo) (NP (DT o) (NP (NP (NNS dicionário) (ADJP (. ') (JJ on-line) (. '))) (PP (IN de_) (NP (DT a) (NNS Priberam))))))))) (. .))
+(S (S (S (NP (DT Isto))) (PP (PP (IN segundo) (NP (DT a) (NP (PP$ minha) (NNS memória)))) (PP (CONJ e) (PP (IN segundo) (NP (DT o) (NP (NP (NNS dicionário) (ADJP ') (JJ on-line) '))) (PP (IN de_) (NP (DT a) (NNS Priberam))))))))) .))

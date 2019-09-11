@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Inquérito) (ADJP (VB conduzido) (PP (IN por) (NP (NP (NP (NNS Alexandre) (NNS Frade) (NNS Baptista))) (NP (CC e) (NP (NP (NNS Manuel) (NNS Abreu))))))))))
+(S (NP (NP (NNS Inquérito) (ADJP (VB conduzido) (PP (IN por) (NP (NP (NP (NNS Alexandre) (NNS Frade) (NNS Baptista))) (NP (CONJ e) (NP (NP (NNS Manuel) (NNS Abreu))))))))))

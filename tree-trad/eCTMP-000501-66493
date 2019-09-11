@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT o) (NP (CD primeiro) (NNS dia)))) (. ,)) (S (NP (NP (NP (CC nem) (NP (DT um) (NNS protesto))) (. ,)) (NP (CC nem) (NP (DT uma) (NP (NNS bandeira) (JJ negra))))))) (. .))
+(S (S (PP (PP (IN Em_) (NP (DT o) (NP (CD primeiro) (NNS dia)))) ,)) (S (NP (NP (NP (CONJ nem) (NP (DT um) (NNS protesto))) ,)) (NP (CONJ nem) (NP (DT uma) (NP (NNS bandeira) (JJ negra))))))) .))

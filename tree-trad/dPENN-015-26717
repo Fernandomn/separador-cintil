@@ -1,1 +1,1 @@
-(S (S (VP (VB Irá) (VP (VP (VP (VB concentrar) (NP (PRP -se))) (PP (PP (IN em_) (NP (DT a) (NP (NNS J) (NNS .) (NNS P) (NNS .) (NNS Morgan)))) (PP (CC e) (PP (IN em_) (NP (DT a) (NNS Hyundai)))))) (PP (. ,) (PP (IN entre) (NP (DT outros))))))) (. .))
+(S (S (VP (VB Irá) (VP (VP (VP (VB concentrar) (NP (PRP -se))) (PP (PP (IN em_) (NP (DT a) (NP (NNS J) (NNS .) (NNS P) (NNS .) (NNS Morgan)))) (PP (CONJ e) (PP (IN em_) (NP (DT a) (NNS Hyundai)))))) (PP ,) (PP (IN entre) (NP (DT outros))))))) .))

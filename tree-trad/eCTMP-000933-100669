@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Ruca) (NNS Van-dunem))) (VP (VP (RB não) (VB aceita)) (NP (PRP esta) (NNS crítica)))) (. :))
+(S (S (NP (NP (NNS Ruca) (NNS Van-dunem))) (VP (VP (RB não) (VB aceita)) (NP (DT esta) (NNS crítica)))) (. :))

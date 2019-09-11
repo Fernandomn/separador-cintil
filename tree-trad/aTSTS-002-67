@@ -1,1 +1,1 @@
-(S (S (NP (DT o) (NNS cliente)) (VP (VB encomendou) (NP (DT um) (NP (NNS computador) (ADJP (ADJP (RB mais) (JJ barato)) (NP (NP (CC de_) (CC o) (CC que)) (NP (PRP esse)))))))) (. .))
+(S (S (NP (DT o) (NNS cliente)) (VP (VB encomendou) (NP (DT um) (NP (NNS computador) (ADJP (ADJP (RB mais) (JJ barato)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT esse)))))))) .)

@@ -1,1 +1,1 @@
-(S (S (NP (PRP Este) (NNS computador)) (VP (VB é) (ADJP (RB apenas) (ADJP (JJ melhor) (NP (NP (CC de_) (CC o) (CC que)) (NP (PRP esse))))))) (. .))
+(S (S (NP (DT Este) (NNS computador)) (VP (VB é) (ADJP (RB apenas) (ADJP (JJ melhor) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT esse))))))) .)

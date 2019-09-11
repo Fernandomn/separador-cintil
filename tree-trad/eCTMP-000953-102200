@@ -1,1 +1,1 @@
-(S (S (S (S (NP (DT Outras) (NNS extrapolações)) (VP (. ') (VP (VP (VB são) (RB manifestamente)) (JJ abusivas)))) (S (CC e) (S (VP (VP (RB não) (VB têm)) (NP (JJ qualquer) (NNS fundamento)))))) (. ')) (. .))
+(S (S (S (S (NP (DT Outras) (NNS extrapolações)) (VP (. ') (VP (VP (VB são) (RB manifestamente)) (JJ abusivas)))) (S (CONJ e) (S (VP (VP (RB não) (VB têm)) (NP (PRP qualquer) (NNS fundamento)))))) (. ')) (. .))

@@ -1,1 +1,1 @@
-(S (S (VP (VB Vamos) (VP (VB ver) (NP (NP (DT a) (NNS crítica)) (NP (. ,) (NP (DT as) (NNS vendas))))))) (. .))
+(S (S (VP (VB Vamos) (VP (VB ver) (NP (NP (DT a) (NNS crítica)) (NP ,) (NP (DT as) (NNS vendas))))))) .))

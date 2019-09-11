@@ -1,1 +1,1 @@
-(S (NP (NP (DT A) (NNS UGT)) (NP (CC e) (NP (DT o) (NP (NNS Rei) (NNS Marco))))))
+(S (NP (NP (DT A) (NNS UGT)) (NP (CONJ e) (NP (DT o) (NP (NNS Rei) (NNS Marco))))))

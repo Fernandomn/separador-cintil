@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Por_) (NP (DT a) (NP (NNS morte) (PP (IN de_) (NP (DT o) (NP (PRP$ meu) (NNS pai))))))) (. ,)) (VP (RB não) (VB chorei)))) (. .))
+(S (S (VP (PP (PP (IN Por_) (NP (DT a) (NP (NNS morte) (PP (IN de_) (NP (DT o) (NP (PP$ meu) (NNS pai))))))) ,)) (VP (RB não) (VB chorei)))) .))

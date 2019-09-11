@@ -1,1 +1,1 @@
-(S (S (VP (VB Será) (NP (PRP esta) (NNS vida))) (ADJP (ADJP (RB mais) (JJ assustadora)) (NP (NP (CC de_) (CC o) (CC que)) (NP (DT a) (NNS morte))))) (. ?))
+(S (S (VP (VB Será) (NP (DT esta) (NNS vida))) (ADJP (ADJP (RB mais) (JJ assustadora)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT a) (NNS morte))))) ?))

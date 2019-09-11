@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Por) (NP (PRP isso))) (. ,)) (S (NP (NP (NNS Infante) (NNS Barbosa))) (VB assegura))) (. :))
+(S (S (PP (PP (IN Por) (NP (DT isso))) ,)) (S (NP (NP (NNS Infante) (NNS Barbosa))) (VB assegura))) :))

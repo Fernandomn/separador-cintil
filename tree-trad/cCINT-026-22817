@@ -1,1 +1,1 @@
-(S (S (VP (NP (NP (CC Se) (S (VB quiseres))) (. ,)) (VP (VP (VB vem) (RB cá)) (ADVP (RB mais) (RB tarde))))) (. .))
+(S (S (VP (CONJP (CONJP (CONJ Se) (S (VB quiseres))) ,)) (VP (VP (VB vem) (RB cá)) (ADVP (RB mais) (RB tarde))))) .))

@@ -1,1 +1,1 @@
-(S (S (VP (VB Mistura) (NP (PRP -se))) (NP (NP (DT a) (NNS alegria)) (NP (CC e) (NP (DT a) (NNS emoção))))) (. .))
+(S (S (VP (VB Mistura) (NP (PRP -se))) (NP (NP (DT a) (NNS alegria)) (NP (CONJ e) (NP (DT a) (NNS emoção))))) .))

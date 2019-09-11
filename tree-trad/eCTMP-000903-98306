@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NP (NNS gravação) (SBAR (PP (IN a) (NP (PRP que))) (S (VP (VB assistimos))))))) (. ,)) (S (NP (PRP isso)) (S (RB nem) (S (VP (NP (PRP se)) (VB verificou)))))) (. .))
+(S (S (PP (PP (IN Em_) (NP (DT a) (NP (NNS gravação) (SBAR (PP (IN a) (NP (PRP que))) (S (VP (VB assistimos))))))) (. ,)) (S (NP (DT isso)) (S (RB nem) (S (VP (NP (PRP se)) (VB verificou)))))) (. .))

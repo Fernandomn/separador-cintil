@@ -1,1 +1,1 @@
-(S (S (. ') (S (S (VP (RB Primeiro) (VP (VB sou) (JJ açoriano)))) (S (. ,) (S (VP (RB depois) (VP (VB sou) (JJ português)))))) (. ')) (. .))
+(S (S ') (S (S (VP (RB Primeiro) (VP (VB sou) (JJ açoriano)))) (S ,) (S (VP (RB depois) (VP (VB sou) (JJ português)))))) ')) .))

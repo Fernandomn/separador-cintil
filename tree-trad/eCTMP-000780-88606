@@ -1,1 +1,1 @@
-(S (S (S (NP (DT O) (NNS serviço)) (VP (VB é) (JJ bom))) (S (CC e) (S (VP (VB vive) (NP (PRP -se))) (PP (IN em_) (NP (DT o) (NP (NNS paraíso) (SBAR (NP (PRP que)) (S (VP (VB é) (NP (DT a) (NNS ilha))))))))))) (. .))
+(S (S (S (NP (DT O) (NNS serviço)) (VP (VB é) (JJ bom))) (S (CONJ e) (S (VP (VB vive) (NP (PRP -se))) (PP (IN em_) (NP (DT o) (NP (NNS paraíso) (SBAR (NP (PRP que)) (S (VP (VB é) (NP (DT a) (NNS ilha))))))))))) (. .))

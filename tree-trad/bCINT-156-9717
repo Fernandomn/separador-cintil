@@ -1,1 +1,1 @@
-(S (S (NP (PRP Isso)) (S (VP (VP (VB viu) (NP (PRP -se))) (PP (IN em_) (NP (DT a) (NP (JJ tal) (NP (NNS conferência) (PP (IN de) (NP (NNS imprensa)))))))))) (. .))
+(S (S (NP (DT Isso)) (S (VP (VP (VB viu) (NP (PRP -se))) (PP (IN em_) (NP (DT a) (NP (JJ tal) (NP (NNS conferência) (PP (IN de) (NP (NNS imprensa)))))))))) .))

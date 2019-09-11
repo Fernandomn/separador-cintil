@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Depois) (. ,)) (S (S (NP (. ') (NNS Magic) (. ')) (VP (VB dizia) (SBAR (IN que) (S (VP (VP (RB não) (VB era)) (NP (NNS verdade))))))) (S (CC e) (S (NP (DT os) (NNS rumores)) (VB morriam))))) (. .))
+(S (S (ADVP (RB Depois) (. ,)) (S (S (NP (. ') (NNS Magic) (. ')) (VP (VB dizia) (SBAR (IN que) (S (VP (VP (RB não) (VB era)) (NP (NNS verdade))))))) (S (CONJ e) (S (NP (DT os) (NNS rumores)) (VB morriam))))) (. .))

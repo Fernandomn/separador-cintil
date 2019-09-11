@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (NP (NP (CC Se) (S (VP (VB for) (NP (DT uma) (NNS embolia))))) (. ,)) (VP (VB é) (NP (DT a) (NP (JJ mesma) (NNS coisa)))))) (. .)))
+(S (. ') (S (S (VP (CONJP (CONJP (CONJ Se) (S (VP (VB for) (NP (DT uma) (NNS embolia))))) (. ,)) (VP (VB é) (NP (DT a) (NP (JJ mesma) (NNS coisa)))))) (. .)))

@@ -1,1 +1,1 @@
-(S (S (NP (PRP Isto)) (VP (VB é) (NP (DT um) (NP (NP (NNS bairro) (JJ pequeno)) (SBAR (. ,) (SBAR (RB onde) (S (NP (JJ toda) (NP (DT a) (NNS gente))) (VP (VP (NP (PRP se)) (VB conhece)))))))))) (. .))
+(S (S (NP (DT Isto)) (VP (VB é) (NP (DT um) (NP (NP (NNS bairro) (JJ pequeno)) (SBAR ,) (SBAR (RB onde) (S (NP (PRP toda) (NP (DT a) (NNS gente))) (VP (VP (NP (PRP se)) (VB conhece)))))))))) .))

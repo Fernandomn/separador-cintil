@@ -1,1 +1,1 @@
-(S (S (VP (NP (CC Quando) (S (VP (VB têm) (NP (DT um) (NP (NNS arranhão) (PP (IN em_) (NP (DT um) (NNS joelho)))))))) (VP (VP (VB fazem) (RB logo)) (NP (DT uma) (NP (NNS fita) (PP (IN de_) (NP (DT os) (NNS diabos)))))))) (. .))
+(S (S (VP (CONJP (CONJ Quando) (S (VP (VB têm) (NP (DT um) (NP (NNS arranhão) (PP (IN em_) (NP (DT um) (NNS joelho)))))))) (VP (VP (VB fazem) (RB logo)) (NP (DT uma) (NP (NNS fita) (PP (IN de_) (NP (DT os) (NNS diabos)))))))) .))

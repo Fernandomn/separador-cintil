@@ -1,1 +1,1 @@
-(S (S (S (NP (PRP Esta) (NNS disciplina)) (VP (VB existe) (ADVP (. ,) (RB certamente) (. ,)))) (S (CC ou) (S (NP (DT o) (NP (NNS preço) (PP (IN de_) (NP (DT o) (NNS Windows))))) (VP (VB seria) (ADJP (ADVP (RB muito) (RB mais)) (JJ alto)))))) (. .))
+(S (S (S (NP (DT Esta) (NNS disciplina)) (VP (VB existe) (ADVP (. ,) (RB certamente) (. ,)))) (S (CONJ ou) (S (NP (DT o) (NP (NNS preço) (PP (IN de_) (NP (DT o) (NNS Windows))))) (VP (VB seria) (ADJP (ADVP (RB muito) (RB mais)) (JJ alto)))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (PRP$ seu) (NP (JJ maior) (NNS feito)))) (VP (VP (VP (VB foi) (VB obtido)) (PP (IN a_) (NP (DT a) (NP (CD segunda) (NNS jornada))))) (NP (. ,) (NP (CC quando) (S (VP (VB derrotaram) (NP (DT os) (NNS italianos)))))))) (. .))
+(S (S (NP (DT O) (NP (PP$ seu) (NP (JJ maior) (NNS feito)))) (VP (VP (VP (VB foi) (VB obtido)) (PP (IN a_) (NP (DT a) (NP (CD segunda) (NNS jornada))))) (CONJP ,) (CONJP (CONJ quando) (S (VP (VB derrotaram) (NP (DT os) (NNS italianos)))))))) .))

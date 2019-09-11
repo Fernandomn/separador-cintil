@@ -1,1 +1,1 @@
-(S (. ') (S (S (S (NP (JJ Todo) (NP (PRP este) (NNS cenário))) (VP (VB estava) (ADJP (VB previsto)))) (S (. ,) (S (VP (VP (RB não) (VB supreendeu)) (NP (DT os) (NP (NNS engenheiros) (JJ navais))))))) (. .)))
+(S (. ') (S (S (S (NP (PRP Todo) (NP (DT este) (NNS cenário))) (VP (VB estava) (ADJP (VB previsto)))) (S (. ,) (S (VP (VP (RB não) (VB supreendeu)) (NP (DT os) (NP (NNS engenheiros) (JJ navais))))))) (. .)))

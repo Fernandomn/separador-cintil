@@ -1,1 +1,1 @@
-(S (S (VP (NP (NP (CC Quando) (S (NP (ADJP (ADJP (RB já) (JJ poucos)))) (VB acreditavam))) (. ,)) (VB aconteceu)) (NP (DT o) (NNS volte-face))) (. .))
+(S (S (VP (CONJP (CONJP (CONJ Quando) (S (NP (ADJP (ADJP (RB já) (PRP poucos)))) (VB acreditavam))) (. ,)) (VB aconteceu)) (NP (DT o) (NNS volte-face))) (. .))

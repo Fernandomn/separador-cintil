@@ -1,1 +1,1 @@
-(S (S (NP (NNS Wayne)) (VP (VP (VB fica) (JJ desbaratinado)) (NP (CC quando) (S (VP (VB sabe) (SBAR (IN que) (S (NP (NNS Tick)) (VP (RB afinal) (VP (VP (RB não) (VB é)) (NP (PRP$ seu) (NNS filho))))))))))) (. .))
+(S (S (NP (NNS Wayne)) (VP (VP (VB fica) (JJ desbaratinado)) (CONJP (CONJ quando) (S (VP (VB sabe) (SBAR (IN que) (S (NP (NNS Tick)) (VP (RB afinal) (VP (VP (RB não) (VB é)) (NP (PP$ seu) (NNS filho))))))))))) .))

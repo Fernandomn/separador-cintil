@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Pedro) (NNS Flávio))) (VP (VP (VB está) (PP (IN a) (VB estudar))) (PP (IN em) (NP (NNS Lisboa))))) (. .))
+(S (S (NP (NP (NNS Pedro) (NNS Flávio))) (VP (VP (VB está) (PP (IN a) (VB estudar))) (PP (IN em) (NP (NNS Lisboa))))) .))

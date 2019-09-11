@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB É) (PP (. ,) (PP (IN em_) (NP (DT o) (NNS mínimo))) (. ,))) (NP (DT um) (NP (NNS edifício) (JJ confuso))))) (. .))
+(S (S (VP (VP (VB É) (PP ,) (PP (IN em_) (NP (DT o) (NNS mínimo))) ,))) (NP (DT um) (NP (NNS edifício) (JJ confuso))))) .))

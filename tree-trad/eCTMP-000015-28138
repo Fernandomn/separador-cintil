@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (JJ Todas) (NP (PRP estas) (NNS práticas))) (VP (VB deveriam) (VP (VB ter) (NP (NP (NNS locais) (JJ específicos)))))) (. .)))
+(S ') (S (S (NP (PRP Todas) (NP (DT estas) (NNS práticas))) (VP (VB deveriam) (VP (VB ter) (NP (NP (NNS locais) (JJ específicos)))))) .)))

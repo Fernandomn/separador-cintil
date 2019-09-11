@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NP (NNS Odivelas)) (NP (. ,) (NP (NP (NNS Rio) (NNS Tinto))))) (. ,)) (NP (NP (NNS Fátima) (NNS ,) (NNS Amora)))) (VP (VB parecem) (VP (VB estar) (PP (IN em_) (NP (DT a) (NP (NNS linha) (PP (IN de_) (NP (DT a) (NNS frente))))))))) (. .))
+(S (S (NP (NP (NP (NP (NNS Odivelas)) (NP ,) (NP (NP (NNS Rio) (NNS Tinto))))) ,)) (NP (NP (NNS Fátima) (NNS ,) (NNS Amora)))) (VP (VB parecem) (VP (VB estar) (PP (IN em_) (NP (DT a) (NP (NNS linha) (PP (IN de_) (NP (DT a) (NNS frente))))))))) .))

@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS João) (NNS Joanaz) (NNS de) (NNS Melo))) (NP (CC e) (NP (NP (NNS Luís) (NNS Rosmaninho) (NNS *))))))
+(S (NP (NP (NP (NNS João) (NNS Joanaz) (NNS de) (NNS Melo))) (NP (CONJ e) (NP (NP (NNS Luís) (NNS Rosmaninho) (NNS *))))))

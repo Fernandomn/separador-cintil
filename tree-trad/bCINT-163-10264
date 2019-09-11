@@ -1,1 +1,1 @@
-(S (S (NP (PRP Esse) (NNS facto)) (VP (. ") (VP (VB era) (PP (IN de_) (NP (DT o) (NP (NNS conhecimento) (PP (IN de_) (NP (DT o) (NNS SEN))))))) (. "))) (. .))
+(S (S (NP (DT Esse) (NNS facto)) (VP ") (VP (VB era) (PP (IN de_) (NP (DT o) (NP (NNS conhecimento) (PP (IN de_) (NP (DT o) (NNS SEN))))))) "))) .))

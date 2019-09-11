@@ -1,1 +1,1 @@
-(S (S (S (VB Bastou) (NP (DT a) (NP (NNS fusão) (PP (IN de_) (NP (DT as) (NNS instituições)))))) (NP (NP (CC para) (CC que)) (S (NP (PRP esse) (NNS entendimento)) (S (VP (NP (PRP se)) (VB pudesse)) (VP (VB garantir)))))) (. .))
+(S (S (S (VB Bastou) (NP (DT a) (NP (NNS fusão) (PP (IN de_) (NP (DT as) (NNS instituições)))))) (CONJP (_CONJP_ (CONJ para) (CONJ que)) (S (NP (DT esse) (NNS entendimento)) (S (VP (NP (PRP se)) (VB pudesse)) (VP (VB garantir)))))) (. .))

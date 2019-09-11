@@ -1,1 +1,1 @@
-(S (S (VP (VB Ouve) (NP (PRP -se))) (NP (NP (NNS Sinatra)) (NP (CC e) (NP (DT as) (NP (PRP$ suas) (NNS histórias)))))) (. .))
+(S (S (VP (VB Ouve) (NP (PRP -se))) (NP (NP (NNS Sinatra)) (NP (CONJ e) (NP (DT as) (NP (PP$ suas) (NNS histórias)))))) (. .))

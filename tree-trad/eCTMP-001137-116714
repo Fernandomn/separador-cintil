@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS interesse)) (VP (VB nasceu) (PP (IN com) (NP (DT a) (NP (NNS criação) (PP (IN de) (NP (NP (NP (NNS bases) (JJ domésticas)) (PP (IN sobre) (NP (NP (NNS livros) (NP (CC e) (NNS discos))))))))))))) (. .))
+(S (S (NP (DT O) (NNS interesse)) (VP (VB nasceu) (PP (IN com) (NP (DT a) (NP (NNS criação) (PP (IN de) (NP (NP (NP (NNS bases) (JJ domésticas)) (PP (IN sobre) (NP (NP (NNS livros) (NP (CONJ e) (NNS discos))))))))))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS capitão)) (VP (PP (. ,) (PP (IN por) (NP (PRP$ seu) (NNS lado))) (. ,)) (VB confessava))) (. :))
+(S (S (NP (DT O) (NNS capitão)) (VP (PP (. ,) (PP (IN por) (NP (PP$ seu) (NNS lado))) (. ,)) (VB confessava))) (. :))

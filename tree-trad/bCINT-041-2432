@@ -1,1 +1,1 @@
-(S (S (VP (VB Decidimos) (VP (VP (VB trabalhar) (ADVP (RB em) (RB conjunto))) (VP (CC e) (VP (VB cooperar) (PP (IN em_) (NP (DT as) (NP (NNS questões) (JJ delicadas))))))))) (. .))
+(S (S (VP (VB Decidimos) (VP (VP (VB trabalhar) (ADVP (RB em) (RB conjunto))) (VP (CONJ e) (VP (VB cooperar) (PP (IN em_) (NP (DT as) (NP (NNS questões) (JJ delicadas))))))))) .))

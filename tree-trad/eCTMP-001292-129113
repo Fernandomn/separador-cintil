@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Cursos) (PP (PP (IN para) (NP (JJ todos) (NP (DT os) (NNS gostos)))) (PP (CC e) (PP (IN para) (NP (JJ todas) (NP (DT as) (NNS carteiras)))))))) (. .))
+(S (NP (NP (NNS Cursos) (PP (PP (IN para) (NP (PRP todos) (NP (DT os) (NNS gostos)))) (PP (CONJ e) (PP (IN para) (NP (PRP todas) (NP (DT as) (NNS carteiras)))))))) (. .))

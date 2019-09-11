@@ -1,1 +1,1 @@
-(S (S (S (VP (VP (RB Não) (VB há)) (NP (NP (NNS problemas) (JJ graves)))) (. ,)) (S (VP (VB está) (NP (JJ tudo))) (PP (IN sob) (NP (NNS controlo))))) (. .))
+(S (S (S (VP (VP (RB Não) (VB há)) (NP (NP (NNS problemas) (JJ graves)))) (. ,)) (S (VP (VB está) (NP (PRP tudo))) (PP (IN sob) (NP (NNS controlo))))) (. .))

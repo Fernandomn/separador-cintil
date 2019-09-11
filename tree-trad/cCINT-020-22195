@@ -1,1 +1,1 @@
-(S (NP (DT O) (NP (NNS trabalhão) (SBAR (NP (PRP que)) (S (NP (PRP isso)) (VP (VB dá)))))) (. !))
+(S (NP (DT O) (NP (NNS trabalhão) (SBAR (NP (PRP que)) (S (NP (DT isso)) (VP (VB dá)))))) !))

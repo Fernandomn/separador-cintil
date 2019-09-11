@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS influência) (JJ imperial))) (VP (VB é) (ADJP (RB bastante) (ADJP (JJ intensa) (ADJP (CC e) (JJ favorável)))))) (. .))
+(S (S (NP (DT A) (NP (NNS influência) (JJ imperial))) (VP (VB é) (ADJP (RB bastante) (ADJP (JJ intensa) (ADJP (CONJ e) (JJ favorável)))))) .))

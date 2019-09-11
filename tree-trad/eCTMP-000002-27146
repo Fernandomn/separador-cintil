@@ -1,1 +1,1 @@
-(S (. ') (S (S (S (VP (VB Roubaste) (NP (DT o) (NP (PRP$ meu) (NNS barco))))) (S (. ,) (S (VP (VB vais) (VB pagar))))) (. .)) (. '))
+(S ') (S (S (S (VP (VB Roubaste) (NP (DT o) (NP (PP$ meu) (NNS barco))))) (S ,) (S (VP (VB vais) (VB pagar))))) .)) '))

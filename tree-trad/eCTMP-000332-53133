@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Luisa) (NNS Bessa))) (NP (CC e) (NP (NP (NNS Daniel) (NNS Deusdado))))))
+(S (NP (NP (NP (NNS Luisa) (NNS Bessa))) (NP (CONJ e) (NP (NP (NNS Daniel) (NNS Deusdado))))))

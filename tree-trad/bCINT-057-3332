@@ -1,1 +1,1 @@
-(S (S (NP (DT Outros)) (VP (RB nunca) (VP (VB tinham) (VP (VB visto) (NP (DT um) (NP (JJ tal) (NP (NNS bicho) (SBAR (. ,) (SBAR (. ') (SBAR (NP (PRP que)) (S (VP (VB tinha) (NP (NP (NP (DT uns) (NNS olhos)) (NP (CC e) (NP (DT umas) (NNS orelhas)))) (JJ esquisitas))))) (. ')))))))))) (. .))
+(S (S (NP (DT Outros)) (VP (RB nunca) (VP (VB tinham) (VP (VB visto) (NP (DT um) (NP (JJ tal) (NP (NNS bicho) (SBAR ,) (SBAR ') (SBAR (NP (PRP que)) (S (VP (VB tinha) (NP (NP (NP (DT uns) (NNS olhos)) (NP (CONJ e) (NP (DT umas) (NNS orelhas)))) (JJ esquisitas))))) ')))))))))) .))

@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB É) (ADJP (RB mais) (JJ agradável))) (NP (CC quando) (S (NP (DT as) (NNS coisas)) (VB pairam))))) (. .))
+(S (S (VP (VP (VB É) (ADJP (RB mais) (JJ agradável))) (CONJP (CONJ quando) (S (NP (DT as) (NNS coisas)) (VB pairam))))) .))

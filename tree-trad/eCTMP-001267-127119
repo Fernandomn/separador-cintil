@@ -1,1 +1,1 @@
-(S (S (NP (DT As) (NP (NNS palavras) (ADJP (RB mais) (JJ simpáticas)))) (VP (VB ficam) (PP (PP (IN para) (NP (DT a) (NNS ONU))) (PP (CC e) (PP (IN para) (NP (NNS Lisboa))))))) (. .))
+(S (S (NP (DT As) (NP (NNS palavras) (ADJP (RB mais) (JJ simpáticas)))) (VP (VB ficam) (PP (PP (IN para) (NP (DT a) (NNS ONU))) (PP (CONJ e) (PP (IN para) (NP (NNS Lisboa))))))) (. .))

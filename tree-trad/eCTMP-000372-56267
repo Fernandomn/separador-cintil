@@ -1,1 +1,1 @@
-(S (NP (PRP Essa) (NP (NNS dama) (PP (IN de) (NP (NP (NNS beiços) (JJ húmidos)))))))
+(S (NP (DT Essa) (NP (NNS dama) (PP (IN de) (NP (NP (NNS beiços) (JJ húmidos)))))))

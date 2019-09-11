@@ -1,1 +1,1 @@
-(S (S (NP (DT o) (NNS Manuel)) (VP (RB apenas) (VP (VP (VB tem) (VP (VB visto) (NP (NNS computadores)))) (PP (IN em_) (NP (PRP aquela) (NNS loja)))))) (. .))
+(S (S (NP (DT o) (NNS Manuel)) (VP (RB apenas) (VP (VP (VB tem) (VP (VB visto) (NP (NNS computadores)))) (PP (IN em_) (NP (DT aquela) (NNS loja)))))) .)

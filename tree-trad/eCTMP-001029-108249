@@ -1,1 +1,1 @@
-(S (NP (DT Um) (NP (JJ único) (NNS ponto))) (VP (VB separa) (NP (NP (NNS Luanda)) (NP (CC e) (NP (NNS UNITA))))))
+(S (NP (DT Um) (NP (JJ único) (NNS ponto))) (VP (VB separa) (NP (NP (NNS Luanda)) (NP (CONJ e) (NP (NNS UNITA))))))

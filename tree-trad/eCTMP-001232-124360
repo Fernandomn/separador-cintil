@@ -1,1 +1,1 @@
-(S (S (NP (PRP Esta)) (VP (VB é) (NP (DT a) (NP (NP (JJ pequena) (NNS história)) (SBAR (NP (PRP que)) (S (VP (VP (VB dá) (NP (NNS vida))) (PP (IN a_) (NP (DT as) (NP (NNS máscaras) (JJ expostas))))))))))) (. .))
+(S (S (NP (DT Esta)) (VP (VB é) (NP (DT a) (NP (NP (JJ pequena) (NNS história)) (SBAR (NP (PRP que)) (S (VP (VP (VB dá) (NP (NNS vida))) (PP (IN a_) (NP (DT as) (NP (NNS máscaras) (JJ expostas))))))))))) (. .))

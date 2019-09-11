@@ -1,1 +1,1 @@
-(S (S (VP (RB Só) (VP (VP (RB não) (VP (NP (PRP o)) (VB fez))) (NP (CC porque) (S (NP (DT o) (NP (NNS empreiteiro) (PP (IN de_) (NP (DT a) (NNS obra))))) (VP (NP (PRP o)) (VB demoveu))))))) (. .))
+(S (S (VP (RB Só) (VP (VP (RB não) (VP (NP (PRP o)) (VB fez))) (CONJP (CONJ porque) (S (NP (DT o) (NP (NNS empreiteiro) (PP (IN de_) (NP (DT a) (NNS obra))))) (VP (NP (PRP o)) (VB demoveu))))))) .))

@@ -1,1 +1,1 @@
-(S (S (NP (JJ Alguns)) (VP (VP (VB estão) (JJ presos)) (PP (IN por) (NP (PRP isso))))) (. .))
+(S (S (NP (PRP Alguns)) (VP (VP (VB estão) (JJ presos)) (PP (IN por) (NP (DT isso))))) .))

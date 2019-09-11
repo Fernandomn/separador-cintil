@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (CC Nem) (NP (PRP eu))) (. ,)) (NP (CC nem) (NP (DT os) (NP (JJ outros) (NNS camaradas))))) (VP (VB devem) (VP (VB esconder) (NP (DT o) (NP (NNS partido) (SBAR (PP (IN a) (NP (PRP que))) (S (VP (VB pertencem))))))))) (. .))
+(S (S (NP (NP (NP (CONJ Nem) (NP (PRP eu))) ,)) (NP (CONJ nem) (NP (DT os) (NP (JJ outros) (NNS camaradas))))) (VP (VB devem) (VP (VB esconder) (NP (DT o) (NP (NNS partido) (SBAR (PP (IN a) (NP (PRP que))) (S (VP (VB pertencem))))))))) .))

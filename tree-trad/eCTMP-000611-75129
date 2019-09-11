@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Reteremos) (NP (DT os) (NP (NNS pontos) (JJ positivos))))) (S (CC e) (S (VP (VB rejeitaremos) (NP (DT os) (NP (NNS aspectos) (JJ negativos))))))) (. .))
+(S (S (S (VP (VB Reteremos) (NP (DT os) (NP (NNS pontos) (JJ positivos))))) (S (CONJ e) (S (VP (VB rejeitaremos) (NP (DT os) (NP (NNS aspectos) (JJ negativos))))))) (. .))

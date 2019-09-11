@@ -1,1 +1,1 @@
-(S (S (S (S (VP (VB Temos) (NP (NNS promessas)))) (S (CC e) (S (VP (VB aguardamos) (PP (IN com) (NP (NNS serenidade))))))) (. .)) (. '))
+(S (S (S (S (VP (VB Temos) (NP (NNS promessas)))) (S (CONJ e) (S (VP (VB aguardamos) (PP (IN com) (NP (NNS serenidade))))))) .)) '))

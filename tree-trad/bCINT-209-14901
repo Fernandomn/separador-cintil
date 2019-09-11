@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Segundo) (NP (NP (NNS Ramos) (NNS Horta)))) (. ,)) (S (NP (DT os) (NP (NNS populares) (SBAR (NP (PRP que)) (S (VP (RB não) (VB fugiram)))))) (VP (. ") (VP (VB foram) (VB presos)) (. ")))) (. .))
+(S (S (PP (PP (IN Segundo) (NP (NP (NNS Ramos) (NNS Horta)))) ,)) (S (NP (DT os) (NP (NNS populares) (SBAR (NP (PRP que)) (S (VP (RB não) (VB fugiram)))))) (VP ") (VP (VB foram) (VB presos)) ")))) .))

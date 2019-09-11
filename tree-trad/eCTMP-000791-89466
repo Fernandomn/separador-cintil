@@ -1,1 +1,1 @@
-(S (S (NP (PRP Estas) (NNS obras)) (VP (VB vão) (VP (VP (VB prolongar) (NP (PRP -se))) (PP (IN durante) (NP (CD 30) (NNS dias)))))) (. .))
+(S (S (NP (DT Estas) (NNS obras)) (VP (VB vão) (VP (VP (VB prolongar) (NP (PRP -se))) (PP (IN durante) (NP (CD 30) (NNS dias)))))) (. .))

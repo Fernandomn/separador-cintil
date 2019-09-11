@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Cajuda)) (NP (CC e) (NP (DT a) (NP (NNS coragem) (JJ bracarense))))))
+(S (NP (NP (NNS Cajuda)) (NP (CONJ e) (NP (DT a) (NP (NNS coragem) (JJ bracarense))))))

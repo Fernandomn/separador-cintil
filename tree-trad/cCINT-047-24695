@@ -1,1 +1,1 @@
-(S (S (NP (JJ Todos)) (VP (VP (VB sentimos) (RB muito)) (NP (DT a) (NP (PRP$ tua) (NNS falta))))) (. .))
+(S (S (NP (PRP Todos)) (VP (VP (VB sentimos) (RB muito)) (NP (DT a) (NP (PP$ tua) (NNS falta))))) .))

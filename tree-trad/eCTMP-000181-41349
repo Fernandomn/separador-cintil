@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Bob) (NNS Woodward))) (NP (CC e) (NP (NP (NNS Carl) (NNS Bernstein))))))
+(S (NP (NP (NP (NNS Bob) (NNS Woodward))) (NP (CONJ e) (NP (NP (NNS Carl) (NNS Bernstein))))))

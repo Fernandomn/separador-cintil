@@ -1,1 +1,1 @@
-(S (NP (NP (DT Os) (NNS jovens)) (NP (CC e) (NP (DT os) (NNS vetustos)))))
+(S (NP (NP (DT Os) (NNS jovens)) (NP (CONJ e) (NP (DT os) (NNS vetustos)))))

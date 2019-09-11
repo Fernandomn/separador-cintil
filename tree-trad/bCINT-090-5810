@@ -1,1 +1,1 @@
-(S (S (NP (NNS Oliveira)) (VP (VB faz) (NP (DT o) (NP (NNS diagnóstico) (PP (IN a_) (NP (DT a) (NP (NNS crise) (PP (IN de_) (NP (DT o) (NP (NNS FC) (NNS Porto))))))))))) (S (CC e) (S (VP (VB aponta) (NP (DT o) (NNS caminho))))))
+(S (S (NP (NNS Oliveira)) (VP (VB faz) (NP (DT o) (NP (NNS diagnóstico) (PP (IN a_) (NP (DT a) (NP (NNS crise) (PP (IN de_) (NP (DT o) (NP (NNS FC) (NNS Porto))))))))))) (S (CONJ e) (S (VP (VB aponta) (NP (DT o) (NNS caminho))))))

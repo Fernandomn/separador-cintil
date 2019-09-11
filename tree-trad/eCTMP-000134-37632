@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Anabela) (NNS Mendes))) (NP (. ,) (NP (NP (NP (NNS Guilherme) (NNS Paixão))) (NP (CC e) (NP (NP (NNS Luís) (NNS Filipe) (NNS Sebastião))))))))
+(S (NP (NP (NP (NNS Anabela) (NNS Mendes))) (NP ,) (NP (NP (NP (NNS Guilherme) (NNS Paixão))) (NP (CONJ e) (NP (NP (NNS Luís) (NNS Filipe) (NNS Sebastião))))))))

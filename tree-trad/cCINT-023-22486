@@ -1,1 +1,1 @@
-(S (S (VP (VB És) (NP (DT o) (NP (NNS cão) (PP (IN de_) (NP (DT os) (NP (PRP$ meus) (NNS sonhos)))))))) (. !))
+(S (S (VP (VB És) (NP (DT o) (NP (NNS cão) (PP (IN de_) (NP (DT os) (NP (PP$ meus) (NNS sonhos)))))))) !))

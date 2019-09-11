@@ -1,1 +1,1 @@
-(S (S (NP (PRP Esse) (NNS número)) (VP (VB vai) (VP (RB provavelmente) (VP (VB crescer) (PP (IN durante) (NP (PRP esta) (NNS década))))))) (. .))
+(S (S (NP (DT Esse) (NNS número)) (VP (VB vai) (VP (RB provavelmente) (VP (VB crescer) (PP (IN durante) (NP (DT esta) (NNS década))))))) (. .))

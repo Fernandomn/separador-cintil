@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Angústia) (SBAR (NP (PRP que)) (S (VP (VB aumenta) (NP (CC quando) (S (. ') (S (S (S (NP (DT o) (NNS avião)) (VP (VB chega) (RB tarde))) (. ,)) (S (CC ou) (S (VP (VP (RB não) (VB há)) (NP (NNS futebol)))))) (. ')))))))) (. .))
+(S (NP (NP (NNS Angústia) (SBAR (NP (PRP que)) (S (VP (VB aumenta) (CONJP (CONJ quando) (S (. ') (S (S (S (NP (DT o) (NNS avião)) (VP (VB chega) (RB tarde))) (. ,)) (S (CONJ ou) (S (VP (VP (RB não) (VB há)) (NP (NNS futebol)))))) (. ')))))))) (. .))

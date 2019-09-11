@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Televisões) (JJ francesas))) (VP (VB apostam) (PP (IN em_) (NP (DT a) (NNS informação))))) (S (. ,) (S (NP (NNS Portugal)) (VP (VB fica) (PP (IN a_) (NP (DT a) (NNS espera)))))))
+(S (S (NP (NP (NNS Televisões) (JJ francesas))) (VP (VB apostam) (PP (IN em_) (NP (DT a) (NNS informação))))) (S ,) (S (NP (NNS Portugal)) (VP (VB fica) (PP (IN a_) (NP (DT a) (NNS espera)))))))

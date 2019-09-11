@@ -1,1 +1,1 @@
-(S (S (PP (IN Para) (NP (DT a) (NNS autarca))) (S (NP (PRP isso)) (VP (VP (RB não) (VB é)) (NP (NNS solução))))) (. .))
+(S (S (PP (IN Para) (NP (DT a) (NNS autarca))) (S (NP (DT isso)) (VP (VP (RB não) (VB é)) (NP (NNS solução))))) (. .))

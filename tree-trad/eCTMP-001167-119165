@@ -1,1 +1,1 @@
-(S (S (PP (IN Durante) (NP (JJ todo) (NP (PRP este) (NNS tempo)))) (S (NP (DT o) (NNS orador)) (VP (ADVP (RB quase) (RB nunca)) (VP (VB foi) (VB interrompido))))) (. .))
+(S (S (PP (IN Durante) (NP (PRP todo) (NP (DT este) (NNS tempo)))) (S (NP (DT o) (NNS orador)) (VP (ADVP (RB quase) (RB nunca)) (VP (VB foi) (VB interrompido))))) (. .))

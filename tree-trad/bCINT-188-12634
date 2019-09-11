@@ -1,1 +1,1 @@
-(S (. ") (VP (VP (VB Devia) (VP (VB haver) (NP (DT uma) (NP (NNS lei) (SBAR (NP (PRP que)) (S (VP (VB punisse) (NP (PRP estes) (NNS casos))))))))) (. .)) (. "))
+(S ") (VP (VP (VB Devia) (VP (VB haver) (NP (DT uma) (NP (NNS lei) (SBAR (NP (PRP que)) (S (VP (VB punisse) (NP (DT estes) (NNS casos))))))))) .)) "))

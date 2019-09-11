@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (PP (IN a_) (NP (DT os) (NP (CD 24) (NNS anos)))) (VP (RB já) (VP (VB estava) (ADJP (VB paralisada)))))) (. .)) (. '))
+(S ') (S (S (VP (PP (IN a_) (NP (DT os) (NP (CD 24) (NNS anos)))) (VP (RB já) (VP (VB estava) (ADJP (VB paralisada)))))) .)) '))

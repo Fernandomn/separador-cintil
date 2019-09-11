@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS conclusão) (PP (IN de_) (NP (PRP estes) (NNS especialistas))))) (VP (VP (RB não) (VB podia)) (VP (VB ser) (ADJP (RB mais) (JJ clara))))) (. :))
+(S (S (NP (DT A) (NP (NNS conclusão) (PP (IN de_) (NP (DT estes) (NNS especialistas))))) (VP (VP (RB não) (VB podia)) (VP (VB ser) (ADJP (RB mais) (JJ clara))))) (. :))

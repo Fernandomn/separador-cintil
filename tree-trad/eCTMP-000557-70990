@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN De) (NP (DT um) (NP (NNS futebol) (SBAR (NP (PRP que)) (S (S (VP (VB gere) (NP (DT os) (NNS acessos)))) (S (CC e) (S (VP (VB delimita) (NP (NNS orçamentos)))))))))))) (. .))
+(S (S (VP (PP (IN De) (NP (DT um) (NP (NNS futebol) (SBAR (NP (PRP que)) (S (S (VP (VB gere) (NP (DT os) (NNS acessos)))) (S (CONJ e) (S (VP (VB delimita) (NP (NNS orçamentos)))))))))))) .))

@@ -1,1 +1,1 @@
-(S (NP (NNS TVI)) (VP (VB desmente) (NP (. ') (NP (NNS Diário) (NNS Económico)) (. '))))
+(S (NP (NNS TVI)) (VP (VB desmente) (NP ') (NP (NNS Diário) (NNS Económico)) '))))

@@ -1,1 +1,1 @@
-(S (S (S (RB Não) (S (NP (PRP se)) (VB actua))) (PP (PP (IN com) (NP (DT a) (NNS seriedade))) (PP (CC e) (PP (IN com) (NP (DT a) (NP (NNS noção) (PP (IN de_) (NP (DT os) (NP (NNS efeitos) (PP (IN em_) (NP (DT o) (NNS tempo)))))))))))) (. .))
+(S (S (S (RB Não) (S (NP (PRP se)) (VB actua))) (PP (PP (IN com) (NP (DT a) (NNS seriedade))) (PP (CONJ e) (PP (IN com) (NP (DT a) (NP (NNS noção) (PP (IN de_) (NP (DT os) (NP (NNS efeitos) (PP (IN em_) (NP (DT o) (NNS tempo)))))))))))) (. .))

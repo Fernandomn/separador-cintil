@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VB acertou) (PP (IN em_) (NP (DT o) (NNS alvo))))) (. .))
+(S (S (NP (DT O) (NNS Pedro)) (VP (VB acertou) (PP (IN em_) (NP (DT o) (NNS alvo))))) .)

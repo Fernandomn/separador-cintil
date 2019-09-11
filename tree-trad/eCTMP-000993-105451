@@ -1,1 +1,1 @@
-(S (S (S (S (NP (DT O) (NNS humor)) (VB resiste)) (. ,)) (S (CC mas) (S (NP (DT o) (NNS entusiasmo)) (VP (VB desce) (PP (IN de) (NP (NNS pára-quedas))))))) (. .))
+(S (S (S (S (NP (DT O) (NNS humor)) (VB resiste)) (. ,)) (S (CONJ mas) (S (NP (DT o) (NNS entusiasmo)) (VP (VB desce) (PP (IN de) (NP (NNS pára-quedas))))))) (. .))

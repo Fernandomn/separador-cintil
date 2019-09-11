@@ -1,1 +1,1 @@
-(S (NP (NP (DT O) (NP (. ') (NNS polvo) (. '))) (NP (CC e) (NP (DT a) (NNS RTP)))))
+(S (NP (NP (DT O) (NP ') (NNS polvo) '))) (NP (CONJ e) (NP (DT a) (NNS RTP)))))

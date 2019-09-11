@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NP (NNS Tribunal) (NNS Judicial) (NNS de_) (NNS a) (NNS Comarca)) (PP (IN de) (NP (NP (NP (NNS Ponta) (NNS Delgada))) (NP (. ,) (NNS Açores) (. ,)))))) (VP (VB entrou) (PP (IN em) (NP (NP (NNS ruptura) (JJ administrativa)))))) (. .))
+(S (S (NP (DT O) (NP (NP (NNS Tribunal) (NNS Judicial) (NNS de_) (NNS a) (NNS Comarca)) (PP (IN de) (NP (NP (NP (NNS Ponta) (NNS Delgada))) (NP ,) (NNS Açores) ,)))))) (VP (VB entrou) (PP (IN em) (NP (NP (NNS ruptura) (JJ administrativa)))))) .))

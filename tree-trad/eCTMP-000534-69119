@@ -1,1 +1,1 @@
-(S (S (ADVP (ADVP (RB Por) (RB agora)) (. ,)) (S (NP (PRP eles)) (VP (. ') (VP (VB são) (NP (RB apenas) (NP (NNS suspeitos)))) (. ')))) (. .))
+(S (S (ADVP (ADVP (RB Por) (RB agora)) ,)) (S (NP (PRP eles)) (VP ') (VP (VB são) (NP (RB apenas) (NP (NNS suspeitos)))) ')))) .))

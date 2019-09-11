@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS foto) (PP (IN de) (NP (. ") (NP (NNS A) (NNS escuridão) (NNS e) (NNS o) (NNS brilho)) (. "))))) (VP (VP (VB refere) (NP (PRP -se))) (PP (IN a) (NP (. ") (NP (NNS Teatro) (NNS ,) (NNS alarme) (NNS ,) (NNS explosão)) (. "))))) (. .))
+(S (S (NP (DT A) (NP (NNS foto) (PP (IN de) (NP ") (NP (NNS A) (NNS escuridão) (NNS e) (NNS o) (NNS brilho)) "))))) (VP (VP (VB refere) (NP (PRP -se))) (PP (IN a) (NP ") (NP (NNS Teatro) (NNS ,) (NNS alarme) (NNS ,) (NNS explosão)) "))))) .))

@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Base) (JJ aérea))) (VP (VP (PP (IN sem) (NP (NNS civis)))) (PP (IN por) (NP (NP (NNS falta) (PP (IN de) (NP (DT um) (NP (. ') (NNS lobby) (. ')))))))))
+(S (NP (NP (NNS Base) (JJ aérea))) (VP (VP (PP (IN sem) (NP (NNS civis)))) (PP (IN por) (NP (NP (NNS falta) (PP (IN de) (NP (DT um) (NP ') (NNS lobby) ')))))))))

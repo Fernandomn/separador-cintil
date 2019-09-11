@@ -1,1 +1,1 @@
-(S (S (PP (PP (PP (IN Em_) (NP (DT as) (NP (NNS consciências) (JJ individuais)))) (PP (CC e) (PP (IN em_) (NP (DT a) (NP (NNS atitude) (JJ social)))))) (. ,)) (S (NP (DT o) (NNS problema)) (VP (VP (VB foi) (RB sempre)) (NP (PRP este))))) (. .))
+(S (S (PP (PP (PP (IN Em_) (NP (DT as) (NP (NNS consciências) (JJ individuais)))) (PP (CONJ e) (PP (IN em_) (NP (DT a) (NP (NNS atitude) (JJ social)))))) (. ,)) (S (NP (DT o) (NNS problema)) (VP (VP (VB foi) (RB sempre)) (NP (DT este))))) (. .))

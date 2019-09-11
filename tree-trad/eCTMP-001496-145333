@@ -1,1 +1,1 @@
-(S (VP (PP (IN De) (NP (NP (NP (NNS Hendel) (NNS Butoy))) (NP (CC e) (NP (NP (NNS Mike) (NNS Gabriel))))))))
+(S (VP (PP (IN De) (NP (NP (NP (NNS Hendel) (NNS Butoy))) (NP (CONJ e) (NP (NP (NNS Mike) (NNS Gabriel))))))))

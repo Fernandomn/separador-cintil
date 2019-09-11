@@ -1,1 +1,1 @@
-(S (S (S (NP (JJ Todas) (NP (PRP estas) (NNS medidas))) (VP (VB aumentarão) (NP (DT o) (NP (NNS custo) (PP (IN de) (NP (NNS vida))))))) (S (CC e) (S (VP (VB provocarão) (NP (NP (NNS protestos) (JJ populares))))))) (. .))
+(S (S (S (NP (PRP Todas) (NP (DT estas) (NNS medidas))) (VP (VB aumentarão) (NP (DT o) (NP (NNS custo) (PP (IN de) (NP (NNS vida))))))) (S (CONJ e) (S (VP (VB provocarão) (NP (NP (NNS protestos) (JJ populares))))))) (. .))

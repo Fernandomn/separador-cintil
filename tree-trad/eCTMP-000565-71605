@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Ambiente) (JJ tenso)) (NP (CC e) (NP (NNS olhares) (JJ distantes))))) (. .))
+(S (NP (NP (NP (NNS Ambiente) (JJ tenso)) (NP (CONJ e) (NP (NNS olhares) (JJ distantes))))) .))

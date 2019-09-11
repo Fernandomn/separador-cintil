@@ -1,1 +1,1 @@
-(S (S (S (VP (VB É) (NP (NNS galego)))) (S (CC e) (S (VP (VB escreve) (PP (IN em) (NP (NNS castelhano))))))) (. .))
+(S (S (S (VP (VB É) (NP (NNS galego)))) (S (CONJ e) (S (VP (VB escreve) (PP (IN em) (NP (NNS castelhano))))))) (. .))

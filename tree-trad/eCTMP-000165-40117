@@ -1,1 +1,1 @@
-(S (S (S (NP (PRP Aquele)) (VB ganha)) (S (. ,) (S (NP (PRP esta)) (VP (VB é) (VB desmascarada))))) (. .))
+(S (S (S (NP (DT Aquele)) (VB ganha)) (S ,) (S (NP (DT esta)) (VP (VB é) (VB desmascarada))))) .))

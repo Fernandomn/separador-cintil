@@ -1,1 +1,1 @@
-(S (S (VB Desapareceu) (NP (DT certo) (NP (NNS carro) (PRP$ meu)))) (. .))
+(S (S (VB Desapareceu) (NP (DT certo) (NP (NNS carro) (PP$ meu)))) .)

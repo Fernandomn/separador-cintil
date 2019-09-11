@@ -1,1 +1,1 @@
-(S (NP (DT Uma) (NP (NNS surpresa) (PP (IN para) (NP (NP (NNS Rui) (NNS Horta)))))) (. :))
+(S (NP (DT Uma) (NP (NNS surpresa) (PP (IN para) (NP (NP (NNS Rui) (NNS Horta)))))) :))

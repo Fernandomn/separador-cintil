@@ -1,1 +1,1 @@
-(S (NP (NP (DT O) (NNS general)) (NP (CC ou) (NP (DT os) (NNS sargentos)))) (. ?))
+(S (NP (NP (DT O) (NNS general)) (NP (CONJ ou) (NP (DT os) (NNS sargentos)))) ?))

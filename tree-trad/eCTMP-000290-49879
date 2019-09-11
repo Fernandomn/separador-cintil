@@ -1,1 +1,1 @@
-(S (S (NP (NNS Nasoni)) (VP (VB cria) (NP (. ') (NNS holding) (. ')))) (S (CC e) (S (VP (VB apoia) (NP (NP (NNS fundo) (PP (IN de) (NP (NNS investimento)))))))))
+(S (S (NP (NNS Nasoni)) (VP (VB cria) (NP ') (NNS holding) ')))) (S (CONJ e) (S (VP (VB apoia) (NP (NP (NNS fundo) (PP (IN de) (NP (NNS investimento)))))))))

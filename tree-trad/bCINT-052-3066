@@ -1,1 +1,1 @@
-(S (S (NP (NNS Saddam)) (VB saiu)) (S (CC e) (S (VB venceu))))
+(S (S (NP (NNS Saddam)) (VB saiu)) (S (CONJ e) (S (VB venceu))))

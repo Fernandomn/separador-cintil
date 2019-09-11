@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB É) (ADVP (. ,) (ADVP (RB em) (RB suma)) (. ,))) (NP (DT um) (NNS autor)))) (. .))
+(S (S (VP (VP (VB É) (ADVP ,) (ADVP (RB em) (RB suma)) ,))) (NP (DT um) (NNS autor)))) .))

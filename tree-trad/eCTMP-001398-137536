@@ -1,1 +1,1 @@
-(S (NP (DT O) (NP (NNS fado) (PP (PP (IN de_) (NP (DT as) (NNS licenças))) (PP (CC e) (PP (IN de_) (NP (DT os) (NNS impostos))))))))
+(S (NP (DT O) (NP (NNS fado) (PP (PP (IN de_) (NP (DT as) (NNS licenças))) (PP (CONJ e) (PP (IN de_) (NP (DT os) (NNS impostos))))))))

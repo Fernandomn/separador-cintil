@@ -1,1 +1,1 @@
-(S (S (NP (PRP Estas) (NNS aspirações)) (VP (VP (VP (VB ganham) (ADVP (. ,) (RB assim) (. ,))) (NP (NP (JJ maior) (NNS expressão)))) (PP (IN em) (NP (NNS Portugal))))) (. .))
+(S (S (NP (DT Estas) (NNS aspirações)) (VP (VP (VP (VB ganham) (ADVP ,) (RB assim) ,))) (NP (NP (JJ maior) (NNS expressão)))) (PP (IN em) (NP (NNS Portugal))))) .))

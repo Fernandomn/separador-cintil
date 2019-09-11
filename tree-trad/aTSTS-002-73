@@ -1,1 +1,1 @@
-(S (S (NP (DT o) (NNS Manuel)) (VP (VB é) (ADJP (ADJP (RB mais) (JJ alto)) (NP (NP (CC de_) (CC o) (CC que)) (NP (PRP eu)))))) (. .))
+(S (S (NP (DT o) (NNS Manuel)) (VP (VB é) (ADJP (ADJP (RB mais) (JJ alto)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (PRP eu)))))) .)

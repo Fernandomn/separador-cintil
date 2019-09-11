@@ -1,1 +1,1 @@
-(S (S (S (S (VP (RB Hoje) (VP (RB ainda) (VP (VB sinto) (NP (JJ alguma)))))) (. ,)) (S (CC mas) (S (VP (RB já) (VP (VP (RB não) (VB é)) (JJ total)))))) (. .))
+(S (S (S (S (VP (RB Hoje) (VP (RB ainda) (VP (VB sinto) (NP (PRP alguma)))))) ,)) (S (CONJ mas) (S (VP (RB já) (VP (VP (RB não) (VB é)) (JJ total)))))) .))

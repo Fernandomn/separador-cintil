@@ -1,1 +1,1 @@
-(S (S (NP (NNS Logan)) (VP (VP (VB resumiu) (NP (JJ tudo))) (NP (CC quando) (S (VP (ADVP (. ,) (ADVP (RB pouco) (RB depois)) (. ,)) (VB declarou)))))) (. :))
+(S (S (NP (NNS Logan)) (VP (VP (VB resumiu) (NP (PRP tudo))) (CONJP (CONJ quando) (S (VP (ADVP (. ,) (ADVP (RB pouco) (RB depois)) (. ,)) (VB declarou)))))) (. :))

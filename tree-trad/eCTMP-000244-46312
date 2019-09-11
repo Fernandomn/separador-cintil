@@ -1,1 +1,1 @@
-(S (S (S (NP (DT O) (NNS PS)) (VB concorda)) (S (CC mas) (S (VP (VP (VB aposta) (ADVP (. ,) (RB agora) (. ,))) (PP (IN em_) (NP (DT as) (NP (NP (. ') (NNS nuances) (. ')) (PP (IN de_) (NP (DT a) (NNS diferença)))))))))) (. .))
+(S (S (S (NP (DT O) (NNS PS)) (VB concorda)) (S (CONJ mas) (S (VP (VP (VB aposta) (ADVP ,) (RB agora) ,))) (PP (IN em_) (NP (DT as) (NP (NP ') (NNS nuances) ')) (PP (IN de_) (NP (DT a) (NNS diferença)))))))))) .))

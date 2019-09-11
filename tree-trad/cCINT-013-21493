@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS Frederico)) (VP (VP (RB não) (VB pôde)) (VP (VB conter) (NP (DT um) (NP (JJ certo) (NNS orgulho)))))) (. :))
+(S (S (NP (DT O) (NNS Frederico)) (VP (VP (RB não) (VB pôde)) (VP (VB conter) (NP (DT um) (NP (JJ certo) (NNS orgulho)))))) :))

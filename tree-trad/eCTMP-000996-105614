@@ -1,1 +1,1 @@
-(S (NP (NP (DT Um) (NNS tribunal)) (NP (. ,) (NP (NP (NNS casamentos)) (NP (CC e) (NP (DT outras) (NNS novidades)))))))
+(S (NP (NP (DT Um) (NNS tribunal)) (NP (. ,) (NP (NP (NNS casamentos)) (NP (CONJ e) (NP (DT outras) (NNS novidades)))))))

@@ -1,1 +1,1 @@
-(S (NP (NP (DT O) (NNS corpo)) (NP (CC ou) (NP (DT os) (NP (NNS lugares) (SBAR (NP (PRP que)) (S (NP (PRP ele)) (VP (VB habita)))))))) (. .))
+(S (NP (NP (DT O) (NNS corpo)) (NP (CONJ ou) (NP (DT os) (NP (NNS lugares) (SBAR (NP (PRP que)) (S (NP (PRP ele)) (VP (VB habita)))))))) (. .))

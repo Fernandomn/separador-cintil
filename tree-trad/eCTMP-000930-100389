@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS nome)) (VP (VB é) (ADJP (JJ longo) (ADJP (CC e) (JJ pomposo))))) (. :))
+(S (S (NP (DT O) (NNS nome)) (VP (VB é) (ADJP (JJ longo) (ADJP (CONJ e) (JJ pomposo))))) (. :))

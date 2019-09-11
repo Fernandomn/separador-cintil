@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (PRP$ sua) (NNS tarefa))) (VP (VP (RB não) (VB é)) (JJ fácil))) (. .))
+(S (S (NP (DT A) (NP (PP$ sua) (NNS tarefa))) (VP (VP (RB não) (VB é)) (JJ fácil))) .))

@@ -1,1 +1,1 @@
-(S (VP (PP (IN em_) (NP (PRP este) (NNS momento))) (VP (RB só) (VP (VP (VB há) (NP (NNS cinema))) (NP (CC porque) (S (VB existe) (NP (NNS RTP))))))) (. .))
+(S (VP (PP (IN em_) (NP (DT este) (NNS momento))) (VP (RB só) (VP (VP (VB há) (NP (NNS cinema))) (CONJP (CONJ porque) (S (VB existe) (NP (NNS RTP))))))) .))

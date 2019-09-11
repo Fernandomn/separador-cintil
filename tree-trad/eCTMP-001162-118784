@@ -1,1 +1,1 @@
-(S (. ') (S (VP (VB Quero) (VP (VB ser) (NP (DT a) (NP (NNS ponte) (PP (IN entre) (NP (NP (DT o) (NNS MPLA)) (NP (CC e) (NP (DT a) (NNS UNITA)))))))))) (. '))
+(S (. ') (S (VP (VB Quero) (VP (VB ser) (NP (DT a) (NP (NNS ponte) (PP (IN entre) (NP (NP (DT o) (NNS MPLA)) (NP (CONJ e) (NP (DT a) (NNS UNITA)))))))))) (. '))

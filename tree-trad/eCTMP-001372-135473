@@ -1,1 +1,1 @@
-(S (S (NP (PRP Estas) (NNS actividades)) (VP (VB fazem) (NP (NP (NP (NNS parte) (JJ integrante)) (PP (IN de_) (NP (DT as) (NP (NNS funções) (PP (IN de_) (NP (DT os) (NP (NNS enfermeiros) (PP (IN de) (NP (NNS trabalho))))))))))))) (. .))
+(S (S (NP (DT Estas) (NNS actividades)) (VP (VB fazem) (NP (NP (NP (NNS parte) (JJ integrante)) (PP (IN de_) (NP (DT as) (NP (NNS funções) (PP (IN de_) (NP (DT os) (NP (NNS enfermeiros) (PP (IN de) (NP (NNS trabalho))))))))))))) (. .))

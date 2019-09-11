@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (JJ óbvio)) (SBAR (IN que) (S (NP (NP (PRP quem)) (S (VP (VB lucra) (PP (IN com) (NP (PRP esta) (NNS situação)))))) (S (VP (VP (RB não) (VB são))) (NP (NP (DT os) (NNS toxicodependentes)) (NP (CC e) (NP (DT as) (NP (PRP$ suas) (NNS famílias))))))))) (. .))
+(S (S (VP (VB É) (JJ óbvio)) (SBAR (IN que) (S (NP (NP (PRP quem)) (S (VP (VB lucra) (PP (IN com) (NP (DT esta) (NNS situação)))))) (S (VP (VP (RB não) (VB são))) (NP (NP (DT os) (NNS toxicodependentes)) (NP (CONJ e) (NP (DT as) (NP (PP$ suas) (NNS famílias))))))))) .))

@@ -1,1 +1,1 @@
-(S (VP (PP (IN Com) (NP (NP (NP (NNS Jean-Claude) (NNS van) (NNS Damme))) (NP (CC e) (NP (NP (NNS Robert) (NNS Guillaume))))))))
+(S (VP (PP (IN Com) (NP (NP (NP (NNS Jean-Claude) (NNS van) (NNS Damme))) (NP (CONJ e) (NP (NP (NNS Robert) (NNS Guillaume))))))))

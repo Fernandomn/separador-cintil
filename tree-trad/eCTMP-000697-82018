@@ -1,1 +1,1 @@
-(S (NP (DT O) (NNS destino)) (VP (VB é) (ADJP (ADJP (RB mais) (JJ forte)) (NP (CC que) (NP (DT o) (NNS dinheiro))))))
+(S (NP (DT O) (NNS destino)) (VP (VB é) (ADJP (ADJP (RB mais) (JJ forte)) (CONJP (CONJ que) (NP (DT o) (NNS dinheiro))))))

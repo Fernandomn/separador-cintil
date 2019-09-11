@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (PRP$ meu) (NNS rim)))) (PP (IN por) (NP (DT um) (NNS carro))))
+(S (S (NP (DT O) (NP (PP$ meu) (NNS rim)))) (PP (IN por) (NP (DT um) (NNS carro))))

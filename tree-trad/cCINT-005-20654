@@ -1,1 +1,1 @@
-(S (S (S (VP (VP (RB Aqui)) (PP (IN a) (NP (PRP esta) (NNS hora))))) (. ?)) (. !))
+(S (S (S (VP (VP (RB Aqui)) (PP (IN a) (NP (DT esta) (NNS hora))))) ?)) !))

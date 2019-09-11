@@ -1,1 +1,1 @@
-(S (S (NP (PRP Ela)) (VP (VB é) (ADJP (ADJP (RB muito) (JJ ajuizada)) (ADJP (. ,) (ADJP (RB muito) (JJ adulta)))))) (. .))
+(S (S (NP (PRP Ela)) (VP (VB é) (ADJP (ADJP (RB muito) (JJ ajuizada)) (ADJP ,) (ADJP (RB muito) (JJ adulta)))))) .))

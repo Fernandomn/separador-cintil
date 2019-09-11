@@ -1,1 +1,1 @@
-(S (S (NP (PRP Esta) (NNS divisão)) (VP (VB é) (NP (DT um) (NP (NNS erro) (JJ crasso))))) (. .))
+(S (S (NP (DT Esta) (NNS divisão)) (VP (VB é) (NP (DT um) (NP (NNS erro) (JJ crasso))))) (. .))

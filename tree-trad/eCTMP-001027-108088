@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN a_) (NP (DT os) (NNS idosos))) (PP (CC e) (PP (IN a_) (NP (DT os) (NNS anémicos))))) (VP (RB também) (VP (VB é) (JJ recomendável))))) (. .))
+(S (S (VP (PP (PP (IN a_) (NP (DT os) (NNS idosos))) (PP (CONJ e) (PP (IN a_) (NP (DT os) (NNS anémicos))))) (VP (RB também) (VP (VB é) (JJ recomendável))))) (. .))

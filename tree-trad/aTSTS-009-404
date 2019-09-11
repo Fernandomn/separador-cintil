@@ -1,1 +1,1 @@
-(S (S (NP (PRP Ele)) (VP (VB é) (NP (PRP$ teu) (NNS irmão)))) (. ?))
+(S (S (NP (PRP Ele)) (VP (VB é) (NP (PP$ teu) (NNS irmão)))) ?)

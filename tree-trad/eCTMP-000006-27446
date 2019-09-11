@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NNS Paquete) (NNS de) (NNS Oliveira))) (NP (. ,) (NNS sociólogo) (. ,))) (VP (VB fala) (PP (IN de_) (NP (DT o) (NP (NNS drama) (JJ social)))))) (. .))
+(S (S (NP (NP (NP (NNS Paquete) (NNS de) (NNS Oliveira))) (NP ,) (NNS sociólogo) ,))) (VP (VB fala) (PP (IN de_) (NP (DT o) (NP (NNS drama) (JJ social)))))) .))

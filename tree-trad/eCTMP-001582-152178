@@ -1,1 +1,1 @@
-(S (S (VP (VB São) (NP (NP (NP (NNS momentos) (PP (IN de_) (NP (PRP estes)))) (SBAR (NP (PRP que)) (S (VP (PP (. ,) (PP (IN segundo) (NP (NNS Tannery))) (. ,)) (VP (VP (VB dão) (NP (NP (JJ verdadeiro) (NNS significado)))) (PP (IN a_) (NP (DT a) (NNS festa))))))))))) (. .))
+(S (S (VP (VB São) (NP (NP (NP (NNS momentos) (PP (IN de_) (NP (DT estes)))) (SBAR (NP (PRP que)) (S (VP (PP (. ,) (PP (IN segundo) (NP (NNS Tannery))) (. ,)) (VP (VP (VB dão) (NP (NP (JJ verdadeiro) (NNS significado)))) (PP (IN a_) (NP (DT a) (NNS festa))))))))))) (. .))

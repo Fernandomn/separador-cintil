@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (PRP Este)) (VP (VB é) (NP (RB apenas) (NP (DT o) (NNS princípio))))) (. .)))
+(S ') (S (S (NP (DT Este)) (VP (VB é) (NP (RB apenas) (NP (DT o) (NNS princípio))))) .)))

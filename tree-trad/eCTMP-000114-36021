@@ -1,1 +1,1 @@
-(S (VP (PP (IN Com) (NP (NP (NP (NNS Glenn) (NNS Ford))) (NP (CC e) (NP (NP (NNS Anne) (NNS Baxter))))))))
+(S (VP (PP (IN Com) (NP (NP (NP (NNS Glenn) (NNS Ford))) (NP (CONJ e) (NP (NP (NNS Anne) (NNS Baxter))))))))

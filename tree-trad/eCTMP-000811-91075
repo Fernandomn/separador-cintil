@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NNS elemento) (JJ feminino))) (VP (VP (VB está) (JJ favorecido)) (PP (NP (PRP esta) (NNS semana))))) (. .))
+(S (S (NP (DT O) (NP (NNS elemento) (JJ feminino))) (VP (VP (VB está) (JJ favorecido)) (PP (NP (DT esta) (NNS semana))))) (. .))

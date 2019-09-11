@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS amor)) (VP (VP (VB é) (ADJP (ADJP (RB mais) (JJ forte)) (NP (NP (CC de_) (CC o) (CC que)) (NP (DT a) (NNS morte))))) (ADVP (. ,) (ADVP (RB mesmo) (ADVP (RB por) (RB acaso)))))) (. .))
+(S (S (NP (DT O) (NNS amor)) (VP (VP (VB é) (ADJP (ADJP (RB mais) (JJ forte)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT a) (NNS morte))))) (ADVP (. ,) (ADVP (RB mesmo) (ADVP (RB por) (RB acaso)))))) (. .))

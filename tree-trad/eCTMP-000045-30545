@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NNS cantores)) (VP (VB serão) (VP (VP (VB acompanhados) (PP (IN a_) (NP (DT o) (NNS piano)))) (PP (IN por) (NP (NP (NNS Armando) (NNS Vidal))))))) (. .))
+(S (S (NP (DT Os) (NNS cantores)) (VP (VB serão) (VP (VP (VB acompanhados) (PP (IN a_) (NP (DT o) (NNS piano)))) (PP (IN por) (NP (NP (NNS Armando) (NNS Vidal))))))) .))

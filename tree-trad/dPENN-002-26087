@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NNS bancos)) (VP (VP (VB querem) (RB desesperadamente)) (VP (VB invadir) (NP (JJ todos) (NP (DT os) (NP (NNS aspectos) (PP (IN de_) (NP (DT o) (NP (NNS negócio) (PP (IN de_) (NP (DT os) (NP (NNS valores) (JJ mobiliários))))))))))))) (. .))
+(S (S (NP (DT Os) (NNS bancos)) (VP (VP (VB querem) (RB desesperadamente)) (VP (VB invadir) (NP (PRP todos) (NP (DT os) (NP (NNS aspectos) (PP (IN de_) (NP (DT o) (NP (NNS negócio) (PP (IN de_) (NP (DT os) (NP (NNS valores) (JJ mobiliários))))))))))))) .))

@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Ferro) (NNS Rodrigues))) (VP (VB defende) (NP (DT o) (NP (PRP$ seu) (NNS orçamento)))))
+(S (NP (NP (NNS Ferro) (NNS Rodrigues))) (VP (VB defende) (NP (DT o) (NP (PP$ seu) (NNS orçamento)))))

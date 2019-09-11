@@ -1,1 +1,1 @@
-(S (S (NP (PRP Eu)) (VP (RB nunca) (VP (VB faria) (NP (DT uma) (NP (NNS coisa) (PP (IN de_) (NP (PRP essas)))))))) (. !))
+(S (S (NP (PRP Eu)) (VP (RB nunca) (VP (VB faria) (NP (DT uma) (NP (NNS coisa) (PP (IN de_) (NP (DT essas)))))))) !))

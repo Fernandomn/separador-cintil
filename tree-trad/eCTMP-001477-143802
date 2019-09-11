@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Mostovoi)) (NP (CC e) (NP (NP (NNS José) (NNS Carlos))))) (VP (VB punidos)))
+(S (NP (NP (NNS Mostovoi)) (NP (CONJ e) (NP (NP (NNS José) (NNS Carlos))))) (VP (VB punidos)))

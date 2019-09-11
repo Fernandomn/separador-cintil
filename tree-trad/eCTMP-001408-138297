@@ -1,1 +1,1 @@
-(S (S (NP (PRP Estas) (NP (CD duas) (NNS equipas))) (VP (VB são) (NP (DT as) (NP (NP (JJ únicas)) (SBAR (NP (PRP que)) (S (VP (VP (VB asseguraram) (RB já)) (NP (NP (NNS lugar) (PP (IN em_) (NP (DT a) (NP (NP (NNS fase) (JJ seguinte)) (PP (IN de_) (NP (DT a) (NNS prova))))))))))))))) (. .))
+(S (S (NP (DT Estas) (NP (CD duas) (NNS equipas))) (VP (VB são) (NP (DT as) (NP (NP (JJ únicas)) (SBAR (NP (PRP que)) (S (VP (VP (VB asseguraram) (RB já)) (NP (NP (NNS lugar) (PP (IN em_) (NP (DT a) (NP (NP (NNS fase) (JJ seguinte)) (PP (IN de_) (NP (DT a) (NNS prova))))))))))))))) (. .))

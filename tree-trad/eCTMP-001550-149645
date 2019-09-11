@@ -1,1 +1,1 @@
-(S (S (VP (VP (RB Não) (VB deve)) (VP (VB ser) (PP (IN por) (NP (NP (NNS deficiência) (PP (IN de) (NP (ADJP (JJ cada) (JJ uma)) (NP (PP (IN de_) (NP (DT as) (NNS pessoas)))))))))))) (. .))
+(S (S (VP (VP (RB Não) (VB deve)) (VP (VB ser) (PP (IN por) (NP (NP (NNS deficiência) (PP (IN de) (NP (ADJP (PRP cada) (PRP uma)) (NP (PP (IN de_) (NP (DT as) (NNS pessoas)))))))))))) (. .))

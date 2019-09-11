@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Cavou) (PP (IN a_) (NP (DT o) (NNS lado))))) (S (CC e) (S (VP (VB retirou) (NP (PRP -a)))))) (. .))
+(S (S (S (VP (VB Cavou) (PP (IN a_) (NP (DT o) (NNS lado))))) (S (CONJ e) (S (VP (VB retirou) (NP (PRP -a)))))) (. .))

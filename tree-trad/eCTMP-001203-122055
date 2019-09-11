@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Adelino) (NNS Gomes))) (NP (CC e) (NP (NP (NNS António) (NNS Reis))))) (. .))
+(S (NP (NP (NP (NNS Adelino) (NNS Gomes))) (NP (CONJ e) (NP (NP (NNS António) (NNS Reis))))) (. .))

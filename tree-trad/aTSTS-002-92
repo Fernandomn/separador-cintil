@@ -1,1 +1,1 @@
-(S (S (NP (DT o) (NNS Manuel)) (VP (VB é) (ADJP (ADJP (RB tão) (JJ alto)) (NP (CC como) (NP (DT A) (NNS Maria)))))) (. .))
+(S (S (NP (DT o) (NNS Manuel)) (VP (VB é) (ADJP (ADJP (RB tão) (JJ alto)) (CONJP (CONJ como) (NP (DT A) (NNS Maria)))))) .)

@@ -1,1 +1,1 @@
-(S (S (VP (VB Sabemos) (NP (PRP nós))) (SBAR (IN que) (S (NP (JJ tudo) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VB vibra)))))) (VP (VB produz) (NP (DT um) (NNS som)))))) (. .))
+(S (S (VP (VB Sabemos) (NP (PRP nós))) (SBAR (IN que) (S (NP (PRP tudo) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VB vibra)))))) (VP (VB produz) (NP (DT um) (NNS som)))))) .))

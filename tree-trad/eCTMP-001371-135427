@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Artur) (NNS Ramos))) (VP (VP (VB encenou) (VP (CC e) (VB realizou))) (NP (DT a) (NP (NNS versão) (JJ televisiva))))) (. .))
+(S (S (NP (NP (NNS Artur) (NNS Ramos))) (VP (VP (VB encenou) (VP (CONJ e) (VB realizou))) (NP (DT a) (NP (NNS versão) (JJ televisiva))))) (. .))

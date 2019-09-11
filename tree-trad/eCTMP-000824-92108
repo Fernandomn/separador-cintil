@@ -1,1 +1,1 @@
-(S (S (S (NP (NP (NNS João) (NNS Pinto))) (VB empatou)) (S (CC mas) (S (ADVP (. ,) (ADVP (ADVP (NP (CD cinco) (NNS minutos))) (RB depois)) (. ,)) (S (NP (NNS Figo)) (VP (VB fez) (NP (DT o) (NNS 2-1))))))) (. .))
+(S (S (S (NP (NP (NNS João) (NNS Pinto))) (VB empatou)) (S (CONJ mas) (S (ADVP (. ,) (ADVP (ADVP (NP (CD cinco) (NNS minutos))) (RB depois)) (. ,)) (S (NP (NNS Figo)) (VP (VB fez) (NP (DT o) (NNS 2-1))))))) (. .))

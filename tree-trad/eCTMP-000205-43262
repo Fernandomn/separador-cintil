@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS febre) (PP (IN de_) (NP (DT o) (NP (NNS mercado) (JJ comum)))))) (VP (VB abala) (NP (JJ todos) (NP (DT os) (NNS continentes))))) (. .))
+(S (S (NP (DT A) (NP (NNS febre) (PP (IN de_) (NP (DT o) (NP (NNS mercado) (JJ comum)))))) (VP (VB abala) (NP (PRP todos) (NP (DT os) (NNS continentes))))) .))

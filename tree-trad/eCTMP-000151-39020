@@ -1,1 +1,1 @@
-(S (NP (. ') (NP (NP (DT Os) (NP (NNS desafios) (PP (IN de_) (NP (DT a) (NNS globalização))))) (NP (CC e) (NP (DT a) (NP (NNS cooperação) (JJ inter-regional))))) (. ')) (. .))
+(S (NP ') (NP (NP (DT Os) (NP (NNS desafios) (PP (IN de_) (NP (DT a) (NNS globalização))))) (NP (CONJ e) (NP (DT a) (NP (NNS cooperação) (JJ inter-regional))))) ')) .))

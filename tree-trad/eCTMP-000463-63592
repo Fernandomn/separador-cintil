@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Bactéria) (ADJP (. ') (JJ gay) (. ')))) (NP (CC e) (NP (DT outras) (NNS histórias)))))
+(S (NP (NP (NP (NNS Bactéria) (ADJP ') (JJ gay) ')))) (NP (CONJ e) (NP (DT outras) (NNS histórias)))))

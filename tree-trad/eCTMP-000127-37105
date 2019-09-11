@@ -1,1 +1,1 @@
-(S (S (VP (RB Também) (VP (VP (VB era) (NP (DT uma) (NNS sorte))) (NP (CC se) (S (VP (RB não) (VB infectasse))))))) (. .))
+(S (S (VP (RB Também) (VP (VP (VB era) (NP (DT uma) (NNS sorte))) (CONJP (CONJ se) (S (VP (RB não) (VB infectasse))))))) .))

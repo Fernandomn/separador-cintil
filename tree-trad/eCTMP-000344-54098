@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Realmente) (. ,)) (S (NP (NP (NNS Carlos) (NNS Carvalhas))) (VP (VB dá) (NP (DT uma) (NP (NNS imagem) (ADJP (ADVP (RB um) (RB tanto)) (JJ cinzenta))))))) (. .))
+(S (S (ADVP (RB Realmente) ,)) (S (NP (NP (NNS Carlos) (NNS Carvalhas))) (VP (VB dá) (NP (DT uma) (NP (NNS imagem) (ADJP (ADVP (RB um) (RB tanto)) (JJ cinzenta))))))) .))

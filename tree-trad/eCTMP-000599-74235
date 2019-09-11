@@ -1,1 +1,1 @@
-(S (S (S (NP (DT Os) (NP (JJ novos))) (VB emigraram)) (S (CC e) (S (ADVP (. ,) (RB hoje) (. ,)) (S (NP (DT os) (NP (PRP$ seus) (NNS habitantes))) (VP (VB vivem) (PP (IN a_) (NP (DT a) (NP (NNS custa) (PP (IN de) (NP (NNS reformas))))))))))) (. .))
+(S (S (S (NP (DT Os) (NP (JJ novos))) (VB emigraram)) (S (CONJ e) (S (ADVP (. ,) (RB hoje) (. ,)) (S (NP (DT os) (NP (PP$ seus) (NNS habitantes))) (VP (VB vivem) (PP (IN a_) (NP (DT a) (NP (NNS custa) (PP (IN de) (NP (NNS reformas))))))))))) (. .))

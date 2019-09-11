@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Momento) (PP (IN de) (NP (NNS sensação))))) (VP (VP (VB aconteceu) (ADVP (RB mais) (RB tarde))) (NP (. ,) (NP (CC quando) (S (NP (NNS Victor)) (VP (VB declarou) (RB taxativamente))))))) (. :))
+(S (S (NP (NP (NNS Momento) (PP (IN de) (NP (NNS sensação))))) (VP (VP (VB aconteceu) (ADVP (RB mais) (RB tarde))) (CONJP (. ,) (CONJP (CONJ quando) (S (NP (NNS Victor)) (VP (VB declarou) (RB taxativamente))))))) (. :))

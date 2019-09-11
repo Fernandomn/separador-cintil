@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Grobbelaar)) (NP (. ,) (NP (NP (DT as) (NNS provas)) (NP (CC e) (NP (DT o) (NNS instinto)))))))
+(S (NP (NP (NNS Grobbelaar)) (NP ,) (NP (NP (DT as) (NNS provas)) (NP (CONJ e) (NP (DT o) (NNS instinto)))))))

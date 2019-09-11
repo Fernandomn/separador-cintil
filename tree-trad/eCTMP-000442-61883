@@ -1,1 +1,1 @@
-(S (S (VP (ADVP (ADVP (RB Depois) (PP (IN de) (NP (DT uma) (NP (NNS queda) (PP (IN de_) (NP (PRP aquelas))))))) (. ,)) (VP (VB foi) (JJ sensacional)))) (. .))
+(S (S (VP (ADVP (ADVP (RB Depois) (PP (IN de) (NP (DT uma) (NP (NNS queda) (PP (IN de_) (NP (DT aquelas))))))) ,)) (VP (VB foi) (JJ sensacional)))) .))

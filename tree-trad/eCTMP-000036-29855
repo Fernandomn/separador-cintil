@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (NP (NNS Estupor) (PP (IN de_) (NP (DT o) (NNS cão))))) (VP (PP (IN a) (VP (VB querer) (VB morder))))) (. !)) (. '))
+(S ') (S (S (NP (NP (NNS Estupor) (PP (IN de_) (NP (DT o) (NNS cão))))) (VP (PP (IN a) (VP (VB querer) (VB morder))))) !)) '))

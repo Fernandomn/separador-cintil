@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NNS transporte) (JJ marítimo))) (VP (VB é) (ADJP (ADJP (ADVP (RB muito) (RB mais)) (JJ económico)) (NP (NP (CC de_) (CC o) (CC que)) (NP (JJ qualquer) (NP (JJ outro))))))) (. .))
+(S (S (NP (DT O) (NP (NNS transporte) (JJ marítimo))) (VP (VB é) (ADJP (ADJP (ADVP (RB muito) (RB mais)) (JJ económico)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (PRP qualquer) (NP (JJ outro))))))) (. .))

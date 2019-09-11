@@ -1,1 +1,1 @@
-(S (S (VP (VB Continua) (PP (IN com) (NP (NP (DT os) (NP (JJ mesmos) (NP (NNS olhos) (JJ fixos)))) (NP (CC e) (NP (DT o) (NP (PRP$ seu) (NP (NP (NNS pedaço) (PP (IN de) (NP (NNS língua)))) (PP (IN entre) (NP (NP (DT os) (NNS dentes)) (NP (CC e) (NP (DT os) (NNS lábios))))))))))))) (. .))
+(S (S (VP (VB Continua) (PP (IN com) (NP (NP (DT os) (NP (JJ mesmos) (NP (NNS olhos) (JJ fixos)))) (NP (CONJ e) (NP (DT o) (NP (PP$ seu) (NP (NP (NNS pedaço) (PP (IN de) (NP (NNS língua)))) (PP (IN entre) (NP (NP (DT os) (NNS dentes)) (NP (CONJ e) (NP (DT os) (NNS lábios))))))))))))) .))

@@ -1,1 +1,1 @@
-(S (S (S (NP (DT A) (NNS intimidade))) (ADVP (. ,) (ADVP (RB outra) (RB vez)))) (. .))
+(S (S (S (NP (DT A) (NNS intimidade))) (ADVP ,) (ADVP (RB outra) (RB vez)))) .))

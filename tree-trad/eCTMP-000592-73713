@@ -1,1 +1,1 @@
-(S (S (. ') (S (S (S (NP (PRP Esta) (NNS história)) (VP (VB é) (ADJP (JJ densa) (ADJP (. ,) (ADJP (JJ rica)))))) (. ,)) (S (CC mas) (S (VP (RB também) (VP (VP (VB é) (JJ compreensível)) (PP (IN para) (NP (DT os) (NP (JJ outros))))))))) (. ')) (. .))
+(S (S (. ') (S (S (S (NP (DT Esta) (NNS história)) (VP (VB é) (ADJP (JJ densa) (ADJP (. ,) (ADJP (JJ rica)))))) (. ,)) (S (CONJ mas) (S (VP (RB também) (VP (VP (VB é) (JJ compreensível)) (PP (IN para) (NP (DT os) (NP (JJ outros))))))))) (. ')) (. .))

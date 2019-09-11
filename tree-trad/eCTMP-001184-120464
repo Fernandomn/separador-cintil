@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Está) (NP (JJ tudo))) (JJ legal)) (S (CC e) (S (NP (DT o) (NNS processo)) (VP (VB vai) (PP (IN para) (NP (DT a) (NNS frente))))))) (. .))
+(S (S (S (VP (VB Está) (NP (PRP tudo))) (JJ legal)) (S (CONJ e) (S (NP (DT o) (NNS processo)) (VP (VB vai) (PP (IN para) (NP (DT a) (NNS frente))))))) (. .))

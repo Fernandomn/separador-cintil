@@ -1,1 +1,1 @@
-(S (S (NP (NNS Portugal)) (VP (VB mantém) (NP (DT a) (NP (PRP$ sua) (NP (NNS confiança) (PP (IN em_) (NP (DT a) (NNS diplomacia)))))))) (. .))
+(S (S (NP (NNS Portugal)) (VP (VB mantém) (NP (DT a) (NP (PP$ sua) (NP (NNS confiança) (PP (IN em_) (NP (DT a) (NNS diplomacia)))))))) .))

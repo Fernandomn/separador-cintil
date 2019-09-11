@@ -1,1 +1,1 @@
-(S (S (S (S (NP (DT A) (NNS Guida)) (VP (VB teve) (NP (DT uma) (NNS nega)))) (. ,)) (S (CC mas) (S (VP (PP (NP (PRP este) (NNS ano))) (VP (VB tem) (VP (VP (VB tido) (RB sempre)) (NP (NP (NP (NNS notas) (JJ razoáveis)) (PP (IN a) (NP (NNS Matemática))))))))))) (. .))
+(S (S (S (S (NP (DT A) (NNS Guida)) (VP (VB teve) (NP (DT uma) (NNS nega)))) ,)) (S (CONJ mas) (S (VP (PP (NP (DT este) (NNS ano))) (VP (VB tem) (VP (VP (VB tido) (RB sempre)) (NP (NP (NP (NNS notas) (JJ razoáveis)) (PP (IN a) (NP (NNS Matemática))))))))))) .))

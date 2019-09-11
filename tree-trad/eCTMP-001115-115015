@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VP (RB Não) (VB posso)) (VP (VP (VB estar) (PP (IN de) (NP (NNS joelhos)))) (PP (IN durante) (NP (JJ muito) (NNS tempo)))))) (. .)))
+(S (. ') (S (S (VP (VP (RB Não) (VB posso)) (VP (VP (VB estar) (PP (IN de) (NP (NNS joelhos)))) (PP (IN durante) (NP (PRP muito) (NNS tempo)))))) (. .)))

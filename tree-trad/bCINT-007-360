@@ -1,1 +1,1 @@
-(S (S (NP (NP (DT O) (NP (NNS actor) (NP (NNS Artur) (NNS Semedo)))) (NP (. ,) (NP (JJ inveterado) (NP (NNS amante) (PP (IN de_) (NP (DT o) (NNS desporto-rei))))) (. ,))) (VP (VP (VB interpreta) (NP (DT a) (NP (NNS afición) (JJ espanhola)))) (PP (IN de) (NP (DT outra) (NNS forma))))) (. :))
+(S (S (NP (NP (DT O) (NP (NNS actor) (NP (NNS Artur) (NNS Semedo)))) (NP , (NP (JJ inveterado) (NP (NNS amante) (PP (IN de_) (NP (DT o) (NNS desporto-rei))))) ,)) (VP (VP (VB interpreta) (NP (DT a) (NP (NNS afición) (JJ espanhola)))) (PP (IN de) (NP (DT outra) (NNS forma))))) :)

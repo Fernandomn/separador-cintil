@@ -1,1 +1,1 @@
-(S (NP (NNS UE)) (VP (PP (IN contra) (NP (NP (NP (. ') (NNS faroeste) (. ')) (PP (IN em_) (NP (DT os) (NNS mares))))))))
+(S (NP (NNS UE)) (VP (PP (IN contra) (NP (NP (NP ') (NNS faroeste) ')) (PP (IN em_) (NP (DT os) (NNS mares))))))))

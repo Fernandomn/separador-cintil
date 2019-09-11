@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NNS reitores)) (VP (VP (VB lançam) (NP (DT umas) (NNS farpas))) (PP (IN a_) (NP (DT o) (NP (NNS ensino) (JJ privado)))))) (. :))
+(S (S (NP (DT Os) (NNS reitores)) (VP (VP (VB lançam) (NP (DT umas) (NNS farpas))) (PP (IN a_) (NP (DT o) (NP (NNS ensino) (JJ privado)))))) :))

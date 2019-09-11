@@ -1,1 +1,1 @@
-(S (S (VP (VB Quer) (VP (VB dizer) (SBAR (IN que) (S (VP (VB gostam) (NP (JJ ambos))) (PP (IN de_) (NP (DT as) (NP (JJ mesmas) (NNS coisas))))))))) (. .))
+(S (S (VP (VB Quer) (VP (VB dizer) (SBAR (IN que) (S (VP (VB gostam) (NP (PRP ambos))) (PP (IN de_) (NP (DT as) (NP (JJ mesmas) (NNS coisas))))))))) .))

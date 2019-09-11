@@ -1,1 +1,1 @@
-(S (S (PP (IN Em_) (NP (DT o) (NP (. ') (NNS hall) (. ')))) (S (S (VP (VB chamou) (NP (DT os) (NNS jornalistas)))) (S (CC e) (S (VP (PP (. ,) (PP (IN em) (NP (NP (NNS tom) (ADJP (RB muito) (JJ zangado))))) (. ,)) (VP (VB contou) (NP (JJ tudo)))))))) (. .))
+(S (S (PP (IN Em_) (NP (DT o) (NP (. ') (NNS hall) (. ')))) (S (S (VP (VB chamou) (NP (DT os) (NNS jornalistas)))) (S (CONJ e) (S (VP (PP (. ,) (PP (IN em) (NP (NP (NNS tom) (ADJP (RB muito) (JJ zangado))))) (. ,)) (VP (VB contou) (NP (PRP tudo)))))))) (. .))

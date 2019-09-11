@@ -1,1 +1,1 @@
-(S (S (S (S (VP (VB Foi) (VB convocado))) (. ,)) (S (CC mas) (S (VP (VP (VB está) (PP (IN em) (NP (NNS dúvida)))) (PP (IN para) (NP (DT o) (NP (NNS jogo) (PP (IN com) (NP (DT o) (NNS Farense)))))))))) (. .))
+(S (S (S (S (VP (VB Foi) (VB convocado))) ,)) (S (CONJ mas) (S (VP (VP (VB está) (PP (IN em) (NP (NNS dúvida)))) (PP (IN para) (NP (DT o) (NP (NNS jogo) (PP (IN com) (NP (DT o) (NNS Farense)))))))))) .))

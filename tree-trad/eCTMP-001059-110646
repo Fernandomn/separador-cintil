@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Ora) (. ,)) (S (NP (PRP esse) (NNS perigo)) (VP (VP (RB não) (VB é)) (ADJP (ADJP (CC nem) (JJ iminente)) (ADJP (CC nem) (JJ verosímil)))))) (. .))
+(S (S (ADVP (RB Ora) (. ,)) (S (NP (DT esse) (NNS perigo)) (VP (VP (RB não) (VB é)) (ADJP (ADJP (CONJ nem) (JJ iminente)) (ADJP (CONJ nem) (JJ verosímil)))))) (. .))

@@ -1,1 +1,1 @@
-(SBAR (SBAR (INTJ (UH Ah) (. ,)) (S (S (VP (VB está) (RB bem))) (S (. ,) (S (VP (RB amanhã) (VB falamos)))))) (. ...))
+(SBAR (SBAR (INTJ (UH Ah) ,)) (S (S (VP (VB está) (RB bem))) (S ,) (S (VP (RB amanhã) (VB falamos)))))) .))

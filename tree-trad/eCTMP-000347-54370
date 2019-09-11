@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Carlos) (NNS Filipe))) (NP (CC e) (NP (NP (NNS Luís) (NNS Francisco))))))
+(S (NP (NP (NP (NNS Carlos) (NNS Filipe))) (NP (CONJ e) (NP (NP (NNS Luís) (NNS Francisco))))))

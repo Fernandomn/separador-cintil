@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NNS Omer) (NNS Obrahimovic))) (NP (. ,) (NP (CD 43) (NNS anos)) (. ,))) (VB recorda)) (. :))
+(S (S (NP (NP (NP (NNS Omer) (NNS Obrahimovic))) (NP ,) (NP (CD 43) (NNS anos)) ,))) (VB recorda)) :))

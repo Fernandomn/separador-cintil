@@ -1,1 +1,1 @@
-(S (S (VP (VP (RB Não) (VB vai)) (ADVP (ADVP (RB tão) (RB longe)) (NP (CC como) (NP (NP (NNS A) (NNS Balada) (NNS de) (NNS Nova) (NNS Iorque))))))) (. .))
+(S (S (VP (VP (RB Não) (VB vai)) (ADVP (ADVP (RB tão) (RB longe)) (CONJP (CONJ como) (NP (NP (NNS A) (NNS Balada) (NNS de) (NNS Nova) (NNS Iorque))))))) (. .))

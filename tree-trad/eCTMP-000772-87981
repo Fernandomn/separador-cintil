@@ -1,1 +1,1 @@
-(S (VP (VP (VP (RB Não) (VB houve)) (RB aqui)) (NP (DT uma) (NP (NNS distorção) (PP (IN de_) (NP (DT os) (NP (PRP$ seus) (NP (NNS princípios) (JJ originais)))))))) (. ?))
+(S (VP (VP (VP (RB Não) (VB houve)) (RB aqui)) (NP (DT uma) (NP (NNS distorção) (PP (IN de_) (NP (DT os) (NP (PP$ seus) (NP (NNS princípios) (JJ originais)))))))) (. ?))

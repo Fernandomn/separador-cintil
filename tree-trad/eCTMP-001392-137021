@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS PS)) (NP (. ,) (NP (NP (NNS PCP)) (NP (CC e) (NP (NNS PP)))))) (VB bastariam)) (. .))
+(S (S (NP (NP (NNS PS)) (NP (. ,) (NP (NP (NNS PCP)) (NP (CONJ e) (NP (NNS PP)))))) (VB bastariam)) (. .))

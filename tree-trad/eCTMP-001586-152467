@@ -1,1 +1,1 @@
-(S (S (NP (NNS Nogueira)) (VP (VB é) (ADJP (ADJP (RB mais) (ADJP (. ') (JJ português) (. '))) (NP (NP (CC de_) (CC o) (CC que)) (NP (NNS Guterres)))))) (. ?))
+(S (S (NP (NNS Nogueira)) (VP (VB é) (ADJP (ADJP (RB mais) (ADJP (. ') (JJ português) (. '))) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (NNS Guterres)))))) (. ?))

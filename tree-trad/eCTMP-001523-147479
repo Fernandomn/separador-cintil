@@ -1,1 +1,1 @@
-(S (S (VP (VP (ADVP (RB Posteriormente) (. ,)) (VP (VP (VB serão) (VB produzidos)) (PP (IN em_) (NP (DT as) (NP (JJ mesmas) (NNS unidades)))))) (. ,)) (NP (NP (NNS faxes) (NP (CC e) (NNS semicondutores))))) (. .))
+(S (S (VP (VP (ADVP (RB Posteriormente) (. ,)) (VP (VP (VB serão) (VB produzidos)) (PP (IN em_) (NP (DT as) (NP (JJ mesmas) (NNS unidades)))))) (. ,)) (NP (NP (NNS faxes) (NP (CONJ e) (NNS semicondutores))))) (. .))

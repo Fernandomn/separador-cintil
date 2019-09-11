@@ -1,1 +1,1 @@
-(S (S (PP (IN A) (NP (PRP esta) (NNS frase))) (S (VP (VP (VB seguiu) (NP (PRP -se)))) (NP (DT o) (NNS aviso)))) (. :))
+(S (S (PP (IN A) (NP (DT esta) (NNS frase))) (S (VP (VP (VB seguiu) (NP (PRP -se)))) (NP (DT o) (NNS aviso)))) :))

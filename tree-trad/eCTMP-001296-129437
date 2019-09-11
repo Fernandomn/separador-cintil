@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Prédio) (PP (IN de) (NP (NP (NNS habitação) (NP (CC e) (NNS comércio))))))))
+(S (NP (NP (NNS Prédio) (PP (IN de) (NP (NP (NNS habitação) (NP (CONJ e) (NNS comércio))))))))

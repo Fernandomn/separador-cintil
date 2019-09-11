@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Por_) (NP (DT o) (NNS contrário))) (. ,)) (S (NP (DT as) (NNS provas)) (VP (VB eram) (ADJP (ADJP (JJ aceitáveis) (. ,)) (ADJP (RB até) (JJ fáceis)))))) (. .))
+(S (S (PP (PP (IN Por_) (NP (DT o) (NNS contrário))) ,) (S (NP (DT as) (NNS provas)) (VP (VB eram) (ADJP (ADJP (JJ aceitáveis) ,) (ADJP (RB até) (JJ fáceis)))))) .)

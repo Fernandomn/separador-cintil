@@ -1,1 +1,1 @@
-(S (VP (RB Depois) (VP (VB há) (NP (NP (DT o) (NP (NNS furto) (JJ qualificado))) (NP (. ,) (NP (NP (DT o) (NP (NNS tráfico) (PP (IN de) (NP (NNS estupefacientes))))) (NP (CC e) (NP (DT a) (NNS violação)))))))) (. .))
+(S (VP (RB Depois) (VP (VB há) (NP (NP (DT o) (NP (NNS furto) (JJ qualificado))) (NP (. ,) (NP (NP (DT o) (NP (NNS tráfico) (PP (IN de) (NP (NNS estupefacientes))))) (NP (CONJ e) (NP (DT a) (NNS violação)))))))) (. .))

@@ -1,1 +1,1 @@
-(S (S (S (NP (NNS Pedro)) (VP (VB é) (JJ seropositivo))) (S (CC e) (S (VP (VB tem) (PP (IN de) (VP (VP (VB medicar) (NP (PRP -se))) (RB diariamente))))))) (. :))
+(S (S (S (NP (NNS Pedro)) (VP (VB é) (JJ seropositivo))) (S (CONJ e) (S (VP (VB tem) (PP (IN de) (VP (VP (VB medicar) (NP (PRP -se))) (RB diariamente))))))) (. :))

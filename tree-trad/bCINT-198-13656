@@ -1,1 +1,1 @@
-(S (. ") (S (S (S (VP (VB Estamos) (PP (IN em_) (NP (DT a) (NNS crisálida))))) (S (CC e) (S (VP (VB esperamos) (NP (DT a) (NNS borboleta)))))) (. .)) (. "))
+(S ") (S (S (S (VP (VB Estamos) (PP (IN em_) (NP (DT a) (NNS crisálida))))) (S (CONJ e) (S (VP (VB esperamos) (NP (DT a) (NNS borboleta)))))) .)) "))

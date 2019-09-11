@@ -1,1 +1,1 @@
-(S (NP (NP (DT O) (NNS pau)) (NP (CC e) (NP (DT a) (NNS cenoura)))))
+(S (NP (NP (DT O) (NNS pau)) (NP (CONJ e) (NP (DT a) (NNS cenoura)))))

@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Lang)) (NP (CC e) (NP (DT os) (NP (CD 200) (NP (NNS anos) (PP (IN de_) (NP (DT a) (NP (NNS República) (JJ francesa))))))))))
+(S (NP (NP (NNS Lang)) (NP (CONJ e) (NP (DT os) (NP (CD 200) (NP (NNS anos) (PP (IN de_) (NP (DT a) (NP (NNS República) (JJ francesa))))))))))

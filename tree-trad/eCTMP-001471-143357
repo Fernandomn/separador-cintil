@@ -1,1 +1,1 @@
-(S (S (VP (VB Mostrou) (NP (NP (PRP aquilo)) (NP (CC e) (NP (DT os) (NP (NNS nomes) (SBAR (NP (PRP que)) (S (VP (RB já) (VP (VB conheciam))))))))))) (. .))
+(S (S (VP (VB Mostrou) (NP (NP (DT aquilo)) (NP (CONJ e) (NP (DT os) (NP (NNS nomes) (SBAR (NP (PRP que)) (S (VP (RB já) (VP (VB conheciam))))))))))) (. .))

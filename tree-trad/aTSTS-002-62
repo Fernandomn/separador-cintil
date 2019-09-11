@@ -1,1 +1,1 @@
-(S (S (NP (PRP Este) (NNS computador)) (VP (VB é) (ADJP (RB mais) (JJ barato)))) (. .))
+(S (S (NP (DT Este) (NNS computador)) (VP (VB é) (ADJP (RB mais) (JJ barato)))) .)

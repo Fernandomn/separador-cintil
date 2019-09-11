@@ -1,1 +1,1 @@
-(S (VP (. ') (VP (VB Há) (NP (NP (NP (NNS escolas) (JJ profissionais)) (SBAR (NP (PRP que)) (S (VP (VB vão) (VP (VB ter) (PP (IN de) (VB fechar))))))))) (. ')) (. .))
+(S (VP ') (VP (VB Há) (NP (NP (NP (NNS escolas) (JJ profissionais)) (SBAR (NP (PRP que)) (S (VP (VB vão) (VP (VB ter) (PP (IN de) (VB fechar))))))))) ')) .))

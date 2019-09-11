@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Fez) (NP (DT uma) (NNS investigação)))) (S (CC e) (S (VP (VB descobriu) (NP (DT a) (NNS explicação)))))) (. .))
+(S (S (S (VP (VB Fez) (NP (DT uma) (NNS investigação)))) (S (CONJ e) (S (VP (VB descobriu) (NP (DT a) (NNS explicação)))))) (. .))

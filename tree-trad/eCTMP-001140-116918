@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN De) (NP (NP (NNS tempos) (PP (IN a) (NP (NNS tempos)))))) (. ,)) (S (NP (PRP estes) (NP (NNS homens) (JJ nus))) (VB aparecem))) (. .))
+(S (S (PP (PP (IN De) (NP (NP (NNS tempos) (PP (IN a) (NP (NNS tempos)))))) (. ,)) (S (NP (DT estes) (NP (NNS homens) (JJ nus))) (VB aparecem))) (. .))

@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Deutsche) (NNS Telekom))) (VP (VB vai) (VP (VB explorar) (NP (NP (NP (NNS telefonia) (PP (IN em_) (NP (DT a) (NNS Internet))))) (NP (CC e) (NP (NNS ADSL)))))))
+(S (NP (NP (NNS Deutsche) (NNS Telekom))) (VP (VB vai) (VP (VB explorar) (NP (NP (NP (NNS telefonia) (PP (IN em_) (NP (DT a) (NNS Internet))))) (NP (CONJ e) (NP (NNS ADSL)))))))

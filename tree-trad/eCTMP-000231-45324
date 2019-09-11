@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (JJ justo)) (SBAR (IN que) (S (NP (PRP estes) (NNS nomes)) (VP (VB sejam) (VB lembrados))))) (. .))
+(S (S (VP (VB É) (JJ justo)) (SBAR (IN que) (S (NP (DT estes) (NNS nomes)) (VP (VB sejam) (VB lembrados))))) .))

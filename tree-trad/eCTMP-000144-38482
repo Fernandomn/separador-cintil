@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (DT Uma) (NNS casa)) (VP (VB precisa) (PP (IN de) (NP (NNS alicerces))))) (. .)))
+(S ') (S (S (NP (DT Uma) (NNS casa)) (VP (VB precisa) (PP (IN de) (NP (NNS alicerces))))) .)))

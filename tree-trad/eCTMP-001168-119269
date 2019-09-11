@@ -1,1 +1,1 @@
-(S (. ') (S (NP (NP (NNS Governo)) (NP (CC e) (NP (NNS UNITA)))) (VP (RB só) (VP (VB tentam) (VP (VB ganhar) (NP (NNS tempo)))))) (. '))
+(S (. ') (S (NP (NP (NNS Governo)) (NP (CONJ e) (NP (NNS UNITA)))) (VP (RB só) (VP (VB tentam) (VP (VB ganhar) (NP (NNS tempo)))))) (. '))

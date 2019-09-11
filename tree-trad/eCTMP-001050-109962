@@ -1,1 +1,1 @@
-(S (S (SBAR (S (. ') (S (VP (RB Ainda) (VP (VP (RB não) (VB recebi)) (NP (JJ nenhum) (NNS convite))))) (. ')) (. ,)) (S (VP (VB disse)))) (. .))
+(S (S (SBAR (S (. ') (S (VP (RB Ainda) (VP (VP (RB não) (VB recebi)) (NP (PRP nenhum) (NNS convite))))) (. ')) (. ,)) (S (VP (VB disse)))) (. .))

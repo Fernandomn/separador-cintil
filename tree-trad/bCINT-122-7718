@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS introdução))) (. ,)) (S (VP (VB diz) (NP (PRP -se))) (SBAR (IN que) (S (VP (VP (VB são) (NP (NP (RB apenas) (CD oito)))) (PP (. ") (PP (IN por) (NP (NP (NNS razões) (JJ diversas)))) (. "))))))) (. .))
+(S (S (PP (PP (IN Em_) (NP (DT a) (NNS introdução))) ,)) (S (VP (VB diz) (NP (PRP -se))) (SBAR (IN que) (S (VP (VP (VB são) (NP (NP (RB apenas) (CD oito)))) (PP ") (PP (IN por) (NP (NP (NNS razões) (JJ diversas)))) "))))))) .))

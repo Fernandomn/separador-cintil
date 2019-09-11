@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS assistência))) (. ,)) (S (NP (DT as) (NNS bocas)) (VP (VP (VB abrem) (NP (PRP -se))) (PP (IN entre) (NP (NP (DT o) (NP (NNS ar) (JJ espantado))) (NP (CC e) (NP (DT o) (NP (JJ divertido))))))))) (. .))
+(S (S (PP (PP (IN Em_) (NP (DT a) (NNS assistência))) ,)) (S (NP (DT as) (NNS bocas)) (VP (VP (VB abrem) (NP (PRP -se))) (PP (IN entre) (NP (NP (DT o) (NP (NNS ar) (JJ espantado))) (NP (CONJ e) (NP (DT o) (NP (JJ divertido))))))))) .))

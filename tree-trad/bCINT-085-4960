@@ -1,1 +1,1 @@
-(S (S (S (NP (PRP Isto))) (NP (. ,) (NP (CC porque) (S (NP (DT o) (NNS autódromo)) (VP (PP (RB só) (PP (IN por) (NP (PRP si)))) (VP (VB tem) (NP (DT uma) (NP (NNS actividade) (ADJP (RB apenas) (JJ sazonal)))))))))) (. .))
+(S (S (S (NP (DT Isto))) (CONJP ,) (CONJP (CONJ porque) (S (NP (DT o) (NNS autódromo)) (VP (PP (RB só) (PP (IN por) (NP (PRP si)))) (VP (VB tem) (NP (DT uma) (NP (NNS actividade) (ADJP (RB apenas) (JJ sazonal)))))))))) .))

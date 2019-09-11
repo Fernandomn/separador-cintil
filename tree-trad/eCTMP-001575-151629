@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (RB Nunca) (VP (PP (IN em_) (NP (DT a) (NP (PRP$ minha) (NNS vida)))) (VP (VP (NP (PRP me)) (VB sentei)) (PP (IN em_) (NP (PRP este) (NNS sítio))))))) (. .)))
+(S (. ') (S (S (VP (RB Nunca) (VP (PP (IN em_) (NP (DT a) (NP (PP$ minha) (NNS vida)))) (VP (VP (NP (PRP me)) (VB sentei)) (PP (IN em_) (NP (DT este) (NNS sítio))))))) (. .)))

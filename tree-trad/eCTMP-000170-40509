@@ -1,1 +1,1 @@
-(S (S (VP (VP (RB Não) (VB sei)) (SBAR (IN se) (S (NP (PRP aquela) (NNS porcaria)) (VP (VB está) (ADVP (RB dentro) (PP (IN de_) (NP (DT os) (NP (NNS trâmites) (JJ legais)))))))))) (. !))
+(S (S (VP (VP (RB Não) (VB sei)) (SBAR (IN se) (S (NP (DT aquela) (NNS porcaria)) (VP (VB está) (ADVP (RB dentro) (PP (IN de_) (NP (DT os) (NP (NNS trâmites) (JJ legais)))))))))) !))

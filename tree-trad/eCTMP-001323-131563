@@ -1,1 +1,1 @@
-(S (S (NP (PRP Isto)) (VP (VB deixa) (NP (JJ pouco) (NP (NNS espaço) (PP (IN para) (NP (NNS extravagâncias))))))) (. .))
+(S (S (NP (DT Isto)) (VP (VB deixa) (NP (PRP pouco) (NP (NNS espaço) (PP (IN para) (NP (NNS extravagâncias))))))) (. .))

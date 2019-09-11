@@ -1,1 +1,1 @@
-(S (S (S (S (NP (DT A) (NNS medida)) (VP (VB incomodou) (NP (DT o) (NNS PCP)))) (. ,)) (S (CC mas) (S (NP (DT a) (NP (NNS vontade) (JJ socialista))) (VB prevaleceu)))) (. .))
+(S (S (S (S (NP (DT A) (NNS medida)) (VP (VB incomodou) (NP (DT o) (NNS PCP)))) ,)) (S (CONJ mas) (S (NP (DT a) (NP (NNS vontade) (JJ socialista))) (VB prevaleceu)))) .))

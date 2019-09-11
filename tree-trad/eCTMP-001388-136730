@@ -1,1 +1,1 @@
-(S (S (SBAR (S (. ') (S (VP (VP (VB Querem) (VP (VB demitir) (NP (DT o) (NNS ministro)))) (NP (CC porque) (S (NP (PRP ele)) (VP (VB é) (JJ mestiço)))))) (. ')) (. ,)) (S (VP (VB disse)))) (. .))
+(S (S (SBAR (S (. ') (S (VP (VP (VB Querem) (VP (VB demitir) (NP (DT o) (NNS ministro)))) (CONJP (CONJ porque) (S (NP (PRP ele)) (VP (VB é) (JJ mestiço)))))) (. ')) (. ,)) (S (VP (VB disse)))) (. .))

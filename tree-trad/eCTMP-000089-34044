@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Mortalidade) (JJ infantil))) (VP (VB aumenta) (PP (IN em) (NP (NP (NNS Lisboa)) (NP (CC e) (NP (NNS Bragança)))))))
+(S (NP (NP (NNS Mortalidade) (JJ infantil))) (VP (VB aumenta) (PP (IN em) (NP (NP (NNS Lisboa)) (NP (CONJ e) (NP (NNS Bragança)))))))

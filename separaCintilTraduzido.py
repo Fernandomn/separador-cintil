@@ -1,4 +1,6 @@
 import xml.etree.ElementTree as ET
+import treebuilder as tb
+import settings
 
 # TODO: Pegar correções da tabela no drive, e criar scripts necessários
 
@@ -20,13 +22,14 @@ import xml.etree.ElementTree as ET
 arvore = ET.parse('CINTIL-Treebank.xml')
 raiz = arvore.getroot()
 
-posDict = {}
+
+# posDict = {}
 
 
 def tradutor(tag):
-    global posDict
-    if not posDict:
-        posDict = {
+    # global posDict
+    if not settings.posDict:
+        settings.posDict = {
             "A": "JJ",  # Adjetivo
             "A'": "ADJP",  # Sintagma Adjectival [explicar]
             "AP": "ADJP",  # Sintagma Adjectival
@@ -40,9 +43,9 @@ def tradutor(tag):
             "CP": "SBAR",  # Sintagma Objetal (TODO) v
             "C'": "SBAR",  # Sintagma Objetal (TODO) v
             "CJ": "CC",  # Conjunções [explicar]
-            "CONJ": "CC",  # Conjunções
-            "CONJ'": "NP",  # sintagma Conjuntivo (TODO)
-            "CONJP": "NP",  # sintagma Conjuntivo (TODO)
+            "CONJ": "CONJ",  # Conjunções
+            "CONJ'": settings.conjTag,  # sintagma Conjuntivo (TODO)
+            "CONJP": "CONJP",  # sintagma Conjuntivo (TODO)
             "CL": "PRP",  # Clíticos [explicar]
             "CN": "NNS",  # Nomes comuns
             "N": "NNS",  # Substantivo
@@ -51,9 +54,10 @@ def tradutor(tag):
             "ART": "DT",  # Artigo
             # Artigo [REVISAR] (TODO) nota: unico caso em que essa tag aparece está errado.
             "ART'": "NP",
-                            # o artigo 'Primeiros passos na aquisição da sintaxe:' chama NP de DT. talvez ajude.
-                            # mas acho que é melhor corrigir essa árvore.
-            "DEM": "DT",  # Demonstrativos -> Para o PTB, this, that, these, those são, também, artigos. logo, DEM -> DT.
+            # o artigo 'Primeiros passos na aquisição da sintaxe:' chama NP de DT. talvez ajude.
+            # mas acho que é melhor corrigir essa árvore.
+            # Demonstrativos -> Para o PTB, this, that, these, those são, também, artigos. logo, DEM -> DT.
+            "DEM": "DT",
             "DFR": "CD",  # Denominadores de Fracções
             "DGTR": "CD",  # Numerais Romanos
             "DGT": "CD",  # Numerais Árabes
@@ -78,7 +82,7 @@ def tradutor(tag):
             "ORD": "CD",  # Ordinais
             "PADR": "NN",  # Parte de Endereço
             "PNM": "NP",  # Parte de Nome (TODO) v
-            "PNT": ".",  # Pontuação
+            "PNT": settings.pointTag,  # Pontuação
             "POSS": "PP$",  # Possessivos v
             # Possessivos (TODO) nota: não existe um sintagma pronominal. o jeito é manter o NP msm
             "POSS'": "NP",
@@ -115,39 +119,67 @@ def tradutor(tag):
             "VP": "VP",  # Sintagma Verbal
             "WD": "NNP"  # Dias da Semana
         }
-    return posDict[tag]
+    return settings.posDict[tag]
 
 
 ns = {'base': "http://nlx.di.fc.ul.pt",
       'clarin': "http://nlx.di.fc.ul.pt",
       'xsi': 'http://www.w3.org/2001/XMLSchema-instance'}
 
-for corpus in raiz.findall('base:corpus', ns):
-    for sentenca in corpus.findall('base:sentence', ns):
-        id = sentenca.find('base:id', ns).text.replace('/', '-')
-        raw = sentenca.find('base:raw', ns)
-        tree = sentenca.find('base:tree', ns)
-        treeText = tree.text
-        # for index in range(len(treeText)-1, 0, -1):
-        for index in reversed(range(len(treeText))):
-            caractere = treeText[index]
-            if(caractere == '('):
-                inicio = index+1
-                final = inicio + treeText[inicio:].index(' ')
-                classe = treeText[inicio:final]
-                # print(raw.text)
-                # print(treeText)
-                # print(classe)
-                treeText = treeText[:inicio] + \
-                    tradutor(classe)+treeText[final:]
 
-        rawFile = open('raw-trad/%s' % id, 'w')
-        treeFile = open('tree-trad/%s' % id, 'w')
-        rawFile.write(raw.text)
-        treeFile.write(treeText)
-        rawFile.close()
-        treeFile.close()
+def main():
+    settings.init()
 
-        # print(id.text)
-        # print(raw.text)
-        # print(tree.text)
+    for corpus in raiz.findall('base:corpus', ns):
+        for sentenca in corpus.findall('base:sentence', ns):
+            id = sentenca.find('base:id', ns).text.replace('/', '-')
+            raw = sentenca.find('base:raw', ns)
+            tree = sentenca.find('base:tree', ns)
+            treeText = tree.text
+            isFirstQuoteMark = True
+            # for index in range(len(treeText)-1, 0, -1):
+            for index in reversed(range(len(treeText))):
+                caractere = treeText[index]
+                if (caractere == '('):
+                    inicio = index + 1
+                    final = inicio + treeText[inicio:].index(' ')
+                    classe = treeText[inicio:final]
+                    # print(raw.text)
+                    # print(treeText)
+                    # print(classe)
+                    if classe == settings.pointTag:
+                        final = inicio + treeText[inicio:].index(')')
+                        pntWord = treeText[final - 1]
+                        if pntWord == '"' or pntWord == "'":
+                            # se é a primeira ocorrência
+                            if isFirstQuoteMark:
+                                pntWord = "``"
+                            else:  # se é a última
+                                pntWord = "''"
+                            isFirstQuoteMark = not isFirstQuoteMark
+                        treeText = treeText[:index] + pntWord + treeText[final + 1:]
+                        if not pntWord in settings.pointList:  # verificar necessidade de adicionar simbolos singulares, além dos pares
+                            settings.pointList.append(pntWord)
+                    else:
+                        treeText = treeText[:inicio] + \
+                                   tradutor(classe) + treeText[final:]
+
+            if settings.conjTag in treeText:
+                i, listTree = tb.reconstroiArvore(treeText, 0, [])
+                tb.verificaCasosCONJ(listTree)
+                print(listTree)
+
+            rawFile = open('raw-trad/%s' % id, 'w')
+            treeFile = open('tree-trad/%s' % id, 'w')
+            rawFile.write(raw.text)
+            treeFile.write(treeText)
+            rawFile.close()
+            treeFile.close()
+
+            # print(id.text)
+            # print(raw.text)
+            # print(tree.text)
+
+
+if __name__ == '__main__':
+    main()

@@ -1,1 +1,1 @@
-(S (S (PP (IN Em_) (NP (DT o) (NP (PRP$ seu) (NNS lugar)))) (S (VP (VP (VB sentou) (NP (PRP -se)))) (NP (NP (DT o) (NNS adjunto)) (NP (. ,) (NNS Al-Kharachi))))) (. .))
+(S (S (PP (IN Em_) (NP (DT o) (NP (PP$ seu) (NNS lugar)))) (S (VP (VP (VB sentou) (NP (PRP -se)))) (NP (NP (DT o) (NNS adjunto)) (NP ,) (NNS Al-Kharachi))))) .))

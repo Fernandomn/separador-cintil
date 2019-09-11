@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NP (NNS grupo) (PP (IN de) (NP (NNS teatro)))) (NNS Maizum))) (VP (VB apresenta) (NP (DT a) (NP (NNS peça) (NP (. ') (NNS Florbela) (. ')))))) (. .))
+(S (S (NP (DT O) (NP (NP (NNS grupo) (PP (IN de) (NP (NNS teatro)))) (NNS Maizum))) (VP (VB apresenta) (NP (DT a) (NP (NNS peça) (NP ') (NNS Florbela) ')))))) .))

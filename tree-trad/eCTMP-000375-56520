@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Manuela) (NNS Machado))) (VP (VB ganhou) (NP (DT uma) (NP (NNS maratona) (SBAR (NP (PRP que)) (S (VP (RB não) (VB aconteceu)))))))) (. .))
+(S (S (NP (NP (NNS Manuela) (NNS Machado))) (VP (VB ganhou) (NP (DT uma) (NP (NNS maratona) (SBAR (NP (PRP que)) (S (VP (RB não) (VB aconteceu)))))))) .))

@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (PRP Este) (NNS ano)) (VP (VB foi) (PP (PP (IN de) (NP (NNS aprendizagem))) (PP (. ,) (PP (IN de) (NP (NNS treino))))))) (. .)))
+(S ') (S (S (NP (DT Este) (NNS ano)) (VP (VB foi) (PP (PP (IN de) (NP (NNS aprendizagem))) (PP ,) (PP (IN de) (NP (NNS treino))))))) .)))

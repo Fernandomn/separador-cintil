@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (NP (NP (DT uma) (NP (NNS capa) (JJ preta))) (NP (. ,) (NP (DT uma) (NP (NNS capa) (PP (IN de) (NP (NNS estudante))))))))) (. .))
+(S (S (VP (VB É) (NP (NP (DT uma) (NP (NNS capa) (JJ preta))) (NP ,) (NP (DT uma) (NP (NNS capa) (PP (IN de) (NP (NNS estudante))))))))) .))

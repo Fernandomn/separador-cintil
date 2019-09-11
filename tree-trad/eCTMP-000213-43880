@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS marxismo)) (VP (VP (VB dilacera) (NP (DT a) (NNS sociedade))) (NP (CC porque) (S (VP (VP (VB lança) (NP (DT os) (NNS homens))) (PP (IN em_) (NP (DT a) (NP (NNS luta) (PP (IN de) (NP (NNS classes))))))))))) (. .))
+(S (S (NP (DT O) (NNS marxismo)) (VP (VP (VB dilacera) (NP (DT a) (NNS sociedade))) (CONJP (CONJ porque) (S (VP (VP (VB lança) (NP (DT os) (NNS homens))) (PP (IN em_) (NP (DT a) (NP (NNS luta) (PP (IN de) (NP (NNS classes))))))))))) .))

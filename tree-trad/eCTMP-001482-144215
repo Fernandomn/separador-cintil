@@ -1,1 +1,1 @@
-(S (NP (DT Um) (NP (NNS impasse) (SBAR (RB onde) (S (NP (JJ todos)) (VP (VB parecem) (VP (VP (VB estar) (PP (IN a) (VB perder))))))))) (. .))
+(S (NP (DT Um) (NP (NNS impasse) (SBAR (RB onde) (S (NP (PRP todos)) (VP (VB parecem) (VP (VP (VB estar) (PP (IN a) (VB perder))))))))) (. .))

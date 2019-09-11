@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (PRP Esta) (NNS situação)) (VP (VB demonstra) (SBAR (IN que) (S (NP (DT o) (NP (NNS tema) (NNS ambiente))) (VP (VB está) (PP (IN em_) (NP (DT a) (NNS moda)))))))) (. .)))
+(S ') (S (S (NP (DT Esta) (NNS situação)) (VP (VB demonstra) (SBAR (IN que) (S (NP (DT o) (NP (NNS tema) (NNS ambiente))) (VP (VB está) (PP (IN em_) (NP (DT a) (NNS moda)))))))) .)))

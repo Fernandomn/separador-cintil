@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NNS homens)) (VP (VP (VB gloriam) (NP (PRP -se))) (PP (IN por_) (NP (DT as) (NP (PRP$ suas) (NNS capacidades)))))) (. .))
+(S (S (NP (DT Os) (NNS homens)) (VP (VP (VB gloriam) (NP (PRP -se))) (PP (IN por_) (NP (DT as) (NP (PP$ suas) (NNS capacidades)))))) .)

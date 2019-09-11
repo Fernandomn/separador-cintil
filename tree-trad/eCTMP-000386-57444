@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Em_) (NP (DT o) (NNS princípio))) (. ,)) (VP (VB foi) (NP (DT a) (NP (NNS febre) (PP (IN de_) (NP (DT o) (NP (. ') (NP (NNS ouro) (JJ europeu)) (. '))))))))) (. .))
+(S (S (VP (PP (PP (IN Em_) (NP (DT o) (NNS princípio))) ,)) (VP (VB foi) (NP (DT a) (NP (NNS febre) (PP (IN de_) (NP (DT o) (NP ') (NP (NNS ouro) (JJ europeu)) '))))))))) .))

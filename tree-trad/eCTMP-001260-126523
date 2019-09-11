@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Soja) (NP (CC e) (NP (NNS cancro) (PP (IN de_) (NP (DT a) (NNS mama))))))))
+(S (NP (NP (NNS Soja) (NP (CONJ e) (NP (NNS cancro) (PP (IN de_) (NP (DT a) (NNS mama))))))))

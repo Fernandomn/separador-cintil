@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (PRP Eu)) (VP (VB sou) (NP (DT o) (NP (NNS presidente) (PP (IN de_) (NP (DT a) (NNS junta))))))) (. .)) (. '))
+(S ') (S (S (NP (PRP Eu)) (VP (VB sou) (NP (DT o) (NP (NNS presidente) (PP (IN de_) (NP (DT a) (NNS junta))))))) .)) '))

@@ -1,1 +1,1 @@
-(S (S (NP (NNS Argentina) (. ,)) (VP (VB iniciou) (NP (DT as) (NP (PRP$ suas) (NP (NNS lides) (PP (IN de) (NP (NNS técnico)))))))) (. .))
+(S (S (NP (NNS Argentina) ,)) (VP (VB iniciou) (NP (DT as) (NP (PP$ suas) (NP (NNS lides) (PP (IN de) (NP (NNS técnico)))))))) .))

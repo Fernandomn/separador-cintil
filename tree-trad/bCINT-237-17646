@@ -1,1 +1,1 @@
-(S (S (S (S (NP (DT O) (NP (NNS lugar) (PP (IN de_) (NP (DT o) (NNS professor))))) (VP (VB pode) (VP (VB sofrer) (NP (NP (NNS vicissitudes) (JJ insuspeitadas)))))) (. ,)) (S (CC mas) (S (NP (PRP este)) (VP (VB continuará) (JJ insubstituível))))) (. .))
+(S (S (S (S (NP (DT O) (NP (NNS lugar) (PP (IN de_) (NP (DT o) (NNS professor))))) (VP (VB pode) (VP (VB sofrer) (NP (NP (NNS vicissitudes) (JJ insuspeitadas)))))) ,)) (S (CONJ mas) (S (NP (DT este)) (VP (VB continuará) (JJ insubstituível))))) .))

@@ -1,1 +1,1 @@
-(S (S (VP (NP (NP (CC Se) (S (VP (VB havia) (NP (NNS conflito))))) (. ,)) (VP (RB agora) (VP (VB é) (JJ declarado))))) (. .))
+(S (S (VP (CONJP (CONJP (CONJ Se) (S (VP (VB havia) (NP (NNS conflito))))) (. ,)) (VP (RB agora) (VP (VB é) (JJ declarado))))) (. .))

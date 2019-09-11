@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS noite) (PP (IN de) (NP (NP (NNS Ano) (NNS Novo)))))) (VP (VP (VB é) (ADJP (RB tradicionalmente) (JJ violenta))) (PP (IN em_) (NP (DT a) (NNS cidade))))) (. .))
+(S (S (NP (DT A) (NP (NNS noite) (PP (IN de) (NP (NP (NNS Ano) (NNS Novo)))))) (VP (VP (VB é) (ADJP (RB tradicionalmente) (JJ violenta))) (PP (IN em_) (NP (DT a) (NNS cidade))))) .))

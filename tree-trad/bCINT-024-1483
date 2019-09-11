@@ -1,1 +1,1 @@
-(S (S (VP (VP (RB Assim)) (ADVP (. ,) (ADVP (RB tal) (RB e) (RB qual))))) (. .))
+(S (S (VP (VP (RB Assim)) (ADVP ,) (ADVP (RB tal) (RB e) (RB qual))))) .))

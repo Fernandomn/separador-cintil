@@ -1,1 +1,1 @@
-(S (NP (. ') (NP (NP (NNS Decadência) (PP (IN de_) (NP (DT os) (NP (NNS povos) (JJ peninsulares))))) (NP (CC ou) (NP (NP (DT o) (NNS cão)) (NP (CC e) (NP (DT o) (NNS gato)))))) (. ')) (. .))
+(S (NP ') (NP (NP (NNS Decadência) (PP (IN de_) (NP (DT os) (NP (NNS povos) (JJ peninsulares))))) (NP (CONJ ou) (NP (NP (DT o) (NNS cão)) (NP (CONJ e) (NP (DT o) (NNS gato)))))) ')) .))

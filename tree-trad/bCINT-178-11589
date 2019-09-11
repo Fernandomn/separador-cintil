@@ -1,1 +1,1 @@
-(S (S (S (CC OU) (S (VP (VB HÁ) (NP (NNS MORALIDADE))))) (S (CC OU) (S (VB COMEM) (NP (JJ TODOS))))) (. ...))
+(S (S (S (CONJ OU) (S (VP (VB HÁ) (NP (NNS MORALIDADE))))) (S (CONJ OU) (S (VB COMEM) (NP (PRP TODOS))))) .))

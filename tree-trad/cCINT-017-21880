@@ -1,1 +1,1 @@
-(S (S (VP (NP (NP (CC Se) (S (VP (VP (VB queres) (RB mesmo)) (VB estudar)))) (. ,)) (VP (VB terás) (NP (JJ todo) (NP (DT o) (NP (PRP$ meu) (NNS apoio))))))) (. .))
+(S (S (VP (CONJP (CONJP (CONJ Se) (S (VP (VP (VB queres) (RB mesmo)) (VB estudar)))) ,)) (VP (VB terás) (NP (PRP todo) (NP (DT o) (NP (PP$ meu) (NNS apoio))))))) .))

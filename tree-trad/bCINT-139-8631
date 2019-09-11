@@ -1,1 +1,1 @@
-(S (S (VP (VB Têm) (NP (NP (NNS posição) (PP (IN em_) (NP (PRP este) (NNS debate))))))) (. ?))
+(S (S (VP (VB Têm) (NP (NP (NNS posição) (PP (IN em_) (NP (DT este) (NNS debate))))))) ?))

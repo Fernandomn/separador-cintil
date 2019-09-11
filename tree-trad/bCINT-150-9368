@@ -1,1 +1,1 @@
-(S (S (VP (RB Depois) (VB começam)) (NP (NP (DT as) (NNS perguntas)) (NP (CC e) (NP (DT as) (NNS críticas))))) (. .))
+(S (S (VP (RB Depois) (VB começam)) (NP (NP (DT as) (NNS perguntas)) (NP (CONJ e) (NP (DT as) (NNS críticas))))) .))

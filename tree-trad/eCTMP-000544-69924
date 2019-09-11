@@ -1,1 +1,1 @@
-(S (S (VP (VB Completam) (NP (DT as) (NP (NNS estruturas) (JJ comunitárias)))) (NP (NP (DT um) (NP (JJ pequeno) (NP (NNS terreno) (JJ ajardinado)))) (NP (CC e) (NP (DT uma) (NNS gaiola))))) (. .))
+(S (S (VP (VB Completam) (NP (DT as) (NP (NNS estruturas) (JJ comunitárias)))) (NP (NP (DT um) (NP (JJ pequeno) (NP (NNS terreno) (JJ ajardinado)))) (NP (CONJ e) (NP (DT uma) (NNS gaiola))))) .))

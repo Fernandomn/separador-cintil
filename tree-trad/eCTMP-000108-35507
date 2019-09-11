@@ -1,1 +1,1 @@
-(S (NP (NP (NP (. ') (NP (NNS O) (NNS Dia) (NNS de_) (NNS os) (NNS Meus) (NNS Anos)) (. ')) (PP (. ,) (PP (IN de) (NP (NP (NNS João) (NNS Botelho))))))) (. .))
+(S (NP (NP (NP ') (NP (NNS O) (NNS Dia) (NNS de_) (NNS os) (NNS Meus) (NNS Anos)) ')) (PP ,) (PP (IN de) (NP (NP (NNS João) (NNS Botelho))))))) .))

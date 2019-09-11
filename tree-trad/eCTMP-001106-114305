@@ -1,1 +1,1 @@
-(S (S (VP (RB Agora) (VP (VB é) (NP (NP (NNS comércio) (NP (CC e) (NP (. ') (NNS marketing) (. ')))))))) (. .))
+(S (S (VP (RB Agora) (VP (VB é) (NP (NP (NNS comércio) (NP (CONJ e) (NP (. ') (NNS marketing) (. ')))))))) (. .))

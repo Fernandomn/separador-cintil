@@ -1,1 +1,1 @@
-(S (NP (NP (DT O) (NNS leão)) (NP (. ,) (NP (NP (DT o) (NNS lobo)) (NP (CC e) (NP (DT o) (NNS cordeiro)))))))
+(S (NP (NP (DT O) (NNS leão)) (NP ,) (NP (NP (DT o) (NNS lobo)) (NP (CONJ e) (NP (DT o) (NNS cordeiro)))))))

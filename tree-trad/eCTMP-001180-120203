@@ -1,1 +1,1 @@
-(S (S (VP (VB Fiquei) (ADJP (JJ azul) (ADJP (CC e) (ADJP (RB depois) (JJ verde)))))) (. .))
+(S (S (VP (VB Fiquei) (ADJP (JJ azul) (ADJP (CONJ e) (ADJP (RB depois) (JJ verde)))))) (. .))

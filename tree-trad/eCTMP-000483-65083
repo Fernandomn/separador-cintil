@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Duarte) (NNS Moral))) (NP (CC e) (NP (NP (NNS António) (NNS Matos))))))
+(S (NP (NP (NP (NNS Duarte) (NNS Moral))) (NP (CONJ e) (NP (NP (NNS António) (NNS Matos))))))

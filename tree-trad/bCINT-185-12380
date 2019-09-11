@@ -1,1 +1,1 @@
-(S (S (NP (NNS Gomes)) (VP (VB aceita) (NP (PRP -a)))) (. :))
+(S (S (NP (NNS Gomes)) (VP (VB aceita) (NP (PRP -a)))) :))

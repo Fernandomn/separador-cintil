@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NNS portugueses)) (VP (VP (VB têm) (NP (DT um) (NP (NNS ponto) (PP (IN de) (NP (NNS encontro)))))) (PP (IN em_) (NP (DT as) (NP (NNS noites) (PP (IN de) (NP (NNS Bruxelas)))))))) (. .))
+(S (S (NP (DT Os) (NNS portugueses)) (VP (VP (VB têm) (NP (DT um) (NP (NNS ponto) (PP (IN de) (NP (NNS encontro)))))) (PP (IN em_) (NP (DT as) (NP (NNS noites) (PP (IN de) (NP (NNS Bruxelas)))))))) .))

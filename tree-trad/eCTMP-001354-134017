@@ -1,1 +1,1 @@
-(S (S (VP (VB Há) (NP (NNS reservas)))) (S (CC mas) (S (VP (VP (RB não) (VB há)) (NP (NNS alternativas))))))
+(S (S (VP (VB Há) (NP (NNS reservas)))) (S (CONJ mas) (S (VP (VP (RB não) (VB há)) (NP (NNS alternativas))))))

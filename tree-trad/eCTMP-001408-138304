@@ -1,1 +1,1 @@
-(S (NP (NP (NP (. ') (NNS Software) (. ')) (NP (CC e) (NP (NNS direitos) (PP (IN de) (NP (NNS autor))))))))
+(S (NP (NP (NP (. ') (NNS Software) (. ')) (NP (CONJ e) (NP (NNS direitos) (PP (IN de) (NP (NNS autor))))))))

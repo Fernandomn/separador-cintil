@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Extraíram) (NP (PRP isso))) (PP (IN de_) (NP (PRP ele))))) (. .))
+(S (S (VP (VP (VB Extraíram) (NP (DT isso))) (PP (IN de_) (NP (PRP ele))))) .)

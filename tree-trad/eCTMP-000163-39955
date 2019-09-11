@@ -1,1 +1,1 @@
-(S (NP (DT Um) (NP (NNS génio) (ADJP (JJ distraído) (ADJP (CC e) (JJ generoso))))))
+(S (NP (DT Um) (NP (NNS génio) (ADJP (JJ distraído) (ADJP (CONJ e) (JJ generoso))))))

@@ -1,1 +1,1 @@
-(S (S (S (VP (RB Já) (VP (VB joguei) (PP (IN em_) (NP (DT o) (NNS Porto)))))) (S (CC e) (S (VB gostei)))) (. .))
+(S (S (S (VP (RB Já) (VP (VB joguei) (PP (IN em_) (NP (DT o) (NNS Porto)))))) (S (CONJ e) (S (VB gostei)))) (. .))

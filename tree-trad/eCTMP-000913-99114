@@ -1,1 +1,1 @@
-(S (S (RB Porém) (S (PP (. ,) (NP (PRP este) (NNS ano)) (. ,)) (S (NP (NNS Jordan)) (VP (VB preferiu) (NP (DT a) (NNS inexperiência)))))) (. .))
+(S (S (RB Porém) (S (PP (. ,) (NP (DT este) (NNS ano)) (. ,)) (S (NP (NNS Jordan)) (VP (VB preferiu) (NP (DT a) (NNS inexperiência)))))) (. .))

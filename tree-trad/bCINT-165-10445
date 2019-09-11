@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS corpo)) (VP (VB foi) (VP (VP (VB encontrado) (ADVP (ADVP (NP (CD duas) (NNS horas))) (RB depois))) (VP (. ,) (VP (VB coberto) (PP (IN por) (NP (NNS vegetação)))))))) (. .))
+(S (S (NP (DT O) (NNS corpo)) (VP (VB foi) (VP (VP (VB encontrado) (ADVP (ADVP (NP (CD duas) (NNS horas))) (RB depois))) (VP ,) (VP (VB coberto) (PP (IN por) (NP (NNS vegetação)))))))) .))

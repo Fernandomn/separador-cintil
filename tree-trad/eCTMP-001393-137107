@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NP (NP (NNS números) (JJ oficiais)) (PP (IN de_) (NP (PRP estes) (NNS fluxos))))) (VP (VP (RB não) (VB são)) (JJ precisos))) (. .))
+(S (S (NP (DT Os) (NP (NP (NNS números) (JJ oficiais)) (PP (IN de_) (NP (DT estes) (NNS fluxos))))) (VP (VP (RB não) (VB são)) (JJ precisos))) (. .))

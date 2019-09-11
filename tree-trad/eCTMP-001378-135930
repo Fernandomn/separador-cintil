@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VB É) (PP (IN em_) (NP (DT o) (NP (PRP$ vosso) (NP (NNS esclarecimento) (SBAR (NP (PRP que)) (S (NP (PRP eu)) (VP (VB aposto)))))))))) (. .)))
+(S (. ') (S (S (VP (VB É) (PP (IN em_) (NP (DT o) (NP (PP$ vosso) (NP (NNS esclarecimento) (SBAR (NP (PRP que)) (S (NP (PRP eu)) (VP (VB aposto)))))))))) (. .)))

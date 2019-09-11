@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT os) (NP (NNS tempos) (SBAR (NP (PRP que)) (S (VP (NP (PRP se)) (VB seguiram))))))) (. ,)) (S (NP (DT a) (NNS modalidade)) (VP (VB sofreu) (PP (IN com) (NP (PRP isso)))))) (. .))
+(S (S (PP (PP (IN Em_) (NP (DT os) (NP (NNS tempos) (SBAR (NP (PRP que)) (S (VP (NP (PRP se)) (VB seguiram))))))) ,)) (S (NP (DT a) (NNS modalidade)) (VP (VB sofreu) (PP (IN com) (NP (DT isso)))))) .))

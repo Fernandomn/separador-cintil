@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS presidente)) (VP (VP (VB criou) (NP (NNS condições))) (NP (NP (CC para) (CC que)) (S (NP (DT os) (NNS sócios)) (VP (VB percebam) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VB dão))))))))))) (. .))
+(S (S (NP (DT O) (NNS presidente)) (VP (VP (VB criou) (NP (NNS condições))) (CONJP (_CONJP_ (CONJ para) (CONJ que)) (S (NP (DT os) (NNS sócios)) (VP (VB percebam) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VB dão))))))))))) (. .))

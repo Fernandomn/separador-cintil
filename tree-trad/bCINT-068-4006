@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (NP (CC Se) (S (VB ganharmos))) (VP (RB lá) (VP (VB continuamos) (PP (IN a_) (NP (DT a) (NP (NNS frente) (PP (IN de_) (NP (DT o) (NNS campeonato)))))))))) (. .)))
+(S ') (S (S (VP (CONJP (CONJ Se) (S (VB ganharmos))) (VP (RB lá) (VP (VB continuamos) (PP (IN a_) (NP (DT a) (NP (NNS frente) (PP (IN de_) (NP (DT o) (NNS campeonato)))))))))) .)))

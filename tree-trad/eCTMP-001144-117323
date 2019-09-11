@@ -1,1 +1,1 @@
-(S (. ') (S (S (PP (IN em_) (NP (PRP estas) (NNS eleições))) (S (NP (DT o) (NNS PCP)) (VP (VB vai) (VP (VB ganhar) (NP (DT outra) (NNS vez)))))) (. .)))
+(S (. ') (S (S (PP (IN em_) (NP (DT estas) (NNS eleições))) (S (NP (DT o) (NNS PCP)) (VP (VB vai) (VP (VB ganhar) (NP (DT outra) (NNS vez)))))) (. .)))

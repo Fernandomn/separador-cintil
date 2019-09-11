@@ -1,1 +1,1 @@
-(S (NP (NP (NNS José) (NNS Lamego))) (VP (PP (IN em_) (NP (DT o) (NP (. ') (NP (NNS Acção) (NNS Socialista)) (. '))))))
+(S (NP (NP (NNS José) (NNS Lamego))) (VP (PP (IN em_) (NP (DT o) (NP ') (NP (NNS Acção) (NNS Socialista)) '))))))

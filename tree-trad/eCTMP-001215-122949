@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Por) (NP (PRP isso))) (. ,)) (VP (VP (RB não) (VB sabe)) (NP (NP (NP (DT os) (NNS preços)) (NP (CC e) (NP (DT os) (NNS custos)))) (JJ envolvidos))))) (. .))
+(S (S (VP (PP (PP (IN Por) (NP (DT isso))) (. ,)) (VP (VP (RB não) (VB sabe)) (NP (NP (NP (DT os) (NNS preços)) (NP (CONJ e) (NP (DT os) (NNS custos)))) (JJ envolvidos))))) (. .))

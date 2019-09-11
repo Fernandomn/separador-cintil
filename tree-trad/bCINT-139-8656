@@ -1,1 +1,1 @@
-(S (S (NP (PRP Isso)) (VP (VP (VB está) (RB bem)) (JJ encaminhado))) (. ?))
+(S (S (NP (DT Isso)) (VP (VP (VB está) (RB bem)) (JJ encaminhado))) ?))

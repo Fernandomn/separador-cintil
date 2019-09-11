@@ -1,1 +1,1 @@
-(S (S (VP (VP (RB Não) (VB são)) (NP (NP (NNS reedições) (ADJP (VB revistas) (ADJP (CC e) (VB aumentadas))))))) (. .))
+(S (S (VP (VP (RB Não) (VB são)) (NP (NP (NNS reedições) (ADJP (VB revistas) (ADJP (CONJ e) (VB aumentadas))))))) (. .))

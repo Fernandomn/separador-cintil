@@ -1,1 +1,1 @@
-(S (S (NP (PRP Esta) (NNS tendência)) (VP (VB deverá) (VP (VB continuar) (PP (IN em_) (NP (DT os) (NP (JJ próximos) (NNS dias))))))) (. .))
+(S (S (NP (DT Esta) (NNS tendência)) (VP (VB deverá) (VP (VB continuar) (PP (IN em_) (NP (DT os) (NP (JJ próximos) (NNS dias))))))) (. .))

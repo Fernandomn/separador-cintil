@@ -1,1 +1,1 @@
-(S (S (NP (NNS Cadete)) (VP (VB encontra) (NP (NP (NNS razões) (PP (IN para) (NP (PRP isto))))))) (. :))
+(S (S (NP (NNS Cadete)) (VP (VB encontra) (NP (NP (NNS razões) (PP (IN para) (NP (DT isto))))))) :))

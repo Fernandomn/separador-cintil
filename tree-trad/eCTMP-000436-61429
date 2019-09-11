@@ -1,1 +1,1 @@
-(S (S (S (VB Saem) (NP (CD quatro))) (S (CC e) (S (VB entra) (NP (DT um))))) (. .))
+(S (S (S (VB Saem) (NP (CD quatro))) (S (CONJ e) (S (VB entra) (NP (DT um))))) .))

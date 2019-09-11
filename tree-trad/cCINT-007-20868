@@ -1,1 +1,1 @@
-(S (S (S (VB Saio)) (S (. ,) (S (VP (VB vou) (PP (PP (IN a_) (NP (DT a) (NNS ginástica))) (PP (. ,) (PP (IN a_) (NP (DT o) (NNS cinema))))))))) (. ...))
+(S (S (S (VB Saio)) (S ,) (S (VP (VB vou) (PP (PP (IN a_) (NP (DT a) (NNS ginástica))) (PP ,) (PP (IN a_) (NP (DT o) (NNS cinema))))))))) .))

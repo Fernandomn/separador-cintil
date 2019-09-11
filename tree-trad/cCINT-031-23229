@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Para) (NP (PRP mim))) (. ,)) (S (NP (DT as) (NNS pessoas)) (VP (VB são) (ADJP (JJ (RB mais) (ADJP (JJ importantes))) (SBAR (SBAR (IN de_) (IN o) (IN que)) (NP (DT as) (NNS coisas))))))) (. .))
+(S (S (PP (PP (IN Para) (NP (PRP mim))) ,)) (S (NP (DT as) (NNS pessoas)) (VP (VB são) (ADJP (JJ (RB mais) (ADJP (JJ importantes))) (SBAR (SBAR (IN de_) (IN o) (IN que)) (NP (DT as) (NNS coisas))))))) .))

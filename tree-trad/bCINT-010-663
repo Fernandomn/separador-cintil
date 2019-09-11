@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN Em_) (NP (PRP esta) (NNS selecção))) (VP (RB nunca) (VB existiu))) (NP (PRP esse) (NP (NNS tipo) (PP (IN de) (NP (NNS mercenarismo)))))) (. .))
+(S (S (VP (PP (IN Em_) (NP (DT esta) (NNS selecção))) (VP (RB nunca) (VB existiu))) (NP (DT esse) (NP (NNS tipo) (PP (IN de) (NP (NNS mercenarismo)))))) .)

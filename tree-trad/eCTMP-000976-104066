@@ -1,1 +1,1 @@
-(S (. ') (S (S (RB Hoje) (S (PP (. ,) (PP (IN em_) (NP (DT o) (NNS Brasil))) (. ,)) (S (NP (JJ qualquer) (NNS criminoso)) (VP (VB está) (PP (IN a) (VB sequestrar)))))) (. .)))
+(S (. ') (S (S (RB Hoje) (S (PP (. ,) (PP (IN em_) (NP (DT o) (NNS Brasil))) (. ,)) (S (NP (PRP qualquer) (NNS criminoso)) (VP (VB está) (PP (IN a) (VB sequestrar)))))) (. .)))

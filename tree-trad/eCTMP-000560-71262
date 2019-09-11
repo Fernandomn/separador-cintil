@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Em_) (NP (DT a) (NNS verdade))) (. ,)) (VP (ADVP (RB nem) (RB sequer)) (VP (VB é) (JJ asiática))))) (. .))
+(S (S (VP (PP (PP (IN Em_) (NP (DT a) (NNS verdade))) ,)) (VP (ADVP (RB nem) (RB sequer)) (VP (VB é) (JJ asiática))))) .))

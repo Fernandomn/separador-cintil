@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN Em_) (NP (PRP este) (NNS momento))) (VB apareceram)) (NP (DT os) (NP (NNS pais) (PP (IN de_) (NP (DT o) (NNS Alexandre)))))) (. .))
+(S (S (VP (PP (IN Em_) (NP (DT este) (NNS momento))) (VB apareceram)) (NP (DT os) (NP (NNS pais) (PP (IN de_) (NP (DT o) (NNS Alexandre)))))) .))

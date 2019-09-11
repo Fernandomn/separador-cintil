@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NNS ASP)) (VP (VB é) (NP (DT o) (NP (JJ grande) (NP (NP (. ') (NP (NNS parceiro) (JJ social)) (. ')) (PP (IN de_) (NP (DT o) (NNS Executivo)))))))) (. .))
+(S (S (NP (DT A) (NNS ASP)) (VP (VB é) (NP (DT o) (NP (JJ grande) (NP (NP ') (NP (NNS parceiro) (JJ social)) ')) (PP (IN de_) (NP (DT o) (NNS Executivo)))))))) .))
