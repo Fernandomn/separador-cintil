@@ -1,1 +1,1 @@
-(S (S (NP (NP (PRP Muitas) (NNS viagens)) (NP (. ,) (NP (NP (PRP muitas) (NNS observações)) (NP (CONJ e) (NP (DT os) (NNS resultados)))))) (VP (VB estão) (PP (IN a_) (NP (DT a) (NNS vista))))) (. .))
+(S (S (NP (NP (PRP Muitas) (NNS viagens)) (NP , (NP (NP (PRP muitas) (NNS observações)) (NP (CC e) (NP (DT os) (NNS resultados)))))) (VP (VB estão) (PP (IN a_) (NP (DT a) (NNS vista))))) .)

@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NNS diário) (NP ') (NNS Ma'ariv) ')))) (VP (VB escreveu) (PP (IN em_) (NP (DT um) (NNS editorial))))) :))
+(S (S (NP (DT O) (NP (NNS diário) (NP '' (NNS Ma'ariv) ``))) (VP (VB escreveu) (PP (IN em_) (NP (DT um) (NNS editorial))))) :)

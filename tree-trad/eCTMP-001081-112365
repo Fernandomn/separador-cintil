@@ -1,1 +1,1 @@
-(S (NP (NNS PSR)) (VP (VB lança) (NP (. ') (NP (NNS Jogo) (NNS de_) (NNS o) (NNS Desemprego)) (. '))))
+(S (NP (NNS PSR)) (VP (VB lança) (NP '' (NP (NNS Jogo) (NNS de_) (NNS o) (NNS Desemprego)) ``)))

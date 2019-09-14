@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (NP (DT o) (NP (NNS momento) (SBAR (PP (IN em) (NP (PRP que))) (S (NP (NP (JJ novos) (NP (NNS passos) (PP (IN de) (NP (NNS direito)))))) (VP (VP (VB podem) (VP (VB ser) (VP (VB afirmados) (VP (CONJ e) (VB conseguidos)))))))))))) .))
+(S (S (VP (VB É) (NP (DT o) (NP (NNS momento) (SBAR (PP (IN em) (NP (PRP que))) (S (NP (NP (JJ novos) (NP (NNS passos) (PP (IN de) (NP (NNS direito)))))) (VP (VP (VB podem) (VP (VB ser) (VP (VB afirmados) (VP (CC e) (VB conseguidos)))))))))))) .)

@@ -1,1 +1,1 @@
-(S (S (NP (. ') (NP (NNS Domestic) (NNS Stories)) (. ')) (VP (VB é) (NP (DT outra) (NNS história)))) (. .))
+(S (S (NP '' (NP (NNS Domestic) (NNS Stories)) ``) (VP (VB é) (NP (DT outra) (NNS história)))) .)

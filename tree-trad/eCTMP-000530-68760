@@ -1,1 +1,1 @@
-(S (S (S (NP (DT O) (NNS doente)) (VP (RB já) (VB acordou))) (S (CONJ e) (S (NP (PRP tudo)) (VP (VB parece) (VP (VB correr) (RB bem)))))) .))
+(S (S (S (NP (DT O) (NNS doente)) (VP (RB já) (VB acordou))) (S (CC e) (S (NP (PRP tudo)) (VP (VB parece) (VP (VB correr) (RB bem)))))) .)

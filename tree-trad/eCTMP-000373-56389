@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN De) (NP (NNS paz))) (PP (CONJ ou) (PP (IN de) (NP (NNS vingança))))))) ?))
+(S (S (VP (PP (PP (IN De) (NP (NNS paz))) (PP (CC ou) (PP (IN de) (NP (NNS vingança))))))) ?)

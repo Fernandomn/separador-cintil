@@ -1,1 +1,1 @@
-(S ') (S (S (VP (VP (VB Diz) (PP (IN a_) (NP (DT os) (NNS jornalistas)))) (SBAR (IN que) (S (VP (VP (VP (NP (PRP me)) (VB barriquei)) (PP (IN em_) (NP (DT um) (NNS quarto)))) (PP (IN com) (NP (CD três) (NNS enfermeiras)))))))) .)) '))
+(S '' (S (S (VP (VP (VB Diz) (PP (IN a_) (NP (DT os) (NNS jornalistas)))) (SBAR (IN que) (S (VP (VP (VP (NP (PRP me)) (VB barriquei)) (PP (IN em_) (NP (DT um) (NNS quarto)))) (PP (IN com) (NP (CD três) (NNS enfermeiras)))))))) .) ``)

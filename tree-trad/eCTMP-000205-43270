@@ -1,1 +1,1 @@
-(S (NP (NNS Câmara)) (VP (VB recua) (PP (IN em_) (NP (DT as) (NP ') (NP (NNS Gaivotas) (NNS de_) (NNS o) (NNS Tejo)) '))))))
+(S (NP (NNS Câmara)) (VP (VB recua) (PP (IN em_) (NP (DT as) (NP '' (NP (NNS Gaivotas) (NNS de_) (NNS o) (NNS Tejo)) ``)))))

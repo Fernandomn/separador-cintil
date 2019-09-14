@@ -1,1 +1,1 @@
-(S (S (S (PP (PP (IN De) (NP (NNS resto))) (. ,)) (S (NP (DT a) (NNS equipa)) (VP (RB nunca) (VP (VB interferiu) (PP (IN em_) (NP (DT a) (NP (PP$ nossa) (NP (NNS vida) (JJ privada))))))))) (. .)) (. '))
+(S (S (S (PP (PP (IN De) (NP (NNS resto))) ,) (S (NP (DT a) (NNS equipa)) (VP (RB nunca) (VP (VB interferiu) (PP (IN em_) (NP (DT a) (NP (PP$ nossa) (NP (NNS vida) (JJ privada))))))))) .) ``)

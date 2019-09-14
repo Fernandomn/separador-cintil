@@ -1,1 +1,1 @@
-(S (NP (NNS Acidentes)) (VP (ADJP (JJ domésticos) (PP (CONJ e) (PP (IN de) (NP (NNS lazer)))))))
+(S (NP (NNS Acidentes)) (VP (ADJP (JJ domésticos) (PP (CC e) (PP (IN de) (NP (NNS lazer)))))))

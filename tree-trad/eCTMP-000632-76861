@@ -1,1 +1,1 @@
-(S (S (CONJP (CONJP (CONJ Quando) (S (NP (DT os) (NNS americanos)) (VP (VB dão) (NP (DT um) (NP (NNS passo) (PP (IN em_) (NP (DT a) (NP (PP$ nossa) (NNS direcção))))))))) (. ,)) (S (NP (PRP nós)) (VB retribuímos))) (. .))
+(S (S (CONJP (CONJP (CC Quando) (S (NP (DT os) (NNS americanos)) (VP (VB dão) (NP (DT um) (NP (NNS passo) (PP (IN em_) (NP (DT a) (NP (PP$ nossa) (NNS direcção))))))))) ,) (S (NP (PRP nós)) (VB retribuímos))) .)

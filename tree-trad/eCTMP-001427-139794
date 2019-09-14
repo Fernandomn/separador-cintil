@@ -1,1 +1,1 @@
-(S (NP (DT Uma) (NP (NP (. ') (NP (NNS falta) (PP (IN de) (NP (NNS respeito)))) (. ')) (PP (IN em_) (NP (DT o) (NP (NNS dia) (PP (IN de_) (NP (DT o) (NP (PP$ seu) (NP (CD 31º) (NNS aniversário)))))))))) (. .))
+(S (NP (DT Uma) (NP (NP '' (NP (NNS falta) (PP (IN de) (NP (NNS respeito)))) ``) (PP (IN em_) (NP (DT o) (NP (NNS dia) (PP (IN de_) (NP (DT o) (NP (PP$ seu) (NP (CD 31º) (NNS aniversário)))))))))) .)

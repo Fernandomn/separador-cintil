@@ -1,1 +1,36 @@
-(S (S (NP (DT As) (NP (NNS aulas) (PP (IN em_) (NP (DT a) (NNS universidade))))) (VP (VP (VB começam) (RB sempre)) (ADVP (ADVP (RB mais) (RB tarde)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT as) (NP (PP$ vossas))))))) .))
+(S 
+  (S 
+    (NP 
+      (DT As)
+      (NP 
+        (NNS aulas)
+        (PP 
+          (IN em_)
+          (NP 
+            (DT a)
+            (NNS universidade)
+          )
+        )
+      )
+    )
+    (VP 
+      (VP 
+        (VB começam)
+        (RB sempre)
+      )
+      (ADVP 
+        (ADVP 
+          (RB mais)
+          (RB tarde)
+        )
+        (CONJP de_ o que)
+        (NP 
+          (DT as)
+          (NP 
+            (PP vossas)
+          )
+        )
+      )
+    )
+  )
+  .)

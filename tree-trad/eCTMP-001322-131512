@@ -1,1 +1,1 @@
-(S (VP (PP (IN Em) (NP (NP (NNS busca) (PP (IN de_) (NP (DT o) (NP (. ') (NP (NNS partido) (JJ real)) (. ')))))))))
+(S (VP (PP (IN Em) (NP (NP (NNS busca) (PP (IN de_) (NP (DT o) (NP '' (NP (NNS partido) (JJ real)) ``))))))))

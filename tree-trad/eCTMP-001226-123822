@@ -1,1 +1,1 @@
-(S (. ') (S (S (RB Nem) (S (NP (DT uma) (NP (NNS palavra) (PP (IN sobre) (NP (DT o) (NNS assunto))))))) (. .)) (. '))
+(S '' (S (S (RB Nem) (S (NP (DT uma) (NP (NNS palavra) (PP (IN sobre) (NP (DT o) (NNS assunto))))))) .) ``)

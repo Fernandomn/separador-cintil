@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Em_) (NP (DT o) (NP (NNS banco) (SBAR (RB onde) (S (NP (PRP ele)) (VP (VP (VB foi) (VB preso)))))))) (. ,)) (VP (VB está) (ADJP (VB sentado)))) (NP (DT outro) (NNS rapaz))) (. .))
+(S (S (VP (PP (PP (IN Em_) (NP (DT o) (NP (NNS banco) (SBAR (RB onde) (S (NP (PRP ele)) (VP (VP (VB foi) (VB preso)))))))) ,) (VP (VB está) (ADJP (VB sentado)))) (NP (DT outro) (NNS rapaz))) .)

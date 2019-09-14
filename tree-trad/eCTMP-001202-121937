@@ -1,1 +1,1 @@
-(S (S (S (ADVP (RB Aqui) (. ,)) (S (S (VB vemos)) (S (. ,) (S (S (VB ouvimos)) (S (CONJ mas) (S (VP (VP (RB não) (VB fazemos)) (NP (NNS perguntas))))))))) (. ')) (. .))
+(S (S (S (ADVP (RB Aqui) ,) (S (S (VB vemos)) (S , (S (S (VB ouvimos)) (S (CC mas) (S (VP (VP (RB não) (VB fazemos)) (NP (NNS perguntas))))))))) ``) .)

@@ -1,1 +1,26 @@
-(S (S (VP (CONJP (_CONJP_ (CONJ Mesmo) (CONJ que)) (S (VP (VB quisesse) (VP (VB ir) (PP (IN com_) (NP (PRP ti))))))) (VP (RB não) (VB podia)))) (. .))
+(S 
+  (S 
+    (VP 
+      (VP 
+        (RB não)
+        (VB podia)
+      )
+      (S 
+        (VP 
+          (VB quisesse)
+          (VP 
+            (VB ir)
+            (PP 
+              (IN com_)
+              (NP 
+                (PRP ti)
+              )
+            )
+          )
+        )
+      )
+      (M e)
+      (q u)
+    )
+  )
+  .)

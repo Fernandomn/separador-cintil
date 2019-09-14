@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS São) (NNS José) (NNS Almeida))) (NP (CONJ e) (NP (NP (NNS João) (NNS Pedro) (NNS Henriques))))))
+(S (NP (NP (NP (NNS São) (NNS José) (NNS Almeida))) (NP (CC e) (NP (NP (NNS João) (NNS Pedro) (NNS Henriques))))))

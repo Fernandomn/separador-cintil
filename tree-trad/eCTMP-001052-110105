@@ -1,1 +1,1 @@
-(S (. ') (S (NP (NNS Gorbatchov)) (VP (VB é) (NP (NP (NNS senhor) (PP (IN de_) (NP (DT a) (NNS situação))))))) (. '))
+(S '' (S (NP (NNS Gorbatchov)) (VP (VB é) (NP (NP (NNS senhor) (PP (IN de_) (NP (DT a) (NNS situação))))))) ``)

@@ -1,1 +1,1 @@
-(S (S (VP (VB Pode) (NP (PRP -se))) (VP (VP (VB ser) (NP (NNS analfabeto))) (VP (CONJ e) (VP (VB ser) (NP (NNS artista)))))) !))
+(S (S (VP (VB Pode) (NP (PRP -se))) (VP (VP (VB ser) (NP (NNS analfabeto))) (VP (CC e) (VP (VB ser) (NP (NNS artista)))))) !)

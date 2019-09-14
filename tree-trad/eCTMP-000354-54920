@@ -1,1 +1,1 @@
-(S (S (NP (NP (DT Os) (NP (NP (JJ europeus)) (SBAR (NP (PRP que)) (S (VP (RB ainda) (VP (VB têm) (NP (PRP alguma) (NNS frota)))))))) ,)) (VP (VB subsidiam) (NP (PRP -na)))) .))
+(S (S (NP (NP (DT Os) (NP (NP (JJ europeus)) (SBAR (NP (PRP que)) (S (VP (RB ainda) (VP (VB têm) (NP (PRP alguma) (NNS frota)))))))) ,) (VP (VB subsidiam) (NP (PRP -na)))) .)

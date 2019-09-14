@@ -1,1 +1,1 @@
-(S (S (VP (VP (RB Não) (VB discutiram)) (NP (NP (DT a) (NP (NP (NNS retirada) (JJ militar)) (PP (IN de) (NP (NNS Hebron))))) (NP ,) (NP (NP (DT os) (NP (NNS colonatos) (JJ judeus))) (NP (CONJ ou) (NP (NNS Jerusalém)))))))) .))
+(S (S (VP (VP (RB Não) (VB discutiram)) (NP (NP (DT a) (NP (NP (NNS retirada) (JJ militar)) (PP (IN de) (NP (NNS Hebron))))) (NP , (NP (NP (DT os) (NP (NNS colonatos) (JJ judeus))) (NP (CC ou) (NP (NNS Jerusalém)))))))) .)

@@ -1,1 +1,1 @@
-(S (S (S (NP (DT O) (NNS marido)) (VB morreu)) (S ,) (S (NP (DT isso)) (VP (VB é) (JJ seguro))))) .))
+(S (S (S (NP (DT O) (NNS marido)) (VB morreu)) (S , (S (NP (DT isso)) (VP (VB é) (JJ seguro))))) .)

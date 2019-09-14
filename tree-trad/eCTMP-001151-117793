@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Ferraz) (NNS de_) (NNS a) (NNS Costa))) (VP (VP (VB é) (ADJP (. ') (JJ pernicioso) (. '))) (PP (IN para) (NP (DT a) (NNS CIP)))))
+(S (NP (NP (NNS Ferraz) (NNS de_) (NNS a) (NNS Costa))) (VP (VP (VB é) (ADJP '' (JJ pernicioso) ``)) (PP (IN para) (NP (DT a) (NNS CIP)))))

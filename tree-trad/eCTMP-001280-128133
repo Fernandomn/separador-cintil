@@ -1,1 +1,1 @@
-(S (VP (VP (VP (RB Não) (VB há)) (PP (. ,) (PP (IN por) (NP (DT estas) (NNS terras))) (. ,))) (NP (NP (PRP quem)) (S (VP (VP (RB não) (VB conheça)) (NP (DT a) (NNS associação)))))) (. .))
+(S (VP (VP (VP (RB Não) (VB há)) (PP , (PP (IN por) (NP (DT estas) (NNS terras))) ,)) (NP (NP (PRP quem)) (S (VP (VP (RB não) (VB conheça)) (NP (DT a) (NNS associação)))))) .)

@@ -1,1 +1,1 @@
-(S (VP (PP (PP (IN Durante) (NP (DT a) (NNS semana))) ,)) (VP (VP (RB não) (VB havia)) (NP (NNS borgas)))) .))
+(S (VP (PP (PP (IN Durante) (NP (DT a) (NNS semana))) ,) (VP (VP (RB não) (VB havia)) (NP (NNS borgas)))) .)

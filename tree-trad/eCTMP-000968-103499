@@ -1,1 +1,1 @@
-(S (S (S (NP (NP (NNS Emilio) (NNS Gabaglio))) (VP (VB será) (VB reeleito))) (S (. ,) (S (NP (PRP tudo)) (VP (NP (PRP o)) (VB indica))))) (. .))
+(S (S (S (NP (NP (NNS Emilio) (NNS Gabaglio))) (VP (VB será) (VB reeleito))) (S , (S (NP (PRP tudo)) (VP (NP (PRP o)) (VB indica))))) .)

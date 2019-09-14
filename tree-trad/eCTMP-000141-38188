@@ -1,1 +1,38 @@
-(S (S (NP (PRP Algo)) (VP (VP (VB vai) (VP (VB mudar) (PP (IN em_) (NP (DT a) (NP (NNS gestão) (NNS Expo)))))) (CONJP ,) (CONJP (_CONJP_ (CONJ ainda) (CONJ que)) (S (NP (DT o) (NNS comissário)) (VP (VB possa) (VB permanecer))))))) .))
+(S 
+  (S 
+    (S 
+      (NP 
+        (PRP Algo)
+      )
+      (VP 
+        (VP 
+          (VB vai)
+          (VP 
+            (VB mudar)
+            (PP 
+              (IN em_)
+              (NP 
+                (DT a)
+                (NP 
+                  (NNS gestão)
+                  (NNS Expo)
+                )
+              )
+            )
+          )
+        )
+        [',']        (CONJP ainda que)
+        (S 
+          (NP 
+            (DT o)
+            (NNS comissário)
+          )
+          (VP 
+            (VB possa)
+            (VB permanecer)
+          )
+        )
+      )
+    )
+  )
+  .)

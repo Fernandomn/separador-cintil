@@ -1,1 +1,1 @@
-(S ") (S (S (VP (VB Era) (NP (DT uma) (NP (NP (NNS criatura) (ADJP (RB muito) (JJ boa))) (ADJP ,) (ADJP (ADVP (ADVP (RB muito) ,)) (RB muito)) (JJ boa))))))) .)))
+(S `` (S (S (VP (VB Era) (NP (DT uma) (NP (NP (NNS criatura) (ADJP (RB muito) (JJ boa))) (ADJP , (ADJP (ADVP (ADVP (RB muito) ,) (RB muito)) (JJ boa))))))) .))

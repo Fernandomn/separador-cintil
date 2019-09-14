@@ -1,1 +1,42 @@
-(S (S (S (VP (VP (RB Não) (VB há)) (NP (PRP nenhum) (NP (NNS local) (JJ seguro))))) (S (CONJ mas) (S (VP (VB há) (NP (NP (NNS locais) (ADJP (ADJP (RB mais) (JJ seguros)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT outros)))))))))) (. .))
+(S 
+  (S 
+    (S 
+      (VP 
+        (VP 
+          (RB Não)
+          (VB há)
+        )
+        (NP 
+          (PRP nenhum)
+          (NP 
+            (NNS local)
+            (JJ seguro)
+          )
+        )
+      )
+    )
+    (S 
+      (CC mas)
+      (S 
+        (VP 
+          (VB há)
+          (NP 
+            (NP 
+              (NNS locais)
+              (ADJP 
+                (ADJP 
+                  (RB mais)
+                  (JJ seguros)
+                )
+                (CONJP de_ o que)
+                (NP 
+                  (DT outros)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  .)

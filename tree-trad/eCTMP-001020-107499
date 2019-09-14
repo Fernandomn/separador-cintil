@@ -1,1 +1,1 @@
-(S (S (NP (NNS Grilo)) (VP (. ') (VB cantou) (. '))) (S (CONJ mas) (S (VP (RB não) (VB encantou)))))
+(S (S (NP (NNS Grilo)) (VP '' (VB cantou) ``)) (S (CC mas) (S (VP (RB não) (VB encantou)))))

@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NNS dólar) (JJ americano))) (VP ') (VP (VB está) (PP (IN de) (NP (NNS férias)))) '))) .))
+(S (S (NP (DT O) (NP (NNS dólar) (JJ americano))) (VP '' (VP (VB está) (PP (IN de) (NP (NNS férias)))) ``)) .)

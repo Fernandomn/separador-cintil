@@ -1,1 +1,1 @@
-(S (S (NP (NP (DT As) (NP (JJ boas) (NNS vontades))) (NP (CONJ e) (NP (DT as) (NNS doações)))) (VP (VP (RB não) (VB ficaram)) (PP (IN por) (RB aí)))) .))
+(S (S (NP (NP (DT As) (NP (JJ boas) (NNS vontades))) (NP (CC e) (NP (DT as) (NNS doações)))) (VP (VP (RB não) (VB ficaram)) (PP (IN por) (RB aí)))) .)

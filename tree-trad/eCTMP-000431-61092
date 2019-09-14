@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (PP (IN Dentro) (IN de)) (NP (DT uma) (NNS semana))) ,)) (VP (VB discursará) (PP (IN em_) (NP (DT a) (NNS ONU)))))) .))
+(S (S (VP (PP (PP (PP (IN Dentro) (IN de)) (NP (DT uma) (NNS semana))) ,) (VP (VB discursará) (PP (IN em_) (NP (DT a) (NNS ONU)))))) .)

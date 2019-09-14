@@ -1,1 +1,1 @@
-(S (. ') (S (S (PP (PP (IN Em_) (NP (DT o) (NP (NNS momento) (SBAR (PP (IN em) (NP (PRP que))) (S (VP (VP (VB entra) (PP (IN em) (NP (NNS campo)))))))))) (. ,)) (S (NP (DT a) (NNS atitude)) (VB muda))) (. .)))
+(S `` (S (S (PP (PP (IN Em_) (NP (DT o) (NP (NNS momento) (SBAR (PP (IN em) (NP (PRP que))) (S (VP (VP (VB entra) (PP (IN em) (NP (NNS campo)))))))))) ,) (S (NP (DT a) (NNS atitude)) (VB muda))) .))

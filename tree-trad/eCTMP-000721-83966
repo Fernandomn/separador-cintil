@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VB Estamos) (PP (IN em) (NP (NP (NP (NNS discussão) (PP (IN com) (NP (NP (DT a) (NNS MCI)) (NP (CONJ e) (NP (DT outras) (NNS companhias)))))) (PP (IN sobre) (NP (DT este) (NNS assunto)))))))) (. .)) (. '))
+(S '' (S (S (VP (VB Estamos) (PP (IN em) (NP (NP (NP (NNS discussão) (PP (IN com) (NP (NP (DT a) (NNS MCI)) (NP (CC e) (NP (DT outras) (NNS companhias)))))) (PP (IN sobre) (NP (DT este) (NNS assunto)))))))) .) ``)

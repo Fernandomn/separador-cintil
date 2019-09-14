@@ -1,1 +1,1 @@
-(S (S (S (S (CONJ Ou) (S (VP (VP (RB não) (VB ouviu)) (PP (IN para) (NP (DT a) (NNS frente)))))) ,)) (S (CONJ ou) (S (VP (RB então) (VP (VB é) (JJ surdo)))))) .))
+(S (S (S (S (CC Ou) (S (VP (VP (RB não) (VB ouviu)) (PP (IN para) (NP (DT a) (NNS frente)))))) ,) (S (CC ou) (S (VP (RB então) (VP (VB é) (JJ surdo)))))) .)

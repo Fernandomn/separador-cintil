@@ -1,1 +1,1 @@
-(S (S (S (NP (PRP Ela)) (VP (VB bebeu) (NP (DT uma) (NNS cerveja)))) (S (. ,) (S (VP (VB encetou) (NP (DT uma) (NP (CD segunda))))))) (. .))
+(S (S (S (NP (PRP Ela)) (VP (VB bebeu) (NP (DT uma) (NNS cerveja)))) (S , (S (VP (VB encetou) (NP (DT uma) (NP (CD segunda))))))) .)

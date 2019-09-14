@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS retrato)) (VP (VB é) (VP (VB feito) (PP (IN por_) (NP (DT a) (NP (NNS ONU) (SBAR ,) (SBAR (NP (PRP que)) (S (VP (VB diz) (RB ainda))))))))))) :))
+(S (S (NP (DT O) (NNS retrato)) (VP (VB é) (VP (VB feito) (PP (IN por_) (NP (DT a) (NP (NNS ONU) (SBAR , (SBAR (NP (PRP que)) (S (VP (VB diz) (RB ainda))))))))))) :)

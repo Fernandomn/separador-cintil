@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Homenagem) (PP (IN a) (NP (NP (NNS Sá) (NNS Carneiro)))))) (VP (VP (RB não) (VB será)) (ADJP (. ') (JJ politizada) (. '))))
+(S (NP (NP (NNS Homenagem) (PP (IN a) (NP (NP (NNS Sá) (NNS Carneiro)))))) (VP (VP (RB não) (VB será)) (ADJP '' (JJ politizada) ``)))

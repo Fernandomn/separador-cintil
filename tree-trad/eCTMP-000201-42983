@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Durante) (NP (DT a) (NNS noite))) ,)) (S (NP (PRP algumas) (NP (NP (NNS casas) (NP (CONJ e) (NNS cafés))) (PP (IN de_) (NP (DT o) (NP (NNS topo) (PP (IN de_) (NP (DT a) (NNS serra)))))))) (VP (VB estiveram) (ADJP (VB ameaçados))))) .))
+(S (S (PP (PP (IN Durante) (NP (DT a) (NNS noite))) ,) (S (NP (PRP algumas) (NP (NP (NNS casas) (NP (CC e) (NNS cafés))) (PP (IN de_) (NP (DT o) (NP (NNS topo) (PP (IN de_) (NP (DT a) (NNS serra)))))))) (VP (VB estiveram) (ADJP (VB ameaçados))))) .)

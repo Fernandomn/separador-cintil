@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Farrow)) (NP (CONJ e) (NP (DT a) (NP (NP (. ') (NP (NNS relação) (ADJP (RB pouco) (JJ própria))) (. ')) (PP (IN de) (NP (NNS Allen))))))))
+(S (NP (NP (NNS Farrow)) (NP (CC e) (NP (DT a) (NP (NP '' (NP (NNS relação) (ADJP (RB pouco) (JJ própria))) ``) (PP (IN de) (NP (NNS Allen))))))))

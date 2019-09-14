@@ -1,1 +1,1 @@
-(S (S (S (S (NP (NP (NNS Owen)) (NP (CONJ e) (NP (NNS Stoltenberg)))) (VP (VB responderam) (RB afirmativamente))) (. ,)) (S (CONJ mas) (S (VP (VB exigem) (NP (NP (NNS condições) (PP (IN de) (NP (NNS segurança))))))))) (. .))
+(S (S (S (S (NP (NP (NNS Owen)) (NP (CC e) (NP (NNS Stoltenberg)))) (VP (VB responderam) (RB afirmativamente))) ,) (S (CC mas) (S (VP (VB exigem) (NP (NP (NNS condições) (PP (IN de) (NP (NNS segurança))))))))) .)

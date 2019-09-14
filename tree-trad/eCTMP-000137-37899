@@ -1,1 +1,14 @@
-(S (S (VP (PP (PP (PP (_CONJP_ (CONJ Não) (CONJ só)) (PP (IN em) (NP (NP (NNS termos) (JJ estéticos))))) ,)) (ADJP (_CONJP_ (CONJ mas) (CONJ também)) (JJ comerciais))))) .))
+(S 
+  (S 
+    (VP 
+      (PP 
+        (['PP', [['_CONJP_', [['CC', 'Não'], ['CC', 'só']]], ['PP', [['IN', 'em'], ['NP', [['NP', [['NNS', 'termos'], ['JJ', 'estéticos']]]]]]]]] 
+          ,        )
+        (ADJP 
+          (_CONJP_ mas também)
+          (JJ comerciais)
+        )
+      )
+    )
+  )
+  .)

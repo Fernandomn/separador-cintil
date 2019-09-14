@@ -1,1 +1,1 @@
-(S (. ') (S (S (CONJP (CONJP (CONJ Quando) (S (VB cheguei))) (. ,)) (S (NP (DT os) (NP (JJ favoritos))) (VP (VB eram) (NP (NP (NNS Rússia)) (NP (. ,) (NP (NP (NNS Croácia)) (NP (. ,) (NP (NP (NNS França)) (NP (CONJ e) (NP (NNS Espanha))))))))))) (. .)))
+(S `` (S (S (CONJP (CONJP (CC Quando) (S (VB cheguei))) ,) (S (NP (DT os) (NP (JJ favoritos))) (VP (VB eram) (NP (NP (NNS Rússia)) (NP , (NP (NP (NNS Croácia)) (NP , (NP (NP (NNS França)) (NP (CC e) (NP (NNS Espanha))))))))))) .))

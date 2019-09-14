@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Está) (NP (PRP tudo))) (JJ ultrapassado)) (S (CONJ e) (S (ADVP (. ,) (RB hoje) (. ,)) (S (NP (DT a) (NP (PP$ minha) (NNS tese))) (VP (VB é) (JJ unânime)))))) (. .))
+(S (S (S (VP (VB Está) (NP (PRP tudo))) (JJ ultrapassado)) (S (CC e) (S (ADVP , (RB hoje) ,) (S (NP (DT a) (NP (PP$ minha) (NNS tese))) (VP (VB é) (JJ unânime)))))) .)

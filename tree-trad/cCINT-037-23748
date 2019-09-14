@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS preocupação) (PP (IN de_) (NP (DT a) (NNS professora))))) (VP (VP (VB era) (ADVP ,) (RB contudo) ,))) (ADJP (RB muito) (JJ diferente)))) .))
+(S (S (NP (DT A) (NP (NNS preocupação) (PP (IN de_) (NP (DT a) (NNS professora))))) (VP (VP (VB era) (ADVP , (RB contudo) ,)) (ADJP (RB muito) (JJ diferente)))) .)

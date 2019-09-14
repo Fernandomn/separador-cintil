@@ -1,1 +1,1 @@
-(S (NP (NP (NNS PS)) (NP (CONJ e) (NP (NNS CDU)))) (VP (PP (IN em) (NP (NP (NNS rota) (PP (IN de) (NP (NNS colisão))))))))
+(S (NP (NP (NNS PS)) (NP (CC e) (NP (NNS CDU)))) (VP (PP (IN em) (NP (NP (NNS rota) (PP (IN de) (NP (NNS colisão))))))))

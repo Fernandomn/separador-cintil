@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VB Conheci) (NP (NP (NP (PRP muitos) (NNS reis)) (NP (CONJ e) (NP (NNS rainhas)))) (NP (. ,) (NP (NNS presidentes) (NP (CONJ e) (NNS estrelas))))))) (. .)))
+(S `` (S (S (VP (VB Conheci) (NP (NP (NP (PRP muitos) (NNS reis)) (NP (CC e) (NP (NNS rainhas)))) (NP , (NP (NNS presidentes) (NP (CC e) (NNS estrelas))))))) .))

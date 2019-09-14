@@ -1,1 +1,1 @@
-(S (S (S (S (NP (NP (NP (NNS Fernando) (NNS Tordo))) (NP (CONJ e) (NP (NNS Ary)))) (VB escrevem)) (S (CONJ e) (S (VB compõem)))) (PP (IN para) (NP (PRP ela)))) .))
+(S (S (S (S (NP (NP (NP (NNS Fernando) (NNS Tordo))) (NP (CC e) (NP (NNS Ary)))) (VB escrevem)) (S (CC e) (S (VB compõem)))) (PP (IN para) (NP (PRP ela)))) .)

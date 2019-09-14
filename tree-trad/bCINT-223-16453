@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Mais) (RB adiante)) (S (PP ,) (PP (IN em) (NP (NNS Segóvia))) ,)) (S (NP (DT a) (NP (JJ mesma) (NNS cena)))))) .))
+(S (S (ADVP (RB Mais) (RB adiante)) (S (PP , (PP (IN em) (NP (NNS Segóvia))) ,) (S (NP (DT a) (NP (JJ mesma) (NNS cena)))))) .)

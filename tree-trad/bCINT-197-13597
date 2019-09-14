@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NNS Martin) (NNS Luther) (NNS King))) (NP (CONJ e) (NP (NP (NNS Bobby) (NNS Kennedy))))) (VP (VB seriam) (VB assassinados))) .))
+(S (S (NP (NP (NP (NNS Martin) (NNS Luther) (NNS King))) (NP (CC e) (NP (NP (NNS Bobby) (NNS Kennedy))))) (VP (VB seriam) (VB assassinados))) .)

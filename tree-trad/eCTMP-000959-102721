@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Gina) (NNS Azevedo) (NNS Marques)) (. ,)) (VP (PP (IN em) (NP (NNS Roma)))))
+(S (NP (NP (NNS Gina) (NNS Azevedo) (NNS Marques)) ,) (VP (PP (IN em) (NP (NNS Roma)))))

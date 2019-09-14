@@ -1,1 +1,1 @@
-(S (S (. ') (S (NP (NNS Salazar)) (VP (VB é) (NP (DT um) (NP (JJ grande) (NNS poeta))))) (. ')) (. .))
+(S (S '' (S (NP (NNS Salazar)) (VP (VB é) (NP (DT um) (NP (JJ grande) (NNS poeta))))) ``) .)

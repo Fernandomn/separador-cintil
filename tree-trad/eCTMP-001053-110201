@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Alemanha)) (NP (CONJ e) (NP (NNS Holanda)))) (VP (VP (. ') (VB apertam) (. ')) (NP (NNS despesas))))
+(S (NP (NP (NNS Alemanha)) (NP (CC e) (NP (NNS Holanda)))) (VP (VP '' (VB apertam) ``) (NP (NNS despesas))))

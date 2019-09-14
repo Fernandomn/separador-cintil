@@ -1,1 +1,1 @@
-(S (NP (DT Um) (NP (NNS músico) (SBAR (NP (PRP que)) (S (VP (VP (VB desenvolve) (NP (DT um) (NP (NNS tempo) (PP (IN para) (NP (DT o) (NNS improviso)))))) (PP (IN de) (NP (NP (NNS forma) (ADJP (JJ intensa) (ADJP (CONJ e) (JJ original))))))))))) (. .))
+(S (NP (DT Um) (NP (NNS músico) (SBAR (NP (PRP que)) (S (VP (VP (VB desenvolve) (NP (DT um) (NP (NNS tempo) (PP (IN para) (NP (DT o) (NNS improviso)))))) (PP (IN de) (NP (NP (NNS forma) (ADJP (JJ intensa) (ADJP (CC e) (JJ original))))))))))) .)

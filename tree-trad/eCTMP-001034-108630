@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Vampiro) (PP (IN de_) (NP (DT o) (NNS fado))))) (NP (. ,) (NP (NNS Paulo) (NNS Bragança)))) (. ?))
+(S (NP (NP (NP (NNS Vampiro) (PP (IN de_) (NP (DT o) (NNS fado))))) (NP , (NP (NNS Paulo) (NNS Bragança)))) ?)

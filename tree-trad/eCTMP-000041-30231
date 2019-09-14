@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Jacques) (NNS Chirac))) (VP (VB fala) (PP (IN de) (NP ') (NNS terrorismo) '))))) .))
+(S (S (NP (NP (NNS Jacques) (NNS Chirac))) (VP (VB fala) (PP (IN de) (NP '' (NNS terrorismo) ``)))) .)

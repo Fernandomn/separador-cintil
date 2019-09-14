@@ -1,1 +1,1 @@
-(S (VP (VB Haverá) (NP (NP (NNS futebol) (SBAR (NP (PRP que)) (S (VP (VB resista) (PP (IN a) (NP (DT isto))))))))) ?))
+(S (VP (VB Haverá) (NP (NP (NNS futebol) (SBAR (NP (PRP que)) (S (VP (VB resista) (PP (IN a) (NP (DT isto))))))))) ?)

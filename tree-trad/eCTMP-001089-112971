@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS Comuna))) (. ,)) (S (NP (DT o) (NNS embaraço)) (VP (VB está) (PP (IN em_) (NP (DT a) (NNS escolha)))))) (. .))
+(S (S (PP (PP (IN Em_) (NP (DT a) (NNS Comuna))) ,) (S (NP (DT o) (NNS embaraço)) (VP (VB está) (PP (IN em_) (NP (DT a) (NNS escolha)))))) .)

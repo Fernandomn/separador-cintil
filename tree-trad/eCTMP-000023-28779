@@ -1,1 +1,1 @@
-(S (S (VP (CONJP (CONJP (CONJ Se) (S (VP (VB estamos) (ADJP (VB atrasados))))) ,)) (VP (VB é) (NP (NP (DT um) (NNS ano)) (NP (CONJ ou) (NP (CD dois))))))) .))
+(S (S (VP (CONJP (CONJP (CC Se) (S (VP (VB estamos) (ADJP (VB atrasados))))) ,) (VP (VB é) (NP (NP (DT um) (NNS ano)) (NP (CC ou) (NP (CD dois))))))) .)

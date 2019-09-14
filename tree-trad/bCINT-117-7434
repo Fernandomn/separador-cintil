@@ -1,1 +1,38 @@
-(S (VP (VP (VP (RB Não) (VB houve)) (NP (NP (JJ grandes) (NNS consequências)))) (CONJP ,) (CONJP (_CONJP_ (CONJ uma) (CONJ vez) (CONJ que)) (S (NP (DT os) (NNS bombeiros)) (VP (VB conseguiram) (VP (VP (VB dominar) (RB rapidamente)) (NP (DT as) (NNS chamas)))))))) .))
+(S 
+  (S 
+    (VP 
+      (VP 
+        (VP 
+          (RB Não)
+          (VB houve)
+        )
+        (NP 
+          (NP 
+            (JJ grandes)
+            (NNS consequências)
+          )
+        )
+      )
+      [',']      (CONJP uma vez que)
+      (S 
+        (NP 
+          (DT os)
+          (NNS bombeiros)
+        )
+        (VP 
+          (VB conseguiram)
+          (VP 
+            (VP 
+              (VB dominar)
+              (RB rapidamente)
+            )
+            (NP 
+              (DT as)
+              (NNS chamas)
+            )
+          )
+        )
+      )
+    )
+  )
+  .)

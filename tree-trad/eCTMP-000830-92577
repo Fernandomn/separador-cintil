@@ -1,1 +1,1 @@
-(S (S (S (S (VP (VB Complicando) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VB era) (JJ fácil)))))))) (. ,)) (S (NP (NNS Mozer)) (VP (VB esteve) (ADVP (RB longe) (PP (IN de_) (NP (DT os) (NP (PP$ seus) (NP (JJ melhores) (NNS momentos))))))))) (. .))
+(S (S (S (S (VP (VB Complicando) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VB era) (JJ fácil)))))))) ,) (S (NP (NNS Mozer)) (VP (VB esteve) (ADVP (RB longe) (PP (IN de_) (NP (DT os) (NP (PP$ seus) (NP (JJ melhores) (NNS momentos))))))))) .)

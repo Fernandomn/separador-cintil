@@ -1,1 +1,1 @@
-(S (. ') (S (VP (VP (VP (RB Não) (VB há)) (NP (NNS leis))) (PP (IN em_) (NP (DT este) (NNS país)))) (. ?)))
+(S `` (S (VP (VP (VP (RB Não) (VB há)) (NP (NNS leis))) (PP (IN em_) (NP (DT este) (NNS país)))) ?))

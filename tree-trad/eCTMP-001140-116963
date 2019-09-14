@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Sem) (NP (PRP eles))) (. ,)) (S (NP (DT o) (NNS Governo)) (VP (VB pode) (VB cair)))) (. .))
+(S (S (PP (PP (IN Sem) (NP (PRP eles))) ,) (S (NP (DT o) (NNS Governo)) (VP (VB pode) (VB cair)))) .)

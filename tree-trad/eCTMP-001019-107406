@@ -1,1 +1,26 @@
-(S (S (VP (VB É) (PP (PP (IN de_) (NP (DT a) (NNS Empire))) (PP (_CONJP_ (CONJ e) (. ,)) (PP (IN em) (NP (NNS CD-ROM))))))) (. .))
+(S 
+  (S 
+    (VP 
+      (VB É)
+      (PP 
+        (PP 
+          (IN de_)
+          (NP 
+            (DT a)
+            (NNS Empire)
+          )
+        )
+        (PP 
+          (['CC', 'e'] 
+            ,          )
+          (PP 
+            (IN em)
+            (NP 
+              (NNS CD-ROM)
+            )
+          )
+        )
+      )
+    )
+  )
+  .)

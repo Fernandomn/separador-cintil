@@ -1,1 +1,1 @@
-(S (S ') (S (RB Sempre) (S (NP (NP (NNS sexo) (NP (CONJ e) (NNS religião)))))) ')) .))
+(S (S '' (S (RB Sempre) (S (NP (NP (NNS sexo) (NP (CC e) (NNS religião)))))) ``) .)

@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS personagem) (SBAR (NP (PRP que)) (S (VP (VB criou)))))) (VP (VP (VB é) (ADVP ,) (RB contudo) ,))) (ADJP (RB extremamente) (JJ singular)))) .))
+(S (S (NP (DT A) (NP (NNS personagem) (SBAR (NP (PRP que)) (S (VP (VB criou)))))) (VP (VP (VB é) (ADVP , (RB contudo) ,)) (ADJP (RB extremamente) (JJ singular)))) .)

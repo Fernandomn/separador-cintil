@@ -1,1 +1,82 @@
-(S (S (ADVP (ADVP (RB Por) (RB outro) (RB lado)) (. ,)) (S (NP (DT a) (NNS empresa)) (VP (VP (VP (VB foi) (VP (VB contactada) (PP (IN por) (NP (DT este) (NNS jornal))))) (PP (IN em_) (NP (DT o) (NP (NNS dia) (PP (IN de_) (NP (DT a) (NP (NNS elaboração) (PP (IN de_) (NP (DT o) (NNS artigo)))))))))) (CONJP (. ,) (CONJP (_CONJP_ (CONJ sem) (CONJ que)) (S (VP (VB tenha) (VP (VB encontrado) (NP (NP (PRP quem)) (S (VP (VB pudesse) (VP (VB comentar) (NP (DT a) (NNS situação)))))))))))))) (. .))
+(S 
+  (S 
+    (S 
+      (['ADVP', [['RB', 'Por'], ['RB', 'outro'], ['RB', 'lado']]] 
+        ,      )
+      (S 
+        (NP 
+          (DT a)
+          (NNS empresa)
+        )
+        (VP 
+          (VP 
+            (VP 
+              (VB foi)
+              (VP 
+                (VB contactada)
+                (PP 
+                  (IN por)
+                  (NP 
+                    (DT este)
+                    (NNS jornal)
+                  )
+                )
+              )
+            )
+            (PP 
+              (IN em_)
+              (NP 
+                (DT o)
+                (NP 
+                  (NNS dia)
+                  (PP 
+                    (IN de_)
+                    (NP 
+                      (DT a)
+                      (NP 
+                        (NNS elaboração)
+                        (PP 
+                          (IN de_)
+                          (NP 
+                            (DT o)
+                            (NNS artigo)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+          [',']          (CONJP sem que)
+          (S 
+            (VP 
+              (VB tenha)
+              (VP 
+                (VB encontrado)
+                (NP 
+                  (NP 
+                    (PRP quem)
+                  )
+                  (S 
+                    (VP 
+                      (VB pudesse)
+                      (VP 
+                        (VB comentar)
+                        (NP 
+                          (DT a)
+                          (NNS situação)
+                        )
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  .)

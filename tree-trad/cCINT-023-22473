@@ -1,1 +1,1 @@
-(S (S (S (VP (VP (VB Tem) (NP (DT o) (NNS Pingas))) (CONJP (S (VP (VB há) (NP (DT uma) (NP (NNS data) (PP (IN de) (NP (NNS anos)))))))))) (S ,) (S (VB ouviste)))) ?))
+(S (S (S (VP (VP (VB Tem) (NP (DT o) (NNS Pingas))) (CONJP (S (VP (VB há) (NP (DT uma) (NP (NNS data) (PP (IN de) (NP (NNS anos)))))))))) (S , (S (VB ouviste)))) ?)

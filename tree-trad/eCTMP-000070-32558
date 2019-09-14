@@ -1,1 +1,1 @@
-(S (S (RB Normalmente) (S (NP (DT isto)) (VP (RB só) (VP (VB acontecia) (CONJP (CONJ quando) (S (NP (DT o) (NP (NNS ano) (JJ civil))) (VP (VB estivesse) (JJ completo)))))))) .))
+(S (S (RB Normalmente) (S (NP (DT isto)) (VP (RB só) (VP (VB acontecia) (CONJP (CC quando) (S (NP (DT o) (NP (NNS ano) (JJ civil))) (VP (VB estivesse) (JJ completo)))))))) .)

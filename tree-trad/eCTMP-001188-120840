@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN De) (NP (NNS preferência))) (. ,)) (VP (VB devem) (VP (VP (VB ser) (RB bem)) (VB feitas))))) (. .))
+(S (S (VP (PP (PP (IN De) (NP (NNS preferência))) ,) (VP (VB devem) (VP (VP (VB ser) (RB bem)) (VB feitas))))) .)

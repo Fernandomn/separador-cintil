@@ -1,1 +1,1 @@
-(S (S (S (S (NP (DT O) (NNS romance)) (VP (VB foi) (JJ breve))) (. ,)) (S (CONJ mas) (S (VB acabou)))) (. .))
+(S (S (S (S (NP (DT O) (NNS romance)) (VP (VB foi) (JJ breve))) ,) (S (CC mas) (S (VB acabou)))) .)

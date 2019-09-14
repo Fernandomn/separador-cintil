@@ -1,1 +1,37 @@
-(S (S (VP (VP (VB Continua) (PP (IN a) (VP (VB ser) (NP (DT um) (NP (NNS grupo) (ADJP (RB muito) (JJ perigoso))))))) (CONJP (. ,) (CONJP (_CONJP_ (CONJ dado) (CONJ que)) (S (VP (VB aceita) (NP (DT a) (NNS violência)))))))) (. .))
+(S 
+  (S 
+    (S 
+      (VP 
+        (VP 
+          (VB Continua)
+          (PP 
+            (IN a)
+            (VP 
+              (VB ser)
+              (NP 
+                (DT um)
+                (NP 
+                  (NNS grupo)
+                  (ADJP 
+                    (RB muito)
+                    (JJ perigoso)
+                  )
+                )
+              )
+            )
+          )
+        )
+        [',']        (CONJP dado que)
+        (S 
+          (VP 
+            (VB aceita)
+            (NP 
+              (DT a)
+              (NNS violência)
+            )
+          )
+        )
+      )
+    )
+  )
+  .)

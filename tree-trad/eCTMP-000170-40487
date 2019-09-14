@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Muda) (PP (IN de) (NP (NNS roupa))))) (S (CONJ mas) (S (VP (VP (VB está) (RB sempre)) (RB lá))))) .))
+(S (S (S (VP (VB Muda) (PP (IN de) (NP (NNS roupa))))) (S (CC mas) (S (VP (VP (VB está) (RB sempre)) (RB lá))))) .)

@@ -1,1 +1,1 @@
-(S (S (S (VP (VB É) (NP (DT uma) (NP (NP (NP (NNS situação) (JJ conjuntural)) (. ,)) (JJ estratégica))))) (S (CONJ ou) (S (VP (VB tem) (NP (DT outra) (NNS explicação)))))) (. ?))
+(S (S (S (VP (VB É) (NP (DT uma) (NP (NP (NP (NNS situação) (JJ conjuntural)) ,) (JJ estratégica))))) (S (CC ou) (S (VP (VB tem) (NP (DT outra) (NNS explicação)))))) ?)

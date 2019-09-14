@@ -1,1 +1,1 @@
-(S (S (S (S (VB Combina) (NP (PRP -se))) (PP (IN para) (NP (DT o) (NP (NNS dia) (JJ seguinte))))) (S (. ,) (S (NP (PRP eles)) (VP (VB dizem) (SBAR (IN que) (S (VP (VB vão) (VP (VB fazer) (NP (DT uma) (NNS festa)))))))))) (. .))
+(S (S (S (S (VB Combina) (NP (PRP -se))) (PP (IN para) (NP (DT o) (NP (NNS dia) (JJ seguinte))))) (S , (S (NP (PRP eles)) (VP (VB dizem) (SBAR (IN que) (S (VP (VB vão) (VP (VB fazer) (NP (DT uma) (NNS festa)))))))))) .)

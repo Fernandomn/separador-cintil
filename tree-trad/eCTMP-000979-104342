@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NNS rapaz) (SBAR (NP (PRP que)) (S (VP (VP (NP (PRP me)) (VB serviu)) (NP (DT a) (NNS cerveja))))))) (VP (VB disse) (NP (PRP -me)))) (. :))
+(S (S (NP (DT O) (NP (NNS rapaz) (SBAR (NP (PRP que)) (S (VP (VP (NP (PRP me)) (VB serviu)) (NP (DT a) (NNS cerveja))))))) (VP (VB disse) (NP (PRP -me)))) :)

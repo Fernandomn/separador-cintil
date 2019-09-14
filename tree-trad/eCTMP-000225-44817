@@ -1,1 +1,1 @@
-(S (S (SBAR (S ') (S (S (S (VP (RB Já) (VP (VP (VB tenho) (NP (DT esta) (NNS loja))) (CONJP (S (VP (VB há) (NP (CD dois) (NNS anos)))))))) ,)) (S (CONJ e) (S (VP (RB sempre) (VP (VB houve) (NP (NNS ratos))))))) ')) ,)) (S (VP (VB diz)))) .))
+(S (S (SBAR (S '' (S (S (S (VP (RB Já) (VP (VP (VB tenho) (NP (DT esta) (NNS loja))) (CONJP (S (VP (VB há) (NP (CD dois) (NNS anos)))))))) ,) (S (CC e) (S (VP (RB sempre) (VP (VB houve) (NP (NNS ratos))))))) ``) ,) (S (VP (VB diz)))) .)

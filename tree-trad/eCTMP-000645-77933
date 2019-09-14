@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Foi) (VB traído))) (S (. ,) (S (S (VP (VB foi) (VB abandonado))) (S (. ,) (S (VP (VP (VB foi) (RB propositadamente)) (VB esquecido))))))) (. .))
+(S (S (S (VP (VB Foi) (VB traído))) (S , (S (S (VP (VB foi) (VB abandonado))) (S , (S (VP (VP (VB foi) (RB propositadamente)) (VB esquecido))))))) .)

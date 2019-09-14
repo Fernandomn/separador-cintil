@@ -1,1 +1,1 @@
-(S (S (ADVP (ADVP (RB De) (RB facto)) ,)) (S (NP (DT o) (NNS governo)) (VP (VB está) (PP (IN a) (VP (VB correr) (NP (DT um) (NP (NNS risco) (ADJP (VB calculado))))))))) .))
+(S (S (ADVP (ADVP (RB De) (RB facto)) ,) (S (NP (DT o) (NNS governo)) (VP (VB está) (PP (IN a) (VP (VB correr) (NP (DT um) (NP (NNS risco) (ADJP (VB calculado))))))))) .)

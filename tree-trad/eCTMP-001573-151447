@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Ontem) (. ,)) (S (NP (NP (NP (NNS Fernando) (NNS Reis))) (NP (. ,) (NP (NNS presidente) (NNS de_) (NNS a) (NNS autarquia)) (. ,))) (VB comentou))) (. :))
+(S (S (ADVP (RB Ontem) ,) (S (NP (NP (NP (NNS Fernando) (NNS Reis))) (NP , (NP (NNS presidente) (NNS de_) (NNS a) (NNS autarquia)) ,)) (VB comentou))) :)

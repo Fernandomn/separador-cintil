@@ -1,1 +1,1 @@
-(S (NP (NP (NP (. ') (NNS Nova) (. ')) (NP (NNS Lei) (NNS de) (NNS Bases)))) (VP (JJ contestada)))
+(S (NP (NP (NP '' (NNS Nova) ``) (NP (NNS Lei) (NNS de) (NNS Bases)))) (VP (JJ contestada)))

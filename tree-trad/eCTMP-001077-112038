@@ -1,1 +1,1 @@
-(S (S (S (S (VP (VP (VB Está) (RB sempre)) (ADJP (VB rodeado) (PP (IN de) (NP (NNS gente)))))) (. ,)) (S (CONJ mas) (S (VP (VB tem) (NP (PRP poucos) (NP (NNS amigos) (JJ verdadeiros))))))) (. .))
+(S (S (S (S (VP (VP (VB Está) (RB sempre)) (ADJP (VB rodeado) (PP (IN de) (NP (NNS gente)))))) ,) (S (CC mas) (S (VP (VB tem) (NP (PRP poucos) (NP (NNS amigos) (JJ verdadeiros))))))) .)

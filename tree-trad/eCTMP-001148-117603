@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Isabel) (NNS Vila) (NNS Nova)) (. ,)) (VP (PP (IN em) (NP (NNS Paris)))))
+(S (NP (NP (NNS Isabel) (NNS Vila) (NNS Nova)) ,) (VP (PP (IN em) (NP (NNS Paris)))))

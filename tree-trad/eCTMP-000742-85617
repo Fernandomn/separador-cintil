@@ -1,1 +1,1 @@
-(S (S (NP (NP (DT O) (NNS anti-semitismo)) (NP (CONJ e) (NP (DT o) (NP (NNS sentimento) (JJ anti-árabe))))) (VP (VB permanecem) (ADJP (ADJP (JJ subjacentes) (. ,)) (VP (VB escondidos))))) (. .))
+(S (S (NP (NP (DT O) (NNS anti-semitismo)) (NP (CC e) (NP (DT o) (NP (NNS sentimento) (JJ anti-árabe))))) (VP (VB permanecem) (ADJP (ADJP (JJ subjacentes) ,) (VP (VB escondidos))))) .)

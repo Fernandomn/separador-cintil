@@ -1,1 +1,1 @@
-(S (S (. ') (S (VP (RB Pois) (VP (ADVP (RB então) (. ,)) (VP (VB vêm) (PP (IN para) (RB cá))))) (NP (DT as) (NNS manifestações))) (. ')) (. .))
+(S (S '' (S (VP (RB Pois) (VP (ADVP (RB então) ,) (VP (VB vêm) (PP (IN para) (RB cá))))) (NP (DT as) (NNS manifestações))) ``) .)

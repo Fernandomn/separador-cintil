@@ -1,1 +1,1 @@
-(S (NP (NP (JJ Novo) (NP (NNS inquérito) (PP (IN a_) (NP (DT o) (NP (. ') (NP (NNS Bloody) (NNS Sunday)) (. '))))))))
+(S (NP (NP (JJ Novo) (NP (NNS inquérito) (PP (IN a_) (NP (DT o) (NP '' (NP (NNS Bloody) (NNS Sunday)) ``)))))))

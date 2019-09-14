@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Tradicionalmente) ,)) (S (NP (DT a) (NP (NNS Universidade) (NNS de) (NNS Lisboa))) (VP (VB diz) (SBAR (IN que) (S (NP (DT a) (NNS culpa)) (VP (VB é) (PP (IN de_) (NP (DT a) (NNS Câmara))))))))) .))
+(S (S (ADVP (RB Tradicionalmente) ,) (S (NP (DT a) (NP (NNS Universidade) (NNS de) (NNS Lisboa))) (VP (VB diz) (SBAR (IN que) (S (NP (DT a) (NNS culpa)) (VP (VB é) (PP (IN de_) (NP (DT a) (NNS Câmara))))))))) .)

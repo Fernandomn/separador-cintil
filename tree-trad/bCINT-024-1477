@@ -1,1 +1,30 @@
-(S ') (S (S (NP (DT A) (NP (NP (NNS situação) (JJ política)) (JJ portuguesa))) (VP (VB é) (ADJP (ADJP (RB mais) (JJ estável)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT a) (NNS espanhola)))))) .)) '))
+(S 
+  S  ([["''"]] 
+    (S 
+      (NP 
+        (DT A)
+        (NP 
+          (NP 
+            (NNS situação)
+            (JJ política)
+          )
+          (JJ portuguesa)
+        )
+      )
+      (VP 
+        (VB é)
+        (ADJP 
+          (ADJP 
+            (RB mais)
+            (JJ estável)
+          )
+          (CONJP de_ o que)
+          (NP 
+            (DT a)
+            (NNS espanhola)
+          )
+        )
+      )
+    )
+    .  )
+)

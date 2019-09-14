@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (PP (IN de) (NP (NNS Coimbra))))) (VP (VB é) (ADJP (RB muito) (ADJP (JJ diferente) (PP (IN de_) (NP (DT a) (NP (SBAR (NP (PRP que)) (S (VP (VP (VB fez) (PP (IN em_) (NP (DT os) (NNS Cómicos)))))))))))))) (. ?))
+(S (S (NP (DT A) (NP (PP (IN de) (NP (NNS Coimbra))))) (VP (VB é) (ADJP (RB muito) (ADJP (JJ diferente) (PP (IN de_) (NP (DT a) (NP (SBAR (NP (PRP que)) (S (VP (VP (VB fez) (PP (IN em_) (NP (DT os) (NNS Cómicos)))))))))))))) ?)

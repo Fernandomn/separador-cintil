@@ -1,1 +1,51 @@
-(S (S (NP (DT A) (NNS eleição)) (VP (VP (VP (VB decorreu) (RB ontem)) (PP ,) (PP (IN em_) (NP (DT um) (NP (NNS acto) (PP (PP (PP (IN com) (NP (PRP algumas) (NNS peripécias))) ,)) (PP (CONJ mas) (PP (IN sem) (NP (NP (JJ grandes) (NNS surpresas))))))))) ,))) (CONJP (_CONJP_ (CONJ já) (CONJ que)) (S (VP (NP (PRP se)) (VB cumpriu)) (NP (DT o) (NP (NNS acordo) (ADJP (RB previamente) (ADJP (VB estabelecido) (PP (IN entre) (NP (NP (DT a) (NNS CDU)) (NP (CONJ e) (NP (DT o) (NNS PS))))))))))))) .))
+(S 
+  (S 
+    (S 
+      (NP 
+        (DT A)
+        (NNS eleição)
+      )
+      (VP 
+        (['VP', [['VB', 'decorreu'], ['RB', 'ontem']]] 
+          ,        )
+      )
+      (CONJP já que)
+      (S 
+        (VP 
+          (NP 
+            (PRP se)
+          )
+          (VB cumpriu)
+        )
+        (NP 
+          (DT o)
+          (NP 
+            (NNS acordo)
+            (ADJP 
+              (RB previamente)
+              (ADJP 
+                (VB estabelecido)
+                (PP 
+                  (IN entre)
+                  (NP 
+                    (NP 
+                      (DT a)
+                      (NNS CDU)
+                    )
+                    (NP 
+                      (CC e)
+                      (NP 
+                        (DT o)
+                        (NNS PS)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  .)

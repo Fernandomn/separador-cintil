@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN a_) (NP (DT o) (NP (NNS contrário) (PP (IN de_) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (NP (PRP se)) (VB previa)))))))))) (. ,)) (S (NP (DT os) (NNS resultados)) (VP (VB foram) (NP (NNS animadores))))) (. .))
+(S (S (PP (PP (IN a_) (NP (DT o) (NP (NNS contrário) (PP (IN de_) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (NP (PRP se)) (VB previa)))))))))) ,) (S (NP (DT os) (NNS resultados)) (VP (VB foram) (NP (NNS animadores))))) .)

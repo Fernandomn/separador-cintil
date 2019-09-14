@@ -1,1 +1,1 @@
-(S (S (VP (ADVP (RB Actualmente) ,)) (VP (VP (VP (VB recebem) (RB apenas)) (NP (DT um) (NP (NNS tonel) (PP (IN de) (NP (NNS água)))))) (PP (IN por) (NP (NNS dia)))))) .))
+(S (S (VP (ADVP (RB Actualmente) ,) (VP (VP (VP (VB recebem) (RB apenas)) (NP (DT um) (NP (NNS tonel) (PP (IN de) (NP (NNS água)))))) (PP (IN por) (NP (NNS dia)))))) .)

@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Ganhou) (RB mesmo)) (NP (DT o) (NP (NNS cognome) (PP (IN de) (NP (. ') (NP (NNS xeque) (NNS de_) (NNS a) (NNS Intifada)) (. '))))))) (. .))
+(S (S (VP (VP (VB Ganhou) (RB mesmo)) (NP (DT o) (NP (NNS cognome) (PP (IN de) (NP '' (NP (NNS xeque) (NNS de_) (NNS a) (NNS Intifada)) ``)))))) .)

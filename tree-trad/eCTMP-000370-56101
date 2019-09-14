@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NNS Bobby) (NNS Robson))) (NP ,) (NP (NNS treinador) (PP (IN de_) (NP (DT os) (NP ') (NNS leões) '))))) ,))) (VP (VB vai) (VP (VB assistir) (PP (IN a) (NP (DT este) (NNS encontro)))))) .))
+(S (S (NP (NP (NP (NNS Bobby) (NNS Robson))) (NP , (NP (NNS treinador) (PP (IN de_) (NP (DT os) (NP '' (NNS leões) ``)))) ,)) (VP (VB vai) (VP (VB assistir) (PP (IN a) (NP (DT este) (NNS encontro)))))) .)

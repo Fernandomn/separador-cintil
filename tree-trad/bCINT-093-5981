@@ -1,1 +1,34 @@
-(S (S (NP (DT Os) (NP (NNS nervos) (PP (IN de_) (NP (DT os) (NNS jogadores))))) (VP (VB foram) (ADJP (ADJP (RB mais) (JJ fortes)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT o) (NP (PP$ seu) (NNS futebol))))))) .))
+(S 
+  (S 
+    (NP 
+      (DT Os)
+      (NP 
+        (NNS nervos)
+        (PP 
+          (IN de_)
+          (NP 
+            (DT os)
+            (NNS jogadores)
+          )
+        )
+      )
+    )
+    (VP 
+      (VB foram)
+      (ADJP 
+        (ADJP 
+          (RB mais)
+          (JJ fortes)
+        )
+        (CONJP de_ o que)
+        (NP 
+          (DT o)
+          (NP 
+            (PP seu)
+            (NNS futebol)
+          )
+        )
+      )
+    )
+  )
+  .)

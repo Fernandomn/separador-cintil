@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (DT O) (NNS Sporting)) (VP (RB ontem) (VP (VB ganhou) (NP (NNS 4-0))))) (. .)))
+(S `` (S (S (NP (DT O) (NNS Sporting)) (VP (RB ontem) (VP (VB ganhou) (NP (NNS 4-0))))) .))

@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (NP (DT A) (NNS apreensão)) (NP (CONJ e) (NP (DT a) (NNS tensão)))) (VB acabaram)) (. .)) (. '))
+(S '' (S (S (NP (NP (DT A) (NNS apreensão)) (NP (CC e) (NP (DT a) (NNS tensão)))) (VB acabaram)) .) ``)

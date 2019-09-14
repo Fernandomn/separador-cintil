@@ -1,1 +1,1 @@
-(S (S (NP (DT Esta) (NP (NP (NNS declaração) (JJ final)) (ADJP ,) (ADJP (RB muito) (JJ curta)) ,)))) (VP (VP (VB foi) (VB divulgada)) (PP (IN em_) (NP (DT o) (NP (NP (NNS programa) (PP (IN em) (NP (NP (NNS língua) (JJ albanesa))))) (PP (IN de_) (NP (DT a) (NNS BBC)))))))) .))
+(S (S (NP (DT Esta) (NP (NP (NNS declaração) (JJ final)) (ADJP , (ADJP (RB muito) (JJ curta)) ,))) (VP (VP (VB foi) (VB divulgada)) (PP (IN em_) (NP (DT o) (NP (NP (NNS programa) (PP (IN em) (NP (NP (NNS língua) (JJ albanesa))))) (PP (IN de_) (NP (DT a) (NNS BBC)))))))) .)

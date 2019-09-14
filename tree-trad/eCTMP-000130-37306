@@ -1,1 +1,1 @@
-(S ') (NP (NP (NNS Portugueses) (PP (PP (IN de) (NP (NNS facto))) (PP (CONJ e) (PP (IN de) (NP (NNS direito))))))) '))
+(S '' (NP (NP (NNS Portugueses) (PP (PP (IN de) (NP (NNS facto))) (PP (CC e) (PP (IN de) (NP (NNS direito))))))) ``)

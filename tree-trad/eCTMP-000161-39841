@@ -1,1 +1,1 @@
-(S (S (VP (VP (VP (RB Não) (VB foi)) (VB aprovado)) (CONJP ') (CONJP (CONJ porque) (S (VP (VB era) (PP (IN de_) (NP (DT o) (NNS PCP)))))) ')))) .))
+(S (S (VP (VP (VP (RB Não) (VB foi)) (VB aprovado)) (CONJP '' (CONJP (CC porque) (S (VP (VB era) (PP (IN de_) (NP (DT o) (NNS PCP)))))) ``))) .)

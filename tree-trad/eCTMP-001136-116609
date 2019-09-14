@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em) (NP (NNS Portugal))) (. ,)) (S (NP (DT as) (NP (NNS forças) (PP (IN em) (NP (NNS confronto))))) (VP (VP (VB preparavam) (NP (PRP -se))) (PP (IN para) (NP (NP (NNS prova) (JJ final))))))) (. .))
+(S (S (PP (PP (IN Em) (NP (NNS Portugal))) ,) (S (NP (DT as) (NP (NNS forças) (PP (IN em) (NP (NNS confronto))))) (VP (VP (VB preparavam) (NP (PRP -se))) (PP (IN para) (NP (NP (NNS prova) (JJ final))))))) .)

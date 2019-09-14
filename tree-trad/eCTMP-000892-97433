@@ -1,1 +1,1 @@
-(S (PP (PP (IN Em) (NP (NP (JJ plena) (NP (NNS campanha) (JJ eleitoral))))) (. ,)) (S (NP (NP (NNS administração) (NNS Bush))) (VP (VB faz) (NP (NP (NNS declarações) (SBAR (NP (PRP que)) (S (VP (VB poderão) (VP (VB influenciar) (NP (DT a) (NNS ECO-92)))))))))))
+(S (PP (PP (IN Em) (NP (NP (JJ plena) (NP (NNS campanha) (JJ eleitoral))))) ,) (S (NP (NP (NNS administração) (NNS Bush))) (VP (VB faz) (NP (NP (NNS declarações) (SBAR (NP (PRP que)) (S (VP (VB poderão) (VP (VB influenciar) (NP (DT a) (NNS ECO-92)))))))))))

@@ -1,1 +1,45 @@
-(S (S (S (NP (DT Esta) (NNS casa)) (VP (VB é) (ADJP (ADJP (ADVP (RB muito) (RB mais)) (JJ velha)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (DT a) (NP (JJ outra))))))) (S ,) (S (VP (ADVP (RB nem) (RB sequer)) (VP (VB tem) (NP (NNS elevador))))))) !))
+(S 
+  (S 
+    (S 
+      (S 
+        (NP 
+          (DT Esta)
+          (NNS casa)
+        )
+        (VP 
+          (VB é)
+          (ADJP 
+            (ADJP 
+              (ADVP 
+                (RB muito)
+                (RB mais)
+              )
+              (JJ velha)
+            )
+            (CONJP de_ o que)
+            (NP 
+              (DT a)
+              (NP 
+                (JJ outra)
+              )
+            )
+          )
+        )
+      )
+      [',']      (S 
+        (VP 
+          (ADVP 
+            (RB nem)
+            (RB sequer)
+          )
+          (VP 
+            (VB tem)
+            (NP 
+              (NNS elevador)
+            )
+          )
+        )
+      )
+    )
+  )
+  !)

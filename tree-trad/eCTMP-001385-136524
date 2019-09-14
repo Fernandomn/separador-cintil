@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN Por) (NP (DT isso))) (VP (. ') (VP (VP (VB digo) (ADVP (. ,) (RB agora) (. ,))) (SBAR (IN que) (S (VP (VB sou) (NP (NNS escritor)))))) (. ')))) (. .))
+(S (S (VP (PP (IN Por) (NP (DT isso))) (VP '' (VP (VP (VB digo) (ADVP , (RB agora) ,)) (SBAR (IN que) (S (VP (VB sou) (NP (NNS escritor)))))) ``))) .)

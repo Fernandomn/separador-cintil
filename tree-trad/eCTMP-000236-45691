@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS juiz)) (VP (VB decidiu) (SBAR (IN que) (S (NP (DT o) (NNS médico)) (VP (VP (VB aguarde) (NP (DT o) (NNS julgamento))) (PP (IN em) (NP (NNS liberdade)))))))) .))
+(S (S (NP (DT O) (NNS juiz)) (VP (VB decidiu) (SBAR (IN que) (S (NP (DT o) (NNS médico)) (VP (VP (VB aguarde) (NP (DT o) (NNS julgamento))) (PP (IN em) (NP (NNS liberdade)))))))) .)

@@ -1,1 +1,1 @@
-(S (S (NP (NNS Greve)) (VP (VB foi) (VB interrompida))) (S (CONJ mas) (S (NP (NNS problemas)) (VB persistem))))
+(S (S (NP (NNS Greve)) (VP (VB foi) (VB interrompida))) (S (CC mas) (S (NP (NNS problemas)) (VB persistem))))

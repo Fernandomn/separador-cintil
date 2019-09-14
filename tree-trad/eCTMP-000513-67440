@@ -1,1 +1,1 @@
-(S (NP (PRP Toda) (NP (DT a) (NP (NNS gente) (SBAR (NP (PRP que)) (S (VP (VB pode) (VP (VP (VP (VB pagar) (NP (CD 200) (NNS escudos))) (PP (IN por) (NP (DT um) (NNS café)))) (PP ,) (PP (IN em_) (NP (DT uma) (NNS esplanada))))))))))) .))
+(S (NP (PRP Toda) (NP (DT a) (NP (NNS gente) (SBAR (NP (PRP que)) (S (VP (VB pode) (VP (VP (VP (VB pagar) (NP (CD 200) (NNS escudos))) (PP (IN por) (NP (DT um) (NNS café)))) (PP , (PP (IN em_) (NP (DT uma) (NNS esplanada))))))))))) .)

@@ -1,1 +1,1 @@
-(S (S (S (S (VP (VB Havia) (NP (DT outras))) (. ,)) (S (CONJ mas) (S (VP (VB escolhemos) (NP (DT esta)))))) (. !)) (. '))
+(S (S (S (S (VP (VB Havia) (NP (DT outras))) ,) (S (CC mas) (S (VP (VB escolhemos) (NP (DT esta)))))) !) ``)

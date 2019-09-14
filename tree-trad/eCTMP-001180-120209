@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Assis) (NNS Pacheco))) (VP (VB passou) (CONJP (. ,) (CONJP (RB até) (CONJP (CONJ porque) (S (. ') (S (VP (RB já) (VP (VB tinha) (NP (NP (PRP algum) (NNS palco)) (NP (CONJ e) (NP (PRP alguma) (NNS televisão))))))) (. '))))))) (. .))
+(S (S (NP (NP (NNS Assis) (NNS Pacheco))) (VP (VB passou) (CONJP , (CONJP (RB até) (CONJP (CC porque) (S '' (S (VP (RB já) (VP (VB tinha) (NP (NP (PRP algum) (NNS palco)) (NP (CC e) (NP (PRP alguma) (NNS televisão))))))) ``)))))) .)

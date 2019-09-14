@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Rousseau) (. ,)) (NP (DT o) (NP (NNS melhor) (PP (IN de_) (NP (DT o) (NNS mundo)))))))
+(S (NP (NP (NNS Rousseau) ,) (NP (DT o) (NP (NNS melhor) (PP (IN de_) (NP (DT o) (NNS mundo)))))))

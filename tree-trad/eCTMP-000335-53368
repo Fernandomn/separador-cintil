@@ -1,1 +1,1 @@
-(S ') (S (S (S (VP (VP (RB Não) (VB há)) (NP (NNS cheques)))) (S ,) (S (S (VP (VP (RB não) (VB há)) (NP (NP (NNS cartões) (PP (IN de) (NP (NNS crédito))))))) (S ;) (S (VP (VP (RB não) (VB há)) (NP (NNS impostos)))))))) .)) '))
+(S '' (S (S (S (VP (VP (RB Não) (VB há)) (NP (NNS cheques)))) (S , (S (S (VP (VP (RB não) (VB há)) (NP (NP (NNS cartões) (PP (IN de) (NP (NNS crédito))))))) (S ; (S (VP (VP (RB não) (VB há)) (NP (NNS impostos)))))))) .) ``)

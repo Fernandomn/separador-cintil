@@ -1,1 +1,1 @@
-(S (S (ADVP (ADVP (RB De) (RB seguida)) ,)) (S (S (VP (VB pegou) (PP (IN em_) (NP (DT a) (NNS motorizada))))) (S (CONJ e) (S (VP (VB fugiu) (PP (IN com) (NP (DT a) (NNS arma)))))))) .))
+(S (S (ADVP (ADVP (RB De) (RB seguida)) ,) (S (S (VP (VB pegou) (PP (IN em_) (NP (DT a) (NNS motorizada))))) (S (CC e) (S (VP (VB fugiu) (PP (IN com) (NP (DT a) (NNS arma)))))))) .)

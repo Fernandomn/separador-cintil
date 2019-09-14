@@ -1,1 +1,1 @@
-(S (S (VB Diz) (NP (NP (NP (NNS António) (NNS Meireles))) (NP (. ,) (NP (DT um) (NP (PP (IN de_) (NP (DT os) (NP (NNS pescadores) (SBAR (NP (PRP que)) (S (VP (VB lideram) (NP (DT a) (NNS contestação))))))))))))) (. :))
+(S (S (VB Diz) (NP (NP (NP (NNS António) (NNS Meireles))) (NP , (NP (DT um) (NP (PP (IN de_) (NP (DT os) (NP (NNS pescadores) (SBAR (NP (PRP que)) (S (VP (VB lideram) (NP (DT a) (NNS contestação))))))))))))) :)

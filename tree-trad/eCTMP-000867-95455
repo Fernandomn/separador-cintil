@@ -1,1 +1,27 @@
-(S (S (RB Talvez) (S (NP (DT uma) (NP (NNS pena) (ADJP (ADJP (ADVP (RB bem) (RB mais)) (JJ dura)) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (PRP qualquer) (NNS prisão)))))))) (. .))
+(S 
+  (S 
+    (RB Talvez)
+    (S 
+      (NP 
+        (DT uma)
+        (NP 
+          (NNS pena)
+          (ADJP 
+            (ADJP 
+              (ADVP 
+                (RB bem)
+                (RB mais)
+              )
+              (JJ dura)
+            )
+            (CONJP de_ o que)
+            (NP 
+              (PRP qualquer)
+              (NNS prisão)
+            )
+          )
+        )
+      )
+    )
+  )
+  .)

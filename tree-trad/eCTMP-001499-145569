@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS elenco)) (VP (VP (VB é) (ADVP (. ,) (RB aliás) (. ,))) (JJ hilariante))) (. .))
+(S (S (NP (DT O) (NNS elenco)) (VP (VP (VB é) (ADVP , (RB aliás) ,)) (JJ hilariante))) .)

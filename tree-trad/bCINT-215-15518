@@ -1,1 +1,19 @@
-(S ") (VP (VP (VB Há) (NP (NP (NNS candidatos) (ADJP (JJ melhores) (CONJP (_CONJP_ (CONJ de_) (CONJ o) (CONJ que)) (NP (PRP eu))))))) .)) "))
+(S 
+  S  ([["''"]] 
+    (VP 
+      (VB Há)
+      (NP 
+        (NP 
+          (NNS candidatos)
+          (ADJP 
+            (JJ melhores)
+            (CONJP de_ o que)
+            (NP 
+              (PRP eu)
+            )
+          )
+        )
+      )
+    )
+    .  )
+)

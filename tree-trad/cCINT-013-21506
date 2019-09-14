@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS Frederico)) (VP (ADVP ,) (ADVP (RB em_) (RB o) (RB entanto)) ,)) (VP (VP (RB não) (VB estava)) (PP (RB completamente) (PP (IN de) (NP (NNS acordo))))))) :))
+(S (S (NP (DT O) (NNS Frederico)) (VP (ADVP , (ADVP (RB em_) (RB o) (RB entanto)) ,) (VP (VP (RB não) (VB estava)) (PP (RB completamente) (PP (IN de) (NP (NNS acordo))))))) :)

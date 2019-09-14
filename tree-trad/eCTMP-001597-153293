@@ -1,1 +1,1 @@
-(S (S (VP (RB Agora) (VP (PP (. ,) (PP (IN por_) (NP (DT os) (NNS vistos))) (. ,)) (VP (VB foram) (VB adiadas))))) (. .))
+(S (S (VP (RB Agora) (VP (PP , (PP (IN por_) (NP (DT os) (NNS vistos))) ,) (VP (VB foram) (VB adiadas))))) .)

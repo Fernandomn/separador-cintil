@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN De_) (NP (DT esse) (NNS montante))) ,)) (S (NP (DT o) (NP (NNS vendedor) (JJ oficial))) (VP (VB ganharia) (NP (CD 60) (NP (NNS contos)))))) .))
+(S (S (PP (PP (IN De_) (NP (DT esse) (NNS montante))) ,) (S (NP (DT o) (NP (NNS vendedor) (JJ oficial))) (VP (VB ganharia) (NP (CD 60) (NP (NNS contos)))))) .)

@@ -1,1 +1,1 @@
-(S ') (S (S (PP (PP (IN Em_) (NP (DT este) (NP (NNS caso) (PP (IN de_) (NP (DT os) (NNS ciganos)))))) ,)) (S (NP (NP (NNS António) (NNS Guterres))) (VP (VB parece) (VP (VP (VP (RB não) (VB estar)) (PP (IN a) (VB dormir))) (PP (IN de) (NP (NNS touca))))))) .)))
+(S `` (S (S (PP (PP (IN Em_) (NP (DT este) (NP (NNS caso) (PP (IN de_) (NP (DT os) (NNS ciganos)))))) ,) (S (NP (NP (NNS António) (NNS Guterres))) (VP (VB parece) (VP (VP (VP (RB não) (VB estar)) (PP (IN a) (VB dormir))) (PP (IN de) (NP (NNS touca))))))) .))

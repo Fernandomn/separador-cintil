@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Ana) (NNS Henriques))) (NP (. ,) (NP (NP (NP (NNS Guilherme) (NNS Paixão))) (NP (CONJ e) (NP (NP (NNS João) (NNS Dias) (NNS Miguel))))))))
+(S (NP (NP (NP (NNS Ana) (NNS Henriques))) (NP , (NP (NP (NP (NNS Guilherme) (NNS Paixão))) (NP (CC e) (NP (NP (NNS João) (NNS Dias) (NNS Miguel))))))))

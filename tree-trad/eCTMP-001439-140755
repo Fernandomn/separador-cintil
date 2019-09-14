@@ -1,1 +1,39 @@
-(S (S (S (NP (NNS Djassi)) (VP (VB viu) (NP (DT o) (NNS polícia)))) (S (CONJ e) (S (VP (VP (VP (VB acenou) (NP (PRP -lhe))) (PP (IN de) (RB longe))) (CONJP (_CONJP_ (CONJ para) (CONJ que)) (S (VB viesse))))))) (. .))
+(S 
+  (S 
+    (S 
+      (NP 
+        (NNS Djassi)
+      )
+      (VP 
+        (VB viu)
+        (NP 
+          (DT o)
+          (NNS polícia)
+        )
+      )
+    )
+    (S 
+      (CC e)
+      (S 
+        (VP 
+          (VP 
+            (VP 
+              (VB acenou)
+              (NP 
+                (PRP -lhe)
+              )
+            )
+            (PP 
+              (IN de)
+              (RB longe)
+            )
+          )
+          (CONJP para que)
+          (S 
+            (VB viesse)
+          )
+        )
+      )
+    )
+  )
+  .)

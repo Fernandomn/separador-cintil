@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Victor) (NNS Fokin))) (VP (VP (VB processou) (NP (DT o) (NNS jornal))) (PP (IN em) (NP (NP (ADVP (RB cerca) (RB de)) (CD 1660)) (NNS dólares))))) (. .))
+(S (S (NP (NP (NNS Victor) (NNS Fokin))) (VP (VP (VB processou) (NP (DT o) (NNS jornal))) (PP (IN em) (NP (NP (ADVP (RB cerca) (RB de)) (CD 1660)) (NNS dólares))))) .)

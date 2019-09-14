@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Maria) (NNS Augusta)) (. ,)) (NP (NP (NNS Vila) (NNS Nova) (NNS de) (NNS Gaia)))))
+(S (NP (NP (NP (NNS Maria) (NNS Augusta)) ,) (NP (NP (NNS Vila) (NNS Nova) (NNS de) (NNS Gaia)))))

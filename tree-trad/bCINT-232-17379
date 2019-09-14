@@ -1,1 +1,1 @@
-(S (NP (NP (NNS AT&T)) (NP (CONJ e) (NP (NNS SBC)))) (VP (VB negoceiam) (NP (NNS fusão))))
+(S (NP (NP (NNS AT&T)) (NP (CC e) (NP (NNS SBC)))) (VP (VB negoceiam) (NP (NNS fusão))))

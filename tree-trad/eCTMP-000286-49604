@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NNS Philippa) (NNS Fletcher))) (NP ,) (NNS Reuter) ,)))) (ADVP (RB perto) (PP (IN de) (NP (NP (NNS Urus-Martan) ,)) (NP (NNS Tchetchénia))))))
+(S (S (NP (NP (NP (NNS Philippa) (NNS Fletcher))) (NP , (NNS Reuter) ,))) (ADVP (RB perto) (PP (IN de) (NP (NP (NNS Urus-Martan) ,) (NP (NNS Tchetchénia))))))

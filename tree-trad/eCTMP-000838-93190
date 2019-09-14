@@ -1,1 +1,1 @@
-(S (NP (DT Um) (NP (NNS diagnóstico) (ADJP (ADJP (RB nada) (JJ positivo)) (SBAR (. ,) (SBAR (CONJ mas) (SBAR (PP (IN contra) (NP (DT o) (PRP qual))) (S (NP (DT a) (NP (NNS secretária) (NNS de) (NNS Estado))) (VP (VP (VP (RB não) (VB quer)) (NP (NNS pressas))))))))))) (. :))
+(S (NP (DT Um) (NP (NNS diagnóstico) (ADJP (ADJP (RB nada) (JJ positivo)) (SBAR , (SBAR (CC mas) (SBAR (PP (IN contra) (NP (DT o) (PRP qual))) (S (NP (DT a) (NP (NNS secretária) (NNS de) (NNS Estado))) (VP (VP (VP (RB não) (VB quer)) (NP (NNS pressas))))))))))) :)

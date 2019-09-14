@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Papa) (ADJP (JJ magro) (ADJP (CONJ e) (JJ pálido))))) (VP (VB deixou) (NP (NNS hospital))))
+(S (NP (NP (NNS Papa) (ADJP (JJ magro) (ADJP (CC e) (JJ pálido))))) (VP (VB deixou) (NP (NNS hospital))))

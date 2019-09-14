@@ -1,1 +1,1 @@
-(S (NP (NP (NNS José) (NNS Pinto) (NNS de) (NNS Sá)) (. ,)) (VP (PP (IN em) (NP (NNS Maputo)))))
+(S (NP (NP (NNS José) (NNS Pinto) (NNS de) (NNS Sá)) ,) (VP (PP (IN em) (NP (NNS Maputo)))))

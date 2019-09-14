@@ -1,1 +1,1 @@
-(S (S (. ') (S (NP (DT O) (NNS árbitro)) (VP (VP (RB não) (VB descontou)) (PP (IN em_) (NP (DT o) (NP (NNS fim) (PP (IN de_) (NP (DT o) (NNS tempo)))))))) (. ')) (. .))
+(S (S '' (S (NP (DT O) (NNS árbitro)) (VP (VP (RB não) (VB descontou)) (PP (IN em_) (NP (DT o) (NP (NNS fim) (PP (IN de_) (NP (DT o) (NNS tempo)))))))) ``) .)

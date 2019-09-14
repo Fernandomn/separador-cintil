@@ -1,1 +1,1 @@
-(S (S (VP (VP (VP (VB Era) (RB já)) (RB só)) (NP (DT um) (NP (NP (NNS sonho) (ADJP (JJ romântico) (ADJP (CONJ e) (JJ imperial)))) (PP (PP (IN de) (NP (NNS aventura))) (PP (CONJ e) (PP (IN de) (NP (NNS glória))))))))) (. .))
+(S (S (VP (VP (VP (VB Era) (RB já)) (RB só)) (NP (DT um) (NP (NP (NNS sonho) (ADJP (JJ romântico) (ADJP (CC e) (JJ imperial)))) (PP (PP (IN de) (NP (NNS aventura))) (PP (CC e) (PP (IN de) (NP (NNS glória))))))))) .)

@@ -1,1 +1,1 @@
-(S (S (CONJP (CONJ Porque) (S (VP (VP (RB não) (VB está)) (PP (IN em) (NP (NNS causa)))))) (S (NP (NP (CONJ nem) (NP (DT a) (NNS generosidade))) (NP (CONJ nem) (NP (DT as) (NNS pessoas)))))) (. .))
+(S (S (CONJP (CC Porque) (S (VP (VP (RB não) (VB está)) (PP (IN em) (NP (NNS causa)))))) (S (NP (NP (CC nem) (NP (DT a) (NNS generosidade))) (NP (CC nem) (NP (DT as) (NNS pessoas)))))) .)

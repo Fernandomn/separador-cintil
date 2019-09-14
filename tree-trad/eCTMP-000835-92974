@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Por) (NP (DT isso))) (. ,)) (VP (VB concorda) (PP (IN com) (NP (DT o) (NNS movimento)))))) (. .))
+(S (S (VP (PP (PP (IN Por) (NP (DT isso))) ,) (VP (VB concorda) (PP (IN com) (NP (DT o) (NNS movimento)))))) .)

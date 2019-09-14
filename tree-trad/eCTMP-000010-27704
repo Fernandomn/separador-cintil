@@ -1,1 +1,1 @@
-(S (S (VP (ADVP (RB Só) (RB depois)) (VB surge)) (NP (NP (NP (NNS Tonya) (NNS Harding))) (NP ,) (NP (NNS campeã) (PP (IN de_) (NP (DT os) (NP (NNS Estados) (NNS Unidos)))))))) .))
+(S (S (VP (ADVP (RB Só) (RB depois)) (VB surge)) (NP (NP (NP (NNS Tonya) (NNS Harding))) (NP , (NP (NNS campeã) (PP (IN de_) (NP (DT os) (NP (NNS Estados) (NNS Unidos)))))))) .)

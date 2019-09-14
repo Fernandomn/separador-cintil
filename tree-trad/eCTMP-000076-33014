@@ -1,1 +1,1 @@
-(S (NP (NNS Agros)) (VP (VB sente) (NP (DT o) (NP ') (NP (NNS efeito) (NNS Parmalat)) ')))))
+(S (NP (NNS Agros)) (VP (VB sente) (NP (DT o) (NP '' (NP (NNS efeito) (NNS Parmalat)) ``))))

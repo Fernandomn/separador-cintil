@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Segundo) (NP (PRP ele))) (. ,)) (S (NP (DT a) (NP (NNS Segurança) (NNS Social))) (VP (VB está) (PP (IN em) (NP (NP (JJ excelente) (NNS estado))))))) (. .))
+(S (S (PP (PP (IN Segundo) (NP (PRP ele))) ,) (S (NP (DT a) (NP (NNS Segurança) (NNS Social))) (VP (VB está) (PP (IN em) (NP (NP (JJ excelente) (NNS estado))))))) .)

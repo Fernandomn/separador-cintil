@@ -1,1 +1,1 @@
-(S (S (S (S (NP (DT O) (NNS silêncio)) (VP (VB pode) (VP (VB ser) (PP (IN de) (NP (NNS ouro)))))) ,)) (S (CONJ mas) (S (VP (VB há) (NP (NP (NNS momentos) (SBAR (PP (IN em) (NP (PRP que))) (S (VP (VP (VP (RB não) (VB paga)) (NP (NNS dividendos)))))))))))) .))
+(S (S (S (S (NP (DT O) (NNS silêncio)) (VP (VB pode) (VP (VB ser) (PP (IN de) (NP (NNS ouro)))))) ,) (S (CC mas) (S (VP (VB há) (NP (NP (NNS momentos) (SBAR (PP (IN em) (NP (PRP que))) (S (VP (VP (VP (RB não) (VB paga)) (NP (NNS dividendos)))))))))))) .)

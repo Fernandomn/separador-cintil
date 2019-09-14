@@ -1,1 +1,1 @@
-(S (NP (NP (NP ') (NP (NNS O) (NNS Decálogo)) ')) (PP ,) (PP (IN de) (NP (NP (NNS Krystof) (NNS Kieslowski))))))) .))
+(S (NP (NP (NP '' (NP (NNS O) (NNS Decálogo)) ``) (PP , (PP (IN de) (NP (NP (NNS Krystof) (NNS Kieslowski))))))) .)

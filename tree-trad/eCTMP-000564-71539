@@ -1,1 +1,1 @@
-(S (S (S (NP (NNS ETAR)) (VB existe)) ,)) (S (CONJ mas) (S (VP (RB não) (VB funciona)))))
+(S (S (S (NP (NNS ETAR)) (VB existe)) ,) (S (CC mas) (S (VP (RB não) (VB funciona)))))

@@ -1,1 +1,1 @@
-(S (SBAR (S (. ') (S (VP (VP (VB Vim) (RB aqui)) (CONJP (CONJ porque) (S (VP (VP (VB confio) (RB muito)) (PP (IN em_) (NP (DT a) (NP (NNS força) (PP (IN de) (NP (NNS Deus))))))))))) (. ')) (. ,)) (S (VP (VB disse))))
+(S (SBAR (S '' (S (VP (VP (VB Vim) (RB aqui)) (CONJP (CC porque) (S (VP (VP (VB confio) (RB muito)) (PP (IN em_) (NP (DT a) (NP (NNS força) (PP (IN de) (NP (NNS Deus))))))))))) ``) ,) (S (VP (VB disse))))

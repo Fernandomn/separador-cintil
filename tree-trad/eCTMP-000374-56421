@@ -1,1 +1,1 @@
-(S (S (S (S (RB Não) (S (NP (PRP se)) (VB fará))) (PP (IN em_) (NP (DT um) (NNS mês)))) (S (CONJ e) (S (RB dificilmente) (S (S (NP (PRP se)) (VB fará)) (PP (IN em_) (NP (DT um) (NNS ano))))))) .))
+(S (S (S (S (RB Não) (S (NP (PRP se)) (VB fará))) (PP (IN em_) (NP (DT um) (NNS mês)))) (S (CC e) (S (RB dificilmente) (S (S (NP (PRP se)) (VB fará)) (PP (IN em_) (NP (DT um) (NNS ano))))))) .)

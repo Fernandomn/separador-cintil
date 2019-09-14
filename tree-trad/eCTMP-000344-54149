@@ -1,1 +1,1 @@
-(S (S (SBAR (S ') (S (NP (PRP Tudo)) (VP (VP (VB é) (JJ possível)) (PP (IN com) (NP (DT a) (NNS arte))))) ')) ,)) (S (VP (VB diz)))) .))
+(S (S (SBAR (S '' (S (NP (PRP Tudo)) (VP (VP (VB é) (JJ possível)) (PP (IN com) (NP (DT a) (NNS arte))))) ``) ,) (S (VP (VB diz)))) .)

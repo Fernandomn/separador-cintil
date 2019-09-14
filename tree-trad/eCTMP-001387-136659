@@ -1,1 +1,1 @@
-(S (S (RB Já) (S (NP (DT o) (NP (. ') (NP (NNS The) (NNS Times)) (. '))) (VP (VP (RB não) (VB é)) (ADJP (RB tão) (JJ lisonjeiro))))) (. .))
+(S (S (RB Já) (S (NP (DT o) (NP '' (NP (NNS The) (NNS Times)) ``)) (VP (VP (RB não) (VB é)) (ADJP (RB tão) (JJ lisonjeiro))))) .)

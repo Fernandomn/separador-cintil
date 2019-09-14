@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Eleições) (ADJP (JJ legislativas) (ADJP (CONJ e) (JJ presidenciais)))))) (PP (IN em_) (NP (DT a) (NNS Tunísia))))
+(S (S (NP (NP (NNS Eleições) (ADJP (JJ legislativas) (ADJP (CC e) (JJ presidenciais)))))) (PP (IN em_) (NP (DT a) (NNS Tunísia))))

@@ -1,1 +1,1 @@
-(S (VP (CONJP (CONJP (CONJ Se) (VP (VB encontrar) (NP (PRP alguma)))) ,)) (VP (RB então) (VP (VP (VB trata) (NP (PRP -se))) (PP (IN de) (NP (NNS Plutão)))))) .))
+(S (VP (CONJP (CONJP (CC Se) (VP (VB encontrar) (NP (PRP alguma)))) ,) (VP (RB então) (VP (VP (VB trata) (NP (PRP -se))) (PP (IN de) (NP (NNS Plutão)))))) .)

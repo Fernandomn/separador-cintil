@@ -1,1 +1,1 @@
-(S (S (NP (DT As) (NNS razões)) (VP (VP (VB são) (ADVP (. ,) (RB aparentemente) (. ,))) (NP (CD duas)))) (. .))
+(S (S (NP (DT As) (NNS razões)) (VP (VP (VB são) (ADVP , (RB aparentemente) ,)) (NP (CD duas)))) .)

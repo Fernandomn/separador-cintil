@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Para) (NP (PRP muitos))) (. ,)) (S (NP (DT a) (NNS resposta)) (VP (VB é) (JJ negativa)))) (. .))
+(S (S (PP (PP (IN Para) (NP (PRP muitos))) ,) (S (NP (DT a) (NNS resposta)) (VP (VB é) (JJ negativa)))) .)

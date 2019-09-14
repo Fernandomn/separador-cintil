@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Michael) (NNS Jackson))) (NP (. ,) (NP (NNS defensor) (PP (. ') (PP (IN de_) (NP (DT a) (NNS família))) (. '))))))
+(S (NP (NP (NP (NNS Michael) (NNS Jackson))) (NP , (NP (NNS defensor) (PP '' (PP (IN de_) (NP (DT a) (NNS família))) ``)))))

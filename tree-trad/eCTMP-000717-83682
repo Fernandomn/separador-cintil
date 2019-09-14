@@ -1,1 +1,1 @@
-(S (S (NP (NP (DT Os) (NP (NNS parentes) (NP (CONJ e) (NNS amigos)))) (NP (. ,) (NP (JJ bom) (NP (NNS povo) (JJ crioulo))) (. ,))) (VP (VP (RB não) (VB tinham)) (NP (NP (NNS tempo) (PP (IN para) (NP (NP (NNS coisas) (JJ enfadonhas)))))))) (. .))
+(S (S (NP (NP (DT Os) (NP (NNS parentes) (NP (CC e) (NNS amigos)))) (NP , (NP (JJ bom) (NP (NNS povo) (JJ crioulo))) ,)) (VP (VP (RB não) (VB tinham)) (NP (NP (NNS tempo) (PP (IN para) (NP (NP (NNS coisas) (JJ enfadonhas)))))))) .)

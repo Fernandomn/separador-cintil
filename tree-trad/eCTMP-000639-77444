@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Com) (NP (DT a) (NP (NNS morte) (PP (IN de_) (NP (DT este)))))) (. ,)) (S (VP (VB é) (NP (NNS Corteggiani))) (NP (NP (PRP quem)) (S (VP (VB assina) (NP (DT os) (NNS argumentos))))))) (. .))
+(S (S (PP (PP (IN Com) (NP (DT a) (NP (NNS morte) (PP (IN de_) (NP (DT este)))))) ,) (S (VP (VB é) (NP (NNS Corteggiani))) (NP (NP (PRP quem)) (S (VP (VB assina) (NP (DT os) (NNS argumentos))))))) .)

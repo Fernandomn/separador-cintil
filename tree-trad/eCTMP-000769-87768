@@ -1,1 +1,1 @@
-(S (. ') (S (NP (NP (NNS O) (NNS Povo))) (VP (VB está) (PP (IN com) (NP (DT os) (NNS Golã))))) (. '))
+(S '' (S (NP (NP (NNS O) (NNS Povo))) (VP (VB está) (PP (IN com) (NP (DT os) (NNS Golã))))) ``)

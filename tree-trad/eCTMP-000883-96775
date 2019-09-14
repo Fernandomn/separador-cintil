@@ -1,1 +1,1 @@
-(S (. ') (S (NP (DT O) (NNS Sporting)) (VP (VB está) (PP (IN com) (NP (NNS fome))))) (. '))
+(S '' (S (NP (DT O) (NNS Sporting)) (VP (VB está) (PP (IN com) (NP (NNS fome))))) ``)

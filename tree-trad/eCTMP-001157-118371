@@ -1,1 +1,1 @@
-(S (NP (CD Quatro) (NNS concertos)) (VP (PP (IN em_) (NP (NP (DT o) (NNS Porto)) (NP (CONJ e) (NP (NNS Matosinhos)))))))
+(S (NP (CD Quatro) (NNS concertos)) (VP (PP (IN em_) (NP (NP (DT o) (NNS Porto)) (NP (CC e) (NP (NNS Matosinhos)))))))

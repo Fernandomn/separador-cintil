@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NNS notícia)) (VP (VB foi) (VP (VP (VB dada) (PP (IN a) (NP (NNS Soares)))) (PP (IN por) (NP (NP (NNS Rodrigues) (NNS Consolado))))))) (. .))
+(S (S (NP (DT A) (NNS notícia)) (VP (VB foi) (VP (VP (VB dada) (PP (IN a) (NP (NNS Soares)))) (PP (IN por) (NP (NP (NNS Rodrigues) (NNS Consolado))))))) .)

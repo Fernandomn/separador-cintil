@@ -1,1 +1,1 @@
-(S (S (S (S (S (VP (VP (RB Não) (VB consegui)) (NP (DT o) (NP (CD primeiro))))) (. ,)) (S (CONJ mas) (S (VP (VB consegui) (NP (DT o) (NP (CD segundo))))))) (. .)) (. '))
+(S (S (S (S (S (VP (VP (RB Não) (VB consegui)) (NP (DT o) (NP (CD primeiro))))) ,) (S (CC mas) (S (VP (VB consegui) (NP (DT o) (NP (CD segundo))))))) .) ``)

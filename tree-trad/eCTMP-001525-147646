@@ -1,1 +1,1 @@
-(S (S (NP (NP (DT O) (NP (SBAR (NP (PRP que)) (S (NP (DT a) (NNS voz)) (VP (VB canta)))))) (. ,)) (S (NP (DT o) (NNS gesto)) (VP (VP (RB não) (VB deve)) (VP (VB repetir))))) (. .))
+(S (S (NP (NP (DT O) (NP (SBAR (NP (PRP que)) (S (NP (DT a) (NNS voz)) (VP (VB canta)))))) ,) (S (NP (DT o) (NNS gesto)) (VP (VP (RB não) (VB deve)) (VP (VB repetir))))) .)

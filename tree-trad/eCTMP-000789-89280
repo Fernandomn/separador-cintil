@@ -1,1 +1,1 @@
-(S (S (SBAR (S (. ') (S (NP (DT As) (NP (NNS firmas) (JJ pequenas))) (VP (VB têm) (PP (IN de) (VP (VP (VB acumular) (NP (NNS capital))) (VP (CONJ e) (VP (VB comprar) (NP (NP (NNS firmas) (JJ maiores))))))))) (. ')) (. ,)) (S (VP (VB afirma)) (NP (NNS Jalakas)))) (. .))
+(S (S (SBAR (S '' (S (NP (DT As) (NP (NNS firmas) (JJ pequenas))) (VP (VB têm) (PP (IN de) (VP (VP (VB acumular) (NP (NNS capital))) (VP (CC e) (VP (VB comprar) (NP (NP (NNS firmas) (JJ maiores))))))))) ``) ,) (S (VP (VB afirma)) (NP (NNS Jalakas)))) .)

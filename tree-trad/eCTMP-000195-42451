@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NNS Fernando) (NNS Semedo)) (PP (IN com) (NP (NP (NNS Vitor) (NNS Silva)))))) ,)) (PP (IN em) (NP (NNS Luanda))))
+(S (S (NP (NP (NP (NNS Fernando) (NNS Semedo)) (PP (IN com) (NP (NP (NNS Vitor) (NNS Silva)))))) ,) (PP (IN em) (NP (NNS Luanda))))

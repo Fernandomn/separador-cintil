@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NP (NNS papel) (PP (IN de) (NP ') (NNS Anima) ')))) (SBAR (NP (PRP que)) (S (VP (VP (VB desempenhei) (PP (IN em_) (NP (DT uma) (NP (PP (IN de_) (NP (DT as) (NP (PP$ suas) (NNS peças))))))))))))) (VP (VB foi) (ADJP (RB bastante) (JJ fácil)))) .))
+(S (S (NP (DT O) (NP (NP (NNS papel) (PP (IN de) (NP '' (NNS Anima) ``))) (SBAR (NP (PRP que)) (S (VP (VP (VB desempenhei) (PP (IN em_) (NP (DT uma) (NP (PP (IN de_) (NP (DT as) (NP (PP$ suas) (NNS peças))))))))))))) (VP (VB foi) (ADJP (RB bastante) (JJ fácil)))) .)

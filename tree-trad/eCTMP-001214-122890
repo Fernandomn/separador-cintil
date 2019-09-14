@@ -1,1 +1,1 @@
-(S (VP (VB Há) (NP (NP (NP (NNS automóveis) (RB assim)) (PP (. ,) (PP (IN sem) (NP (NP (NNS personalidade) (JJ própria)))))))) (. .))
+(S (VP (VB Há) (NP (NP (NP (NNS automóveis) (RB assim)) (PP , (PP (IN sem) (NP (NP (NNS personalidade) (JJ própria)))))))) .)

@@ -1,1 +1,1 @@
-(S (VP (PP (PP (IN De) (NP (NNS Angola))) (. ,)) (VP (VP (VB há) (NP (NP (NNS nomes) (ADJP (VB conhecidos) (ADJP (CONJ e) (VB reconhecidos)))))) (PP (IN em) (NP (NNS Portugal))))) (. .))
+(S (VP (PP (PP (IN De) (NP (NNS Angola))) ,) (VP (VP (VB há) (NP (NP (NNS nomes) (ADJP (VB conhecidos) (ADJP (CC e) (VB reconhecidos)))))) (PP (IN em) (NP (NNS Portugal))))) .)

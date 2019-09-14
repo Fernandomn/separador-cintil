@@ -1,1 +1,1 @@
-(SBAR (SBAR (SBAR (ADVP (RB Não) (. ,)) (S (VP (RB já) (VP (VP (RB não) (VB temos)) (NP (NP (NNS lugar) (PP (IN para) (NP (PRP si))))))))) (. .)) (. '))
+(SBAR (SBAR (SBAR (ADVP (RB Não) ,) (S (VP (RB já) (VP (VP (RB não) (VB temos)) (NP (NP (NNS lugar) (PP (IN para) (NP (PRP si))))))))) .) ``)

@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (CONJP (CONJP (CONJ Se) (S (VP (VB for) (NP (NNS verdade))))) (. ,)) (VP (RB até) (VP (VB é) (JJ bom))))) (. !)))
+(S `` (S (S (VP (CONJP (CONJP (CC Se) (S (VP (VB for) (NP (NNS verdade))))) ,) (VP (RB até) (VP (VB é) (JJ bom))))) !))

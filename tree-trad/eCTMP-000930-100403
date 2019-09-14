@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Sem) (NP (NP (NNS precedentes) (PP (IN em_) (NP (DT a) (NNS Europa)))))) (. ,)) (S (NP (DT a) (NNS medida)) (VP (VB deve) (VP (VB começar) (PP (IN a) (VP (VB vigorar) (PP (IN em) (NP (NNS Novembro))))))))) (. .))
+(S (S (PP (PP (IN Sem) (NP (NP (NNS precedentes) (PP (IN em_) (NP (DT a) (NNS Europa)))))) ,) (S (NP (DT a) (NNS medida)) (VP (VB deve) (VP (VB começar) (PP (IN a) (VP (VB vigorar) (PP (IN em) (NP (NNS Novembro))))))))) .)

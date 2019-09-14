@@ -42,9 +42,9 @@ def tradutor(tag):
             "C": "IN",  # Complemento (TODO) objeto
             "CP": "SBAR",  # Sintagma Objetal (TODO) v
             "C'": "SBAR",  # Sintagma Objetal (TODO) v
-            "CJ": "CC",  # Conjunções [explicar]
-            "CONJ": "CONJ",  # Conjunções
-            "CONJ'": settings.conjTag,  # sintagma Conjuntivo (TODO)
+            "CJ": "CC",  # Conjunções - Essa tag aparece apenas em manuais. não ocorre no CINTIL em momento algum.
+            "CONJ": settings.conjTag,  # Conjunções
+            "CONJ'": settings.conjBarTag,  # sintagma Conjuntivo (TODO)
             "CONJP": "CONJP",  # sintagma Conjuntivo (TODO)
             "CL": "PRP",  # Clíticos [explicar]
             "CN": "NNS",  # Nomes comuns
@@ -164,10 +164,13 @@ def main():
                         treeText = treeText[:inicio] + \
                                    tradutor(classe) + treeText[final:]
 
-            if settings.conjTag in treeText:
+            # fazer com todas, ou só com as que tem CONJ?
+            if settings.conjBarTag in treeText:
                 i, listTree = tb.reconstroiArvore(treeText, 0, [])
+                listTree = ['S', listTree]
                 tb.verificaCasosCONJ(listTree)
-                print(listTree)
+                treeText = tb.imprimeArvore(listTree, 0, settings.conjPTag)
+                print(treeText)
 
             rawFile = open('raw-trad/%s' % id, 'w')
             treeFile = open('tree-trad/%s' % id, 'w')

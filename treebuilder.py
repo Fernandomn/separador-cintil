@@ -1,8 +1,6 @@
 import settings
 
 
-# conjTag = '_CONJP_'
-
 
 def reconstroiArvore(frase, indice, lista):
     i = 0
@@ -25,9 +23,10 @@ def reconstroiArvore(frase, indice, lista):
                 return i + indice, [classe, lista]
             else:
                 return i + indice, [classe, palavra]
-        elif caracter in settings.pointList or caracter + frase[i + 1] in settings.pointList:
-            lista.append([caracter])
-            return i + indice, lista
+        elif caracter in settings.pointList:  # or caracter + frase[i + 1] in settings.pointList:
+            lista.append([caracter]) if not (caracter == '"' or caracter == "'") else lista.append(
+                [caracter + caracter])
+            return i + indice + 1, lista
         else:
             i += 1
     return i, lista[0]
@@ -36,44 +35,66 @@ def reconstroiArvore(frase, indice, lista):
 def verificaCasosCONJ(arvore):
     if arvore[0] in settings.pointList:
         return
-    if arvore[0] == settings.conjTag:
-        listaClasses = []
+    if arvore[0] == settings.conjBarTag:  # or arvore[0] == settings.conjPTag:
 
-        wordLevel = True
         for filho in arvore[1]:
-            if type(filho[1]) is list:
-                wordLevel = False
-            # TODO verificar AQUI se os filhos da coordenação são todos folha (ou seja, coordenação word level)
-            if filho[0] != '.' and filho[0] != ',' and filho[0] != settings.conjTag:
-                listaClasses.append(filho[0])
-            if filho[0] == 'CONJ':
+
+            if filho[0] == settings.conjTag:
                 indice = arvore[1].index(filho)
                 palavra = filho[1]
                 arvore[1].remove(filho)
                 arvore[1].insert(indice, palavra)
 
         arvore = arvore[1]
-        # # TODO: Verificar se as classes são puramente POS. Se forem, a classe tem que ter o sintagma apropriado
-        # if not wordLevel:
-        #     classeCoord = listaClasses[0] if classesIguais(listaClasses) else "UCP"
-        # else:
-        #     # TODO Verificar se são sempre iguais
-        #     if classesIguais(listaClasses):
-        #         classeCoord = 'WL_'+dicSintagma[listaClasses[0]]
-        #     else:
-        #         print('classes diferentes em wordlevel')
-        #     #     classeCoord = descobreSintagma(listaClasses)
-        # arvore[0] = classeCoord
 
-    numFilhos = len(arvore[1]) if type(arvore) is list and type(arvore[1]) is list else 0
+    numFilhos = len(arvore[1]) if type(arvore) is list and len(arvore) > 1 and type(arvore[1]) is list else 0
 
     if numFilhos > 0:
         for i in range(numFilhos):
             verificaCasosCONJ(arvore[1][i])
-        if arvore[0] == settings.conjTag:
-            arvore = arvore[1]
-        if 'CONJP' in arvore[1]:  # se um dos filhos é uma conjunção
+            if settings.removeTag in arvore[1][i][0]:
+                arvore[1] = arvore[1] + arvore[1][i][1]
+                arvore[1].remove(arvore[1][i])
+        if settings.conjPTag in arvore[0] and type(arvore[0]) == str:  # se um dos filhos é uma conjunção
             children = arvore[1]
-            # arvore[1] =
+            for child in children:
+                if child[0] == settings.conjBarTag:
+                    child[0] = settings.conjPTag
+            arvore[0] = settings.removeTag
     else:
         return
+
+
+def imprimeArvore(arvore, nivel, wordLevelTag):
+    classe = arvore[0]
+    espacoEsquerda = ''.join('  ' for n in range(nivel))
+
+    if len(arvore) > 1:
+        if type(arvore[1]) is list:
+            if wordLevelTag in classe:
+                # stringRetorno = '{0}{1}'.format(espacoEsquerda, arvore[1])
+                lPalavras = ' '.join(filho for filho in arvore[1])
+
+                stringRetorno = '{0}({1} {2})\n'.format(
+                    espacoEsquerda, classe, lPalavras)
+            else:
+                stringRetorno = '{0}({1} \n'.format(espacoEsquerda, classe)
+
+                filhos = ''.join(imprimeArvore(filho, nivel + 1, wordLevelTag) for filho in arvore[1])
+                stringRetorno += filhos
+
+                stringRetorno += '{0})\n'.format(espacoEsquerda)
+        else:
+            if classe.isalpha():
+                # else:
+                stringRetorno = '{0}({1} {2})\n'.format(
+                    espacoEsquerda, classe, arvore[1])
+            else:
+                stringRetorno = '{0}({1})\n'.format(espacoEsquerda, classe)
+    else:
+        if type(arvore) is str:
+            stringRetorno = '{0}{1}'.format(espacoEsquerda, arvore)
+        elif type(arvore) is list:
+            stringRetorno = '{0}{1}'.format(espacoEsquerda, arvore[0])
+
+    return stringRetorno

@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Crianças) (PP (IN de_) (NP (DT os) (NP (JJ velhos) (NNS tempos))))) ,)) (S (VP (VB afirma)))) .))
+(S (S (NP (NP (NNS Crianças) (PP (IN de_) (NP (DT os) (NP (JJ velhos) (NNS tempos))))) ,) (S (VP (VB afirma)))) .)

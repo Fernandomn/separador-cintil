@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Há) (PP (ADVP (RB pouco) (RB mais)) (PP (IN de) (NP (CD duas) (NNS semanas))))) (. ,)) (S (VP (VB foi) (NP (DT a) (NP (NNS vez) (PP (IN de_) (NP (DT a) (NP (NNS Telefónica) (JJ espanhola))))))))) (. .))
+(S (S (S (VP (VB Há) (PP (ADVP (RB pouco) (RB mais)) (PP (IN de) (NP (CD duas) (NNS semanas))))) ,) (S (VP (VB foi) (NP (DT a) (NP (NNS vez) (PP (IN de_) (NP (DT a) (NP (NNS Telefónica) (JJ espanhola))))))))) .)

@@ -1,1 +1,1 @@
-(S ') (S (S (PP (PP (IN Sem) (NP (NP (NNS Mário) (NNS Soares)))) ,)) (S (NP (NNS Eanes)) (VP (RB não) (VB ganha)))) .)) '))
+(S '' (S (S (PP (PP (IN Sem) (NP (NP (NNS Mário) (NNS Soares)))) ,) (S (NP (NNS Eanes)) (VP (RB não) (VB ganha)))) .) ``)

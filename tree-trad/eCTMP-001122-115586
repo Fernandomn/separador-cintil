@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Tensão) (PP (IN em_) (NP (DT a) (NNS fronteira)))) (PP (IN entre) (NP (NP (DT o) (NNS Iémen)) (NP (CONJ e) (NP (DT a) (NP (NNS Arábia) (NNS Saudita)))))))))
+(S (NP (NP (NP (NNS Tensão) (PP (IN em_) (NP (DT a) (NNS fronteira)))) (PP (IN entre) (NP (NP (DT o) (NNS Iémen)) (NP (CC e) (NP (DT a) (NP (NNS Arábia) (NNS Saudita)))))))))

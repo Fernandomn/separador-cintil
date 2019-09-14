@@ -1,1 +1,1 @@
-(S (NP ') (NNS Independência) ')) (VP (VB custou) (NP (NP (ADVP (RB mais) (RB de)) (NP (CD 250) (CD mil))) (NNS contos))))
+(S (NP '' (NNS Independência) ``) (VP (VB custou) (NP (NP (ADVP (RB mais) (RB de)) (NP (CD 250) (CD mil))) (NNS contos))))

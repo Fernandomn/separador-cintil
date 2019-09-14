@@ -1,1 +1,21 @@
-(S (VP (VP (VB Há) (NP (PRP várias) (NNS razões))) (CONJP (_CONJP_ (CONJ para) (CONJ que)) (S (NP (DT isto)) (VP (RB não) (VB aconteça))))) (. .))
+(S 
+  (VP 
+    (VP 
+      (VB Há)
+      (NP 
+        (PRP várias)
+        (NNS razões)
+      )
+    )
+    (CONJP para que)
+    (S 
+      (NP 
+        (DT isto)
+      )
+      (VP 
+        (RB não)
+        (VB aconteça)
+      )
+    )
+  )
+  .)

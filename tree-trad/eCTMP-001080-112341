@@ -1,1 +1,1 @@
-(S (NP (NP (CD Quatro) (NNS mortos)) (NP (CONJ e) (NP (CD seis) (NNS feridos)))) (VP (PP (IN em_) (NP (DT um) (NP (NNS tiroteio) (PP (IN em) (NP (NNS Paris))))))))
+(S (NP (NP (CD Quatro) (NNS mortos)) (NP (CC e) (NP (CD seis) (NNS feridos)))) (VP (PP (IN em_) (NP (DT um) (NP (NNS tiroteio) (PP (IN em) (NP (NNS Paris))))))))

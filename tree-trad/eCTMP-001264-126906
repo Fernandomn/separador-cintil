@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (DT As) (NNS equipas)) (VP (VB estão) (PP (IN em_) (NP (DT as) (NP (NNS mãos) (PP (IN de_) (NP (DT os) (NNS fornecedores)))))))) (. .)))
+(S `` (S (S (NP (DT As) (NNS equipas)) (VP (VB estão) (PP (IN em_) (NP (DT as) (NP (NNS mãos) (PP (IN de_) (NP (DT os) (NNS fornecedores)))))))) .))

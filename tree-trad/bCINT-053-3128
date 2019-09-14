@@ -1,1 +1,1 @@
-(S (S (S (VP (CONJP (CONJP (CONJ Se) (S (VP (VB houver) (NP (NNS dificuldades))))) ,)) (VP (VB vamos) (VP (VB procurar) (NP (DT uma) (NP (NNS instância) (JJ arbitral))))))) ')) .))
+(S (S (S (VP (CONJP (CONJP (CC Se) (S (VP (VB houver) (NP (NNS dificuldades))))) ,) (VP (VB vamos) (VP (VB procurar) (NP (DT uma) (NP (NNS instância) (JJ arbitral))))))) ``) .)

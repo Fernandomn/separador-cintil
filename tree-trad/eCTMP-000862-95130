@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Estudo)) (NP (CONJ e) (NP (NNS exposição)))) (PP (IN de) (NP (NP (NNS Mário) (NNS Correia) (NNS Martins))))))
+(S (NP (NP (NP (NNS Estudo)) (NP (CC e) (NP (NNS exposição)))) (PP (IN de) (NP (NP (NNS Mário) (NNS Correia) (NNS Martins))))))

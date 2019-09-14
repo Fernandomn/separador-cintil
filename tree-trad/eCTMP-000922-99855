@@ -1,1 +1,1 @@
-(S (S (VP (VP (VP (VB Comecei) (RB agora)) (PP (IN a) (VP (VB ter) (NP (NP (NNS aulas) (PP (IN de) (NP (NNS canto)))))))) (ADVP (. ,) (RB só)))) (. .))
+(S (S (VP (VP (VP (VB Comecei) (RB agora)) (PP (IN a) (VP (VB ter) (NP (NP (NNS aulas) (PP (IN de) (NP (NNS canto)))))))) (ADVP , (RB só)))) .)

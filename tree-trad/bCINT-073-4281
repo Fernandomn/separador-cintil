@@ -1,1 +1,1 @@
-(S (S ') (S (NP (DT A) (NNS Administração)) (VP (VP (RB não) (VB mudará)) (PP (IN de) (NP (NNS opinião))))) ')) .))
+(S (S '' (S (NP (DT A) (NNS Administração)) (VP (VP (RB não) (VB mudará)) (PP (IN de) (NP (NNS opinião))))) ``) .)

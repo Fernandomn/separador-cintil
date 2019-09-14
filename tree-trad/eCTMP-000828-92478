@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS razão) (PP (IN de_) (NP (DT o) (NNS facto))))) (VP (VP (VB é) (ADVP (. ,) (RB aliás) (. ,))) (ADJP (RB muito) (JJ simples)))) (. .))
+(S (S (NP (DT A) (NP (NNS razão) (PP (IN de_) (NP (DT o) (NNS facto))))) (VP (VP (VB é) (ADVP , (RB aliás) ,)) (ADJP (RB muito) (JJ simples)))) .)

@@ -1,1 +1,1 @@
-(S (. ') (S (S (VP (VP (RB Não) (VB posso)) (VP (VB comentar) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VP (RB não) (VB conheço)))))))))) (. .)) (. '))
+(S '' (S (S (VP (VP (RB Não) (VB posso)) (VP (VB comentar) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VP (RB não) (VB conheço)))))))))) .) ``)

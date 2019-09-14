@@ -1,1 +1,1 @@
-(S (NP (NP (. ') (NP (NNS The) (NNS Paleface)) (. ')) (NP (. ,) (NP (NP (. ') (NP (NNS The) (NNS Haunted) (NNS House)) (. ')) (NP (CONJ e) (NP (. ') (NP (NNS The) (NNS General)) (. ')))))) (. .))
+(S (NP (NP '' (NP (NNS The) (NNS Paleface)) ``) (NP , (NP (NP '' (NP (NNS The) (NNS Haunted) (NNS House)) ``) (NP (CC e) (NP '' (NP (NNS The) (NNS General)) ``))))) .)

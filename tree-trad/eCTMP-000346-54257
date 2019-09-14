@@ -1,1 +1,1 @@
-(S (S (VP (VP (PP (IN Em) (NP (NP (NNS nota) (PP (IN de) (NP (NNS fundo))))))) ,)) (NP (NP (NNS baunilha) (NP (CONJ e) (NNS heliotrópio))))) .))
+(S (S (VP (VP (PP (IN Em) (NP (NP (NNS nota) (PP (IN de) (NP (NNS fundo))))))) ,) (NP (NP (NNS baunilha) (NP (CC e) (NNS heliotrópio))))) .)

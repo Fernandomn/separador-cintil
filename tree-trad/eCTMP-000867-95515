@@ -1,1 +1,1 @@
-(S (NP (NNS Fátima)) (VP (PP (IN em) (NP (NP (NP (NNS concursos) (NP (CONJ e) (NNS postais))) (JJ antigos))))))
+(S (NP (NNS Fátima)) (VP (PP (IN em) (NP (NP (NP (NNS concursos) (NP (CC e) (NNS postais))) (JJ antigos))))))

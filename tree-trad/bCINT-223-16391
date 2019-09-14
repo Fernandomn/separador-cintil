@@ -1,1 +1,36 @@
-(S (S (NP (DT Os) (NNS argentinos)) (VP (VP (VB falharam) (NP (DT o) (NNS penalty))) (CONJP ,) (CONJP (_CONJP_ (CONJ em_) (CONJ a) (CONJ medida) (CONJ em) (CONJ que)) (S (NP (DT um) (NP (NNS penalty) (ADJP (RB bem) (VB marcado)))) (VP (VB é) (JJ indefensável))))))) .))
+(S 
+  (S 
+    (S 
+      (NP 
+        (DT Os)
+        (NNS argentinos)
+      )
+      (VP 
+        (VP 
+          (VB falharam)
+          (NP 
+            (DT o)
+            (NNS penalty)
+          )
+        )
+        [',']        (CONJP em_ a medida em que)
+        (S 
+          (NP 
+            (DT um)
+            (NP 
+              (NNS penalty)
+              (ADJP 
+                (RB bem)
+                (VB marcado)
+              )
+            )
+          )
+          (VP 
+            (VB é)
+            (JJ indefensável)
+          )
+        )
+      )
+    )
+  )
+  .)

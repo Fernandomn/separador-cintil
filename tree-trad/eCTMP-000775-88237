@@ -1,1 +1,1 @@
-(S (VP (VB Há) (NP (NP (NNS falta) (PP (PP (IN de) (NP (NNS comida))) (PP (CONJ e) (PP (IN de) (NP (NNS dinheiro)))))))) (. .))
+(S (VP (VB Há) (NP (NP (NNS falta) (PP (PP (IN de) (NP (NNS comida))) (PP (CC e) (PP (IN de) (NP (NNS dinheiro)))))))) .)

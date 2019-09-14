@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Queres) (VP (VB dizer) (SBAR (IN que) (S (VP (VP (RB não) (VB tens)) (NP (DT a) (NNS certeza)))))))) .)) ?))
+(S (S (S (VP (VB Queres) (VP (VB dizer) (SBAR (IN que) (S (VP (VP (RB não) (VB tens)) (NP (DT a) (NNS certeza)))))))) .) ?)

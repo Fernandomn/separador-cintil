@@ -1,1 +1,1 @@
-(S (S (VP (VB Tenho) (NP (NP (NNS orelhas) (NP (CONJ e) (NP (NNS dedos) (PP (PP (IN em_) (NP (DT as) (NNS mãos))) (PP (CONJ e) (PP (IN em_) (NP (DT os) (NNS pés))))))))))) (. .))
+(S (S (VP (VB Tenho) (NP (NP (NNS orelhas) (NP (CC e) (NP (NNS dedos) (PP (PP (IN em_) (NP (DT as) (NNS mãos))) (PP (CC e) (PP (IN em_) (NP (DT os) (NNS pés))))))))))) .)

@@ -1,1 +1,1 @@
-(S (. ') (S (S (NP (DT Os) (NP (PP$ meus) (NNS colegas))) (VP (VB dizem) (SBAR (IN que) (S (VP (VB sou) (NP (DT um) (NNS lama))))))) (. !)) (. '))
+(S '' (S (S (NP (DT Os) (NP (PP$ meus) (NNS colegas))) (VP (VB dizem) (SBAR (IN que) (S (VP (VB sou) (NP (DT um) (NNS lama))))))) !) ``)

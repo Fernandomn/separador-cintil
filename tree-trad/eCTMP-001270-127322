@@ -1,1 +1,1 @@
-(S (. ') (S (S (S (S (VP (VB Será) (JJ necessária)) (NP (DT outra) (NNS dose))) (. ,)) (S (CONJ ou) (S (NP (DT esta)) (VP (VB terá) (VB chegado))))) (. ?)) (. '))
+(S '' (S (S (S (S (VP (VB Será) (JJ necessária)) (NP (DT outra) (NNS dose))) ,) (S (CC ou) (S (NP (DT esta)) (VP (VB terá) (VB chegado))))) ?) ``)

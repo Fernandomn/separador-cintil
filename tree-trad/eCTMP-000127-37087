@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT o) (NNS banco))) ,)) (S (VP (VB deverão) (VP (VB ficar))) (NP (NP (NP (NNS Neno) (NNS ,) (NNS Veloso) (NNS ,) (NNS Paneira) (NNS ,) (NNS Samuel))) (NP (CONJ e) (NP (NNS Nelo)))))) .))
+(S (S (PP (PP (IN Em_) (NP (DT o) (NNS banco))) ,) (S (VP (VB deverão) (VP (VB ficar))) (NP (NP (NP (NNS Neno) (NNS ,) (NNS Veloso) (NNS ,) (NNS Paneira) (NNS ,) (NNS Samuel))) (NP (CC e) (NP (NNS Nelo)))))) .)

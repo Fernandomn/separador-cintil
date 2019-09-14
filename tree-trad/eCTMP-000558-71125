@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS Mafalda) (SBAR ,) (SBAR (NP (PRP que)) (S (VP (VP (VB faz) (RB hoje)) (NP (CD 19) (NNS anos))))) ,)))) (VP (VB tem) (NP (DT uma) (NP (NNS explicação) (JJ diferente))))) :))
+(S (S (NP (DT A) (NP (NNS Mafalda) (SBAR , (SBAR (NP (PRP que)) (S (VP (VP (VB faz) (RB hoje)) (NP (CD 19) (NNS anos))))) ,))) (VP (VB tem) (NP (DT uma) (NP (NNS explicação) (JJ diferente))))) :)

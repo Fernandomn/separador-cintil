@@ -1,1 +1,1 @@
-(S (S (S (VP (VB Somos) (JJ místicos))) (S ,) (S (S (VP (VB somos) (JJ tristes))) (S ,) (S (VP (VB vestimos) (PP (IN de) (NP (NNS preto))))))))) .))
+(S (S (S (VP (VB Somos) (JJ místicos))) (S , (S (S (VP (VB somos) (JJ tristes))) (S , (S (VP (VB vestimos) (PP (IN de) (NP (NNS preto))))))))) .)

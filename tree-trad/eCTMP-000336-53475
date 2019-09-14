@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS altura))) ,)) (S (S (VB analisaremos)) (S (CONJ e) (S (VB decidiremos))))) .))
+(S (S (PP (PP (IN Em_) (NP (DT a) (NNS altura))) ,) (S (S (VB analisaremos)) (S (CC e) (S (VB decidiremos))))) .)

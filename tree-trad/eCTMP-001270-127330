@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Jorge) (NNS Manuel))) (VP (VP (VB é) (ADVP (. ,) (RB curiosamente) (. ,))) (NP (DT um) (NP (NNS jovem) (PP (IN de) (NP (NP (NNS raça) (JJ cigana)))))))) (. .))
+(S (S (NP (NP (NNS Jorge) (NNS Manuel))) (VP (VP (VB é) (ADVP , (RB curiosamente) ,)) (NP (DT um) (NP (NNS jovem) (PP (IN de) (NP (NP (NNS raça) (JJ cigana)))))))) .)

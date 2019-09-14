@@ -1,1 +1,1 @@
-(S (S (SBAR (S ') (S (NP (DT O) (NP (NNS Presidente) (NNS de_) (NNS a) (NNS República))) (VP (VB deve) (VP (VB demitir) (NP (PRP -se))))) ')) ,)) (S (VP (VB disse)))) .))
+(S (S (SBAR (S '' (S (NP (DT O) (NP (NNS Presidente) (NNS de_) (NNS a) (NNS República))) (VP (VB deve) (VP (VB demitir) (NP (PRP -se))))) ``) ,) (S (VP (VB disse)))) .)

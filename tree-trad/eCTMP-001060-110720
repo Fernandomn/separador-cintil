@@ -1,1 +1,1 @@
-(S (. ') (S (NP (DT O) (NNS primeiro-ministro)) (VP (VB vai) (VP (VB ouvir) (PP (IN de_) (NP (DT as) (NP (JJ boas))))))) (. '))
+(S '' (S (NP (DT O) (NNS primeiro-ministro)) (VP (VB vai) (VP (VB ouvir) (PP (IN de_) (NP (DT as) (NP (JJ boas))))))) ``)

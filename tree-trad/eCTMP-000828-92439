@@ -1,1 +1,1 @@
-(S (S (S (S (VP (VB É) (NP (DT um) (NP (NNS bocado) (JJ difícil))))) (. ,)) (S (CONJ mas) (S (VP (VB tenho) (PP (IN de) (VP (VB manter) (NP (DT isso)))))))) (. .))
+(S (S (S (S (VP (VB É) (NP (DT um) (NP (NNS bocado) (JJ difícil))))) ,) (S (CC mas) (S (VP (VB tenho) (PP (IN de) (VP (VB manter) (NP (DT isso)))))))) .)

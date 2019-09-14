@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Lioz) (JJ artificial)) (NP (CONJ ou) (NP (NNS calçada) (PP (IN a_) (NP (DT a) (NP (JJ portuguesa)))))))) (. ?))
+(S (NP (NP (NP (NNS Lioz) (JJ artificial)) (NP (CC ou) (NP (NNS calçada) (PP (IN a_) (NP (DT a) (NP (JJ portuguesa)))))))) ?)

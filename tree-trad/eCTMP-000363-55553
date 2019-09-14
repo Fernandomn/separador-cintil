@@ -1,1 +1,1 @@
-(S (S (S (VP (VP (VB Devemos) (VP (CONJ ou) (VP (RB não) (VB devemos)))) (VB falar))) ?)) '))
+(S (S (S (VP (VP (VB Devemos) (VP (CC ou) (VP (RB não) (VB devemos)))) (VB falar))) ?) ``)

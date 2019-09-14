@@ -1,1 +1,1 @@
-(S (NP (PRP Todos) (NP (DT os) (NNS espectáculos))) (VP (PP (IN em_) (NP (DT o) (NP (NP (NP (NNS Teatro) (NNS Rivoli)) (. ,)) (PP (IN em_) (NP (DT o) (NNS Porto))))))))
+(S (NP (PRP Todos) (NP (DT os) (NNS espectáculos))) (VP (PP (IN em_) (NP (DT o) (NP (NP (NP (NNS Teatro) (NNS Rivoli)) ,) (PP (IN em_) (NP (DT o) (NNS Porto))))))))

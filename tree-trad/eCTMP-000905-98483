@@ -1,1 +1,1 @@
-(S (VP (PP (IN Contra) (NP (NP (DT a) (NNS burocracia)) (NP (CONJ e) (NP (DT a) (NP (. ') (NNS cunha) (. '))))))))
+(S (VP (PP (IN Contra) (NP (NP (DT a) (NNS burocracia)) (NP (CC e) (NP (DT a) (NP '' (NNS cunha) ``)))))))

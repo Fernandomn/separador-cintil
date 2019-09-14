@@ -1,1 +1,1 @@
-(S (NP (DT Uma) (NP (NNS personalidade) (SBAR (NP (PRP que)) (S (VP (VP (VP (VB marcou) (RB imenso)) (NP (DT a) (NP (NP (NNS parte) (JJ final)) (PP (IN de_) (NP (DT este) (NNS século)))))) (PP (IN em) (NP (NNS Portugal)))))))) .))
+(S (NP (DT Uma) (NP (NNS personalidade) (SBAR (NP (PRP que)) (S (VP (VP (VP (VB marcou) (RB imenso)) (NP (DT a) (NP (NP (NNS parte) (JJ final)) (PP (IN de_) (NP (DT este) (NNS século)))))) (PP (IN em) (NP (NNS Portugal)))))))) .)

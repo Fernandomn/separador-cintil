@@ -1,1 +1,1 @@
-(S (NP (NP (NP (NNS Cesária) (NNS Évora))) (NP (CONJ e) (NP (NP (NNS Tito) (NNS Paris))))) (VP (VB conquistam) (NP (DT o) (NNS Coliseu))))
+(S (NP (NP (NP (NNS Cesária) (NNS Évora))) (NP (CC e) (NP (NP (NNS Tito) (NNS Paris))))) (VP (VB conquistam) (NP (DT o) (NNS Coliseu))))

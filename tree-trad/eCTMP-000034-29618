@@ -1,1 +1,38 @@
-(S (S (VP (VP (VB Poderá) (VP (VB recorrer) (PP (IN a) (NP (PRP elas))))) (CONJP ,) (CONJP (_CONJP_ (CONJ mesmo) (CONJ que)) (S (VP (VP (RB não) (VB estejam)) (ADJP (VB sediadas) (PP (IN em) (NP (NNS Portugal)))))))))) ?))
+(S 
+  (S 
+    (S 
+      (VP 
+        (VP 
+          (VB Poderá)
+          (VP 
+            (VB recorrer)
+            (PP 
+              (IN a)
+              (NP 
+                (PRP elas)
+              )
+            )
+          )
+        )
+        [',']        (CONJP mesmo que)
+        (S 
+          (VP 
+            (VP 
+              (RB não)
+              (VB estejam)
+            )
+            (ADJP 
+              (VB sediadas)
+              (PP 
+                (IN em)
+                (NP 
+                  (NNS Portugal)
+                )
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+  ?)

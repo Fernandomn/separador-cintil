@@ -1,1 +1,1 @@
-(S (S (S (RB Agora) (S (S (S (NP (DT isso)) (VB acabou)) (. ,)) (S (CONJ mas) (S (VP (VP (RB não) (VB é)) (JJ dramático)))))) (. ')) (. .))
+(S (S (S (RB Agora) (S (S (S (NP (DT isso)) (VB acabou)) ,) (S (CC mas) (S (VP (VP (RB não) (VB é)) (JJ dramático)))))) ``) .)

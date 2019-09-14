@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NNS advogado) (PP (IN de) (NP (NP (NNS Roland) (NNS Dumas)))))) (VP (VB clama) (PP (IN contra) (NP ") (NP (DT uma) (NP (NNS República) (PP (IN de_) (NP (DT as) (NNS bananas))))) "))))) .))
+(S (S (NP (DT O) (NP (NNS advogado) (PP (IN de) (NP (NP (NNS Roland) (NNS Dumas)))))) (VP (VB clama) (PP (IN contra) (NP '' (NP (DT uma) (NP (NNS República) (PP (IN de_) (NP (DT as) (NNS bananas))))) ``)))) .)

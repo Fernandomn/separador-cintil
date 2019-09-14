@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Ia) (VP (VB fazer) (NP (DT uma) (NP (NNS data) (PP (IN de) (NP (NNS perguntas))))))) (CONJP (CONJ quando) (S (VP (ADVP ,) (RB porém) ,)) (VP (VB foi) (VP (VB interrompida) (PP (IN por_) (NP (DT a) (NNS Anica)))))))))) :))
+(S (S (VP (VP (VB Ia) (VP (VB fazer) (NP (DT uma) (NP (NNS data) (PP (IN de) (NP (NNS perguntas))))))) (CONJP (CC quando) (S (VP (ADVP , (RB porém) ,) (VP (VB foi) (VP (VB interrompida) (PP (IN por_) (NP (DT a) (NNS Anica)))))))))) :)

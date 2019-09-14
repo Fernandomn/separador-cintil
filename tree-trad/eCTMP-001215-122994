@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Estádio) (NNS de_) (NNS o) (NNS Bonfim)) (. ,)) (VP (PP (IN em) (NP (NNS Setúbal)))))
+(S (NP (NP (NNS Estádio) (NNS de_) (NNS o) (NNS Bonfim)) ,) (VP (PP (IN em) (NP (NNS Setúbal)))))

@@ -1,1 +1,1 @@
-(S (S (S (S (NP (NP (NNS Juan) (NNS Soutullo))) (VP (VB é) (NP (NNS galego)))) (. ,)) (S (CONJ mas) (S (VP (VP (VB vive) (PP (IN em) (NP (NNS Lisboa)))) (PP (IN desde) (NP (DT a) (NNS adolescência))))))) (. .))
+(S (S (S (S (NP (NP (NNS Juan) (NNS Soutullo))) (VP (VB é) (NP (NNS galego)))) ,) (S (CC mas) (S (VP (VP (VB vive) (PP (IN em) (NP (NNS Lisboa)))) (PP (IN desde) (NP (DT a) (NNS adolescência))))))) .)

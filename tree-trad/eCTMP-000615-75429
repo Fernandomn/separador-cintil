@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Bárbara) (NNS Reis))) (. ,)) (PP (IN em) (NP (NP (NNS Nova) (NNS Iorque)))))
+(S (S (NP (NP (NNS Bárbara) (NNS Reis))) ,) (PP (IN em) (NP (NP (NNS Nova) (NNS Iorque)))))

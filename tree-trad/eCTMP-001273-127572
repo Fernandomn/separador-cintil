@@ -1,1 +1,1 @@
-(S (S (S (NP (DT Os) (NNS ingleses)) (VP (VP (VB são) (JJ fortes)) (PP (IN em_) (NP (DT os) (NNS alinhamentos))))) (S (CONJ e) (S (VP (VB sentem) (NP (DT a) (NP (NNS falta) (PP (IN de) (NP (DT um) (NNS pontapeador))))))))) (. .))
+(S (S (S (NP (DT Os) (NNS ingleses)) (VP (VP (VB são) (JJ fortes)) (PP (IN em_) (NP (DT os) (NNS alinhamentos))))) (S (CC e) (S (VP (VB sentem) (NP (DT a) (NP (NNS falta) (PP (IN de) (NP (DT um) (NNS pontapeador))))))))) .)

@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Em) (NP (NNS consonância))) (. ,)) (VB emergiram)) (NP (NP (JJ novas) (NNS prioridades)))) (. .))
+(S (S (VP (PP (PP (IN Em) (NP (NNS consonância))) ,) (VB emergiram)) (NP (NP (JJ novas) (NNS prioridades)))) .)

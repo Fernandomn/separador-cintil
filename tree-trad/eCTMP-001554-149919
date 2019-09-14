@@ -1,1 +1,1 @@
-(S (NP (NP (NP (. ') (NNS Rei) (. ')) (NNS Kuerten))) (VP (VB tropeçou) (PP (IN em) (NP (NP (NNS Carlos) (NNS Costa))))))
+(S (NP (NP (NP '' (NNS Rei) ``) (NNS Kuerten))) (VP (VB tropeçou) (PP (IN em) (NP (NP (NNS Carlos) (NNS Costa))))))

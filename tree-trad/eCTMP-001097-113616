@@ -1,1 +1,1 @@
-(S (VP (RB Contudo) (VP (PP (. ,) (PP (IN segundo) (NP (NP (NNS Poças) (NNS Martins)))) (. ,)) (VP (. ') (VP (VB há) (NP (PRP várias) (NP (NNS situações) (SBAR (NP (PRP que)) (S (VP (VB têm) (PP (IN de) (VP (VB ser) (VB corrigidas))))))))) (. ')))) (. .))
+(S (VP (RB Contudo) (VP (PP , (PP (IN segundo) (NP (NP (NNS Poças) (NNS Martins)))) ,) (VP '' (VP (VB há) (NP (PRP várias) (NP (NNS situações) (SBAR (NP (PRP que)) (S (VP (VB têm) (PP (IN de) (VP (VB ser) (VB corrigidas))))))))) ``))) .)

@@ -1,1 +1,1 @@
-(S (S (VP (ADVP (RB Todavia) (. ,)) (VP (VP (RB não) (VB é)) (NP (DT esse)))) (NP (DT o) (NP (NNS papel) (PP (IN de_) (NP (DT estas) (NNS associações)))))) (. .))
+(S (S (VP (ADVP (RB Todavia) ,) (VP (VP (RB não) (VB é)) (NP (DT esse)))) (NP (DT o) (NP (NNS papel) (PP (IN de_) (NP (DT estas) (NNS associações)))))) .)

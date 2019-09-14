@@ -1,1 +1,1 @@
-(S (S (NP (NP (DT O) (NP (SBAR (NP (PRP que)) (S (VP (VP (VP (RB não) (VB temos)) (PP (IN em_) (NP (DT a) (NNS vida))))))))) (. ,)) (S (VP (VP (VB alcançaremos) (PP (IN em_) (NP (DT a) (NNS morte))))))) (. .))
+(S (S (NP (NP (DT O) (NP (SBAR (NP (PRP que)) (S (VP (VP (VP (RB não) (VB temos)) (PP (IN em_) (NP (DT a) (NNS vida))))))))) ,) (S (VP (VP (VB alcançaremos) (PP (IN em_) (NP (DT a) (NNS morte))))))) .)

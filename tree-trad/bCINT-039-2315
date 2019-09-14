@@ -1,1 +1,1 @@
-(S (S ') (S (VP (VP (VB Tentamos) (RB sempre)) (VP (VB cumprir) (NP (DT os) (NNS prazos))))) ')) .))
+(S (S '' (S (VP (VP (VB Tentamos) (RB sempre)) (VP (VB cumprir) (NP (DT os) (NNS prazos))))) ``) .)

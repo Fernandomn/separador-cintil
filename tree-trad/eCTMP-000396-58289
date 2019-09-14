@@ -1,1 +1,1 @@
-(S (S (SBAR (S ') (S (VP (VB Admitimos) (SBAR (IN que) (S (NP (DT esta) (NNS operação)) (VP (VP (RB não) (VB possa)) (VP (VB ir) (PP (IN para) (NP (DT a) (NNS frente))))))))) ')) ,)) (S (VP (VB adiantou)))) .))
+(S (S (SBAR (S '' (S (VP (VB Admitimos) (SBAR (IN que) (S (NP (DT esta) (NNS operação)) (VP (VP (RB não) (VB possa)) (VP (VB ir) (PP (IN para) (NP (DT a) (NNS frente))))))))) ``) ,) (S (VP (VB adiantou)))) .)

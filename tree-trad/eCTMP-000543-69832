@@ -1,1 +1,1 @@
-(S (NP (NNS Camião)) (VP (VP (VP ') (VB perde) ')) (NP (NNS automóveis))) (PP (IN em_) (NP (DT a) (NNS auto-estrada)))))
+(S (NP (NNS Camião)) (VP (VP (VP '' (VB perde) ``) (NP (NNS automóveis))) (PP (IN em_) (NP (DT a) (NNS auto-estrada)))))

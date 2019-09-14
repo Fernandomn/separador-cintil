@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Ontem) (. ,)) (S (NP (DT a) (NP (NNS conferência) (JJ interministerial))) (VP (VB foi) (VP (VB dividida) (PP (IN em) (NP (CD duas) (NNS partes))))))) (. .))
+(S (S (ADVP (RB Ontem) ,) (S (NP (DT a) (NP (NNS conferência) (JJ interministerial))) (VP (VB foi) (VP (VB dividida) (PP (IN em) (NP (CD duas) (NNS partes))))))) .)

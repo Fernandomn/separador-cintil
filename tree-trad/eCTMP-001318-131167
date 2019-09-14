@@ -1,1 +1,1 @@
-(S (NP (NP (NNS EUA)) (NP (CONJ e) (NP (NNS Europa)))) (VP (PP (IN em_) (NP (DT a) (NNS ofensiva)))))
+(S (NP (NP (NNS EUA)) (NP (CC e) (NP (NNS Europa)))) (VP (PP (IN em_) (NP (DT a) (NNS ofensiva)))))

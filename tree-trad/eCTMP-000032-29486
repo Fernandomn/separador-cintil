@@ -1,1 +1,1 @@
-(S (S (VP (VP (RB Não) (VB foi)) (VB divulgado)) (NP (DT o) (NP (NNS valor) (PP (IN de_) (NP (DT os) (NP (NP (NP (NNS objectos) (PP (IN em) (NP (NNS ouro)))) (NP (CONJ e) (NNS electrodomésticos))) (JJ roubados))))))) .))
+(S (S (VP (VP (RB Não) (VB foi)) (VB divulgado)) (NP (DT o) (NP (NNS valor) (PP (IN de_) (NP (DT os) (NP (NP (NP (NNS objectos) (PP (IN em) (NP (NNS ouro)))) (NP (CC e) (NNS electrodomésticos))) (JJ roubados))))))) .)

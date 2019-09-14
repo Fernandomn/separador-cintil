@@ -1,1 +1,1 @@
-(S (S (S (S (VP (PP (PP (IN de_) (NP (DT esta) (NNS vez))) ,)) (VB ganhámos)) (NP (PRP nós))) (S ;) (S (VP (PP (IN em_) (NP (DT outras))) (VB perderemos))))) ')) .))
+(S (S (S (S (VP (PP (PP (IN de_) (NP (DT esta) (NNS vez))) ,) (VB ganhámos)) (NP (PRP nós))) (S ; (S (VP (PP (IN em_) (NP (DT outras))) (VB perderemos))))) ``) .)

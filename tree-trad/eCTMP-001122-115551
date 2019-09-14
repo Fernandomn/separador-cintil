@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Ideia) (SBAR (NP (PRP que)) (S (VP (VP (VB ilustrou) (PP (IN com) (NP (DT a) (NP (NNS metáfora) (PP (IN de) (NP (DT um) (NP (. ') (NP (NP (NNS gabinete) (JJ local)) (PP (IN de) (NP (NNS homicídios)))) (. '))))))))))))) (. :))
+(S (NP (NP (NNS Ideia) (SBAR (NP (PRP que)) (S (VP (VP (VB ilustrou) (PP (IN com) (NP (DT a) (NP (NNS metáfora) (PP (IN de) (NP (DT um) (NP '' (NP (NP (NNS gabinete) (JJ local)) (PP (IN de) (NP (NNS homicídios)))) ``)))))))))))) :)

@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NNS mãe) (PP (IN de) (NP (NNS Brodkey))))) (VP (VB faleceu) (CONJP (CONJ quando) (S (NP (DT este)) (VP (VB tinha) (NP (CD 17) (NP (NNS meses) (PP (IN de) (NP (NNS idade)))))))))) (. .))
+(S (S (NP (DT A) (NP (NNS mãe) (PP (IN de) (NP (NNS Brodkey))))) (VP (VB faleceu) (CONJP (CC quando) (S (NP (DT este)) (VP (VB tinha) (NP (CD 17) (NP (NNS meses) (PP (IN de) (NP (NNS idade)))))))))) .)

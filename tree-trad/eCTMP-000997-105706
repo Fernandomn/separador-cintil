@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS pormenor)) (VP (ADVP (. ,) (RB todavia) (. ,)) (VP (VP (RB não) (VB merece)) (NP (NP (JJ grande) (NNS importância)))))) (. .))
+(S (S (NP (DT O) (NNS pormenor)) (VP (ADVP , (RB todavia) ,) (VP (VP (RB não) (VB merece)) (NP (NP (JJ grande) (NNS importância)))))) .)

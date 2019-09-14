@@ -1,1 +1,1 @@
-(S (S (ADVP (RB Hoje) (. ,)) (S (VP (VP (VB perdeu) (NP (PRP -se))) (PP (IN por) (NP (NNS completo)))) (NP (PRP qualquer) (NP (NNS tipo) (PP (IN de) (NP (NNS pudor))))))) (. .))
+(S (S (ADVP (RB Hoje) ,) (S (VP (VP (VB perdeu) (NP (PRP -se))) (PP (IN por) (NP (NNS completo)))) (NP (PRP qualquer) (NP (NNS tipo) (PP (IN de) (NP (NNS pudor))))))) .)

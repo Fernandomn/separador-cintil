@@ -1,1 +1,1 @@
-(S (VP (PP (IN de_) (NP (DT o) (NP (PP$ nosso) (NP (NP (NP (NNS enviado) (NP (NNS Luís) (NNS Francisco))) (. ,)) (PP (IN em) (NP (NNS Atenas)))))))))
+(S (VP (PP (IN de_) (NP (DT o) (NP (PP$ nosso) (NP (NP (NP (NNS enviado) (NP (NNS Luís) (NNS Francisco))) ,) (PP (IN em) (NP (NNS Atenas)))))))))

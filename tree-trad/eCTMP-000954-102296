@@ -1,1 +1,1 @@
-(S (S (PP (PP (PP (IN A) (IN partir) (IN de_)) (NP (DT essa) (NNS altura))) (. ,)) (S (NP (PRP eu)) (VP (VB fiquei) (ADJP (RB completamente) (JJ livre))))) (. .))
+(S (S (PP (PP (PP (IN A) (IN partir) (IN de_)) (NP (DT essa) (NNS altura))) ,) (S (NP (PRP eu)) (VP (VB fiquei) (ADJP (RB completamente) (JJ livre))))) .)
