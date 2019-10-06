@@ -70,10 +70,16 @@ def imprimeArvore(arvore, nivel, wordLevelTag):
     espacoEsquerda = ''.join('  ' for n in range(nivel))
 
     if len(arvore) > 1:
+        # caso não seja um nó folha
         if type(arvore[1]) is list:
             if wordLevelTag in classe:
                 # stringRetorno = '{0}{1}'.format(espacoEsquerda, arvore[1])
                 lPalavras = ' '.join(filho for filho in arvore[1])
+
+                if classe == settings.conjPTag :
+                    # palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
+                    if not lPalavras in settings.conjList2:
+                        settings.conjList2.append(lPalavras)
 
                 stringRetorno = '{0}({1} {2})\n'.format(
                     espacoEsquerda, classe, lPalavras)
@@ -84,8 +90,13 @@ def imprimeArvore(arvore, nivel, wordLevelTag):
                 stringRetorno += filhos
 
                 stringRetorno += '{0})\n'.format(espacoEsquerda)
-        else:
+        else: #nós folha
             if classe.isalpha():
+
+                if classe == settings.conjTag:
+                    # palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
+                    if not arvore[1] in settings.conjList2:
+                        settings.conjList2.append(arvore[1])
                 # else:
                 stringRetorno = '{0}({1} {2})\n'.format(
                     espacoEsquerda, classe, arvore[1])

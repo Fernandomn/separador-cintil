@@ -6,6 +6,8 @@ def init():
     global pointTag
     global pointList
     global removeTag
+    global conjList
+    global conjList2
 
     pointList = ['"', "'"]
     conjTag = 'CC'
@@ -14,3 +16,5 @@ def init():
     pointTag = 'PNT'
     removeTag = '_TOREMOVE_'
     posDict = {}
+    conjList = []
+    conjList2 = []

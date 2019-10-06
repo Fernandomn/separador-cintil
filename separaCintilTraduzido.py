@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import treebuilder as tb
 import settings
 import translator
+import os
 
 # TODO: Pegar correções da tabela no drive, e criar scripts necessários
 
@@ -23,10 +24,39 @@ import translator
 arvore = ET.parse('CINTIL-Treebank.xml')
 raiz = arvore.getroot()
 
-
 ns = {'base': "http://nlx.di.fc.ul.pt",
       'clarin': "http://nlx.di.fc.ul.pt",
       'xsi': 'http://www.w3.org/2001/XMLSchema-instance'}
+
+occList = ['CONJ', 'CP', 'C']
+
+
+# metodo criado unicamente para facilitar escrita do projeto final. servepara criar um arquivo com uma lista de conjunções.
+def createListFiles():
+    createListFile('separated_conjunction_list.txt', settings.conjList)
+    createListFile('combined_conjunction_list.txt', settings.conjList2)
+    createListFile('points_list.txt', settings.pointList)
+
+
+def createListFile(fileName, list):
+    conjFile = open(fileName, 'w')
+    # conjFile.write(settings.conjList)]
+    settings.conjList.sort()
+    conjFile.write("\n".join(str(item) for item in list))
+    conjFile.close()
+
+
+def verificaOcorrencias(occList, treeText):
+    for tag in occList:
+        fileName = 'occurrence_list_{0}.txt'.format(tag)
+        # if not os.path.exists(fileName):
+        #     occFile = open(fileName, 'w')
+        # else:
+        #     occFile = open(fileName, 'a')
+        occFile = open(fileName, 'a' if os.path.exists(fileName) else 'w')
+        if '({0}'.format(tag) in treeText.split():
+            occFile.write(treeText + '\n')
+        occFile.close()
 
 
 def main():
@@ -39,6 +69,7 @@ def main():
             tree = sentenca.find('base:tree', ns)
             treeText = tree.text
 
+            verificaOcorrencias(occList, treeText)
             # for index in range(len(treeText)-1, 0, -1):
 
             treeText = translator.traduzirTags(treeText)
@@ -53,6 +84,7 @@ def main():
             # print(id.text)
             # print(raw.text)
             # print(tree.text)
+    createListFiles()
 
 
 if __name__ == '__main__':

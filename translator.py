@@ -3,11 +3,10 @@ import treebuilder as tb
 
 
 def tradutor(tag):
-
     if not settings.posDict:
         settings.posDict = {
             "A": "JJ",  # Adjetivo
-            "A'": "ADJP",  # Sintagma Adjectival [explicar]
+            "A'": "ADJP",  # Sintagma Adjectival
             "AP": "ADJP",  # Sintagma Adjectival
             "ADJ": "JJ",  # Adjectivos
             "ADV": "RB",  # Advérbios
@@ -123,6 +122,10 @@ def traduzirTags(treeText):
             else:
                 treeText = treeText[:inicio] + \
                            tradutor(classe) + treeText[final:]
+            if classe == settings.conjTag or classe == 'CONJ':
+                palavra = treeText[inicio: inicio+treeText[inicio:].index(')')].split()[1].lower()
+                if not palavra in settings.conjList:
+                    settings.conjList.append(palavra)
 
     # fazer com todas, ou só com as que tem CONJ?
     if settings.conjBarTag in treeText:
