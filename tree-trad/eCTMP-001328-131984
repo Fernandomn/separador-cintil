@@ -1,1 +1,1 @@
-(S (S (S (VP (PP (IN Com) (NP (DT os) (NP (SBAR (NP (PRP que)) (S (VP (VB quiserem) (VP (VB estar) (PP (IN com_) (NP (PRP mim)))))))))))) ``) .)
+(S (S (S (VP (PP (IN Com) (NP (DT os) (NP (CP (NP (PRP que)) (S (VP (VB quiserem) (VP (VB estar) (PP (IN com_) (NP (PRP mim)))))))))))) ``) .)

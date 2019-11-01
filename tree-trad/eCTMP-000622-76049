@@ -1,9 +1,12 @@
 (S 
   (S 
     (S 
-      (['ADVP', [['RB', 'Por'], ['RB', 'outro'], ['RB', 'lado']]] 
-        ,      )
-      (S 
+      (ADVP 
+        (RB Por)
+        (RB outro)
+        (RB lado)
+      )
+      ,      (S 
         (NP 
           (DT a)
           (NNS empresa)
@@ -49,7 +52,7 @@
               )
             )
           )
-          [',']          (CONJP sem que)
+          ,          (CONJP sem que)
           (S 
             (VP 
               (VB tenha)

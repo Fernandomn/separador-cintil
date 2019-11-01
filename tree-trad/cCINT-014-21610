@@ -1,1 +1,1 @@
-(S (S (NP (DT As) (NNS repúblicas)) (VP (VB desapareceram) (ADJP (PRP quase) (PRP todas)))) .)
+(S (S (NP (DT As) (NNS repúblicas)) (VP (VB desapareceram) (NP (PRP quase) (PRP todas)))) .)

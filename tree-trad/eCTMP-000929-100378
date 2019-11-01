@@ -1,1 +1,1 @@
-(S (S '' (S (VP (VB Significam) (SBAR (IN que) (S (NP (DT o) (NP (NNS coração) (PP (IN de_) (NP (DT o) (NNS SOHO))))) (VP (RB ainda) (VB bate)))))) ``) .)
+(S (S '' (S (VP (VB Significam) (CP (CC que) (S (NP (DT o) (NP (NNS coração) (PP (IN de_) (NP (DT o) (NNS SOHO))))) (VP (RB ainda) (VB bate)))))) ``) .)

@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (CD primeiro) (NP (NNS sítio) (SBAR (RB onde) (S (NP (DT o) (NP (NNS general) (NNS Mladic))) (VP (VP (VB foi) (VB visto)))))))) (VP (VB foi) (PP (IN em) (NP (NNS Srebrenica))))) .)
+(S (S (NP (DT O) (NP (CD primeiro) (NP (NNS sítio) (CP (RB onde) (S (NP (DT o) (NP (NNS general) (NNS Mladic))) (VP (VP (VB foi) (VB visto)))))))) (VP (VB foi) (PP (IN em) (NP (NNS Srebrenica))))) .)

@@ -7,7 +7,7 @@
           (NNS ultimato)
         )
       )
-      [',']      (CONJP para que)
+      ,      (CONJP para que)
       (S 
         (NP 
           (DT o)

@@ -1,1 +1,1 @@
-(S (NP (DT Um) (NP (NNS programa) (SBAR (NP (PRP que)) (S (VP (VB resolve) (NP (NP (NNS problemas) (PP (IN de) (NP (NP (NNS falta) (PP (IN de) (NP (NNS espaço))))))))))))))
+(S (NP (DT Um) (NP (NNS programa) (CP (NP (PRP que)) (S (VP (VB resolve) (NP (NP (NNS problemas) (PP (IN de) (NP (NP (NNS falta) (PP (IN de) (NP (NNS espaço))))))))))))))

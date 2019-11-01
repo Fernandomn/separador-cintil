@@ -21,7 +21,7 @@
             )
           )
         )
-        [',']        (CONJP ainda que)
+        ,        (CONJP ainda que)
         (S 
           (NP 
             (DT o)

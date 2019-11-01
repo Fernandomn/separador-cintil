@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (JJ controverso)) (SBAR (IN que) (S (NP (DT o) (NNS governo)) (VP (VB seja) (JJ competente))))) .)
+(S (S (VP (VB É) (JJ controverso)) (CP (CC que) (S (NP (DT o) (NNS governo)) (VP (VB seja) (JJ competente))))) .)

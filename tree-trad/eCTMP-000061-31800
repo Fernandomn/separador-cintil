@@ -6,9 +6,41 @@
         (NNS eleição)
       )
       (VP 
-        (['VP', [['VB', 'decorreu'], ['RB', 'ontem']]] 
-          ,        )
-      )
+        (VP 
+          (VB decorreu)
+          (RB ontem)
+        )
+        ,        (PP 
+          (IN em_)
+          (NP 
+            (DT um)
+            (NP 
+              (NNS acto)
+              (PP 
+                (PP 
+                  (IN com)
+                  (NP 
+                    (PRP algumas)
+                    (NNS peripécias)
+                  )
+                )
+                ,                (PP 
+                  (CC mas)
+                  (PP 
+                    (IN sem)
+                    (NP 
+                      (NP 
+                        (JJ grandes)
+                        (NNS surpresas)
+                      )
+                    )
+                  )
+                )
+              )
+            )
+          )
+        )
+        ,      )
       (CONJP já que)
       (S 
         (VP 

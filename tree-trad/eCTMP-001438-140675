@@ -7,7 +7,7 @@
           (NNS Algarve)
           (JJ estranho)
         )
-        [',']        (ADJP 
+        ,        (ADJP 
           (ADJP 
             (RB mais)
             (JJ real)

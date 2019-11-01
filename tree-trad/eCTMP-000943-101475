@@ -1,1 +1,1 @@
-(S (S (SBAR (SBAR (IN Que) (S (VP (VP (NP (PRP se)) (VB calaram)) (PP (IN sobre) (NP (DT a) (NP (NNS maré) (JJ negra))))))) ,) (S (VP (VB dizes)))) .)
+(S (S (CP (CP (CC Que) (S (VP (VP (NP (PRP se)) (VB calaram)) (PP (IN sobre) (NP (DT a) (NP (NNS maré) (JJ negra))))))) ,) (S (VP (VB dizes)))) .)

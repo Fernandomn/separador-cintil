@@ -41,9 +41,13 @@
       )
       (VP 
         (VP 
-          (['VP', [['VP', [['VB', 'é'], ['JJ', 'vital']]]]] 
-            ,          )
-          (CONJP já que)
+          (VP 
+            (VP 
+              (VB é)
+              (JJ vital)
+            )
+          )
+          ,          (CONJP já que)
           (S 
             (VB ajudará)
           )
@@ -53,7 +57,7 @@
             (IN a_)
             (NP 
               (DT o)
-              ["''"]              (NNS sucesso)
+              ''              (NNS sucesso)
             )
           )
         )

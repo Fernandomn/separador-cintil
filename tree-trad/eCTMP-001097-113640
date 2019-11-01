@@ -1,1 +1,1 @@
-(S (NP (DT A) (NP (NNS peste) (SBAR (NP (PRP que)) (S (VP (RB só) (VP (VB existiu) (PP (IN em_) (NP (DT a) (NP (NNS ficção) (JJ mediática)))))))))))
+(S (NP (DT A) (NP (NNS peste) (CP (NP (PRP que)) (S (VP (RB só) (VP (VB existiu) (PP (IN em_) (NP (DT a) (NP (NNS ficção) (JJ mediática)))))))))))

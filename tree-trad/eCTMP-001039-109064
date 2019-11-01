@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Disse) (NP (PRP -me))) (SBAR (IN que) (S (NP (PRP ela)) (VP (VB tinha) (VB morrido)))))) .)
+(S (S (VP (VP (VB Disse) (NP (PRP -me))) (CP (CC que) (S (NP (PRP ela)) (VP (VB tinha) (VB morrido)))))) .)

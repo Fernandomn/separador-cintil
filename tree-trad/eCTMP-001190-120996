@@ -1,1 +1,1 @@
-(SBAR (SBAR (ADVP (RB Não) ,) (S (VP (RB não) (VB admira)) (SBAR (IN que) (S (VP (VP (VB dêem) (NP (PRP pouca) (NNS importância))) (PP (IN a_) (NP (DT o) (NNS papel)))))))) .)
+(CP (CP (ADVP (RB Não) ,) (S (VP (RB não) (VB admira)) (CP (CC que) (S (VP (VP (VB dêem) (NP (PRP pouca) (NNS importância))) (PP (IN a_) (NP (DT o) (NNS papel)))))))) .)

@@ -1,1 +1,1 @@
-(S (S (VP (VB Será) (NP (DT esta))) (NP (DT a) (NP (NP (NNS regionalização) (PP (IN de_) (NP (DT o) (NNS país)))) (SBAR (NP (PRP que)) (S (NP (DT o) (NNS Governo)) (VP (VP (VB prometeu) (PP (IN em_) (NP (DT a) (NP (NNS campanha) (JJ eleitoral))))))))))) ?)
+(S (S (VP (VB Será) (NP (DT esta))) (NP (DT a) (NP (NP (NNS regionalização) (PP (IN de_) (NP (DT o) (NNS país)))) (CP (NP (PRP que)) (S (NP (DT o) (NNS Governo)) (VP (VP (VB prometeu) (PP (IN em_) (NP (DT a) (NP (NNS campanha) (JJ eleitoral))))))))))) ?)

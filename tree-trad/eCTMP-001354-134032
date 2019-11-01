@@ -2,9 +2,14 @@
   (S 
     (S 
       (VP 
-        (['PP', [['IN', 'Em_'], ['NP', [['DT', 'a'], ['NNS', 'verdade']]]]] 
-          ,        )
-        (VP 
+        (PP 
+          (IN Em_)
+          (NP 
+            (DT a)
+            (NNS verdade)
+          )
+        )
+        ,        (VP 
           (ADJP 
             (ADJP 
               (ADVP 
@@ -14,7 +19,7 @@
               (JJ entusiasmante)
             )
             (CONJP de_ o que)
-            ["''"]            (NP 
+            ''            (NP 
               (DT Os)
               (NP 
                 (NNS Versículos)

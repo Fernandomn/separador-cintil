@@ -1,1 +1,1 @@
-(S (S (VP (VB Sei) (SBAR (IN que) (S (VP (VP (VP (RB não) (VB há)) (NP (NNS vida))) (PP (IN de_) (NP (DT o) (NP (NNS lado) (PP (IN de) (RB lá)))))))))) .)
+(S (S (VP (VB Sei) (CP (CC que) (S (VP (VP (VP (RB não) (VB há)) (NP (NNS vida))) (PP (IN de_) (NP (DT o) (NP (NNS lado) (PP (IN de) (RB lá)))))))))) .)

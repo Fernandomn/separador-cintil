@@ -1,1 +1,1 @@
-(S (S (SBAR (S '' (S (VP (VP (RB Não) (VB vamos)) (VP (VB ficar) (PP (IN por) (RB aqui))))) ``) ,) (S (VP (VB prometeu)) (NP (DT a) (NP (NNS milícia) (JJ protestante))))) .)
+(S (S (CP (S '' (S (VP (VP (RB Não) (VB vamos)) (VP (VB ficar) (PP (IN por) (RB aqui))))) ``) ,) (S (VP (VB prometeu)) (NP (DT a) (NP (NNS milícia) (JJ protestante))))) .)

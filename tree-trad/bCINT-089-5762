@@ -1,1 +1,1 @@
-(S (S (SBAR (S '' (S (VP (VB Está) (RB aqui)) (NP (DT o) (NP (NNS homem) (SBAR (NP (PRP que)) (S (VP (VB fez) (NP (DT esta) (NNS canção)))))))) ``) ,) (S (VP (VB anunciou)) (NP (NNS Tito)))) .)
+(S (S (CP (S '' (S (VP (VB Está) (RB aqui)) (NP (DT o) (NP (NNS homem) (CP (NP (PRP que)) (S (VP (VB fez) (NP (DT esta) (NNS canção)))))))) ``) ,) (S (VP (VB anunciou)) (NP (NNS Tito)))) .)

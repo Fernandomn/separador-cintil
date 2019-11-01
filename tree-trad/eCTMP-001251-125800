@@ -1,38 +1,12 @@
 (S 
-  (S 
-    (S 
-      (VB Bastou)
-      (NP 
-        (DT a)
-        (NP 
-          (NNS fusão)
-          (PP 
-            (IN de_)
-            (NP 
-              (DT as)
-              (NNS instituições)
-            )
-          )
-        )
-      )
-    )
-    (CONJP para que)
-    (S 
-      (NP 
-        (DT esse)
-        (NNS entendimento)
-      )
-      (S 
-        (VP 
-          (NP 
-            (PRP se)
-          )
-          (VB pudesse)
-        )
-        (VP 
-          (VB garantir)
-        )
+  S  (['S', [['VB', 'Bastou'], ['NP', [['DT', 'a'], ['NP', [['NNS', 'fusão'], ['PP', [['IN', 'de_'], ['NP', [['DT', 'as'], ['NNS', 'instituições']]]]]]]]]]] 
+    (C O)
+    (['_CONJP_', [['CC', 'para'], ['CC', 'que']]] 
+      S      (['NP', [['DT', 'esse'], ['NNS', 'entendimento']]] 
+        S        (['VP', [['NP', [['PRP', 'se']]], ['VB', 'pudesse']]] 
+          (V P)
+          ['VB', 'garantir']        )
       )
     )
   )
-  .)
+)

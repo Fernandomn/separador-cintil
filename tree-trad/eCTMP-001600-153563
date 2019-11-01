@@ -20,7 +20,7 @@
             )
           )
         )
-        [',']        (ADVP 
+        ,        (ADVP 
           (RB mesmo)
           (ADVP 
             (RB por)

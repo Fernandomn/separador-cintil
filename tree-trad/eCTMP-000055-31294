@@ -1,1 +1,1 @@
-(S (S (VP (PP (PP (IN Por) (NP (NNS fim))) ,) (VP (VB restará) (NP (DT um) (NP (NP (NNS lote) (PP (IN de) (NP (NNS acções)))) (SBAR (NP (PRP que)) (S (VP (VP (VB será) (VB vendido)) (PP (IN em_) (NP (DT a) (NP (NNS Bolsa) (NNS de) (NNS Lisboa)))))))))))) .)
+(S (S (VP (PP (PP (IN Por) (NP (NNS fim))) ,) (VP (VB restará) (NP (DT um) (NP (NP (NNS lote) (PP (IN de) (NP (NNS acções)))) (CP (NP (PRP que)) (S (VP (VP (VB será) (VB vendido)) (PP (IN em_) (NP (DT a) (NP (NNS Bolsa) (NNS de) (NNS Lisboa)))))))))))) .)

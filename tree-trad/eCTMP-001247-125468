@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (SBAR (NP (PRP que)) (S (VP (NP (PRP se)) (VB está)) (PP (IN a) (VP (VB fazer))))))) (VP (VB é) (NP (DT um) (NNS crime)))) .)
+(S (S (NP (DT O) (NP (CP (NP (PRP que)) (S (VP (NP (PRP se)) (VB está)) (PP (IN a) (VP (VB fazer))))))) (VP (VB é) (NP (DT um) (NNS crime)))) .)

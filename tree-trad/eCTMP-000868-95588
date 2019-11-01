@@ -1,1 +1,1 @@
-(S (S (NP (PRP Eu)) (VP (VB sei) (SBAR (IN que) (S (VP (VP (VP (VB foi) (RB sempre)) (ADJP (RB muito) (JJ boa))) (PP (IN para) (NP (PRP mim)))))))) .)
+(S (S (NP (PRP Eu)) (VP (VB sei) (CP (CC que) (S (VP (VP (VP (VB foi) (RB sempre)) (ADJP (RB muito) (JJ boa))) (PP (IN para) (NP (PRP mim)))))))) .)

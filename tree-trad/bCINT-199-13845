@@ -1,2 +1,4 @@
 (S 
-  S  [['S', [['NP', [['DT', 'As'], ['NNS', 'pessoas']]], ['VP', [['VP', [['VB', 'podem'], ['VP', [['VB', 'dar'], ['NP', [['DT', 'a'], ['NNS', 'cara']]]]]]], ['CONJP', [['_CONJP_', [['CC', 'desde'], ['CC', 'que']]], ['S', [['NP', [['DT', 'o'], ['NP', [['SBAR', [['NP', [['PRP', 'que']]], ['S', [['VP', [['VB', 'dizem']]]]]]]]]]], ['VP', [['VB', 'é'], ['NP', [['NNS', 'verdade']]]]]]]]]]]]], ['.']])
+  S  (['S', [['NP', [['DT', 'As'], ['NNS', 'pessoas']]], ['VP', [['VP', [['VB', 'podem'], ['VP', [['VB', 'dar'], ['NP', [['DT', 'a'], ['NNS', 'cara']]]]]]], ['CONJP', [['_CONJP_', [['CC', 'desde'], ['CC', 'que']]], ['S', [['NP', [['DT', 'o'], ['NP', [['CP', [['NP', [['PRP', 'que']]], ['S', [['VP', [['VB', 'dizem']]]]]]]]]]], ['VP', [['VB', 'é'], ['NP', [['NNS', 'verdade']]]]]]]]]]]]] 
+    .  )
+)

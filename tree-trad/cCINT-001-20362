@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN Em_) (NP (DT a) (NNS escola))) (VP (RB nunca) (VP (VP (NP (PRP me)) (VB disseram)) (SBAR (IN que) (S (NP (PRP tu)) (VP (VB tinhas) (NP (NNS dificuldades))))))))) .)
+(S (S (VP (PP (IN Em_) (NP (DT a) (NNS escola))) (VP (RB nunca) (VP (VP (NP (PRP me)) (VB disseram)) (CP (CC que) (S (NP (PRP tu)) (VP (VB tinhas) (NP (NNS dificuldades))))))))) .)

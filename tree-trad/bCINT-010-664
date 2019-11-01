@@ -1,1 +1,1 @@
-(S (S (VP (VB Sabemos) (SBAR (IN que) (S (NP (DT os) (NNS prémios)) (VP (VB são) (VB devidos)))))) .)
+(S (S (VP (VB Sabemos) (CP (CC que) (S (NP (DT os) (NNS prémios)) (VP (VB são) (VB devidos)))))) .)

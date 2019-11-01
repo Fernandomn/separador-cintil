@@ -1,1 +1,1 @@
-(S (S (NP (PRP Ela)) (VP (VB é) (NP (DT a) (NP (NNS personagem) (SBAR (NP (PRP que)) (S (VP (VP (VB ganha) (NP (NNS forma))) (PP , (PP (IN a) (NP (PRP cada) (NNS instante))))))))))) .)
+(S (S (NP (PRP Ela)) (VP (VB é) (NP (DT a) (NP (NNS personagem) (CP (NP (PRP que)) (S (VP (VP (VB ganha) (NP (NNS forma))) (PP , (PP (IN a) (NP (PRP cada) (NNS instante))))))))))) .)

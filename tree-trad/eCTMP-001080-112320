@@ -1,1 +1,1 @@
-(S (S (NP (NNS Romão)) (VP (VP (VB concluiu) (RB ainda)) (SBAR (IN que) (S (NP (DT o) (NNS Belenenses)) (VP (VB defrontou) (NP '' (NP (DT um) (NP (JJ bom) (NNS opositor))) ``)))))) :)
+(S (S (NP (NNS Romão)) (VP (VP (VB concluiu) (RB ainda)) (CP (CC que) (S (NP (DT o) (NNS Belenenses)) (VP (VB defrontou) (NP '' (NP (DT um) (NP (JJ bom) (NNS opositor))) ``)))))) :)

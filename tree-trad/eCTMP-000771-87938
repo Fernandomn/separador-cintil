@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS Haiti)) (VP (VP (VB precisa) (RB ainda)) (PP (IN de) (NP (NP (NNS escritores) (SBAR (NP (PRP que)) (S (VP (NP (PRP o)) (VB insurreccionem))))))))) .)
+(S (S (NP (DT O) (NNS Haiti)) (VP (VP (VB precisa) (RB ainda)) (PP (IN de) (NP (NP (NNS escritores) (CP (NP (PRP que)) (S (VP (NP (PRP o)) (VB insurreccionem))))))))) .)

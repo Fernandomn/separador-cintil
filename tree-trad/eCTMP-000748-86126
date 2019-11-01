@@ -1,1 +1,1 @@
-(S (NP (DT Uma) (NP (NNS coligação) (SBAR (NP (PRP que)) (S (VP (RB só) (VP (PP (IN em_) (NP (DT a) (NNS aparência))) (VB funcionava))))))) .)
+(S (NP (DT Uma) (NP (NNS coligação) (CP (NP (PRP que)) (S (VP (RB só) (VP (PP (IN em_) (NP (DT a) (NNS aparência))) (VB funcionava))))))) .)

@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NP (NP (JJ única) (NNS ronda)) (SBAR (PP (IN em) (NP (PRP que))) (S (VP (VP (VP (RB não) (VB houve)) (NP (PRP qualquer) (NNS expulsão)))))))) (VP (VB foi) (NP (DT a) (NP (CD 16ª))))) .)
+(S (S (NP (DT A) (NP (NP (JJ única) (NNS ronda)) (CP (PP (IN em) (NP (PRP que))) (S (VP (VP (VP (RB não) (VB houve)) (NP (PRP qualquer) (NNS expulsão)))))))) (VP (VB foi) (NP (DT a) (NP (CD 16ª))))) .)

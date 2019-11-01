@@ -1,1 +1,1 @@
-(S (NP (DT A) (NP (NNS conferência) (SBAR (NP (PRP que)) (S (VP (RB não) (VB existiu)))))))
+(S (NP (DT A) (NP (NNS conferência) (CP (NP (PRP que)) (S (VP (RB não) (VB existiu)))))))

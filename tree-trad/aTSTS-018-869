@@ -1,1 +1,1 @@
-(S (S (SBAR (S (NP (DT o) (NNS João)) (VB refilar))) (VP (VP (VB empata) (NP (DT as) (NP (JJ outras) (NNS pessoas)))) (PP (IN em_) (NP (DT o) (NNS trabalho))))) .)
+(S (S (CP (S (NP (DT o) (NNS João)) (VB refilar))) (VP (VP (VB empata) (NP (DT as) (NP (JJ outras) (NNS pessoas)))) (PP (IN em_) (NP (DT o) (NNS trabalho))))) .)

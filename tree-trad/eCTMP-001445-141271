@@ -1,1 +1,1 @@
-(S (S (VP (VP (JJ Radical)) (PP (IN para) (NP (DT os) (NP (SBAR (NP (PRP que)) (S (VP (NP (PRP o)) (VB desconhecem))))))))) .)
+(S (S (VP (VP (JJ Radical)) (PP (IN para) (NP (DT os) (NP (CP (NP (PRP que)) (S (VP (NP (PRP o)) (VB desconhecem))))))))) .)

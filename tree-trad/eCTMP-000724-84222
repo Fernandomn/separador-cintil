@@ -1,1 +1,1 @@
-(S (NP (DT A) (NP (NP (NNS Taça) (NNS América)) (SBAR (NP (PRP que)) (S (VP (VB ficará) (PP (IN para) (NP (DT a) (NNS história)))))))))
+(S (NP (DT A) (NP (NP (NNS Taça) (NNS América)) (CP (NP (PRP que)) (S (VP (VB ficará) (PP (IN para) (NP (DT a) (NNS história)))))))))

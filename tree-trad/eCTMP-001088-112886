@@ -1,1 +1,1 @@
-(S (NP (DT Uma) (NP (NNS declaração) (SBAR (NP (PRP que)) (S (S (VP (VP (RB não) (VB tem)) (NP (NP (NNS valor) (JJ jurídico))))) (S (CC e) (S (VP (VP (VB mantém) (NP (DT a) (NNS questão))) (PP (IN em) (NP (NNS aberto)))))))))) .)
+(S (NP (DT Uma) (NP (NNS declaração) (CP (NP (PRP que)) (S (S (VP (VP (RB não) (VB tem)) (NP (NP (NNS valor) (JJ jurídico))))) (S (CC e) (S (VP (VP (VB mantém) (NP (DT a) (NNS questão))) (PP (IN em) (NP (NNS aberto)))))))))) .)

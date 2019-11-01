@@ -1,1 +1,1 @@
-(S (S (VP (ADVP (RB Depois) ,) (VP (VB disse) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (RB finalmente) (VP (VB tinha) (PP (IN de) (VP (VB ser) (VB dito)))))))))))) :)
+(S (S (VP (ADVP (RB Depois) ,) (VP (VB disse) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (RB finalmente) (VP (VB tinha) (PP (IN de) (VP (VB ser) (VB dito)))))))))))) :)

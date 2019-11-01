@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Gente) (SBAR (NP (PRP que)) (S (VP (VB nasceu) (PP (IN em) (NP (CD 1974)))))))) .)
+(S (NP (NP (NNS Gente) (CP (NP (PRP que)) (S (VP (VB nasceu) (PP (IN em) (NP (CD 1974)))))))) .)

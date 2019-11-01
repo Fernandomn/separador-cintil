@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Foi) (RB precisamente)) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (NP (DT a) (NNS Toyota)) (VP (VB procurou) (VP (VP (VB fazer) (PP (PP (IN com) (NP (DT este) (NP (PP$ seu) (NNS Carina)))) (PP (CC E) (PP (IN com) (NP (DT um) (NP (NNS êxito) (JJ relativo))))))))))))))) .)
+(S (S (VP (VP (VB Foi) (RB precisamente)) (NP (DT o) (NP (CP (NP (PRP que)) (S (NP (DT a) (NNS Toyota)) (VP (VB procurou) (VP (VP (VB fazer) (PP (PP (IN com) (NP (DT este) (NP (PP$ seu) (NNS Carina)))) (PP (CC E) (PP (IN com) (NP (DT um) (NP (NNS êxito) (JJ relativo))))))))))))))) .)

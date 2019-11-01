@@ -13,7 +13,7 @@
             (NNS penalty)
           )
         )
-        [',']        (CONJP em_ a medida em que)
+        ,        (CONJP em_ a medida em que)
         (S 
           (NP 
             (DT um)

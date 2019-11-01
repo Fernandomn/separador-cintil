@@ -1,1 +1,1 @@
-(S (S (S (VP (RB Depois) (VP (VB deixará) (NP (DT a) (NNS Defesa))))) (S (CC mas) (S (NP (DT isso)) (VP (VP (RB não) (VB significará)) (SBAR (IN que) (S (VP (VB deixe) (NP (DT o) (NNS Governo))))))))) .)
+(S (S (S (VP (RB Depois) (VP (VB deixará) (NP (DT a) (NNS Defesa))))) (S (CC mas) (S (NP (DT isso)) (VP (VP (RB não) (VB significará)) (CP (CC que) (S (VP (VB deixe) (NP (DT o) (NNS Governo))))))))) .)

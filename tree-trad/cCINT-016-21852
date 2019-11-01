@@ -1,28 +1,21 @@
 (S 
-  (S 
-    (NP 
-      (DT O)
-      (NNS tom)
-    )
-    (VP 
-      (VP 
-        (VB era)
-        (RB agora)
-      )
-      (ADJP 
-        (ADJP 
-          (RB mais)
-          (JJ amargo)
-        )
-        (CONJP de_ o que)
-        (NP 
-          (DT um)
-          (NP 
-            (NNS limão)
-            (JJ verde)
+  S  (['NP', [['DT', 'O'], ['NNS', 'tom']]] 
+    (V P)
+    (['VP', [['VB', 'era'], ['RB', 'agora']]] 
+      (A D)
+      (['ADJP', [['RB', 'mais'], ['JJ', 'amargo']]] 
+        (C O)
+        (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
+          (N P)
+          (['DT', 'um'] 
+            (N P)
+            (['NNS', 'limão'] 
+              (J J)
+              (v e)
+            )
           )
         )
       )
     )
   )
-  .)
+)

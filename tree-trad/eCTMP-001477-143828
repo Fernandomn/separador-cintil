@@ -1,1 +1,1 @@
-(S (S (NP (NP (NP (NNS Leonel) (NNS Moura))) (NP , (NP (NNS artista) (JJ plástico)) ,)) (VP (VB diz) (SBAR (IN que) (S '' (S (VP (VB é) (NP (DT uma) (NP (JJ boa) (NNS medida))))) ``)))) .)
+(S (S (NP (NP (NP (NNS Leonel) (NNS Moura))) (NP , (NP (NNS artista) (JJ plástico)) ,)) (VP (VB diz) (CP (CC que) (S '' (S (VP (VB é) (NP (DT uma) (NP (JJ boa) (NNS medida))))) ``)))) .)

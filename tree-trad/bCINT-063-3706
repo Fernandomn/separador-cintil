@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Graça) (NNS Dias))) (VP (VP (VB constrói) (NP (DT a) (NP (PP$ sua)))) (PP (IN em_) (NP (DT o) (NP (NNS cosmopolitismo) (SBAR (NP (PRP que)) (S (NP (NNS Lisboa)) (VP (VP (RB não) (VB tem)))))))))) .)
+(S (S (NP (NP (NNS Graça) (NNS Dias))) (VP (VP (VB constrói) (NP (DT a) (NP (PP$ sua)))) (PP (IN em_) (NP (DT o) (NP (NNS cosmopolitismo) (CP (NP (PRP que)) (S (NP (NNS Lisboa)) (VP (VP (RB não) (VB tem)))))))))) .)

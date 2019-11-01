@@ -6,17 +6,28 @@
           (DT Isto)
         )
       )
-      (['CC', 'porque'] 
-        ,      )
-      ["''"]      (S 
+      (CC porque)
+      ,      ''      (S 
         (NP 
           (DT a)
           (NNS Europa)
         )
         (VP 
-          (['PP', [['PP', [['IN', 'para'], ['IN', 'além'], ['IN', 'de_']]], ['NP', [['DT', 'a'], ['NP', [['NNS', 'dimensão'], ['JJ', 'económica']]]]]]] 
-            ,          )
-          (VP 
+          (PP 
+            (PP 
+              (IN para)
+              (IN além)
+              (IN de_)
+            )
+            (NP 
+              (DT a)
+              (NP 
+                (NNS dimensão)
+                (JJ económica)
+              )
+            )
+          )
+          ,          (VP 
             (VB tem)
             (PP 
               (IN de)

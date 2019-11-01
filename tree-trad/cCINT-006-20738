@@ -1,1 +1,1 @@
-(S (S (VP (VB Faz) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VB quiseres)))))))) .)
+(S (S (VP (VB Faz) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB quiseres)))))))) .)

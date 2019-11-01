@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS altura))) ,) (S (NP (DT os) (NP (NNS técnicos) (PP (IN de_) (NP (DT a) (NNS Câmara))))) (VP (VP (VB disseram) (NP (PRP -lhe))) (SBAR (IN que) (S (VP (VB seria) (NP (NP (NNS coisa) (PP (IN para) (NP (CD seis) (NNS meses))))))))))) .)
+(S (S (PP (PP (IN Em_) (NP (DT a) (NNS altura))) ,) (S (NP (DT os) (NP (NNS técnicos) (PP (IN de_) (NP (DT a) (NNS Câmara))))) (VP (VP (VB disseram) (NP (PRP -lhe))) (CP (CC que) (S (VP (VB seria) (NP (NP (NNS coisa) (PP (IN para) (NP (CD seis) (NNS meses))))))))))) .)

@@ -1,44 +1,6 @@
 (S 
-  (S 
-    (S 
-      (NP 
-        (DT A)
-        (NNS Anica)
-      )
-      (VP 
-        (VP 
-          (VB sorriu)
-          (PP 
-            (IN por_)
-            (NP 
-              (DT a)
-              (NP 
-                (CD primeira)
-                (NNS vez)
-              )
-            )
-          )
-        )
-        (CONJP desde que)
-        (S 
-          (VP 
-            (VB entrara)
-            (PP 
-              (IN em_)
-              (NP 
-                (DT a)
-                (NNS sede)
-              )
-            )
-          )
-        )
-      )
-    )
-    (S 
-      (CC e)
-      (S 
-        (VB comentou)
-      )
-    )
+  S  (['S', [['NP', [['DT', 'A'], ['NNS', 'Anica']]], ['VP', [['VP', [['VB', 'sorriu'], ['PP', [['IN', 'por_'], ['NP', [['DT', 'a'], ['NP', [['CD', 'primeira'], ['NNS', 'vez']]]]]]]]], ['CONJP', [['_CONJP_', [['CC', 'desde'], ['CC', 'que']]], ['S', [['VP', [['VB', 'entrara'], ['PP', [['IN', 'em_'], ['NP', [['DT', 'a'], ['NNS', 'sede']]]]]]]]]]]]]]] 
+    S    (['CC', 'e'] 
+      S      ['VB', 'comentou']    )
   )
-  :)
+)

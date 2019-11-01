@@ -1,6 +1,6 @@
 (S 
   (S 
-    ["''"]    (S 
+    ''    (S 
       (NP 
         (DT A)
         (NNS população)
@@ -12,16 +12,14 @@
             (DT aquela)
             (NP 
               (NNS parcela)
-              (SBAR 
-                (RB onde)
-                (S 
-                  (VP 
-                    (VB estão)
-                  )
-                  (NP 
-                    (DT os)
-                    (NNS barracões)
-                  )
+              (RB onde)
+              (S 
+                (VP 
+                  (VB estão)
+                )
+                (NP 
+                  (DT os)
+                  (NNS barracões)
                 )
               )
             )

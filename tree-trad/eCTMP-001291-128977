@@ -1,1 +1,1 @@
-(S (NP (DT Um) (NP (NNS Dandy) (SBAR (NP (PRP Que)) (S (VP (VB Foi) (NP (NNS Escritor))))))))
+(S (NP (DT Um) (NP (NNS Dandy) (CP (NP (PRP Que)) (S (VP (VB Foi) (NP (NNS Escritor))))))))

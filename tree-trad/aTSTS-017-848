@@ -1,1 +1,1 @@
-(S (S (VP (VB Salientou) (SBAR (IN que) (S (VP (VB estavam) (JJ seguros)))))) .)
+(S (S (VP (VB Salientou) (CP (CC que) (S (VP (VB estavam) (JJ seguros)))))) .)

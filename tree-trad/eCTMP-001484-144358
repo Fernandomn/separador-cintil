@@ -1,1 +1,1 @@
-(S (S (VP (VB Teve) (NP (NP (NNS pais) (SBAR (NP (PRP que)) (S (VP (VB queriam) (SBAR (IN que) (S (NP (DT o) (NNS filho)) (VP (VB fosse) (NP (NNS advogado)))))))))))) ?)
+(S (S (VP (VB Teve) (NP (NP (NNS pais) (CP (NP (PRP que)) (S (VP (VB queriam) (CP (CC que) (S (NP (DT o) (NNS filho)) (VP (VB fosse) (NP (NNS advogado)))))))))))) ?)

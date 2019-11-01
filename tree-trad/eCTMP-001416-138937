@@ -1,1 +1,1 @@
-(S `` (S (S (VP (VB É) (NP (DT a) (NP (NP (JJ única) (NNS razão)) (SBAR (PP (IN por) (NP (PRP que))) (S (VP (VP (VP (VB somos) (RB mal)) (VB vistos))))))))) .))
+(S `` (S (S (VP (VB É) (NP (DT a) (NP (NP (JJ única) (NNS razão)) (CP (PP (IN por) (NP (PRP que))) (S (VP (VP (VP (VB somos) (RB mal)) (VB vistos))))))))) .))

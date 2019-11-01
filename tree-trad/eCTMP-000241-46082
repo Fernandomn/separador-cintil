@@ -1,40 +1,4 @@
 (S 
-  S  ([["''"]] 
-    (S 
-      (VP 
-        (VP 
-          (VB Vou)
-          (VP 
-            (VB tentar)
-            (NP 
-              (PRP tudo)
-            )
-          )
-        )
-        (CONJP para que)
-        (S 
-          (NP 
-            (DT o)
-            (NP 
-              (PP meu)
-              (NNS casamento)
-            )
-          )
-          (VP 
-            (VB seja)
-            (NP 
-              (DT um)
-              (NP 
-                (NNS jogo)
-                (ADJP 
-                  (RB muito)
-                  (VB conseguido)
-                )
-              )
-            )
-          )
-        )
-      )
-    )
-    .  )
+  S  (["''"] 
+    S    ['VP', [['VP', [['VB', 'Vou'], ['VP', [['VB', 'tentar'], ['NP', [['PRP', 'tudo']]]]]]], ['CONJP', [['_CONJP_', [['CC', 'para'], ['CC', 'que']]], ['S', [['NP', [['DT', 'o'], ['NP', [['PP', 'meu'], ['NNS', 'casamento']]]]], ['VP', [['VB', 'seja'], ['NP', [['DT', 'um'], ['NP', [['NNS', 'jogo'], ['ADJP', [['RB', 'muito'], ['VB', 'conseguido']]]]]]]]]]]]]]]  )
 )

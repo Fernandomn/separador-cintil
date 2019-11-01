@@ -9,7 +9,7 @@
         (ADJP 
           (ADJP 
             (RB mais)
-            ["''"]            (JJ português)
+            ''            (JJ português)
           )
         )
         (CONJP de_ o que)

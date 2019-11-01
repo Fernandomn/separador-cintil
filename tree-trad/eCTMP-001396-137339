@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NNS guerra)) (VP (VB é) (NP (DT a) (NP (NP (NNS coisa) (ADJP (RB mais) (JJ desprezível))) (SBAR (NP (PRP que)) (S (VB existe))))))) .)
+(S (S (NP (DT A) (NNS guerra)) (VP (VB é) (NP (DT a) (NP (NP (NNS coisa) (ADJP (RB mais) (JJ desprezível))) (CP (NP (PRP que)) (S (VB existe))))))) .)

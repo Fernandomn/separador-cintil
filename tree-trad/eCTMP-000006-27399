@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Apaixonou) (NP (PRP -se))) (PP (IN por) (NP (DT um) (NP (NNS cego) (SBAR (NP (PRP que)) (S (VP (VP (RB não) (VB era)) (NP (NP (NNS aluno) (PP (IN de_) (NP (PRP ele))))))))))))) .)
+(S (S (VP (VP (VB Apaixonou) (NP (PRP -se))) (PP (IN por) (NP (DT um) (NP (NNS cego) (CP (NP (PRP que)) (S (VP (VP (RB não) (VB era)) (NP (NP (NNS aluno) (PP (IN de_) (NP (PRP ele))))))))))))) .)

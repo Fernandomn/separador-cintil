@@ -1,1 +1,1 @@
-(S (S (VP (VB Diz) (SBAR (IN que) (S (NP (NP (NNS cartazes)) (NP (CC e) (NP (NNS paus)))) (VP (VP (VP (RB não) (VB entram)) (RB hoje)) (PP (IN em_) (NP (DT o) (NP (NNS Estádio) (NNS de_) (NNS a) (NNS Luz))))))))) .)
+(S (S (VP (VB Diz) (CP (CC que) (S (NP (NP (NNS cartazes)) (NP (CC e) (NP (NNS paus)))) (VP (VP (VP (RB não) (VB entram)) (RB hoje)) (PP (IN em_) (NP (DT o) (NP (NNS Estádio) (NNS de_) (NNS a) (NNS Luz))))))))) .)

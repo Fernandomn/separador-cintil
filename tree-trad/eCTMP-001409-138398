@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN de_) (NP (DT os) (NP (NNS autarcas) (SBAR (NP (PRP que)) (S (VP (NP (PRP as)) (VB autorizam))))))))) ?)
+(S (S (VP (PP (IN de_) (NP (DT os) (NP (NNS autarcas) (CP (NP (PRP que)) (S (VP (NP (PRP as)) (VB autorizam))))))))) ?)

@@ -1,1 +1,1 @@
-(S (S (NP (DT Os) (NP (SBAR (NP (PRP que)) (S (VP (VB fizeram) (NP '' (NP (NP (NNS Europa)) (NP , (NP (NNS Europa)))) ``)))))) (VP (VB pensam) (NP (DT isso)))) .)
+(S (S (NP (DT Os) (NP (CP (NP (PRP que)) (S (VP (VB fizeram) (NP '' (NP (NP (NNS Europa)) (NP , (NP (NNS Europa)))) ``)))))) (VP (VB pensam) (NP (DT isso)))) .)

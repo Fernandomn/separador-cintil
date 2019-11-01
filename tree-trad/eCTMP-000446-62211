@@ -1,1 +1,1 @@
-(S (S (PP (PP (IN Durante) (NP (PRP muitos) (NNS anos))) ,) (S (NP (NP (NNS Billy) (NNS Eckstine))) (VP (VB foi) (NP (DT um) (NP (NNS nome) (SBAR (NP (PRP que)) (S (VP (NP (PRP me)) (VB cansava))))))))) .)
+(S (S (PP (PP (IN Durante) (NP (PRP muitos) (NNS anos))) ,) (S (NP (NP (NNS Billy) (NNS Eckstine))) (VP (VB foi) (NP (DT um) (NP (NNS nome) (CP (NP (PRP que)) (S (VP (NP (PRP me)) (VB cansava))))))))) .)

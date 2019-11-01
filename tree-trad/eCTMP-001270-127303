@@ -1,1 +1,1 @@
-(S (S (SBAR (S '' (S (NP (NNS Astor)) (VP (VB está) (PP (IN em_) (NP (DT as) (NP (NNS mãos) (PP (IN de) (NP (NNS Deus)))))))) ``) ,) (S (VP (VP (VB disse) (PP (IN em_) (NP (DT a) (NNS altura))))))) .)
+(S (S (CP (S '' (S (NP (NNS Astor)) (VP (VB está) (PP (IN em_) (NP (DT as) (NP (NNS mãos) (PP (IN de) (NP (NNS Deus)))))))) ``) ,) (S (VP (VP (VB disse) (PP (IN em_) (NP (DT a) (NNS altura))))))) .)

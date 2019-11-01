@@ -13,7 +13,7 @@
           )
         )
       )
-      [',']      (CONJP uma vez que)
+      ,      (CONJP uma vez que)
       (S 
         (NP 
           (DT os)

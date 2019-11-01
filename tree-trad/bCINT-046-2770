@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN Em) (NP (NP (NNS casa) (SBAR (RB onde) (S (VP (VP (VP (RB não) (VB há)) (NP (NNS pão))))))))))) .)
+(S (S (VP (PP (IN Em) (NP (NP (NNS casa) (CP (RB onde) (S (VP (VP (VP (RB não) (VB há)) (NP (NNS pão))))))))))) .)

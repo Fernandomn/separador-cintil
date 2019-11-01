@@ -1,13 +1,2 @@
 (S 
-  (S 
-    (VP 
-      (['CONJP', [['_CONJP_', [['CC', 'Sempre'], ['CC', 'que']]], ['S', [['VB', 'surge'], ['NP', [['DT', 'um'], ['NNS', 'problema']]]]]]] ,)
-      (VP 
-        (VB chamam)
-        (NP 
-          (PRP -na)
-        )
-      )
-    )
-  )
-  .)
+  S  ['VP', [['CONJP', [['_CONJP_', [['CC', 'Sempre'], ['CC', 'que']]], ['S', [['VB', 'surge'], ['NP', [['DT', 'um'], ['NNS', 'problema']]]]]]], [','], ['VP', [['VB', 'chamam'], ['NP', [['PRP', '-na']]]]]]])

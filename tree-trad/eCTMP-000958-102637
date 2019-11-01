@@ -1,1 +1,1 @@
-(S `` (S (S (NP (PRP Ela)) (VP (VB disse) (SBAR (IN que) (S (NP (NNS Portas)) (VP (VB perdia) (PP (IN para) (NP (DT o) (NP (NNS Rato) (NNS Mickey))))))))) .))
+(S `` (S (S (NP (PRP Ela)) (VP (VB disse) (CP (CC que) (S (NP (NNS Portas)) (VP (VB perdia) (PP (IN para) (NP (DT o) (NP (NNS Rato) (NNS Mickey))))))))) .))

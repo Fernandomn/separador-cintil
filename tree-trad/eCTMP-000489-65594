@@ -1,36 +1,6 @@
 (S 
-  (S 
-    (S 
-      (_CONJP_ Não só)
-      (S 
-        (VP 
-          (VB anulou)
-          (NP 
-            (DT a)
-            (NNS desvantagem)
-          )
-        )
-      )
-    )
-    (S 
-      (_CONJP_ como ainda)
-      (S 
-        (VP 
-          (VP 
-            (NP 
-              (PRP a)
-            )
-            (VB superou)
-          )
-          (PP 
-            (IN por)
-            (NP 
-              (CD oito)
-              (NNS segundos)
-            )
-          )
-        )
-      )
-    )
+  S  (['S', [['_CONJP_', [['CC', 'Não'], ['CC', 'só']]], ['S', [['VP', [['VB', 'anulou'], ['NP', [['DT', 'a'], ['NNS', 'desvantagem']]]]]]]]] 
+    S    (['_CONJP_', [['CC', 'como'], ['CC', 'ainda']]] 
+      S      ['VP', [['VP', [['NP', [['PRP', 'a']]], ['VB', 'superou']]], ['PP', [['IN', 'por'], ['NP', [['CD', 'oito'], ['NNS', 'segundos']]]]]]]    )
   )
-  .)
+)

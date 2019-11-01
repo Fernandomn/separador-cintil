@@ -1,1 +1,1 @@
-(S (S (VP (RB Já) (VP (PP (IN em_) (NP (DT a) (NNS primária))) (VP (VB dizia) (SBAR (IN que) (S (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VP (VB apreciava) (PP (RB mais) (PP (IN em_) (NP (DT a) (NNS escola)))))))))) (S (VP (VB eram)) (NP (DT os) (NNS intervalos))))))))) .)
+(S (S (VP (RB Já) (VP (PP (IN em_) (NP (DT a) (NNS primária))) (VP (VB dizia) (CP (CC que) (S (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VP (VB apreciava) (PP (RB mais) (PP (IN em_) (NP (DT a) (NNS escola)))))))))) (S (VP (VB eram)) (NP (DT os) (NNS intervalos))))))))) .)

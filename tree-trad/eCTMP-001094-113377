@@ -1,1 +1,1 @@
-(S (S (VP (VB Foi) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VP (VB aconteceu) (RB ontem)) (PP (IN em_) (NP (DT a) (NNS Amoreira)))))))))) .)
+(S (S (VP (VB Foi) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VP (VB aconteceu) (RB ontem)) (PP (IN em_) (NP (DT a) (NNS Amoreira)))))))))) .)

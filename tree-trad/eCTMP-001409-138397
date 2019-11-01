@@ -1,1 +1,1 @@
-(S (S (VP (PP (IN de_) (NP (DT os) (NP (NP (NNS urbanistas) (NP (CC e) (NNS arquitectos))) (SBAR (NP (PRP que)) (S (VP (VP (VB dão) (NP (NNS forma))) (PP (IN a_) (NP (DT as) (NP (PP$ suas) (NNS ambições)))))))))))) ?)
+(S (S (VP (PP (IN de_) (NP (DT os) (NP (NP (NNS urbanistas) (NP (CC e) (NNS arquitectos))) (CP (NP (PRP que)) (S (VP (VP (VB dão) (NP (NNS forma))) (PP (IN a_) (NP (DT as) (NP (PP$ suas) (NNS ambições)))))))))))) ?)

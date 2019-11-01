@@ -1,1 +1,1 @@
-(S (NP (NNS Criminoso)) (VP (VB diz) (SBAR (IN que) (S (VP (VB foi) (VP (VB contratado) (PP (IN por) (NP (NNS Winnie)))))))))
+(S (NP (NNS Criminoso)) (VP (VB diz) (CP (CC que) (S (VP (VB foi) (VP (VB contratado) (PP (IN por) (NP (NNS Winnie)))))))))

@@ -1,1 +1,1 @@
-(S (S (SBAR (IN Que) (S (NP (DT um) (NNS ministro)) (VP (VB diga) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (NP (NNS Borrego)) (VP (VB disse))))))))) (VP (VP (VB é) (ADVP , (RB efectivamente) ,)) (JJ impensável))) .)
+(S (S (CP (CC Que) (S (NP (DT um) (NNS ministro)) (VP (VB diga) (NP (DT o) (NP (CP (NP (PRP que)) (S (NP (NNS Borrego)) (VP (VB disse))))))))) (VP (VP (VB é) (ADVP , (RB efectivamente) ,)) (JJ impensável))) .)

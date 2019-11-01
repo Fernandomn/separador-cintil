@@ -1,70 +1,22 @@
 (S 
-  (S 
-    (NP 
-      (DT A)
-      (NP 
-        (NNS moral)
-        (JJ católica)
-      )
-    )
-    (VP 
-      (VB é)
-      (VP 
-        (VB feita)
-        (PP 
-          (PP 
-            (_CONJP_ não só)
-            (PP 
-              (IN por_)
-              (NP 
-                (DT o)
-                (NP 
-                  (NNS catecismo)
-                  (PP 
-                    (IN de_)
-                    (NP 
-                      (DT a)
-                      (NP 
-                        (NNS igreja)
-                        (JJ católica)
-                      )
-                    )
-                  )
-                )
-              )
-            )
-          )
-          (PP 
-            (_CONJP_ mas também)
-            (PP 
-              (IN por_)
-              (NP 
-                (DT os)
-                (NP 
-                  (NP 
-                    (NNS teólogos)
-                    (JJ moralistas)
-                  )
-                  (SBAR 
-                    (NP 
-                      (PRP que)
-                    )
-                    (S 
-                      (VP 
-                        (VB são)
-                        (ADJP 
-                          (JJ especialistas)
-                          (PP 
-                            (IN em_)
-                            (NP 
-                              (DT estas)
-                              (NNS áreas)
-                            )
-                          )
-                        )
-                      )
-                    )
-                  )
+  S  (['NP', [['DT', 'A'], ['NP', [['NNS', 'moral'], ['JJ', 'católica']]]]] 
+    (V P)
+    (['VB', 'é'] 
+      (V P)
+      (['VB', 'feita'] 
+        (P P)
+        (['PP', [['_CONJP_', [['CC', 'não'], ['CC', 'só']]], ['PP', [['IN', 'por_'], ['NP', [['DT', 'o'], ['NP', [['NNS', 'catecismo'], ['PP', [['IN', 'de_'], ['NP', [['DT', 'a'], ['NP', [['NNS', 'igreja'], ['JJ', 'católica']]]]]]]]]]]]]]] 
+          (P P)
+          (['_CONJP_', [['CC', 'mas'], ['CC', 'também']]] 
+            (P P)
+            (['IN', 'por_'] 
+              (N P)
+              (['DT', 'os'] 
+                (N P)
+                (['NP', [['NNS', 'teólogos'], ['JJ', 'moralistas']]] 
+                  (C P)
+                  (['NP', [['PRP', 'que']]] 
+                    S                    ['VP', [['VB', 'são'], ['ADJP', [['JJ', 'especialistas'], ['PP', [['IN', 'em_'], ['NP', [['DT', 'estas'], ['NNS', 'áreas']]]]]]]]]                  )
                 )
               )
             )
@@ -73,4 +25,4 @@
       )
     )
   )
-  .)
+)

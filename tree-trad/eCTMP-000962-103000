@@ -1,1 +1,1 @@
-(S (S (NP (DT Um) (NP (NP (PP (IN de_) (NP (DT os) (NNS pescadores)))) (SBAR (NP (PRP que)) (S (VP (VB participou) (PP (IN em_) (NP (DT esta) (NNS operação)))))))) (VP (VB confidenciou) (PP (IN a_) (NP (DT o) (NNS PÚBLICO))))) :)
+(S (S (NP (DT Um) (NP (NP (PP (IN de_) (NP (DT os) (NNS pescadores)))) (CP (NP (PRP que)) (S (VP (VB participou) (PP (IN em_) (NP (DT esta) (NNS operação)))))))) (VP (VB confidenciou) (PP (IN a_) (NP (DT o) (NNS PÚBLICO))))) :)

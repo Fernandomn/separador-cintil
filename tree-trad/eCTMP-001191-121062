@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NNS BT)) (VP (VB desconhece) (NP (DT as) (NP (NNS causas) (SBAR (NP (PRP que)) (S (VP (VB estiveram) (PP (IN em_) (NP (DT a) (NP (NNS origem) (PP (IN de_) (NP (DT o) (NNS sinistro))))))))))))) .)
+(S (S (NP (DT A) (NNS BT)) (VP (VB desconhece) (NP (DT as) (NP (NNS causas) (CP (NP (PRP que)) (S (VP (VB estiveram) (PP (IN em_) (NP (DT a) (NP (NNS origem) (PP (IN de_) (NP (DT o) (NNS sinistro))))))))))))) .)

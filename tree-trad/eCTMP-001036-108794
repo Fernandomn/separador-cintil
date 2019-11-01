@@ -1,1 +1,1 @@
-(S (S (NP (NNS Isaltino)) (VP (VB diz) (SBAR (IN que) (S '' (S (VP (VP (RB não) (VB é)) (NP (NNS oportuna)))) ``)))) .)
+(S (S (NP (NNS Isaltino)) (VP (VB diz) (CP (CC que) (S '' (S (VP (VP (RB não) (VB é)) (NP (NNS oportuna)))) ``)))) .)

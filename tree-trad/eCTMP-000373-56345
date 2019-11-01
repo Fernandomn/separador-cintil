@@ -1,1 +1,1 @@
-(S (S (NP (NP (NNS Jacinto) (NNS Pedrosa))) (VP (VB diz) (SBAR (IN que) (S (NP (DT isso)) (VP (VB acontece) (CONJP (CC porque) (S (NP (DT os) (NP (NNS regulamentos) (PP (IN de_) (NP (DT a) (NNS Liga))))) (VP (VB permitem) (NP (DT tais) (NNS práticas)))))))))) .)
+(S (S (NP (NP (NNS Jacinto) (NNS Pedrosa))) (VP (VB diz) (CP (CC que) (S (NP (DT isso)) (VP (VB acontece) (CONJP (CC porque) (S (NP (DT os) (NP (NNS regulamentos) (PP (IN de_) (NP (DT a) (NNS Liga))))) (VP (VB permitem) (NP (DT tais) (NNS práticas)))))))))) .)

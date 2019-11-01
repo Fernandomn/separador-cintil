@@ -1,1 +1,1 @@
-(S (NP (DT Uma) (NP (NNS guerra) (SBAR (NP (PRP que)) (S (NP (DT a) (NNS Finantia)) (VP (VB parece) (VP (RB agora) (VP (VB ter) (VP (VB vencido))))))))) .)
+(S (NP (DT Uma) (NP (NNS guerra) (CP (NP (PRP que)) (S (NP (DT a) (NNS Finantia)) (VP (VB parece) (VP (RB agora) (VP (VB ter) (VP (VB vencido))))))))) .)

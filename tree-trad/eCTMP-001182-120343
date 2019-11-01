@@ -1,1 +1,1 @@
-(S (S (VP (VB Dizem) (SBAR (IN que) (S (VP (VB é) (NP (DT a) (NP (NNS obra-prima) (PP (IN de_) (NP (DT o) (NP (NNS realizador) (JJ espanhol))))))))))) .)
+(S (S (VP (VB Dizem) (CP (CC que) (S (VP (VB é) (NP (DT a) (NP (NNS obra-prima) (PP (IN de_) (NP (DT o) (NP (NNS realizador) (JJ espanhol))))))))))) .)

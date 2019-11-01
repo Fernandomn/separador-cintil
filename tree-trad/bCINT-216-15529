@@ -1,1 +1,1 @@
-(S (S (NP (NNS Pacheco)) (VP (VB diz) (SBAR (IN que) (S (VP (VP (RB não) (VP (NP (PRP se)) (VB revê))) (PP (IN em_) (NP (DT essas) (NNS críticas)))))))) .)
+(S (S (NP (NNS Pacheco)) (VP (VB diz) (CP (CC que) (S (VP (VP (RB não) (VP (NP (PRP se)) (VB revê))) (PP (IN em_) (NP (DT essas) (NNS críticas)))))))) .)

@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (NNS espelho) (SBAR (NP (PRP que)) (S (VP (VB vai) (VP (VB equipar) (NP (DT o) (NP (NNS supertelescópio) (NNS Magalhães))))))))) (VP (RB já) (VP (VB começou) (PP (IN a) (VP (VB ser) (VB construído)))))) .)
+(S (S (NP (DT O) (NP (NNS espelho) (CP (NP (PRP que)) (S (VP (VB vai) (VP (VB equipar) (NP (DT o) (NP (NNS supertelescópio) (NNS Magalhães))))))))) (VP (RB já) (VP (VB começou) (PP (IN a) (VP (VB ser) (VB construído)))))) .)

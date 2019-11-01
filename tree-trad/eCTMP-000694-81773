@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NP (JJ pobre) (NNS grumete))) (VP (VB diria) (SBAR (IN que) (S (VP (VB foram) (NP (NNS anos))))))) .)
+(S (S (NP (DT O) (NP (JJ pobre) (NNS grumete))) (VP (VB diria) (CP (CC que) (S (VP (VB foram) (NP (NNS anos))))))) .)

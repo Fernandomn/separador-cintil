@@ -1,1 +1,1 @@
-(S (S (VP (VB Sabes) (SBAR (IN que) (S (VP (VB mataram) (NP (DT o) (NNS Jamil))))))) ?)
+(S (S (VP (VB Sabes) (CP (CC que) (S (VP (VB mataram) (NP (DT o) (NNS Jamil))))))) ?)

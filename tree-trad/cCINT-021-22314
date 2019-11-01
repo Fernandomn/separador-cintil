@@ -1,1 +1,1 @@
-(S (S (NP (DT A) (NNS mãe)) (VP (VB disse) (SBAR (IN que) (S (NP (PRP eu)) (VP (VB teria) (PP (IN de) (VP (VB ter) (NP (NP (NP (NNS cuidados) (PP (IN de) (NP (NNS higiene)))) (JJ redobrados)))))))))) .)
+(S (S (NP (DT A) (NNS mãe)) (VP (VB disse) (CP (CC que) (S (NP (PRP eu)) (VP (VB teria) (PP (IN de) (VP (VB ter) (NP (NP (NP (NNS cuidados) (PP (IN de) (NP (NNS higiene)))) (JJ redobrados)))))))))) .)

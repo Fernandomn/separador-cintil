@@ -1,1 +1,1 @@
-(S (S (NP (DT O) (NNS Manuel)) (VP (VB está) (PP (IN em_) (NP (DT a) (NP (NNS casa) (SBAR (NP (PRP que)) (S (VP (VB é) (PP (IN de_) (NP (DT a) (NNS Maria))))))))))) .)
+(S (S (NP (DT O) (NNS Manuel)) (VP (VB está) (PP (IN em_) (NP (DT a) (NP (NNS casa) (CP (NP (PRP que)) (S (VP (VB é) (PP (IN de_) (NP (DT a) (NNS Maria))))))))))) .)

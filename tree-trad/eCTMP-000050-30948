@@ -19,7 +19,7 @@
               )
             )
           )
-          [',']          (CONJP já que)
+          ,          (CONJP já que)
           (S 
             (NP 
               (DT o)

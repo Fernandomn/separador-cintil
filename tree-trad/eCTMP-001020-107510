@@ -1,1 +1,1 @@
-(S (S (SBAR (S '' (S (NP (DT Os) (NP (PP$ nossos) (NNS Verdes))) (VP (VP (VB são) (RB muito)) (NP (PRP diferentes)))) ``) ,) (S (VP (VB diz)) (NP (DT o) (NNS candidato)))) .)
+(S (S (CP (S '' (S (NP (DT Os) (NP (PP$ nossos) (NNS Verdes))) (VP (VP (VB são) (RB muito)) (NP (PRP diferentes)))) ``) ,) (S (VP (VB diz)) (NP (DT o) (NNS candidato)))) .)

@@ -1,1 +1,1 @@
-(S (S (VP (RB Só) (VP (VB queria) (SBAR (IN que) (S (VB visses)))))) !)
+(S (S (VP (RB Só) (VP (VB queria) (CP (CC que) (S (VB visses)))))) !)

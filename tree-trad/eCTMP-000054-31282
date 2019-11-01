@@ -1,1 +1,1 @@
-(S (S (VP (VB Fala) (PP (IN em) (NP (NP (NP (NP (NNS Leão) (NNS Tolstoi))) (NP (CC e) (NP (NP (NNS Victor) (NNS Hugo))))) (SBAR , (SBAR (NP (PRP que)) (S (VB disseram)))))))) :)
+(S (S (VP (VB Fala) (PP (IN em) (NP (NP (NP (NP (NNS Leão) (NNS Tolstoi))) (NP (CC e) (NP (NP (NNS Victor) (NNS Hugo))))) (CP , (CP (NP (PRP que)) (S (VB disseram)))))))) :)

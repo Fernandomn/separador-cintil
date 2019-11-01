@@ -14,9 +14,18 @@
               (VB gerido)
               (PP 
                 (IN por_)
-                (['NP', [['DT', 'o'], ['NP', [['NNS', 'líder'], ['JJ', 'regional']]]]] 
-                  ,                )
-              )
+                (NP 
+                  (DT o)
+                  (NP 
+                    (NNS líder)
+                    (JJ regional)
+                  )
+                )
+                ,                (NP 
+                  (NNS José)
+                  (NNS Apolinário)
+                )
+                ,              )
             )
           )
         )

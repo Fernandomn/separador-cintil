@@ -1,1 +1,1 @@
-(S (S (VP (VB É) (NP (DT isso))) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (S (VP (VB dizem)) (NP (NP (CD 58) (NP (NP (NN por) (NN cento)) (PP (IN de_) (NP (DT os) (NNS interrogados))))))) (PP , (PP (IN em_) (NP (DT as) (NP (NNS sondagens) (ADJP (RB mais) (JJ recentes))))))))))) .)
+(S (S (VP (VB É) (NP (DT isso))) (NP (DT o) (NP (CP (NP (PRP que)) (S (S (VP (VB dizem)) (NP (NP (CD 58) (NP (NP (NN por) (NN cento)) (PP (IN de_) (NP (DT os) (NNS interrogados))))))) (PP , (PP (IN em_) (NP (DT as) (NP (NNS sondagens) (ADJP (RB mais) (JJ recentes))))))))))) .)

@@ -1,1 +1,1 @@
-(S (S (VP (VB Sou) (NP (DT um) (NP (NP (JJ velho) (NP (NNS professor) (PP (IN de_) (NP (DT o) (NP (NNS ensino) (JJ secundário)))))) (SBAR , (SBAR (NP (DT cuja) (NNS carreira)) (S (VP (VB chegou) (PP (IN a_) (NP (DT o) (NNS fim))))))))))) .)
+(S (S (VP (VB Sou) (NP (DT um) (NP (NP (JJ velho) (NP (NNS professor) (PP (IN de_) (NP (DT o) (NP (NNS ensino) (JJ secundário)))))) (CP , (CP (NP (DT cuja) (NNS carreira)) (S (VP (VB chegou) (PP (IN a_) (NP (DT o) (NNS fim))))))))))) .)

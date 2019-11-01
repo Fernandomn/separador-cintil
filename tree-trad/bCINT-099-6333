@@ -1,1 +1,1 @@
-(S `` (S (S (VP (VP (RB Não) (VB sabe)) (SBAR (IN que) (S (VP (VB é) (NP (NNS domingo))))))) ?))
+(S `` (S (S (VP (VP (RB Não) (VB sabe)) (CP (CC que) (S (VP (VB é) (NP (NNS domingo))))))) ?))

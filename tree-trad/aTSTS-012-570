@@ -1,1 +1,1 @@
-(S (VP (VB Choveu) (PP (IN em_) (NP (DT a) (NP (NNS altura) (SBAR (PP (IN em) (NP (PRP que))) (S (VP (VB choveu)))))))) .)
+(S (VP (VB Choveu) (PP (IN em_) (NP (DT a) (NP (NNS altura) (CP (PP (IN em) (NP (PRP que))) (S (VP (VB choveu)))))))) .)

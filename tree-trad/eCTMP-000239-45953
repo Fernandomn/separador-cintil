@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Salientou) (RB também)) (SBAR (IN que) (S (NP (DT estas) (NNS soluções)) (VP (RB só) (VP (VB irão) (VP (VB abranger) (NP (DT os) (NP (NNS cidadãos) (JJ legalizados)))))))))) .)
+(S (S (VP (VP (VB Salientou) (RB também)) (CP (CC que) (S (NP (DT estas) (NNS soluções)) (VP (RB só) (VP (VB irão) (VP (VB abranger) (NP (DT os) (NP (NNS cidadãos) (JJ legalizados)))))))))) .)

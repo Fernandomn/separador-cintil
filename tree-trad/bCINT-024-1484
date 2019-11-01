@@ -1,25 +1,2 @@
 (S 
-  (S 
-    (VP 
-      (['CONJP', [['_CONJP_', [['CC', 'Para'], ['CC', 'que']]], ['S', [['VB', 'conste']]]]] ,)
-      (VP 
-        (PP 
-          (IN em_)
-          (NP 
-            (DT as)
-            (NP 
-              (JJ principais)
-              (NP 
-                (NP 
-                  (NNS praças)
-                  (JJ financeiras)
-                )
-                (JJ internacionais)
-              )
-            )
-          )
-        )
-      )
-    )
-  )
-  .)
+  S  ['VP', [['CONJP', [['_CONJP_', [['CC', 'Para'], ['CC', 'que']]], ['S', [['VB', 'conste']]]]], [','], ['VP', [['PP', [['IN', 'em_'], ['NP', [['DT', 'as'], ['NP', [['JJ', 'principais'], ['NP', [['NP', [['NNS', 'praças'], ['JJ', 'financeiras']]], ['JJ', 'internacionais']]]]]]]]]]]]])

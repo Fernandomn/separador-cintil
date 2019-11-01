@@ -1,34 +1,21 @@
 (S 
-  (S 
-    (NP 
-      (DT Os)
-      (NP 
-        (NNS nervos)
-        (PP 
-          (IN de_)
-          (NP 
-            (DT os)
-            (NNS jogadores)
-          )
-        )
-      )
-    )
-    (VP 
-      (VB foram)
-      (ADJP 
-        (ADJP 
-          (RB mais)
-          (JJ fortes)
-        )
-        (CONJP de_ o que)
-        (NP 
-          (DT o)
-          (NP 
-            (PP seu)
-            (NNS futebol)
+  S  (['NP', [['DT', 'Os'], ['NP', [['NNS', 'nervos'], ['PP', [['IN', 'de_'], ['NP', [['DT', 'os'], ['NNS', 'jogadores']]]]]]]]] 
+    (V P)
+    (['VB', 'foram'] 
+      (A D)
+      (['ADJP', [['RB', 'mais'], ['JJ', 'fortes']]] 
+        (C O)
+        (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
+          (N P)
+          (['DT', 'o'] 
+            (N P)
+            (['PP', 'seu'] 
+              (N N)
+              (f u)
+            )
           )
         )
       )
     )
   )
-  .)
+)

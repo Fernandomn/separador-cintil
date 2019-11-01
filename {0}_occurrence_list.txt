@@ -1,1 +1,0 @@
-(S (S (PP (PP (P Em_) (NP (ART os) (N escombros))) (PNT ,)) (S (NP (N' (N Carlos) (N Alberto))) (VP (V' (V procura) (ADV apressadamente)) (NP (ART uma) (N' (N mala) (PP (P de) (NP (N executivo)))))))) (PNT .))

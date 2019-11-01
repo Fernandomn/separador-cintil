@@ -1,1 +1,1 @@
-(S (S (NP (DT Outro) (NP (NNS golo) (SBAR (NP (PRP que)) (S (VP (VB merece) (NP (NNS referência))))))) (VP (VB foi) (VP (VB apontado) (PP (IN por) (NP (NNS Domingos)))))) .)
+(S (S (NP (DT Outro) (NP (NNS golo) (CP (NP (PRP que)) (S (VP (VB merece) (NP (NNS referência))))))) (VP (VB foi) (VP (VB apontado) (PP (IN por) (NP (NNS Domingos)))))) .)

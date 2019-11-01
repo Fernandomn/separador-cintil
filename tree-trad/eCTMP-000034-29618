@@ -14,7 +14,7 @@
             )
           )
         )
-        [',']        (CONJP mesmo que)
+        ,        (CONJP mesmo que)
         (S 
           (VP 
             (VP 

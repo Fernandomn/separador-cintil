@@ -3,18 +3,37 @@ def init():
     global conjTag
     global conjBarTag
     global conjPTag
+    global conjList
+    global conjList2
     global pointTag
     global pointList
     global removeTag
-    global conjList
-    global conjList2
+    global CTag
+    global CPTag
+    global CPBarTag
+    global CWordDict
+    global clitList
+    global isFirstQuoteMark
+    # global eofTag
+    global tagOcc
+    global wordLevelTags
+    global splitTag
 
+    CWordDict = {}
     pointList = ['"', "'"]
     conjTag = 'CC'
     conjBarTag = '_CONJP_'
     conjPTag = 'CONJP'
+    CTag = 'CC'
+    CPBarTag = '_CP_'
+    CPTag = 'CP'
     pointTag = 'PNT'
     removeTag = '_TOREMOVE_'
+    # eofTag = 'EOE'
     posDict = {}
     conjList = []
     conjList2 = []
+    clitList = []
+    tagOcc = {}
+    wordLevelTags = [conjPTag, CPTag]
+    splitTag = '_SPLIT_'

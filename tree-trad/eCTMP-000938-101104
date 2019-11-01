@@ -1,41 +1,19 @@
 (S 
-  (S 
-    (NP 
-      (DT O)
-      (NNS presidente)
-    )
-    (VP 
-      (VP 
-        (VB criou)
-        (NP 
-          (NNS condições)
-        )
-      )
-      (CONJP para que)
-      (S 
-        (NP 
-          (DT os)
-          (NNS sócios)
-        )
-        (VP 
-          (VB percebam)
-          (NP 
-            (DT o)
-            (NP 
-              (SBAR 
-                (NP 
-                  (PRP que)
-                )
-                (S 
-                  (VP 
-                    (VB dão)
-                  )
-                )
-              )
-            )
+  S  (['NP', [['DT', 'O'], ['NNS', 'presidente']]] 
+    (V P)
+    (['VP', [['VB', 'criou'], ['NP', [['NNS', 'condições']]]]] 
+      (C O)
+      (['_CONJP_', [['CC', 'para'], ['CC', 'que']]] 
+        S        (['NP', [['DT', 'os'], ['NNS', 'sócios']]] 
+          (V P)
+          (['VB', 'percebam'] 
+            (N P)
+            (['DT', 'o'] 
+              (N P)
+              ['CP', [['NP', [['PRP', 'que']]], ['S', [['VP', [['VB', 'dão']]]]]]]            )
           )
         )
       )
     )
   )
-  .)
+)

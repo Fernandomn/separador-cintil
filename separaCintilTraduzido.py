@@ -3,6 +3,7 @@ import treebuilder as tb
 import settings
 import translator
 import os
+import csv
 
 # TODO: Pegar correções da tabela no drive, e criar scripts necessários
 
@@ -28,20 +29,35 @@ ns = {'base': "http://nlx.di.fc.ul.pt",
       'clarin': "http://nlx.di.fc.ul.pt",
       'xsi': 'http://www.w3.org/2001/XMLSchema-instance'}
 
-occList = ['CONJ', 'CP', 'C']
+occList = ['CL']
 
 
 # metodo criado unicamente para facilitar escrita do projeto final. servepara criar um arquivo com uma lista de conjunções.
+def printOccList(dict):
+    occ_file = open('occurrence_count.csv', 'w')
+    listKeys = settings.posDict.keys()
+    for key in sorted(listKeys):
+
+        occ_file.write("{0}, {1}\n".format(key, dict[key] if key in dict else 0))
+
+        # if key in dict:
+        #     occ_file.write("{0}, {1}\n".format(key, dict[key]))
+        # else:
+        #     occ_file.write("{0}, {1}\n".format(key, 0))
+    occ_file.close()
+
+
 def createListFiles():
     createListFile('separated_conjunction_list.txt', settings.conjList)
     createListFile('combined_conjunction_list.txt', settings.conjList2)
     createListFile('points_list.txt', settings.pointList)
+    createListFile('clitics_list.txt', settings.clitList)
+    printOccList(settings.tagOcc)
 
 
 def createListFile(fileName, list):
     conjFile = open(fileName, 'w')
-    # conjFile.write(settings.conjList)]
-    settings.conjList.sort()
+    list.sort()
     conjFile.write("\n".join(str(item) for item in list))
     conjFile.close()
 
@@ -49,19 +65,22 @@ def createListFile(fileName, list):
 def verificaOcorrencias(occList, treeText):
     for tag in occList:
         fileName = 'occurrence_list_{0}.txt'.format(tag)
-        # if not os.path.exists(fileName):
-        #     occFile = open(fileName, 'w')
-        # else:
-        #     occFile = open(fileName, 'a')
         occFile = open(fileName, 'a' if os.path.exists(fileName) else 'w')
         if '({0}'.format(tag) in treeText.split():
             occFile.write(treeText + '\n')
         occFile.close()
 
 
+def iniciaOcorrencias():
+    for tag in occList:
+        fileName = 'occurrence_list_{0}.txt'.format(tag)
+        occFile = open(fileName, 'w')
+        occFile.close()
+
+
 def main():
     settings.init()
-
+    iniciaOcorrencias()
     for corpus in raiz.findall('base:corpus', ns):
         for sentenca in corpus.findall('base:sentence', ns):
             id = sentenca.find('base:id', ns).text.replace('/', '-')

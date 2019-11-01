@@ -1,1 +1,1 @@
-(S (S (S (VP (VB É) (NP (DT isso) (NP (SBAR (NP (PRP que)) (S (VP (VB choca) (NP (DT as) (NNS pessoas))))))))) .) ``)
+(S (S (S (VP (VB É) (NP (DT isso) (NP (CP (NP (PRP que)) (S (VP (VB choca) (NP (DT as) (NNS pessoas))))))))) .) ``)

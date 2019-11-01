@@ -1,1 +1,1 @@
-(SBAR '' (SBAR (SBAR (INTJ (UH Bolas) ,) (S (NP (DT isto)) (VP (VB é) (ADJP (JJ pior) (CONJP (CC que) (NP (DT uma) (NNS creche))))))) !) ``)
+(CP '' (CP (CP (INTJ (UH Bolas) ,) (S (NP (DT isto)) (VP (VB é) (ADJP (JJ pior) (CONJP (CC que) (NP (DT uma) (NNS creche))))))) !) ``)

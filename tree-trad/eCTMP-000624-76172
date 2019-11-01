@@ -1,1 +1,1 @@
-(S `` (S (S (VP (VP (RB Não) (VB digo)) (SBAR (IN que) (S (VP (VB houvesse) (NP (PRP qualquer) (NNS ilegalidade))))))) .))
+(S `` (S (S (VP (VP (RB Não) (VB digo)) (CP (CC que) (S (VP (VB houvesse) (NP (PRP qualquer) (NNS ilegalidade))))))) .))

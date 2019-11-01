@@ -28,7 +28,7 @@
             )
             (VB identificadas)
           )
-          [',']          (CONJP já que)
+          ,          (CONJP já que)
           (S 
             (NP 
               (PRP alguns)
@@ -37,7 +37,7 @@
             (VP 
               (VP 
                 (VB estão)
-                ["''"]                (RB totalmente)
+                ''                (RB totalmente)
               )
             )
             (ADJP 

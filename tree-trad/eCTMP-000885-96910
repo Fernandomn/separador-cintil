@@ -21,7 +21,7 @@
             )
           )
         )
-        [',']        (CONJP dado que)
+        ,        (CONJP dado que)
         (S 
           (VP 
             (VB aceita)

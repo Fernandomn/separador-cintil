@@ -1,1 +1,1 @@
-(S `` (S (S (VP (VB São) (NP (NNS generalidades))) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (NP (PRP se)) (VB propõe))))))) ?))
+(S `` (S (S (VP (VB São) (NP (NNS generalidades))) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (NP (PRP se)) (VB propõe))))))) ?))

@@ -1,1 +1,1 @@
-(S (NP (DT O) (NP (NNS brasileiro) (SBAR (NP (PRP que)) (S (VP (NP (PRP se)) (VB segue)))))))
+(S (NP (DT O) (NP (NNS brasileiro) (CP (NP (PRP que)) (S (VP (NP (PRP se)) (VB segue)))))))

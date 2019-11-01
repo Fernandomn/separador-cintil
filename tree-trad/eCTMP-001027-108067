@@ -1,1 +1,1 @@
-(S (S (SBAR '' (S (NP (DT As) (NP (NNS células) (PP (IN de) (NP (NNS zircona))))) (VP (VB podem) (VP (VB atingir) (NP (DT um) (NP (NNS rendimento) (PP (IN de) (NP (NP (CD 60) (NP (NN por) (NN cento)))))))))) ``) (S (VP (VB diz)) (NP (NNS Murray)))) .)
+(S (S (CP '' (S (NP (DT As) (NP (NNS células) (PP (IN de) (NP (NNS zircona))))) (VP (VB podem) (VP (VB atingir) (NP (DT um) (NP (NNS rendimento) (PP (IN de) (NP (NP (CD 60) (NP (NN por) (NN cento)))))))))) ``) (S (VP (VB diz)) (NP (NNS Murray)))) .)

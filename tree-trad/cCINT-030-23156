@@ -1,36 +1,17 @@
 (S 
-  (S 
-    (NP 
-      (DT As)
-      (NP 
-        (NNS aulas)
-        (PP 
-          (IN em_)
-          (NP 
-            (DT a)
-            (NNS universidade)
-          )
-        )
-      )
-    )
-    (VP 
-      (VP 
-        (VB começam)
-        (RB sempre)
-      )
-      (ADVP 
-        (ADVP 
-          (RB mais)
-          (RB tarde)
-        )
-        (CONJP de_ o que)
-        (NP 
-          (DT as)
-          (NP 
-            (PP vossas)
-          )
+  S  (['NP', [['DT', 'As'], ['NP', [['NNS', 'aulas'], ['PP', [['IN', 'em_'], ['NP', [['DT', 'a'], ['NNS', 'universidade']]]]]]]]] 
+    (V P)
+    (['VP', [['VB', 'começam'], ['RB', 'sempre']]] 
+      (A D)
+      (['ADVP', [['RB', 'mais'], ['RB', 'tarde']]] 
+        (C O)
+        (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
+          (N P)
+          (['DT', 'as'] 
+            (N P)
+            ['PP', 'vossas']          )
         )
       )
     )
   )
-  .)
+)

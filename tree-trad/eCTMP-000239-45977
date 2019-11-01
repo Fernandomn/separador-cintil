@@ -31,7 +31,7 @@
             )
             (RB cautelosamente)
           )
-          [',']          (CONJP até que)
+          ,          (CONJP até que)
           (S 
             (VP 
               (NP 

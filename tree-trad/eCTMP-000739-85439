@@ -1,1 +1,1 @@
-(S (S (VP (VP (VB Foi) (RB porventura)) (NP (DT um) (NP (PP (IN de_) (NP (DT os) (NP (NP (NNS actos) (ADJP (RB mais) (JJ sérios))) (SBAR (NP (PRP que)) (S (VP (VB praticou))))))))))) .)
+(S (S (VP (VP (VB Foi) (RB porventura)) (NP (DT um) (NP (PP (IN de_) (NP (DT os) (NP (NP (NNS actos) (ADJP (RB mais) (JJ sérios))) (CP (NP (PRP que)) (S (VP (VB praticou))))))))))) .)

@@ -1,1 +1,1 @@
-(S (NP (NP (NNS Líderes) (PP (IN de_) (NP (DT as) (NNS claques))))) (VP (VB dizem) (SBAR (IN que) (S (NP (DT a) (NNS polícia)) (VP (VP (RB não) (VB sabe)) (NP (DT o) (NP (SBAR (NP (PRP que)) (S (VP (VB faz)))))))))))
+(S (NP (NP (NNS Líderes) (PP (IN de_) (NP (DT as) (NNS claques))))) (VP (VB dizem) (CP (CC que) (S (NP (DT a) (NNS polícia)) (VP (VP (RB não) (VB sabe)) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB faz)))))))))))
