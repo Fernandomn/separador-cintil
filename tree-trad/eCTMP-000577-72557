@@ -1,1 +1,26 @@
-(S (S (VP (VP (VB Dou) (NP (NNS aulas))) (CONJP (S (VP (VB há) (NP (CD seis) (NNS anos))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Dou)
+     (NP 
+      (NNS aulas)
+     )
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (CD seis)
+        (NNS anos)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

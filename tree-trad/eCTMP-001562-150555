@@ -1,1 +1,30 @@
-(S (S (S (VP (VB Somos) (NP (NP (NNS pessoas) (JJ simples))))) (S (CC e) (S (VP (VP (RB não) (VB queremos)) (VB complicar))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Somos)
+     (NP 
+      (NP 
+       (NNS pessoas)
+       (JJ simples)
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (RB não)
+       (VB queremos)
+      )
+      (VB complicar)
+     )
+    )
+   )
+  )
+  .
+ )
+)

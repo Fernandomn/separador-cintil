@@ -1,1 +1,42 @@
-(S (NP (NP (NNS Revisão) (PP (IN de_) (NP (DT o) (NP (NNS regime) (PP (IN de) (NP (NP (NNS suspensão) (PP (IN de_) (NP (DT os) (NP (NNS contratos) (PP (IN de) (NP (NNS trabalho)))))))))))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Revisão)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS regime)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS suspensão)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT os)
+            (NP 
+             (NNS contratos)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS trabalho)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

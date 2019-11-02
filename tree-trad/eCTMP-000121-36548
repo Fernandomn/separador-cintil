@@ -1,1 +1,20 @@
-(S (NP (DT O) (NP (NP (NNS foguetório) (JJ verbal)) (PP (IN de_) (NP (DT o) (NNS PSD))))))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NP 
+     (NNS foguetório)
+     (JJ verbal)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS PSD)
+     )
+    )
+   )
+  )
+ )
+)

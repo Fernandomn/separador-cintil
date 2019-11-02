@@ -1,1 +1,52 @@
-(S (S (S (RB Actualmente) (S (NP (DT as) (NNS empresas)) (VP (RB já) (VP (VB procuram) (NP (NP (NNS pessoas) (PP (PP (IN com) (NP (NP (ADVP (RB mais) (RB de)) (CD uma)) (NNS licenciatura))) (PP (CC ou) (PP (IN com) (NP (DT um) (NNS MBA))))))))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (RB Actualmente)
+    (S 
+     (NP 
+      (DT as)
+      (NNS empresas)
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB procuram)
+       (NP 
+        (NP 
+         (NNS pessoas)
+         (PP 
+          (PP 
+           (IN com)
+           (NP 
+            (NP 
+             (ADVP 
+              (RB mais)
+              (RB de)
+             )
+             (CD uma)
+            )
+            (NNS licenciatura)
+           )
+          )
+          (PP 
+           (CC ou)
+           (PP 
+            (IN com)
+            (NP 
+             (DT um)
+             (NNS MBA)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,33 +1,35 @@
-(S 
+(
  (S 
-  (NP 
-   (DT O)
-   (NNS presidente)
-  )
-  (VP 
-   (VP 
-    (VB criou)
-    (NP 
-     (NNS condições)
-    )
+  (S 
+   (NP 
+    (DT O)
+    (NNS presidente)
    )
-   (CONJP para que)
-   (S 
-    (NP 
-     (DT os)
-     (NNS sócios)
-    )
+   (VP 
     (VP 
-     (VB percebam)
+     (VB criou)
      (NP 
-      (DT o)
+      (NNS condições)
+     )
+    )
+    (CONJP para que)
+    (S 
+     (NP 
+      (DT os)
+      (NNS sócios)
+     )
+     (VP 
+      (VB percebam)
       (NP 
+       (DT o)
        (NP 
-        (PRP que)
-       )
-       (S 
-        (VP 
-         (VB dão)
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB dão)
+         )
         )
        )
       )
@@ -35,6 +37,6 @@
     )
    )
   )
+  .
  )
- .
 )

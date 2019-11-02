@@ -1,1 +1,31 @@
-(S (S (NP (DT Este) (NP (JJ aparente) (NNS sucesso))) (VP (VP (VB tem) (ADVP , (RB porém) ,)) (NP (DT um) (NP (NNS lado) (JJ negativo))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NP 
+     (JJ aparente)
+     (NNS sucesso)
+    )
+   )
+   (VP 
+    (VP 
+     (VB tem)
+     (ADVP 
+      ,
+      (RB porém)
+      ,
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS lado)
+      (JJ negativo)
+     )
+    )
+   )
+  )
+  .
+ )
+)

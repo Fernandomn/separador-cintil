@@ -1,1 +1,29 @@
-(S (NP (NNS Portugal)) (VP (PP (IN em_) (NP (DT o) (NP '' (NP (NNS grupo) (PP (IN de_) (NP (DT o) (NNS bloqueio)))) ``)))))
+(
+ (S 
+  (NP 
+   (NNS Portugal)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      ''
+      ''
+      (NP 
+       (NNS grupo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS bloqueio)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,40 +1,42 @@
-(S 
+(
  (S 
-  (VP 
-   (PP 
-    (PP 
-     (IN Em_)
-     (NP 
-      (DT a)
-      (NNS verdade)
-     )
-    )
-    ,
-   )
+  (S 
    (VP 
-    (ADJP 
-     (ADJP 
-      (ADVP 
-       (RB muito)
-       (RB mais)
-      )
-      (JJ entusiasmante)
-     )
-     (CONJP de_ o que)
-     (NP 
-      ''
-      ''
+    (PP 
+     (PP 
+      (IN Em_)
       (NP 
-       (DT Os)
+       (DT a)
+       (NNS verdade)
+      )
+     )
+     ,
+    )
+    (VP 
+     (ADJP 
+      (ADJP 
+       (ADVP 
+        (RB muito)
+        (RB mais)
+       )
+       (JJ entusiasmante)
+      )
+      (CONJP de_ o que)
+      (NP 
+       ''
+       ''
        (NP 
-        (NNS Versículos)
-        (JJ Satânicos)
+        (DT Os)
+        (NP 
+         (NNS Versículos)
+         (JJ Satânicos)
+        )
        )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

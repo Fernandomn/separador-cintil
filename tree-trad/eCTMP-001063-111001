@@ -1,1 +1,25 @@
-(S (S (NP (NP (NNS Sentimentos) (JJ adormecidos))) (VP (VB podem) (VP (VB sofrer) (NP (NP (JJ novo) (NNS impulso)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Sentimentos)
+     (JJ adormecidos)
+    )
+   )
+   (VP 
+    (VB podem)
+    (VP 
+     (VB sofrer)
+     (NP 
+      (NP 
+       (JJ novo)
+       (NNS impulso)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

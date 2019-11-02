@@ -1,1 +1,20 @@
-(S (S (VP (VB É) (NP (DT um) (NP (NNS mercado) (ADJP (RB muito) (JJ importante)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS mercado)
+      (ADJP 
+       (RB muito)
+       (JJ importante)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

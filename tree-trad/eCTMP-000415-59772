@@ -1,1 +1,24 @@
-(S (NP (NP (NP (NNS Jornadas) (PP (IN de) (NP (NNS reflexão)))) (PP (IN em_) (NP (DT o) (NNS Montijo))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Jornadas)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS reflexão)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Montijo)
+     )
+    )
+   )
+  )
+ )
+)

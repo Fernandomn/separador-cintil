@@ -1,1 +1,37 @@
-(S (S (VP (VP (RB Não) (VB era)) (ADJP (JJ aceitável) (PP (IN por) (NP (PRP eles))))) (CP (CC que) (S (NP (DT a) (NNS situação)) (VP (NP (PRP se)) (VB prolongasse))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB era)
+    )
+    (ADJP 
+     (JJ aceitável)
+     (PP 
+      (IN por)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (DT a)
+      (NNS situação)
+     )
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB prolongasse)
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,28 @@
-(S (VP (RB Nunca) (VP (VB chovia) (PP (IN em_) (NP (DT o) (NP (NNS sítio) (CP (RB onde) (S (VP (VB morava))))))))) .)
+(
+ (S 
+  (VP 
+   (RB Nunca)
+   (VP 
+    (VB chovia)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS sítio)
+       (CONJP 
+        (RB onde)
+        (S 
+         (VP 
+          (VB morava)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,31 @@
-(S '' (NP (NP (NP (NP (NP (DT Uma) (NNS maioria)) (NP , (NP (DT um) (NNS governo)))) ,) (NP (DT um) (NNS presidente))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NP 
+       (DT Uma)
+       (NNS maioria)
+      )
+      (NP 
+       ,
+       (NP 
+        (DT um)
+        (NNS governo)
+       )
+      )
+     )
+     ,
+    )
+    (NP 
+     (DT um)
+     (NNS presidente)
+    )
+   )
+   .
+  )
+ )
+)

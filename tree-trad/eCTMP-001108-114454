@@ -1,1 +1,32 @@
-(S `` (S (S (VP (VB Foi) (NP (DT a) (NP (NNS Síria) (CP (NP (PRP que)) (S (VP (VB provocou) (NP (DT o) (NNS Hezbollah))))))))) ?))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Foi)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Síria)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB provocou)
+          (NP 
+           (DT o)
+           (NNS Hezbollah)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   ?
+  )
+ )
+)

@@ -1,1 +1,27 @@
-(S (S (NP (DT A) (NP (NNS Bolsa) (NNS de) (NNS Madrid))) (VP (VB terminou) (PP (IN com) (NP (NP (NNS comportamento) (JJ misto)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Bolsa)
+     (NNS de)
+     (NNS Madrid)
+    )
+   )
+   (VP 
+    (VB terminou)
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS comportamento)
+       (JJ misto)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

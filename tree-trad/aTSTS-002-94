@@ -1,23 +1,25 @@
-(S 
+(
  (S 
-  (NP 
-   (DT o)
-   (NNS Manuel)
-  )
-  (VP 
-   (VB é)
-   (ADJP 
-    (RB muito)
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB é)
     (ADJP 
-     (JJ maior)
-     (CONJP de_ o que)
-     (NP 
-      (DT A)
-      (NNS Maria)
+     (RB muito)
+     (ADJP 
+      (JJ maior)
+      (CONJP de_ o que)
+      (NP 
+       (DT A)
+       (NNS Maria)
+      )
      )
     )
    )
   )
+  .
  )
- .
 )

@@ -1,1 +1,21 @@
-(S (NP (NP (NP (NNS Carlos) (NNS Filipe))) (NP (CC e) (NP (NP (NNS Luciano) (NNS Alvarez))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Carlos)
+     (NNS Filipe)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Luciano)
+      (NNS Alvarez)
+     )
+    )
+   )
+  )
+ )
+)

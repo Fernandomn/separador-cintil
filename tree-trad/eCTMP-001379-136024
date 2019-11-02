@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NP (CD primeiro) (NNS contacto))) (VP (VB foi) (ADJP (RB inteiramente) (JJ inesperado)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD primeiro)
+     (NNS contacto)
+    )
+   )
+   (VP 
+    (VB foi)
+    (ADJP 
+     (RB inteiramente)
+     (JJ inesperado)
+    )
+   )
+  )
+  .
+ )
+)

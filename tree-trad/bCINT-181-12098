@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS PSD)) (VP (VP (RB não) (VB está)) (PP (IN a) (VB dormir)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS PSD)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB está)
+    )
+    (PP 
+     (IN a)
+     (VB dormir)
+    )
+   )
+  )
+  .
+ )
+)

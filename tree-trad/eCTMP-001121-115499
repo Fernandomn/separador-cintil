@@ -1,1 +1,70 @@
-(S (S (CP (S '' (S (PP (PP (IN Para) (NP (DT os) (NP (NNS estudantes) (JJ estrangeiros)))) ,) (S (NP (DT o) (NP (NP (ADJP (RB mais) (JJ difícil))) (PP (IN de_) (NP (DT a) (NNS aprendizagem))))) (VP (VB é) (NP (DT a) (NP (NNS fonética) (PP (IN de_) (NP (DT a) (NNS língua)))))))) ``) ,) (S (VP (VB diz)))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     ''
+     ''
+     (S 
+      (PP 
+       (PP 
+        (IN Para)
+        (NP 
+         (DT os)
+         (NP 
+          (NNS estudantes)
+          (JJ estrangeiros)
+         )
+        )
+       )
+       ,
+      )
+      (S 
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (ADJP 
+           (RB mais)
+           (JJ difícil)
+          )
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS aprendizagem)
+          )
+         )
+        )
+       )
+       (VP 
+        (VB é)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS fonética)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT a)
+            (NNS língua)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+   )
+  )
+  .
+ )
+)

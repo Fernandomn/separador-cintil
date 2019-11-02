@@ -1,1 +1,17 @@
-(S (NP (NNS Ovarense)) (VP (VB quer) (VP (VB ganhar) (ADVP (RB já) (RB hoje)))))
+(
+ (S 
+  (NP 
+   (NNS Ovarense)
+  )
+  (VP 
+   (VB quer)
+   (VP 
+    (VB ganhar)
+    (ADVP 
+     (RB já)
+     (RB hoje)
+    )
+   )
+  )
+ )
+)

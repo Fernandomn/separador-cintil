@@ -1,1 +1,11 @@
-(S (S (VP (RB Nunca) (VB pensei))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Nunca)
+    (VB pensei)
+   )
+  )
+  .
+ )
+)

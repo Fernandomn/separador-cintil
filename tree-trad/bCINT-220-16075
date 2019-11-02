@@ -1,1 +1,26 @@
-(S (S (PP (PP (IN Em_) (NP (DT o) (NNS género))) ,) (S (NP (DT um) (NP (JJ grande) (NNS filme))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS género)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT um)
+     (NP 
+      (JJ grande)
+      (NNS filme)
+     )
+    )
+   )
+  )
+  .
+ )
+)

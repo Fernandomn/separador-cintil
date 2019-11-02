@@ -1,1 +1,34 @@
-(CP `` (CP (CP (INTJ (UH Ah) ,) (CP (ADVP (RB sim) ,) (S (VP (VP (VB gostei) (RB realmente)) (PP (IN de_) (NP (DT esse) (NNS filme))))))) .))
+(
+ (CONJP 
+  (CONJP 
+   (CONJP 
+    (INTJ 
+     (UH Ah)
+     ,
+    )
+    (CONJP 
+     (ADVP 
+      (RB sim)
+      ,
+     )
+     (S 
+      (VP 
+       (VP 
+        (VB gostei)
+        (RB realmente)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT esse)
+         (NNS filme)
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

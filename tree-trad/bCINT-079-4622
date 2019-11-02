@@ -1,1 +1,27 @@
-(S '' (S (S (PP (PP (IN Em_) (NP (DT o) (NNS terreno))) ,) (S (NP (NNS Guterres)) (VB surpreende))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT o)
+       (NNS terreno)
+      )
+     )
+     ,
+    )
+    (S 
+     (NP 
+      (NNS Guterres)
+     )
+     (VB surpreende)
+    )
+   )
+   .
+  )
+ )
+)

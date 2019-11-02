@@ -1,1 +1,45 @@
-(S (S '' (S (NP (NNS Lisboa)) (VP (VP (VB é) (NP (DT uma) (NP (NNS cidade) (JJ monumental)))) (PP (IN por_) (NP (DT o) (NP (NNS relevo) (CP (NP (PRP que)) (S (VP (VB tem))))))))) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (NP 
+     (NNS Lisboa)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS cidade)
+        (JJ monumental)
+       )
+      )
+     )
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS relevo)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB tem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

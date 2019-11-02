@@ -1,1 +1,21 @@
-(S (NP (NP (NNS João) (NNS Soares))) (VP (PP (IN com) (NP (NP (NNS margem) (JJ confortável))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS João)
+    (NNS Soares)
+   )
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS margem)
+      (JJ confortável)
+     )
+    )
+   )
+  )
+ )
+)

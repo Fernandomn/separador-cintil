@@ -1,45 +1,47 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT As)
-    (NNS pessoas)
-   )
-   (VP 
+   (S 
+    (NP 
+     (DT As)
+     (NNS pessoas)
+    )
     (VP 
-     (VB podem)
      (VP 
-      (VB dar)
-      (NP 
-       (DT a)
-       (NNS cara)
+      (VB podem)
+      (VP 
+       (VB dar)
+       (NP 
+        (DT a)
+        (NNS cara)
+       )
       )
      )
-    )
-    (CONJP desde que)
-    (S 
-     (NP 
-      (DT o)
+     (CONJP desde que)
+     (S 
       (NP 
+       (DT o)
        (NP 
-        (PRP que)
-       )
-       (S 
-        (VP 
-         (VB dizem)
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB dizem)
+         )
         )
        )
       )
-     )
-     (VP 
-      (VB é)
-      (NP 
-       (NNS verdade)
+      (VP 
+       (VB é)
+       (NP 
+        (NNS verdade)
+       )
       )
      )
     )
    )
+   .
   )
-  .
  )
 )

@@ -1,1 +1,25 @@
-(S (S '' (S (NP (DT A) (NNS Expo)) (VP (VB vai) (VP (VB ser) (NP (DT uma) (NNS ilha))))) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (NP 
+     (DT A)
+     (NNS Expo)
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB ser)
+      (NP 
+       (DT uma)
+       (NNS ilha)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

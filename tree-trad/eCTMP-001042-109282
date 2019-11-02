@@ -1,1 +1,20 @@
-(S (S (NP (NNS António)) (VP (VB faz) (NP (DT um) (NP (NNS cálculo) (JJ rápido))))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS António)
+   )
+   (VP 
+    (VB faz)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS cálculo)
+      (JJ rápido)
+     )
+    )
+   )
+  )
+  :
+ )
+)

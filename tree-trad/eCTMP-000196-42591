@@ -1,1 +1,21 @@
-(S (S (NP (NP (NNS Isabel) (NNS Arriaga) (NNS e) (NNS Cunha))) ,) (PP (IN em) (NP (NNS Cardiff))))
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Isabel)
+     (NNS Arriaga)
+     (NNS e)
+     (NNS Cunha)
+    )
+   )
+   ,
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Cardiff)
+   )
+  )
+ )
+)

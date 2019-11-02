@@ -1,1 +1,22 @@
-(S (NP (NNS ONU)) (VP (VP (VB lança) (NP (NNS ultimato))) (PP (IN a_) (NP (DT o) (NNS Iraque)))))
+(
+ (S 
+  (NP 
+   (NNS ONU)
+  )
+  (VP 
+   (VP 
+    (VB lança)
+    (NP 
+     (NNS ultimato)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS Iraque)
+    )
+   )
+  )
+ )
+)

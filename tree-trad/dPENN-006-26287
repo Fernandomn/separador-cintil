@@ -1,1 +1,7 @@
-(S (NP (NNS Conrail)))
+(
+ (S 
+  (NP 
+   (NNS Conrail)
+  )
+ )
+)

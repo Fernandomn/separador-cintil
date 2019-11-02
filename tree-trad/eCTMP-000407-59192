@@ -1,1 +1,42 @@
-(S (S (PP (IN Em) (NP (NNS foco))) (S (VP (VB estarão)) (NP (DT as) (NP (NP (NNS transmissões) (PP (IN em) (NP (NNS directo)))) (PP (IN de_) (NP (DT o) (NP (NNS encontro) (NNS Sp)))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (IN Em)
+    (NP 
+     (NNS foco)
+    )
+   )
+   (S 
+    (VP 
+     (VB estarão)
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS transmissões)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS directo)
+        )
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS encontro)
+         (NNS Sp)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

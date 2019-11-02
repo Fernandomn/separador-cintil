@@ -1,1 +1,18 @@
-(S (S (NP (DT A) (NNS fuga)) (VP (VB ficou) (ADJP (RB completamente) (JJ impossível)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS fuga)
+   )
+   (VP 
+    (VB ficou)
+    (ADJP 
+     (RB completamente)
+     (JJ impossível)
+    )
+   )
+  )
+  .
+ )
+)

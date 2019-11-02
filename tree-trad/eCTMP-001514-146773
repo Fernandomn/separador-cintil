@@ -1,1 +1,24 @@
-(S (S (NP (DT Os) (NP (NNS donos) (PP (IN de_) (NP (DT as) (NNS embarcações))))) (VP (RB não) (VB gostaram))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS donos)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS embarcações)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB não)
+    (VB gostaram)
+   )
+  )
+  .
+ )
+)

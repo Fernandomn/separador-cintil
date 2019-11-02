@@ -1,1 +1,17 @@
-(S (NP (NP (NNS Banco) (NNS de) (NNS Portugal))) (VP (VB esconde) (NP (NNS nervosismo))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Banco)
+    (NNS de)
+    (NNS Portugal)
+   )
+  )
+  (VP 
+   (VB esconde)
+   (NP 
+    (NNS nervosismo)
+   )
+  )
+ )
+)

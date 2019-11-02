@@ -1,26 +1,28 @@
-(S 
+(
  (S 
-  (VP 
-   (CONJP Mesmo que)
-   (S 
-    (VP 
-     (VB quisesse)
+  (S 
+   (VP 
+    (CONJP Mesmo que)
+    (S 
      (VP 
-      (VB ir)
-      (PP 
-       (IN com_)
-       (NP 
-        (PRP ti)
+      (VB quisesse)
+      (VP 
+       (VB ir)
+       (PP 
+        (IN com_)
+        (NP 
+         (PRP ti)
+        )
        )
       )
      )
     )
-   )
-   (VP 
-    (RB não)
-    (VB podia)
+    (VP 
+     (RB não)
+     (VB podia)
+    )
    )
   )
+  .
  )
- .
 )

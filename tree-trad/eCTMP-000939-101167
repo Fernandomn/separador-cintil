@@ -1,1 +1,20 @@
-(S (NP (NP (NNS Voleibol) (JJ português))) (VP (VB perde) (PP (IN em_) (NP (DT a) (NNS despedida)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Voleibol)
+    (JJ português)
+   )
+  )
+  (VP 
+   (VB perde)
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS despedida)
+    )
+   )
+  )
+ )
+)

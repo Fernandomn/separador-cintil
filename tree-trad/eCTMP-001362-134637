@@ -1,1 +1,23 @@
-(S `` (S (VP (VB Houve) (NP (DT uma) (NP (NNS abertura) (PP (IN a_) (NP (DT a) (NNS universalidade)))))) .))
+(
+ (S 
+  (S 
+   (VP 
+    (VB Houve)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS abertura)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS universalidade)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

@@ -1,1 +1,28 @@
-(S (S (NP (PRP Ele)) (VP (VB representava) (NP (DT uma) (NP (JJ nova) (NP (NNS geração) (PP (IN de) (NP (NNS políticos)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB representava)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ nova)
+      (NP 
+       (NNS geração)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS políticos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

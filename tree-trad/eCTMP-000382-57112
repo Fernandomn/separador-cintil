@@ -1,1 +1,25 @@
-(CP (CP (ADVP (RB Não) ,) (S (VP (VP (RB não) (VB é)) (NP (NP (NNS ficção) (JJ científica)))))) .)
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Não)
+    ,
+   )
+   (S 
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (NP 
+      (NP 
+       (NNS ficção)
+       (JJ científica)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

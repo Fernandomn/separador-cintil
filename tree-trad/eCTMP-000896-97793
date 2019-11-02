@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Praga) (PP (IN de) (NP (NNS lagartas))))) (VP (VB destrói) (NP (NNS pinhais))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Praga)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS lagartas)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB destrói)
+   (NP 
+    (NNS pinhais)
+   )
+  )
+ )
+)

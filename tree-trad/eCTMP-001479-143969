@@ -1,1 +1,32 @@
-(S (S (NP (DT O) (NP (CD segundo) (NNS filme))) (VP (VB tem) (NP (DT a) (NP (NNS chancela) (PP (IN de) (NP (NP (NNS Jean-Luc) (NNS Godard)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD segundo)
+     (NNS filme)
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS chancela)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Jean-Luc)
+         (NNS Godard)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

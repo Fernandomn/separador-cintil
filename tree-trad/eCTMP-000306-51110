@@ -1,1 +1,31 @@
-(S '' (VP (VB Há) (NP (NP (NNS escolas) (CP (NP (PRP que)) (S (VP (VB vão) (VP (VB ter) (PP (IN de) (VB fechar))))))))) ``)
+(
+ (S 
+  ''
+  ''
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (NNS escolas)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB vão)
+        (VP 
+         (VB ter)
+         (PP 
+          (IN de)
+          (VB fechar)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

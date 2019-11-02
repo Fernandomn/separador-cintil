@@ -1,1 +1,17 @@
-(S (NP (NP (NNS Cidade) (NNS de) (NNS São) (NNS Filipe) (NNS ,) (NNS Cabo) (NNS Verde))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cidade)
+    (NNS de)
+    (NNS São)
+    (NNS Filipe)
+    (NNS 
+     ,
+    )
+    (NNS Cabo)
+    (NNS Verde)
+   )
+  )
+ )
+)

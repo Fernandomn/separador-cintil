@@ -1,38 +1,40 @@
-(S 
- (VP 
+(
+ (S 
   (VP 
-   (VB Há)
-   (RB lá)
-  )
-  (NP 
+   (VP 
+    (VB Há)
+    (RB lá)
+   )
    (NP 
-    (NNS desfiladeiros)
     (NP 
-     (CC e)
+     (NNS desfiladeiros)
      (NP 
-      (NNS montanhas)
-      (ADJP 
+      (CC e)
+      (NP 
+       (NNS montanhas)
        (ADJP 
-        (ADVP 
-         (RB ainda)
-         (RB mais)
-        )
-        (JJ altas)
-       )
-       (CONJP de_ o que)
-       (NP 
-        (DT as)
-        (NP 
-         (NP 
-          (PRP que)
+        (ADJP 
+         (ADVP 
+          (RB ainda)
+          (RB mais)
          )
-         (S 
-          (VP 
-           (VB existem)
-           (PP 
-            (IN em)
-            (NP 
-             (NNS terra)
+         (JJ altas)
+        )
+        (CONJP de_ o que)
+        (NP 
+         (DT as)
+         (NP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB existem)
+            (PP 
+             (IN em)
+             (NP 
+              (NNS terra)
+             )
             )
            )
           )
@@ -44,6 +46,6 @@
     )
    )
   )
+  .
  )
- .
 )

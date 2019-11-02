@@ -1,1 +1,32 @@
-(S (S (NP (DT O) (NNS Governo)) (VP (PP , (PP (IN de) (NP (NNS resto))) ,) (VP (RB não) (VP (NP (PRP o)) (VB esconde))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Governo)
+   )
+   (VP 
+    (PP 
+     ,
+     (PP 
+      (IN de)
+      (NP 
+       (NNS resto)
+      )
+     )
+     ,
+    )
+    (VP 
+     (RB não)
+     (VP 
+      (NP 
+       (PRP o)
+      )
+      (VB esconde)
+     )
+    )
+   )
+  )
+  .
+ )
+)

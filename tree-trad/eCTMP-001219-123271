@@ -1,1 +1,31 @@
-(S (S (VP (VB Podia) (VP (VP (VB falar) (PP (IN de_) (NP (DT isto)))) (PP (PP (IN até) (IN a_)) (NP (DT a) (NNS morte)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Podia)
+    (VP 
+     (VP 
+      (VB falar)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT isto)
+       )
+      )
+     )
+     (PP 
+      (PP 
+       (IN até)
+       (IN a_)
+      )
+      (NP 
+       (DT a)
+       (NNS morte)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

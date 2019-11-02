@@ -1,38 +1,39 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT As)
-    (NNS crianças)
-   )
-   (VP 
+   (S 
+    (NP 
+     (DT As)
+     (NNS crianças)
+    )
     (VP 
      (VP 
-      (VB aprendiam)
-      (NP 
-       (PRP tudo)
-      )
-     )
-     (PP 
-      (IN em_)
-      (NP 
-       (DT a)
+      (VP 
+       (VB aprendiam)
        (NP 
-        (NNS ponta)
-        (PP 
-         (IN de_)
-         (NP 
-          (DT a)
-          (NNS língua)
+        (PRP tudo)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS ponta)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS língua)
+          )
          )
         )
        )
       )
      )
-    )
-    (CONJP 
      ,
-     (CONJP nem que)
+     (CC nem)
+     (CC que)
      (S 
       (VP 
        (VB fosse)
@@ -55,7 +56,7 @@
      )
     )
    )
+   .
   )
-  .
  )
 )

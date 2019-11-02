@@ -1,1 +1,38 @@
-(S (S (VP (VB Admite) (NP (DT um) (NP (NNS professor) (CP (NP (PRP que)) (S (NP (PRP você)) (VP (VB sabe) (CP (CC que) (S (VP (VB é) (JJ homossexual))))))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Admite)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS professor)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (NP 
+         (PRP você)
+        )
+        (VP 
+         (VB sabe)
+         (CONJP 
+          (CC que)
+          (S 
+           (VP 
+            (VB é)
+            (JJ homossexual)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

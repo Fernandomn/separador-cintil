@@ -1,1 +1,35 @@
-(S (S (PP (PP (IN Em) (NP (NP (NNS termos) (JJ dramáticos)))) ,) (S (NP (DT a) (NNS farsa)) (VP (VP (VB serve) (RB excelentemente)) (NP (DT este) (NNS objectivo))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NP 
+       (NNS termos)
+       (JJ dramáticos)
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS farsa)
+    )
+    (VP 
+     (VP 
+      (VB serve)
+      (RB excelentemente)
+     )
+     (NP 
+      (DT este)
+      (NNS objectivo)
+     )
+    )
+   )
+  )
+  .
+ )
+)

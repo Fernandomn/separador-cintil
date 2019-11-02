@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VB comunica) (PP (IN com) (NP (DT os) (NNS companheiros))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB comunica)
+    (PP 
+     (IN com)
+     (NP 
+      (DT os)
+      (NNS companheiros)
+     )
+    )
+   )
+  )
+  .
+ )
+)

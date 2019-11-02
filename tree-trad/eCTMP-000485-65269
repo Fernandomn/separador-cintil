@@ -1,1 +1,22 @@
-(S (S (VP (VB Sabes) (CP (CC que) (S (VP (VB mataram) (NP (DT o) (NNS Jamil))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sabes)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB mataram)
+       (NP 
+        (DT o)
+        (NNS Jamil)
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

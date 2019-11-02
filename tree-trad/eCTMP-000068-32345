@@ -1,1 +1,41 @@
-(S (S (VP (PP (PP (IN Sobre) (NP (DT a) (NP (NNS religião) (NP (CC e) (NP (NNS tradições) (JJ portuguesas)))))) ,) (VP (VB seguiu) (NP (PRP -se)))) (NP (NP (NNS Moisés) (NNS Espírito) (NNS Santo)))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Sobre)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS religião)
+        (NP 
+         (CC e)
+         (NP 
+          (NNS tradições)
+          (JJ portuguesas)
+         )
+        )
+       )
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB seguiu)
+     (NP 
+      (PRP -se)
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNS Moisés)
+     (NNS Espírito)
+     (NNS Santo)
+    )
+   )
+  )
+  :
+ )
+)

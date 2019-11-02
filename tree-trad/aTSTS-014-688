@@ -1,1 +1,18 @@
-(S (S (NP (DT A) (NNS imprensa)) (VP (VB especulou) (NP (DT essa) (NNS possibilidade)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS imprensa)
+   )
+   (VP 
+    (VB especulou)
+    (NP 
+     (DT essa)
+     (NNS possibilidade)
+    )
+   )
+  )
+  .
+ )
+)

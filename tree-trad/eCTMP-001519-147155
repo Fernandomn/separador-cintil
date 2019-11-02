@@ -1,1 +1,30 @@
-(S (S (ADVP (RB Mesmo) (RB assim)) (S (NP (DT o) (NNS Benfica)) (VP (VB actuará) (PP (IN para) (NP (DT uma) (NP (JJ pequena) (NNS plateia))))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Mesmo)
+    (RB assim)
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Benfica)
+    )
+    (VP 
+     (VB actuará)
+     (PP 
+      (IN para)
+      (NP 
+       (DT uma)
+       (NP 
+        (JJ pequena)
+        (NNS plateia)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

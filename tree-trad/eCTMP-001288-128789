@@ -1,1 +1,35 @@
-(S (S (VP (RB Actualmente) (VP (VB são) (NP (NP (ADVP (RB mais) (RB de)) (CD cem))))) (NP (DT os) (NP (NNS investigadores) (PP (IN de_) (NP (DT o) (NNS atentado)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Actualmente)
+    (VP 
+     (VB são)
+     (NP 
+      (NP 
+       (ADVP 
+        (RB mais)
+        (RB de)
+       )
+       (CD cem)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT os)
+    (NP 
+     (NNS investigadores)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS atentado)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

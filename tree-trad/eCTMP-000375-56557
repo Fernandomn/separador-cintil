@@ -1,1 +1,22 @@
-(S (NP (NNS Governo)) (VP (VB proíbe) (NP (NP (NNS compras) (PP (IN a_) (NP (DT o) (NNS domingo)))))))
+(
+ (S 
+  (NP 
+   (NNS Governo)
+  )
+  (VP 
+   (VB proíbe)
+   (NP 
+    (NP 
+     (NNS compras)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS domingo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,68 @@
-(S (S (S (NP (DT A) (NP (PP$ própria) (NNS APL))) (VP (VB recua) (RB já))) (S (CC e) (S (VP (VB diz) (CP (CC que) (S (NP (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB está) (PP (IN em_) (NP (DT o) (NNS Plano)))))))) ,) (VP (VB é) (NP (DT uma) (NP (JJ mera) (NNS sugestão)))))))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (PP própria)
+      (NNS APL)
+     )
+    )
+    (VP 
+     (VB recua)
+     (RB já)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB diz)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (NP 
+          (DT o)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB está)
+              (PP 
+               (IN em_)
+               (NP 
+                (DT o)
+                (NNS Plano)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+         ,
+        )
+        (VP 
+         (VB é)
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ mera)
+           (NNS sugestão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

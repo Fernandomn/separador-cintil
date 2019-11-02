@@ -1,1 +1,8 @@
-(S (NP (NNS Veterinário)) ?)
+(
+ (S 
+  (NP 
+   (NNS Veterinário)
+  )
+  ?
+ )
+)

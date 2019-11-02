@@ -1,1 +1,12 @@
-(S (S (NP (DT O) (NNS banco)) (VB aquiesceu)) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS banco)
+   )
+   (VB aquiesceu)
+  )
+  .
+ )
+)

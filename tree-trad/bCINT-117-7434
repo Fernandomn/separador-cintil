@@ -1,20 +1,22 @@
-(S 
- (VP 
+(
+ (S 
   (VP 
    (VP 
-    (RB Não)
-    (VB houve)
-   )
-   (NP 
+    (VP 
+     (RB Não)
+     (VB houve)
+    )
     (NP 
-     (JJ grandes)
-     (NNS consequências)
+     (NP 
+      (JJ grandes)
+      (NNS consequências)
+     )
     )
    )
-  )
-  (CONJP 
    ,
-   (CONJP uma vez que)
+   (CC uma)
+   (CC vez)
+   (CC que)
    (S 
     (NP 
      (DT os)
@@ -35,6 +37,6 @@
     )
    )
   )
+  .
  )
- .
 )

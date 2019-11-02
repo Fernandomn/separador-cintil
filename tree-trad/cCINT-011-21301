@@ -1,1 +1,11 @@
-(S (S (VP (VB É) (JJ espantoso))) !)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ espantoso)
+   )
+  )
+  !
+ )
+)

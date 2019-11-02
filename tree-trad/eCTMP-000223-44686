@@ -1,1 +1,23 @@
-(S (NP (NP (NP (NNS Síntese) (JJ mensal)) (PP (IN de_) (NP (DT o) (NP (NNS Banco) (NNS de) (NNS Portugal)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Síntese)
+     (JJ mensal)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Banco)
+       (NNS de)
+       (NNS Portugal)
+      )
+     )
+    )
+   )
+  )
+ )
+)

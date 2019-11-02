@@ -1,1 +1,44 @@
-(S (S (NP (PRP Eles)) (VP (VB viram) (NP (DT o) (NP (NP (NP (NNS isolamento) (PP (IN de_) (NP (DT a) (NNS Maria)))) (PP (IN de_) (NP (DT o) (NNS mundo)))) (PP (IN por_) (NP (DT o) (NNS João))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VB viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NP 
+        (NNS isolamento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS Maria)
+         )
+        )
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS mundo)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS João)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

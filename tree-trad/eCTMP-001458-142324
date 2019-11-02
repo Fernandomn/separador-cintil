@@ -1,1 +1,42 @@
-(S (S (VP (VB É) (NP (DT um) (NP (NP (NNS reencontro) (PP (IN de) (NP (NP (JJ velhos) (NNS companheiros))))) (PP (IN em_) (NP (DT uma) (NP (NNS base) (PP (IN de) (NP (NNS continuidade)))))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS reencontro)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ velhos)
+          (NNS companheiros)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS base)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS continuidade)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

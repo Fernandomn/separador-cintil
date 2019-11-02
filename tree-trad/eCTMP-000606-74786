@@ -1,1 +1,35 @@
-(S (S (NP (NNS Mitharski)) (VP (VB tinha) (VP (VB sido) (NP (DT a) (NP (JJ única) (NP (NNS figura) (ADVP (RB acima) (PP (IN de_) (NP (DT a) (NNS mediania)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Mitharski)
+   )
+   (VP 
+    (VB tinha)
+    (VP 
+     (VB sido)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ única)
+       (NP 
+        (NNS figura)
+        (ADVP 
+         (RB acima)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS mediania)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

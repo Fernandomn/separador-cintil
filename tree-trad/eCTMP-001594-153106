@@ -1,1 +1,28 @@
-(S (S (VP (RB Nem) (VP (VB sei) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB é))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Nem)
+    (VP 
+     (VB sei)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB é)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

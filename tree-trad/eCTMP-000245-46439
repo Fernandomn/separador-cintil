@@ -1,1 +1,35 @@
-(S (S (VP (PP (PP (IN Com) (NP (PRP muito) (NNS nervosismo))) ,) (VP (VB recorda) (NP (DT o) (NP (CP (NP (PRP que)) (S (VB aconteceu)))))))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (PRP muito)
+       (NNS nervosismo)
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB recorda)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VB aconteceu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

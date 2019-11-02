@@ -1,1 +1,18 @@
-(S (S (NP (DT Os) (NNS valores)) (VP (VP (VB serão) (RB sempre)) (JJ médios))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS valores)
+   )
+   (VP 
+    (VP 
+     (VB serão)
+     (RB sempre)
+    )
+    (JJ médios)
+   )
+  )
+  .
+ )
+)

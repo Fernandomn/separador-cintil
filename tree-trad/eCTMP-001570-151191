@@ -1,1 +1,30 @@
-(S (S (VP (RB Agora) (VP (VB tenho) (NP (DT uma) (NP (NP '' (NNS performance) ``) (PP (IN de) (NP (DT outra) (NNS qualidade)))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Agora)
+    (VP 
+     (VB tenho)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        ''
+        ''
+        (NNS performance)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (DT outra)
+         (NNS qualidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

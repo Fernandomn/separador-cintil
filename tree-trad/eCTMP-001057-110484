@@ -1,1 +1,36 @@
-(S (S (NP (NP (NNS Laborinho) (NNS Lúcio))) (VP (VB preferiu) (NP (DT a) (NP (NNS forma) (PP (IN de) (NP (NP (NNS artigo) (PP (IN de) (NP (NNS opinião)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Laborinho)
+     (NNS Lúcio)
+    )
+   )
+   (VP 
+    (VB preferiu)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS forma)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS artigo)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS opinião)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

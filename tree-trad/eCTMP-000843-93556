@@ -1,1 +1,26 @@
-(S (NP (NNS Governo)) (VP (VP (RB não) (VB aceitou)) (NP '' (NP (NNS lógica) (PP (IN de) (NP (NNS fornecedor)))) ``)))
+(
+ (S 
+  (NP 
+   (NNS Governo)
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB aceitou)
+   )
+   (NP 
+    ''
+    ''
+    (NP 
+     (NNS lógica)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS fornecedor)
+      )
+     )
+    )
+   )
+  )
+ )
+)

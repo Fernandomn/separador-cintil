@@ -1,1 +1,40 @@
-(S (S (ADVP (RB Ontem) (RB mesmo)) (S (NP (DT a) (NP (NNS Federação) (NNS Internacional) (NNS de) (NNS Halterofilismo))) (VP (VP (VB votou) (RB favoravelmente)) (NP (DT a) (NP (NNS irradiação) (PP (IN de) (NP (NNS Samadov)))))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Ontem)
+    (RB mesmo)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Federação)
+      (NNS Internacional)
+      (NNS de)
+      (NNS Halterofilismo)
+     )
+    )
+    (VP 
+     (VP 
+      (VB votou)
+      (RB favoravelmente)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS irradiação)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Samadov)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,36 @@
-(S (S (PP (PP (PP (IN Quanto) (IN a_)) (NP (DT o) (NNS pagamento))) ,) (S (NP (DT os) (NNS estudantes)) (VP (VB têm) (NP (DT a) (NP (NNS vida) (JJ facilitada)))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NNS pagamento)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NNS estudantes)
+    )
+    (VP 
+     (VB têm)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS vida)
+       (JJ facilitada)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,22 @@
-(S (NP (DT O) (NP (NP (NNS condado) (ADJP (RB mais) (JJ pobre))) (PP (IN de) (NP (NNS Inglaterra))))))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NP 
+     (NNS condado)
+     (ADJP 
+      (RB mais)
+      (JJ pobre)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Inglaterra)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,35 @@
-(S (NP (NP (NNS Castelo) (NNS Branco) (NNS Capital) (NNS de_) (NNS o) (NNS Teatro))) (VP (VB faz) (NP (NP (NNS balanço) (PP (IN de_) (NP (DT os) (NP (CD seis) (NP (CD primeiros) (NNS meses)))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Castelo)
+    (NNS Branco)
+    (NNS Capital)
+    (NNS de_)
+    (NNS o)
+    (NNS Teatro)
+   )
+  )
+  (VP 
+   (VB faz)
+   (NP 
+    (NP 
+     (NNS balanço)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD seis)
+        (NP 
+         (CD primeiros)
+         (NNS meses)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

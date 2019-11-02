@@ -1,1 +1,25 @@
-(S (NP (NNS JAE)) (VP (VB inaugurou) (NP (NP (NNS troço) (PP (IN de_) (NP (DT o) (NP (NNS IP) (NNS 2))))))))
+(
+ (S 
+  (NP 
+   (NNS JAE)
+  )
+  (VP 
+   (VB inaugurou)
+   (NP 
+    (NP 
+     (NNS troço)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS IP)
+        (NNS 2)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,33 @@
-(S (S (ADVP (ADVP (ADVP (NP (CD Cinco) (NNS minutos))) (RB depois)) ,) (S (NP (DT o) (NP (NNS penalty) (PP (IN sobre) (NP (NNS Poborski))))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD Cinco)
+       (NNS minutos)
+      )
+     )
+     (RB depois)
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS penalty)
+      (PP 
+       (IN sobre)
+       (NP 
+        (NNS Poborski)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,21 @@
-(S (NP (NNS Carteiros)) (VP (PP (IN a) (NP (NP (CD 13) (NP (NN por) (NN cento)))))))
+(
+ (S 
+  (NP 
+   (NNS Carteiros)
+  )
+  (VP 
+   (PP 
+    (IN a)
+    (NP 
+     (NP 
+      (CD 13)
+      (NP 
+       (NN por)
+       (NN cento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

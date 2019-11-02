@@ -1,1 +1,15 @@
-(S (S (VB Ruiu) (NP (DT um) (NP (NNS prédio) (JJ velho)))) .)
+(
+ (S 
+  (S 
+   (VB Ruiu)
+   (NP 
+    (DT um)
+    (NP 
+     (NNS prédio)
+     (JJ velho)
+    )
+   )
+  )
+  .
+ )
+)

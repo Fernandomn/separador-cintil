@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VB bateu) (PP (IN com) (NP (DT o) (NNS carro))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB bateu)
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NNS carro)
+     )
+    )
+   )
+  )
+  .
+ )
+)

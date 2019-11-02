@@ -1,1 +1,40 @@
-(S (NP (DT Um) (NP (NNS dia) (PP (IN em_) (NP (DT uma) (NP (NP (NP (NNS aula) (PP (IN de) (NP (NNS português)))) ,) (PP (IN em_) (NP (DT uma) (NP (NNS escola) (JJ belga))))))))))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS dia)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NP 
+         (NNS aula)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS português)
+          )
+         )
+        )
+        ,
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS escola)
+          (JJ belga)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

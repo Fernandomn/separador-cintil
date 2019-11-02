@@ -1,1 +1,32 @@
-(S (S (VP (VB Adoram) (VP (VB conversar) (PP (IN sobre) (NP '' (NP (DT as) (NP (NNS questões) (PP (IN de) (NP (NNS fundo))))) ``))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Adoram)
+    (VP 
+     (VB conversar)
+     (PP 
+      (IN sobre)
+      (NP 
+       ''
+       ''
+       (NP 
+        (DT as)
+        (NP 
+         (NNS questões)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS fundo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

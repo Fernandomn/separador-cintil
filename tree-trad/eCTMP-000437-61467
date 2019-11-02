@@ -1,1 +1,20 @@
-(S (S (NP (NP (NNS Rui) (NNS Pereira) (NNS Martins))) ,) (PP (IN em) (NP (NNS Berna))))
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Rui)
+     (NNS Pereira)
+     (NNS Martins)
+    )
+   )
+   ,
+  )
+  (PP 
+   (IN em)
+   (NP 
+    (NNS Berna)
+   )
+  )
+ )
+)

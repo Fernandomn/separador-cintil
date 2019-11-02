@@ -1,1 +1,28 @@
-(S (S (NP (NP (NNS Jordi) (NNS Pujol))) (VP (VP (RB não) (VB falou)) (PP (IN de) (NP (NP (NNS Paulo) (NNS Portas)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Jordi)
+     (NNS Pujol)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB falou)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS Paulo)
+       (NNS Portas)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

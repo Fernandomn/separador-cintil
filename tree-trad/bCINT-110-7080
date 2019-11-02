@@ -1,1 +1,28 @@
-(S `` (S (S (VP (PP (IN Em_) (NP (DT esse) (NNS dia))) (VP (VB encontrámos) (NP (DT os) (NP (CD primeiros) (NNS Arumbayas)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT esse)
+       (NNS dia)
+      )
+     )
+     (VP 
+      (VB encontrámos)
+      (NP 
+       (DT os)
+       (NP 
+        (CD primeiros)
+        (NNS Arumbayas)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

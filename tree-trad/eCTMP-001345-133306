@@ -1,1 +1,35 @@
-(S (S (VP (VB Está) (PP (PP (IN em_) (NP (DT o) (NP (NNS Antigo) (NNS Testamento)))) (PP , (PP (IN em_) (NP (DT os) (NP (NNS contos) (JJ tradicionais)))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Está)
+    (PP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Antigo)
+        (NNS Testamento)
+       )
+      )
+     )
+     (PP 
+      ,
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS contos)
+         (JJ tradicionais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

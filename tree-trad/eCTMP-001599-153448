@@ -1,1 +1,40 @@
-(S (S (VP (PP (IN em_) (NP (DT uma) (NP (NNS ala) (CP (NP (PRP que)) (S (VP (RB não) (VB abateu))))))) (VP (VB foram) (VB resgatadas))) (NP (CD 28) (NP (NNS pessoas) (JJ vivas)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS ala)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (RB não)
+          (VB abateu)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foram)
+     (VB resgatadas)
+    )
+   )
+   (NP 
+    (CD 28)
+    (NP 
+     (NNS pessoas)
+     (JJ vivas)
+    )
+   )
+  )
+  .
+ )
+)

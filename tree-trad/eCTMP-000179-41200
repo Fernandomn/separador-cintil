@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS futuro)) (VP (VB pertence) (PP (IN a_) (NP (DT os) (NNS velhos))))) ?)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS futuro)
+   )
+   (VP 
+    (VB pertence)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NNS velhos)
+     )
+    )
+   )
+  )
+  ?
+ )
+)

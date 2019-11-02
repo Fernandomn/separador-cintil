@@ -1,1 +1,19 @@
-(S (S (RB Talvez) (S (NP (DT a) (NP (ADJP (RB mais) (JJ radio-friendly)))))) .)
+(
+ (S 
+  (S 
+   (RB Talvez)
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ radio-friendly)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

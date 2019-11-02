@@ -1,1 +1,23 @@
-(S (S (S (NP (DT Os) (NNS espanhóis)) (VB impõem)) (S , (S (VP (RB não) (VB propõem))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS espanhóis)
+    )
+    (VB impõem)
+   )
+   (S 
+    ,
+    (S 
+     (VP 
+      (RB não)
+      (VB propõem)
+     )
+    )
+   )
+  )
+  .
+ )
+)

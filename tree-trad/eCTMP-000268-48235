@@ -1,1 +1,32 @@
-(S (S (S (NP (DT O) (NNS povo)) (VP (VB gosta) (PP (IN de_) (NP (DT o) (NNS presidente))))) (S (CC ou) (S (VP (RB não) (VB gosta))))) ?)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS povo)
+    )
+    (VP 
+     (VB gosta)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS presidente)
+      )
+     )
+    )
+   )
+   (S 
+    (CC ou)
+    (S 
+     (VP 
+      (RB não)
+      (VB gosta)
+     )
+    )
+   )
+  )
+  ?
+ )
+)

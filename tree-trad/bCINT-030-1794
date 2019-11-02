@@ -1,1 +1,79 @@
-(S (S (NP (NP (DT O) (NNS cabeleireiro)) (NP (CC e) (NP (DT a) (NNS massagista)))) (VP (PP , (PP (PP (IN juntamente) (IN com)) (NP (NP (DT a) (NNS cartomante)) (NP (CC e) (NP (DT a) (NNS psicóloga))))) ,) (VP (VB são) (NP (NP (NNS exemplos) (PP (IN de) (NP (NP (NNS locais) (ADJP (VB privilegiados) (PP (IN para) (NP (DT a) (NP (NNS troca) (PP (IN de) (NP (NNS segredos))))))))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NNS cabeleireiro)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT a)
+      (NNS massagista)
+     )
+    )
+   )
+   (VP 
+    (PP 
+     ,
+     (PP 
+      (PP 
+       (IN juntamente)
+       (IN com)
+      )
+      (NP 
+       (NP 
+        (DT a)
+        (NNS cartomante)
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (DT a)
+         (NNS psicóloga)
+        )
+       )
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (NP 
+       (NNS exemplos)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS locais)
+          (ADJP 
+           (VB privilegiados)
+           (PP 
+            (IN para)
+            (NP 
+             (DT a)
+             (NP 
+              (NNS troca)
+              (PP 
+               (IN de)
+               (NP 
+                (NNS segredos)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

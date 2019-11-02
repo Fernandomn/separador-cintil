@@ -1,1 +1,33 @@
-(S (S (NP (NP (NNS Mikhail) (NNS Gorbatchov))) (VP (VP (VP (VB ficou) (ADVP , (RB assim) ,)) (JJ sozinho)) (PP (IN em_) (NP (DT aquele) (NNS estúdio))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Mikhail)
+     (NNS Gorbatchov)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB ficou)
+      (ADVP 
+       ,
+       (RB assim)
+       ,
+      )
+     )
+     (JJ sozinho)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT aquele)
+      (NNS estúdio)
+     )
+    )
+   )
+  )
+  .
+ )
+)

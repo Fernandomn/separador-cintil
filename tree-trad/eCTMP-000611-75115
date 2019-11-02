@@ -1,1 +1,17 @@
-(S (NP (DT O) (NNS feitiço)) (VP (PP (IN contra) (NP (DT o) (NNS feiticeiro)))))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS feitiço)
+  )
+  (VP 
+   (PP 
+    (IN contra)
+    (NP 
+     (DT o)
+     (NNS feiticeiro)
+    )
+   )
+  )
+ )
+)

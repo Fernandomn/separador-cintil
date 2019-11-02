@@ -1,1 +1,32 @@
-(S (S (VP (VB É) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB acontece) (PP (IN em_) (NP (DT este) (NNS caso)))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB acontece)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT este)
+           (NNS caso)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

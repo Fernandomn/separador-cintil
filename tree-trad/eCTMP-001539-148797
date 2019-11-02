@@ -1,1 +1,57 @@
-(S (S (NP (DT O) (NP (CD segundo))) (VP (VB foi) (NP (NP (NP (NNS Christian) (NNS Vincent)) (CP , (CP (NP (PRP que)) (S (VP (VP (VB teve) (NP (DT um) (NP (NNS sucesso) (JJ colossal)))) (PP (IN com) (NP '' (NP (NNS La) (NNS Discrète)) ``)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD segundo)
+    )
+   )
+   (VP 
+    (VB foi)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Christian)
+       (NNS Vincent)
+      )
+      (CONJP 
+       ,
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB teve)
+           (NP 
+            (DT um)
+            (NP 
+             (NNS sucesso)
+             (JJ colossal)
+            )
+           )
+          )
+          (PP 
+           (IN com)
+           (NP 
+            ''
+            ''
+            (NP 
+             (NNS La)
+             (NNS Discrète)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

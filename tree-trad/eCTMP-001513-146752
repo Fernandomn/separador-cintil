@@ -1,1 +1,23 @@
-(S (S (NP (DT As) (NP (NNS famílias) (JJ afegãs))) (VP (VB preferem) (NP (NP (NNS filhos) (JJ varões))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS famílias)
+     (JJ afegãs)
+    )
+   )
+   (VP 
+    (VB preferem)
+    (NP 
+     (NP 
+      (NNS filhos)
+      (JJ varões)
+     )
+    )
+   )
+  )
+  .
+ )
+)

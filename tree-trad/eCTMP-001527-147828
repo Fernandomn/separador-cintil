@@ -1,1 +1,41 @@
-(S (VP (ADVP (ADVP (RB Em) (RB suma)) ,) (VP (VB há) (NP (DT uma) (NP (JJ enorme) (NP (NP (NNS proliferação) (PP (IN de) (NP (NNS objectos)))) (PP (IN em_) (NP (DT a) (NNS realidade)))))))) .)
+(
+ (S 
+  (VP 
+   (ADVP 
+    (ADVP 
+     (RB Em)
+     (RB suma)
+    )
+    ,
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ enorme)
+      (NP 
+       (NP 
+        (NNS proliferação)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS objectos)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS realidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,16 @@
-(S (S (NP (DT O) (NNS ferro)) (S (VP (VB oxidou)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS ferro)
+   )
+   (S 
+    (VP 
+     (VB oxidou)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,32 @@
-(S (S (NP (DT O) (NP (NNS forte) (NNS de_) (NNS o) (NNS Guincho))) (VP (VB fica) (ADVP (RB junto) (PP (IN a_) (NP (DT a) (NP (NNS Praia) (NNS Grande))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS forte)
+     (NNS de_)
+     (NNS o)
+     (NNS Guincho)
+    )
+   )
+   (VP 
+    (VB fica)
+    (ADVP 
+     (RB junto)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Praia)
+        (NNS Grande)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

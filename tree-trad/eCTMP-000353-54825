@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS grunge)) (VP (VP (RB não) (VB morreu)) (PP (IN com) (NP (NP (NNS Kurt) (NNS Cobain)))))) ?)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS grunge)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB morreu)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS Kurt)
+       (NNS Cobain)
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

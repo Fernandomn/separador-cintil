@@ -1,1 +1,22 @@
-(S (VP (PP (IN Com) (NP (DT o) (NP (NNS Dão) (PP (IN em_) (NP (DT os) (NNS sentidos))))))))
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS Dão)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT os)
+        (NNS sentidos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

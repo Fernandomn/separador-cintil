@@ -1,1 +1,26 @@
-(S (S (VP (VB É) (VB criada)) (NP (DT a) (NP (NNS repartição) (PP (IN para) (NP (NP (NNS assuntos) (JJ multiculturais))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (VB criada)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS repartição)
+     (PP 
+      (IN para)
+      (NP 
+       (NP 
+        (NNS assuntos)
+        (JJ multiculturais)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

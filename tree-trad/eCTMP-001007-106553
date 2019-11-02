@@ -1,6 +1,6 @@
-(S 
+(
  (S 
-  (CONJP 
+  (S 
    (CONJP Dado que)
    (S 
     (NP 
@@ -16,19 +16,19 @@
     )
    )
    ,
-  )
-  (S 
-   (NP 
-    (PRP ele)
-   )
-   (VP 
-    (VB deve)
+   (S 
+    (NP 
+     (PRP ele)
+    )
     (VP 
-     (VB ser)
-     (VB aprovado)
+     (VB deve)
+     (VP 
+      (VB ser)
+      (VB aprovado)
+     )
     )
    )
   )
+  .
  )
- .
 )

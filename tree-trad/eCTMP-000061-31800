@@ -1,42 +1,82 @@
-(S 
+(
  (S 
-  (NP 
-   (DT A)
-   (NNS eleição)
-  )
-  (VP 
+  (S 
+   (NP 
+    (DT A)
+    (NNS eleição)
+   )
    (VP 
     (VP 
-     (VB decorreu)
-     (RB ontem)
-    )
-    (PP 
-     ,
+     (VP 
+      (VB decorreu)
+      (RB ontem)
+     )
      (PP 
-      (IN em_)
-      (NP 
-       (DT um)
+      ,
+      (PP 
+       (IN em_)
        (NP 
-        (NNS acto)
-        (PP 
+        (DT um)
+        (NP 
+         (NNS acto)
          (PP 
           (PP 
-           (IN com)
-           (NP 
-            (PRP algumas)
-            (NNS peripécias)
+           (PP 
+            (IN com)
+            (NP 
+             (PRP algumas)
+             (NNS peripécias)
+            )
+           )
+           ,
+          )
+          (PP 
+           (CC mas)
+           (PP 
+            (IN sem)
+            (NP 
+             (NP 
+              (JJ grandes)
+              (NNS surpresas)
+             )
+            )
            )
           )
-          ,
          )
+        )
+       )
+      )
+      ,
+     )
+    )
+    (CONJP já que)
+    (S 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB cumpriu)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS acordo)
+       (ADJP 
+        (RB previamente)
+        (ADJP 
+         (VB estabelecido)
          (PP 
-          (CC mas)
-          (PP 
-           (IN sem)
+          (IN entre)
+          (NP 
            (NP 
+            (DT a)
+            (NNS CDU)
+           )
+           (NP 
+            (CC e)
             (NP 
-             (JJ grandes)
-             (NNS surpresas)
+             (DT o)
+             (NNS PS)
             )
            )
           )
@@ -45,47 +85,9 @@
        )
       )
      )
-     ,
-    )
-   )
-   (CONJP já que)
-   (S 
-    (VP 
-     (NP 
-      (PRP se)
-     )
-     (VB cumpriu)
-    )
-    (NP 
-     (DT o)
-     (NP 
-      (NNS acordo)
-      (ADJP 
-       (RB previamente)
-       (ADJP 
-        (VB estabelecido)
-        (PP 
-         (IN entre)
-         (NP 
-          (NP 
-           (DT a)
-           (NNS CDU)
-          )
-          (NP 
-           (CC e)
-           (NP 
-            (DT o)
-            (NNS PS)
-           )
-          )
-         )
-        )
-       )
-      )
-     )
     )
    )
   )
+  .
  )
- .
 )

@@ -1,1 +1,19 @@
-(S (S (VP (RB Então) (VP (VB é) (JJ melhor))) (CP (S (VB entrarmos)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Então)
+    (VP 
+     (VB é)
+     (JJ melhor)
+    )
+   )
+   (CONJP 
+    (S 
+     (VB entrarmos)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,13 @@
-(S (NP (NNS Legislação)) (VP (VB provoca) (NP (NNS demora))))
+(
+ (S 
+  (NP 
+   (NNS Legislação)
+  )
+  (VP 
+   (VB provoca)
+   (NP 
+    (NNS demora)
+   )
+  )
+ )
+)

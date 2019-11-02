@@ -1,39 +1,40 @@
-(S 
+(
  (S 
-  (NP 
-   (DT Os)
+  (S 
    (NP 
-    (CD primeiros)
+    (DT Os)
+    (NP 
+     (CD primeiros)
+    )
    )
-  )
-  (VP 
-   ''
-   ''
    (VP 
+    ''
+    ''
     (VP 
-     (VB têm)
-     (NP 
-      (DT uma)
+     (VP 
+      (VB têm)
       (NP 
-       (JJ grande)
+       (DT uma)
        (NP 
-        (NNS quantidade)
-        (PP 
-         (IN de)
-         (NP 
+        (JJ grande)
+        (NP 
+         (NNS quantidade)
+         (PP 
+          (IN de)
           (NP 
-           (NNS plataformas)
-           (JJ petrolíferas)
+           (NP 
+            (NNS plataformas)
+            (JJ petrolíferas)
+           )
           )
          )
         )
        )
       )
      )
-    )
-    (CONJP 
      ,
-     (CONJP enquanto que)
+     (CC enquanto)
+     (CC que)
      (S 
       (NP 
        (DT a)
@@ -63,6 +64,6 @@
     )
    )
   )
+  .
  )
- .
 )

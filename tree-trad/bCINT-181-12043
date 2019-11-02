@@ -1,1 +1,35 @@
-(S (S (S (S (NP (DT O) (NNS consumo)) (VP (VB foi) (ADJP (RB muito) (JJ grande)))) (S (CC e) (S (NP (DT o) (NNS carro)) (VP (RB não) (VB andava))))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS consumo)
+     )
+     (VP 
+      (VB foi)
+      (ADJP 
+       (RB muito)
+       (JJ grande)
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (NP 
+       (DT o)
+       (NNS carro)
+      )
+      (VP 
+       (RB não)
+       (VB andava)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

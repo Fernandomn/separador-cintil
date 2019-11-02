@@ -1,1 +1,11 @@
-(S (S (VP (VB És) (JJ marado))) !)
+(
+ (S 
+  (S 
+   (VP 
+    (VB És)
+    (JJ marado)
+   )
+  )
+  !
+ )
+)

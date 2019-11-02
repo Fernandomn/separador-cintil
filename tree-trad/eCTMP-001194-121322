@@ -1,1 +1,20 @@
-(S (NP (NP (NNS Fórum) (NNS de) (NNS Arte))) (VP (PP (IN em_) (NP (DT a) (NNS Galiza)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fórum)
+    (NNS de)
+    (NNS Arte)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Galiza)
+    )
+   )
+  )
+ )
+)

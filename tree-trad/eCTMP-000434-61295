@@ -1,1 +1,28 @@
-(S (S (NP (DT Estes) (NNS processos)) (VP (VB ocorreram) (CONJP (S (VP (RB já) (VP (VB há) (NP (PRP alguns) (NNS anos)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+    (NNS processos)
+   )
+   (VP 
+    (VB ocorreram)
+    (CONJP 
+     (S 
+      (VP 
+       (RB já)
+       (VP 
+        (VB há)
+        (NP 
+         (PRP alguns)
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

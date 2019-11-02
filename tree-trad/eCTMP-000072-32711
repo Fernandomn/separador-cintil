@@ -1,1 +1,20 @@
-(S `` (S (S (NP (DT O) (NNS projecto)) (VP (VP (RB não) (VB acaba)) (RB aqui))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS projecto)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB acaba)
+     )
+     (RB aqui)
+    )
+   )
+   .
+  )
+ )
+)

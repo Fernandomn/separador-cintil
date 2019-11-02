@@ -1,1 +1,30 @@
-(S (S (S (VP (VB Chamei) (NP (PRP -te))) (NP (PRP eu))) (CONJP , (S (VP (VB há) (NP (CD dois) (NNS segundos)))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Chamei)
+     (NP 
+      (PRP -te)
+     )
+    )
+    (NP 
+     (PRP eu)
+    )
+   )
+   (CONJP 
+    ,
+    (S 
+     (VP 
+      (VB há)
+      (NP 
+       (CD dois)
+       (NNS segundos)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

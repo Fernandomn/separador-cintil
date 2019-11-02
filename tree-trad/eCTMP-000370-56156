@@ -1,1 +1,22 @@
-(S (NP (NNS Carides)) (VP (VB financiou) (NP (NP (NNS sede) (PP (IN de_) (NP (DT o) (NNS PRD)))))))
+(
+ (S 
+  (NP 
+   (NNS Carides)
+  )
+  (VP 
+   (VB financiou)
+   (NP 
+    (NP 
+     (NNS sede)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS PRD)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,19 @@
-(S (S (NP (PRP Tu)) (VP (VB és) (NP (NP (JJ bom) (NNS rapaz))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tu)
+   )
+   (VP 
+    (VB és)
+    (NP 
+     (NP 
+      (JJ bom)
+      (NNS rapaz)
+     )
+    )
+   )
+  )
+  .
+ )
+)

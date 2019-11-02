@@ -1,1 +1,27 @@
-(S (NP (DT A) (NP (NP '' (NP (NNS riqueza) (JJ humana)) ``) (PP (IN de_) (NP (DT o) (NP (NNS povo) (JJ brasileiro)))))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     ''
+     ''
+     (NP 
+      (NNS riqueza)
+      (JJ humana)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS povo)
+       (JJ brasileiro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

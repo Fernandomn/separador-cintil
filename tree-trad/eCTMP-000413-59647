@@ -1,1 +1,35 @@
-(S (S (NP (NP (ADVP (RB Cerca) (RB de)) (NP (CD 30) (NP (NP (NN por) (NN cento)) (PP (IN de_) (NP (DT o) (NNS capital))))))) (VP (VB está) (JJ disperso))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (ADVP 
+      (RB Cerca)
+      (RB de)
+     )
+     (NP 
+      (CD 30)
+      (NP 
+       (NP 
+        (NN por)
+        (NN cento)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS capital)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB está)
+    (JJ disperso)
+   )
+  )
+  .
+ )
+)

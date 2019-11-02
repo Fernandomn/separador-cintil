@@ -1,1 +1,17 @@
-(S (NP (NNS Roquette)) (VP (VB quer) (NP (DT o) (NP (JJ próximo) (NNS campeonato)))))
+(
+ (S 
+  (NP 
+   (NNS Roquette)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (DT o)
+    (NP 
+     (JJ próximo)
+     (NNS campeonato)
+    )
+   )
+  )
+ )
+)

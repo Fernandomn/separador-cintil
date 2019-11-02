@@ -1,1 +1,17 @@
-(S (NP (NNS Processo)) (VP (VB dá) (NP (DT os) (NP (CD primeiros) (NNS passos)))))
+(
+ (S 
+  (NP 
+   (NNS Processo)
+  )
+  (VP 
+   (VB dá)
+   (NP 
+    (DT os)
+    (NP 
+     (CD primeiros)
+     (NNS passos)
+    )
+   )
+  )
+ )
+)

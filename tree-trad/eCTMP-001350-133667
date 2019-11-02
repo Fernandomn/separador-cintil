@@ -1,1 +1,30 @@
-(S (S (NP (DT O) (NNS método)) (VP (ADVP , (RB portanto) ,) (VP (VP (VB é) (RB essencialmente)) (NP (DT o) (NP (JJ mesmo)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS método)
+   )
+   (VP 
+    (ADVP 
+     ,
+     (RB portanto)
+     ,
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (RB essencialmente)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (JJ mesmo)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

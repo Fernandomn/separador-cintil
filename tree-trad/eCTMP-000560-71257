@@ -1,1 +1,62 @@
-(S (S (NP (NP (NP (NNS Burundi)) (NP (CC e) (NP (NNS Ruanda)))) (CP , (CP (RB onde) (S (NP (NP (JJ novas) (NP (NNS explosões) (PP (IN de) (NP (NP (NNS violência) (JJ étnica))))))) (VP (VP (VB são) (NP (DT uma) (NNS possibilidade)))))) ,)) (VP (VB encerram) (NP (DT a) (NNS digressão)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Burundi)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NNS Ruanda)
+      )
+     )
+    )
+    (CONJP 
+     ,
+     (CONJP 
+      (RB onde)
+      (S 
+       (NP 
+        (NP 
+         (JJ novas)
+         (NP 
+          (NNS explosões)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS violência)
+             (JJ étnica)
+            )
+           )
+          )
+         )
+        )
+       )
+       (VP 
+        (VP 
+         (VB são)
+         (NP 
+          (DT uma)
+          (NNS possibilidade)
+         )
+        )
+       )
+      )
+     )
+     ,
+    )
+   )
+   (VP 
+    (VB encerram)
+    (NP 
+     (DT a)
+     (NNS digressão)
+    )
+   )
+  )
+  .
+ )
+)

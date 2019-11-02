@@ -1,1 +1,47 @@
-(S (S (ADVP (ADVP (ADVP (RB Assim) ,) (PP (CC e) (PP (IN em) (NP (PRP várias) (NNS tranches))))) ,) (S (NP (DT o) (NP (NNS comerciante) (JJ espanhol))) (VP (VB adianta) (NP (NP (CD 38,8) (CD mil)) (NNS contos))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (ADVP 
+      (RB Assim)
+      ,
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN em)
+       (NP 
+        (PRP várias)
+        (NNS tranches)
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS comerciante)
+      (JJ espanhol)
+     )
+    )
+    (VP 
+     (VB adianta)
+     (NP 
+      (NP 
+       (CD 
+        ,
+       )
+       (CD mil)
+      )
+      (NNS contos)
+     )
+    )
+   )
+  )
+  .
+ )
+)

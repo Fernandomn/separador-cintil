@@ -1,1 +1,27 @@
-(S (S (NP (NP (PRP Quem)) (S (VP (VB tiver) (NP (NNS resposta))))) (VP (VB ganhará) (NP (DT o) (NNS país)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VB tiver)
+      (NP 
+       (NNS resposta)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB ganhará)
+    (NP 
+     (DT o)
+     (NNS país)
+    )
+   )
+  )
+  .
+ )
+)

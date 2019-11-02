@@ -1,1 +1,21 @@
-(S (NP (NP (NP (NNS Open) (NNS de_) (NNS os) (NNS Estados) (NNS Unidos)) (PP (IN em) (NP (NNS ténis))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Open)
+     (NNS de_)
+     (NNS os)
+     (NNS Estados)
+     (NNS Unidos)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS ténis)
+     )
+    )
+   )
+  )
+ )
+)

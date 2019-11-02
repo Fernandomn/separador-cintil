@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB embrulhou) (NP (PRP -se))) (PP (IN com) (NP (DT o) (NNS João))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB embrulhou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NNS João)
+     )
+    )
+   )
+  )
+  .
+ )
+)

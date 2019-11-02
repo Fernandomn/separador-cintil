@@ -1,1 +1,28 @@
-(S (NP (NNS Isaltino)) (VP (PP (IN com) (NP (NP (NP '' (NNS lobbies) ``) (PP (IN a_) (NP (DT a) (NNS perna))))))))
+(
+ (S 
+  (NP 
+   (NNS Isaltino)
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NP 
+       ''
+       ''
+       (NNS lobbies)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS perna)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

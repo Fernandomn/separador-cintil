@@ -1,1 +1,24 @@
-(S (NP (NNS Angústia)) (VP (PP (IN entre) (NP (DT os) (NP (NNS pescadores) (PP (IN de) (NP (NNS Aveiro))))))))
+(
+ (S 
+  (NP 
+   (NNS Angústia)
+  )
+  (VP 
+   (PP 
+    (IN entre)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS pescadores)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Aveiro)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

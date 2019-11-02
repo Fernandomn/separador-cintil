@@ -1,1 +1,26 @@
-(S (NP (NNS Sacavém)) (VP (PP (IN com) (NP (NP (JJ novo) (NP (NNS quartel) (PP (IN de) (NP (NNS bombeiros)))))))))
+(
+ (S 
+  (NP 
+   (NNS Sacavém)
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (JJ novo)
+      (NP 
+       (NNS quartel)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS bombeiros)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

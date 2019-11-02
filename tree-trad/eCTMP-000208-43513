@@ -1,1 +1,20 @@
-(S (NP (DT O) (NP (CD último) (NP (NNS salto) (PP (IN para) (NP (DT o) (NNS Coliseu)))))))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CD último)
+    (NP 
+     (NNS salto)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NNS Coliseu)
+      )
+     )
+    )
+   )
+  )
+ )
+)

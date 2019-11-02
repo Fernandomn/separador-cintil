@@ -1,1 +1,32 @@
-(CP `` (CP (CP (CP (INTJ (UH Ah) ,) (S (NP (DT o) (NP (NNS Zé) (NNS Carlos))) (VP (VB foi) (NP (PP$ meu) (NNS irmão))))) !) .))
+(
+ (CONJP 
+  (CONJP 
+   (CONJP 
+    (CONJP 
+     (INTJ 
+      (UH Ah)
+      ,
+     )
+     (S 
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Zé)
+        (NNS Carlos)
+       )
+      )
+      (VP 
+       (VB foi)
+       (NP 
+        (PP meu)
+        (NNS irmão)
+       )
+      )
+     )
+    )
+    !
+   )
+   .
+  )
+ )
+)

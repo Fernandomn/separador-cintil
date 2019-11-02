@@ -1,1 +1,14 @@
-(S (S (VP (VB Vejo) (NP (PRP alguns) (NNS carros)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (PRP alguns)
+     (NNS carros)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,27 @@
-(S (S (PP (PP (IN Com) (NP (DT o) (NNS 3-0))) ,) (S (NP (DT o) (NNS jogo)) (VP (VB estava) (JJ morto)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT o)
+      (NNS 3-0)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS jogo)
+    )
+    (VP 
+     (VB estava)
+     (JJ morto)
+    )
+   )
+  )
+  .
+ )
+)

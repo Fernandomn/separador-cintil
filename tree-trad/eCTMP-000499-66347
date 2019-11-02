@@ -1,1 +1,27 @@
-(S (VP (VP (VB Havia) (PP , (PP (PP (IN além) (IN de_)) (NP (DT isso))) ,)) (NP (DT outra) (NNS coisa))) .)
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Havia)
+    (PP 
+     ,
+     (PP 
+      (PP 
+       (IN além)
+       (IN de_)
+      )
+      (NP 
+       (DT isso)
+      )
+     )
+     ,
+    )
+   )
+   (NP 
+    (DT outra)
+    (NNS coisa)
+   )
+  )
+  .
+ )
+)

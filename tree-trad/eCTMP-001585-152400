@@ -1,1 +1,43 @@
-(S (S (NP (DT A) (NNS França)) (VP (VP (VB é) (PP , (PP (IN entre) (NP (DT os) (NP (JJ grandes) (NNS países)))) ,)) (NP (DT um) (NP (NNS caso) (PP (IN a_) (NP (DT a) (NNS parte))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS França)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (PP 
+      ,
+      (PP 
+       (IN entre)
+       (NP 
+        (DT os)
+        (NP 
+         (JJ grandes)
+         (NNS países)
+        )
+       )
+      )
+      ,
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS caso)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS parte)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

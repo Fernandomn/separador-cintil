@@ -1,1 +1,34 @@
-(S (S (NP (DT O) (NP (NNS programa) (PP (IN de) (NP (NNS visita))))) (VP (VB inclui) (NP (DT uma) (NP (NNS visita) (PP (IN a) (NP (NNS Mértola))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS programa)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS visita)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB inclui)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS visita)
+      (PP 
+       (IN a)
+       (NP 
+        (NNS Mértola)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

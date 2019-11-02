@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS soldadinho)) (VP (VB resvalou) (PP (IN para) (NP (DT um) (NNS esgoto))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS soldadinho)
+   )
+   (VP 
+    (VB resvalou)
+    (PP 
+     (IN para)
+     (NP 
+      (DT um)
+      (NNS esgoto)
+     )
+    )
+   )
+  )
+  .
+ )
+)

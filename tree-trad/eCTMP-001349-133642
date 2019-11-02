@@ -1,1 +1,35 @@
-(S (S (NP (DT Este)) (VP (VB ficou) (ADVP (RB dentro) (PP (IN de_) (NP (DT as) (NP (NNS paredes) (PP (IN de_) (NP (DT a) (NP (NNS Casa) (NNS Branca)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VB ficou)
+    (ADVP 
+     (RB dentro)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS paredes)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS Casa)
+           (NNS Branca)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

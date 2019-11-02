@@ -1,1 +1,13 @@
-(S (NP (NNS Baía)) (VP (VB recupera) (NP (NNS credibilidade))))
+(
+ (S 
+  (NP 
+   (NNS Baía)
+  )
+  (VP 
+   (VB recupera)
+   (NP 
+    (NNS credibilidade)
+   )
+  )
+ )
+)

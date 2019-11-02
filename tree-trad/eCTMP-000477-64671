@@ -1,1 +1,20 @@
-(S (RB Só) (S (NP (DT o) (NP (NNS medo) (PP (IN de_) (NP (DT a) (NNS morte)))))))
+(
+ (S 
+  (RB Só)
+  (S 
+   (NP 
+    (DT o)
+    (NP 
+     (NNS medo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS morte)
+      )
+     )
+    )
+   )
+  )
+ )
+)

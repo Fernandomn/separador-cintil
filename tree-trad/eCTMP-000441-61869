@@ -1,1 +1,21 @@
-(S (NP (NNS Baker)) (VP (VB ultima) (NP (NP (NNS conferência) (PP (IN de) (NP (NNS paz)))))))
+(
+ (S 
+  (NP 
+   (NNS Baker)
+  )
+  (VP 
+   (VB ultima)
+   (NP 
+    (NP 
+     (NNS conferência)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS paz)
+      )
+     )
+    )
+   )
+  )
+ )
+)

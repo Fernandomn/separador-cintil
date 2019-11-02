@@ -1,1 +1,68 @@
-(S (S (PP (PP (IN Segundo) (NP (PRP ele))) ,) (S (NP (NP (NP (PRP quem)) (S (VP (RB já) (VP (VP (VB vá) (PP (IN a_) (NP (DT a) (NNS frente)))) (PP (IN em_) (NP (DT a) (NP (NNS Varanda) (NNS de_) (NNS os) (NNS Carqueijais)))))))) ,) (VP (VP (VB chega) (RB primeiro)) (PP (IN a_) (NP (DT o) (NNS cume)))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Segundo)
+     (NP 
+      (PRP ele)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (NP 
+      (NP 
+       (PRP quem)
+      )
+      (S 
+       (VP 
+        (RB já)
+        (VP 
+         (VP 
+          (VB vá)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT a)
+            (NNS frente)
+           )
+          )
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS Varanda)
+            (NNS de_)
+            (NNS os)
+            (NNS Carqueijais)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     ,
+    )
+    (VP 
+     (VP 
+      (VB chega)
+      (RB primeiro)
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS cume)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

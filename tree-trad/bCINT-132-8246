@@ -1,1 +1,19 @@
-(S `` (S (S (NP (PRP Eles)) (VP (VB erraram) (NP (DT o) (NNS endereço)))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eles)
+    )
+    (VP 
+     (VB erraram)
+     (NP 
+      (DT o)
+      (NNS endereço)
+     )
+    )
+   )
+   .
+  )
+ )
+)

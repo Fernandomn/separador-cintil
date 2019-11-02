@@ -1,1 +1,33 @@
-(S (S (VP (VP (VB Sabe) (RB apenas)) (CP (CC que) (S (VP (VP (NP (PRP se)) (VB trata)) (PP (IN de_) (NP (DT o) (NNS USK)))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Sabe)
+     (RB apenas)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB trata)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS USK)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

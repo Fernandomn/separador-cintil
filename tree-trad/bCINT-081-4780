@@ -1,1 +1,42 @@
-(S (S (NP (NP (NNS Alfred) (NNS Hitchcock) (NNS Apresenta))) (VP (RB também) (VP (VB vai) (VP (VP (VP (VB ser) (VB transmitido)) (RB diariamente)) (ADVP , (ADVP (RB depois) (PP (IN de_) (NP (DT a) (NNS meia-noite))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Alfred)
+     (NNS Hitchcock)
+     (NNS Apresenta)
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VB vai)
+     (VP 
+      (VP 
+       (VP 
+        (VB ser)
+        (VB transmitido)
+       )
+       (RB diariamente)
+      )
+      (ADVP 
+       ,
+       (ADVP 
+        (RB depois)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS meia-noite)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,20 @@
-(S (NP (NP (NNS Maria) (NNS Ermelinda) (NNS Pedrosa)) ,) (VP (PP (IN em) (NP (NNS Bona)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Maria)
+    (NNS Ermelinda)
+    (NNS Pedrosa)
+   )
+   ,
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Bona)
+    )
+   )
+  )
+ )
+)

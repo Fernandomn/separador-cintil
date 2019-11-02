@@ -1,1 +1,31 @@
-(S (NP (NNS PSD)) (VP (VB quer) (NP '' (NP (DT a) (NP (NP (NNS cabeça) ``) (PP (IN de) (NP (NP (NNS Edite) (NNS Estrela)))))))))
+(
+ (S 
+  (NP 
+   (NNS PSD)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    ''
+    ''
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS cabeça)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Edite)
+         (NNS Estrela)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

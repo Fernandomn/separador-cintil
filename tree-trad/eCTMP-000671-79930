@@ -1,1 +1,38 @@
-(S (S (NP (DT O) (NNS TEUC)) (VP (VB estreia) (NP (NP (NP '' (NP (NNS India) (NNS Song)) ``) (PP , (PP (IN de) (NP (NP (NNS Marguerite) (NNS Duras))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS TEUC)
+   )
+   (VP 
+    (VB estreia)
+    (NP 
+     (NP 
+      (NP 
+       ''
+       ''
+       (NP 
+        (NNS India)
+        (NNS Song)
+       )
+      )
+      (PP 
+       ,
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Marguerite)
+          (NNS Duras)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

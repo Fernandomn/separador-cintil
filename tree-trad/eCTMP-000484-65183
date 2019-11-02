@@ -1,1 +1,38 @@
-(S (S (VP (ADVP (ADVP (RB Mais) (RB adiante)) ,) (VP (VB depara) (PP (IN com) (NP (DT um) (NP (NNS carro) (ADJP (VB estacionado) (PP (IN em_) (NP (DT a) (NNS berma)))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (ADVP 
+      (RB Mais)
+      (RB adiante)
+     )
+     ,
+    )
+    (VP 
+     (VB depara)
+     (PP 
+      (IN com)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS carro)
+        (ADJP 
+         (VB estacionado)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NNS berma)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

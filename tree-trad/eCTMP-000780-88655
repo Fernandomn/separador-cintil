@@ -1,1 +1,26 @@
-(S (NP (NP (NNS Suspeito) (PP (IN de) (NP (NNS homicídio))))) (VP (VP (VB preso)) (PP (IN em) (NP (NNS Mirandela)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Suspeito)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS homicídio)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB preso)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Mirandela)
+    )
+   )
+  )
+ )
+)

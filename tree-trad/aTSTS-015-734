@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB destaca) (NP (PRP -se))) (PP (IN entre) (NP (DT os) (NNS alunos))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB destaca)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (DT os)
+      (NNS alunos)
+     )
+    )
+   )
+  )
+  .
+ )
+)

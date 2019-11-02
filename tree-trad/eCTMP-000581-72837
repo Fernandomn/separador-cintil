@@ -1,1 +1,32 @@
-(S (S (NP (DT A) (NNS observação)) (VP (VP (VB é) (VB comentada)) (PP (IN em_) (NP (DT uma) (NP (NNS nota) (PP (IN de) (NP (NNS Tchernaiev)))))))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS observação)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (VB comentada)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS nota)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Tchernaiev)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

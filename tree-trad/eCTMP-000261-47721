@@ -1,1 +1,55 @@
-(S (S (S (PP (PP (IN De) (NP (PRP qualquer) (NP (PP (IN de_) (NP (DT as) (NNS formas)))))) ,) (S (NP (NNS Hunter)) (VP (VB sublinhou) (CP (CC que) (S (NP (DT a) (NNS apoplexia)) (VP (VP (VB foi) (ADVP '' (RB absolutamente))) (JJ inesperada))))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN De)
+      (NP 
+       (PRP qualquer)
+       (NP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS formas)
+         )
+        )
+       )
+      )
+     )
+     ,
+    )
+    (S 
+     (NP 
+      (NNS Hunter)
+     )
+     (VP 
+      (VB sublinhou)
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT a)
+         (NNS apoplexia)
+        )
+        (VP 
+         (VP 
+          (VB foi)
+          (ADVP 
+           ''
+           ''
+           (RB absolutamente)
+          )
+         )
+         (JJ inesperada)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

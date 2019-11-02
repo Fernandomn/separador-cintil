@@ -1,1 +1,24 @@
-(S (S (NP (DT As) (NNS coisas)) (VP (VP (RB não) (VB são)) (ADJP (JJ brancas) (ADJP (CC ou) (JJ pretas))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS coisas)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB são)
+    )
+    (ADJP 
+     (JJ brancas)
+     (ADJP 
+      (CC ou)
+      (JJ pretas)
+     )
+    )
+   )
+  )
+  .
+ )
+)

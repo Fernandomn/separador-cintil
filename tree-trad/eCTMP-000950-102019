@@ -1,1 +1,24 @@
-(S (S (VP (VP (VB É) (RB apenas)) (NP (DT a) (NP (PP$ sua) (NP (NNS Secretaria) (NNS de) (NNS Estado)))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (RB apenas)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (PP sua)
+      (NP 
+       (NNS Secretaria)
+       (NNS de)
+       (NNS Estado)
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

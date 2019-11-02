@@ -1,1 +1,21 @@
-(S (S (S (VP (VP (VB Foi) (VB dispensado)) (PP (IN por) (NP (NNS incompetência))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB Foi)
+      (VB dispensado)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (NNS incompetência)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,17 @@
-(S (NP (NP (NNS Provedor) (NNS de) (NNS Justiça))) (VP (VB mantém) (NP (NNS exigências))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Provedor)
+    (NNS de)
+    (NNS Justiça)
+   )
+  )
+  (VP 
+   (VB mantém)
+   (NP 
+    (NNS exigências)
+   )
+  )
+ )
+)

@@ -1,1 +1,22 @@
-(S (NP (NP (NP (NNS Campo) (NNS de_) (NNS os) (NNS Mártires) (NNS de_) (NNS a) (NNS Pátria)) ,) (NP (CD 101))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Campo)
+     (NNS de_)
+     (NNS os)
+     (NNS Mártires)
+     (NNS de_)
+     (NNS a)
+     (NNS Pátria)
+    )
+    ,
+   )
+   (NP 
+    (CD 101)
+   )
+  )
+  .
+ )
+)

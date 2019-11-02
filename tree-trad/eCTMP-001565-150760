@@ -1,1 +1,35 @@
-(CP (CP (CP (ADVP (RB Não) ,) (S (VP (RB já) (VP (VP (RB não) (VB temos)) (NP (NP (NNS lugar) (PP (IN para) (NP (PRP si))))))))) .) ``)
+(
+ (CONJP 
+  (CONJP 
+   (CONJP 
+    (ADVP 
+     (RB Não)
+     ,
+    )
+    (S 
+     (VP 
+      (RB já)
+      (VP 
+       (VP 
+        (RB não)
+        (VB temos)
+       )
+       (NP 
+        (NP 
+         (NNS lugar)
+         (PP 
+          (IN para)
+          (NP 
+           (PRP si)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

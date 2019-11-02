@@ -1,1 +1,23 @@
-(S (S (VP (ADVP (RB Ontem) ,) (VP (VB recuperou) (NP (NP (RB apenas) (CD 28)) (NNS segundos))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Ontem)
+     ,
+    )
+    (VP 
+     (VB recuperou)
+     (NP 
+      (NP 
+       (RB apenas)
+       (CD 28)
+      )
+      (NNS segundos)
+     )
+    )
+   )
+  )
+  .
+ )
+)

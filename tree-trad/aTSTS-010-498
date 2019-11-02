@@ -1,1 +1,16 @@
-(S (S (VP (VB Vejo) (NP (NP (NNS carros) (JJ brancos))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (NP 
+      (NNS carros)
+      (JJ brancos)
+     )
+    )
+   )
+  )
+  .
+ )
+)

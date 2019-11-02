@@ -1,1 +1,22 @@
-(S (NP (NNS Moita)) (VP (VB aprovou) (NP (NP (NNS adesão) (PP (IN a_) (NP (DT o) (NNS PER)))))))
+(
+ (S 
+  (NP 
+   (NNS Moita)
+  )
+  (VP 
+   (VB aprovou)
+   (NP 
+    (NP 
+     (NNS adesão)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS PER)
+      )
+     )
+    )
+   )
+  )
+ )
+)

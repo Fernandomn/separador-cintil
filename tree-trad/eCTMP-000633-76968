@@ -1,1 +1,33 @@
-(S (S (ADVP (ADVP (RB Para) (RB já)) ,) (S (NP (DT a) (NP (NNS independência) (PP (IN de_) (NP (DT a) (NNS província))))) (VP (VB está) (JJ excluída)))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Para)
+     (RB já)
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS independência)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS província)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB está)
+     (JJ excluída)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,31 @@
-(S (S (VP (RB Mesmo) (VP (VB sabendo) (CP (CC que) (S (VP (RB ainda) (VP (VB são) (NP (PRP muitos)))) (NP (DT os) (NNS indecisos))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Mesmo)
+    (VP 
+     (VB sabendo)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (RB ainda)
+        (VP 
+         (VB são)
+         (NP 
+          (PRP muitos)
+         )
+        )
+       )
+       (NP 
+        (DT os)
+        (NNS indecisos)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,13 @@
-(S (NP (NNS Câmara)) (VP (VB compra) (NP (NNS cine-teatro))))
+(
+ (S 
+  (NP 
+   (NNS Câmara)
+  )
+  (VP 
+   (VB compra)
+   (NP 
+    (NNS cine-teatro)
+   )
+  )
+ )
+)

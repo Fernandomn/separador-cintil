@@ -1,1 +1,26 @@
-(S (NP (NP (NNS Fábrica) (PP (IN de) (NP (NP (NNS papel) (JJ reciclado)))))) (VP (PP (IN sob) (NP (NNS suspeita)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Fábrica)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS papel)
+       (JJ reciclado)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN sob)
+    (NP 
+     (NNS suspeita)
+    )
+   )
+  )
+ )
+)

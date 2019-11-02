@@ -1,1 +1,23 @@
-(S (NP (NP (NNS Bomba) (JJ polémica))) (VP (PP (IN em) (NP (NP (NNS Vila) (NNS de_) (NNS o) (NNS Conde))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Bomba)
+    (JJ polémica)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS Vila)
+      (NNS de_)
+      (NNS o)
+      (NNS Conde)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,26 @@
-(S (S (PP (PP (IN Entre) (NP (DT outros) (NNS pontos))) ,) (S (NP (NP (NNS Miguel) (NNS Beleza))) (VB considerou))) :)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (DT outros)
+      (NNS pontos)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (NP 
+      (NNS Miguel)
+      (NNS Beleza)
+     )
+    )
+    (VB considerou)
+   )
+  )
+  :
+ )
+)

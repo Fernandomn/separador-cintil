@@ -1,1 +1,26 @@
-(S (NP (NP (NNS Exército) (JJ muçulmano))) (VP (VB anuncia) (NP '' (NP (NNS guerra) (PP (IN de) (NP (NNS libertação)))) ``)))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Exército)
+    (JJ muçulmano)
+   )
+  )
+  (VP 
+   (VB anuncia)
+   (NP 
+    ''
+    ''
+    (NP 
+     (NNS guerra)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS libertação)
+      )
+     )
+    )
+   )
+  )
+ )
+)

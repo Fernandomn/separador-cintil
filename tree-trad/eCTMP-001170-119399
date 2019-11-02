@@ -1,1 +1,39 @@
-(S (S (NP (NNS Taslima)) (VP (VP (VP (RB não) (VB era)) (ADVP , (RB afinal) ,)) (NP (DT o) (NP (NP (NNS Rushdie) (JJ feminino)) (PP (IN de_) (NP (DT o) (NNS Bangladesh))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Taslima)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB era)
+     )
+     (ADVP 
+      ,
+      (RB afinal)
+      ,
+     )
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS Rushdie)
+       (JJ feminino)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Bangladesh)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

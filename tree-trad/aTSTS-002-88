@@ -1,23 +1,25 @@
-(S 
+(
  (S 
-  (NP 
-   (DT o)
-   (NNS Manuel)
-  )
-  (VP 
-   (VB mora)
-   (ADVP 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB mora)
     (ADVP 
-     (RB mais)
-     (RB perto)
-    )
-    (CONJP de_ o que)
-    (NP 
-     (DT A)
-     (NNS Maria)
+     (ADVP 
+      (RB mais)
+      (RB perto)
+     )
+     (CONJP de_ o que)
+     (NP 
+      (DT A)
+      (NNS Maria)
+     )
     )
    )
   )
+  .
  )
- .
 )

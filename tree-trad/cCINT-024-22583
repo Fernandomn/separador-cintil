@@ -1,1 +1,36 @@
-(S (S (S (NP (PRP Ela)) (VP (VB fez) (NP (DT um) (NP (NNS sorriso) (PP (IN de) (NP (NNS desdém))))))) (S (CC e) (S (VP (RB apenas) (VB disse))))) :)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Ela)
+    )
+    (VP 
+     (VB fez)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS sorriso)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS desdém)
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB apenas)
+      (VB disse)
+     )
+    )
+   )
+  )
+  :
+ )
+)

@@ -1,1 +1,30 @@
-(S (S (NP (DT Os) (NP (NNS projectos) (PP (IN de_) (NP (DT os) (NNS estudantes))))) (VP (VP (RB não) (VB ficam)) (PP (IN por) (RB aqui)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS projectos)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS estudantes)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB ficam)
+    )
+    (PP 
+     (IN por)
+     (RB aqui)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,17 @@
-(S (NP (DT A) (NP (NP (JJ mimosa)) (NP (NNS Maria) (NNS de) (NNS Belém)))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (JJ mimosa)
+    )
+    (NP 
+     (NNS Maria)
+     (NNS de)
+     (NNS Belém)
+    )
+   )
+  )
+ )
+)

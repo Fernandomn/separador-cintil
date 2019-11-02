@@ -1,64 +1,67 @@
-(S 
+(
  (S 
-  (PP 
+  (S 
    (PP 
     (PP 
      (PP 
-      (IN Em_)
-      (NP 
+      (PP 
+       (IN Em_)
        (NP 
         (NP 
          (NP 
           (NP 
-           (DT os)
            (NP 
-            (NNS Estados)
-            (NNS Unidos)
+            (DT os)
+            (NP 
+             (NNS Estados)
+             (NNS Unidos)
+            )
            )
+           ,
           )
-          ,
+          (NP 
+           (NNS Canadá)
+          )
          )
-         (NP 
-          (NNS Canadá)
-         )
+         ,
         )
-        ,
-       )
-       (NP 
-        (NNS Austrália)
-       )
-      )
-     )
-     ,
-    )
-    (PP 
-     (CONJP assim como)
-     (PP 
-      (IN em_)
-      (NP 
-       (NP 
-        (DT a)
-        (NNS Grã-Bretanha)
-       )
-       (NP 
-        (CC e)
         (NP 
-         (NNS Suécia)
+         (NNS Austrália)
+        )
+       )
+      )
+      ,
+     )
+     (PP 
+      (CC assim)
+      (CC como)
+      (PP 
+       (IN em_)
+       (NP 
+        (NP 
+         (DT a)
+         (NNS Grã-Bretanha)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS Suécia)
+         )
         )
        )
       )
      )
     )
+    ,
    )
-   ,
-  )
-  (S 
-   (NP 
-    (DT o)
-    (NNS desemprego)
+   (S 
+    (NP 
+     (DT o)
+     (NNS desemprego)
+    )
+    (VB baixou)
    )
-   (VB baixou)
   )
+  .
  )
- .
 )

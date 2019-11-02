@@ -1,63 +1,65 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT Isto)
-   )
-  )
-  (CONJP porque ,)
-  (S 
-   ''
-   ''
    (S 
     (NP 
-     (DT a)
-     (NNS Europa)
+     (DT Isto)
     )
-    (VP 
-     (PP 
-      (PP 
-       (PP 
-        (IN para)
-        (IN além)
-        (IN de_)
-       )
-       (NP 
-        (DT a)
-        (NP 
-         (NNS dimensão)
-         (JJ económica)
-        )
-       )
-      )
-      ,
+   )
+   (CONJP porque ,)
+   (S 
+    ''
+    ''
+    (S 
+     (NP 
+      (DT a)
+      (NNS Europa)
      )
      (VP 
-      (VB tem)
       (PP 
-       (IN de)
-       (VP 
-        (VB ter)
+       (PP 
+        (PP 
+         (IN para)
+         (IN além)
+         (IN de_)
+        )
         (NP 
+         (DT a)
          (NP 
-          (DT uma)
-          (NP 
-           (NNS dimensão)
-           (PP 
-            (IN de)
-            (NP 
-             (NNS cidadania)
-            )
-           )
-          )
+          (NNS dimensão)
+          (JJ económica)
          )
+        )
+       )
+       ,
+      )
+      (VP 
+       (VB tem)
+       (PP 
+        (IN de)
+        (VP 
+         (VB ter)
          (NP 
-          (CC e)
           (NP 
            (DT uma)
            (NP 
             (NNS dimensão)
-            (JJ social)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS cidadania)
+             )
+            )
+           )
+          )
+          (NP 
+           (CC e)
+           (NP 
+            (DT uma)
+            (NP 
+             (NNS dimensão)
+             (JJ social)
+            )
            )
           )
          )
@@ -68,6 +70,6 @@
     )
    )
   )
+  .
  )
- .
 )

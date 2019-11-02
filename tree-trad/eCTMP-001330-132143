@@ -1,1 +1,18 @@
-(S (S (VP (ADVP (RB A) (RB seguir)) (VB vieram)) (NP (DT os) (NNS telefones))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB A)
+     (RB seguir)
+    )
+    (VB vieram)
+   )
+   (NP 
+    (DT os)
+    (NNS telefones)
+   )
+  )
+  .
+ )
+)

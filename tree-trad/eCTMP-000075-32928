@@ -1,1 +1,20 @@
-(S (S (VP (VP (RB Não) (VB é)) (NP (DT um) (NP (NNS disco) (JJ fácil))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB é)
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS disco)
+      (JJ fácil)
+     )
+    )
+   )
+  )
+  .
+ )
+)

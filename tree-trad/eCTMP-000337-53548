@@ -1,1 +1,23 @@
-(S (NP (NNS PCP-Coimbra)) (VP (PP (IN em) (NP (NP (NNS vésperas) (PP (IN de) (NP (NNS congresso))))))))
+(
+ (S 
+  (NP 
+   (NNS PCP-Coimbra)
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS vésperas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS congresso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

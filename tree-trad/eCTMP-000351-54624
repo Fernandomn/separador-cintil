@@ -1,1 +1,29 @@
-(S (NP (NP (NP (NNS B.R.) ,) (PP (IN com) (NP (NP (NNS Reuters)) (NP (CC e) (NP (NNS AFP))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS 
+      .
+      .
+     )
+     ,
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS Reuters)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS AFP)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

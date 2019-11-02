@@ -1,1 +1,21 @@
-(S '' (S (NP (PRP Eu)) (VP (VP (RB não) (VB sou)) (NP (DT o) (NNS monstro)))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB sou)
+    )
+    (NP 
+     (DT o)
+     (NNS monstro)
+    )
+   )
+  )
+ )
+)

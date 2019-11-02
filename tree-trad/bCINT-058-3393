@@ -1,1 +1,18 @@
-(S (NP (NP (NNS Gomes) (NNS de_) (NNS a) (NNS Silva))) (VP (VB defende) (NP (NNS dique))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Gomes)
+    (NNS de_)
+    (NNS a)
+    (NNS Silva)
+   )
+  )
+  (VP 
+   (VB defende)
+   (NP 
+    (NNS dique)
+   )
+  )
+ )
+)

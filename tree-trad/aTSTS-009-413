@@ -1,1 +1,12 @@
-(S (S (VB Chegou) (NP (PRP algum) (NNS computador))) .)
+(
+ (S 
+  (S 
+   (VB Chegou)
+   (NP 
+    (PRP algum)
+    (NNS computador)
+   )
+  )
+  .
+ )
+)

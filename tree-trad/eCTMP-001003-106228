@@ -1,1 +1,23 @@
-(S (S (VP (VB Foi) (NP (DT uma) (NP (NNS aposta) (PP (IN de_) (NP (DT a) (NNS NBC))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS aposta)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS NBC)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

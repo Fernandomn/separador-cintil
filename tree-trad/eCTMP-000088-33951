@@ -1,1 +1,35 @@
-(S (S (NP (DT A) (NNS autópsia)) (VP (VP (VP (VB será) (RB hoje)) (VB realizada)) (PP (IN em_) (NP (DT o) (NP (NNS Instituto) (NNS de) (NNS Medicina) (NNS Legal) (NNS de_) (NNS o) (NNS Porto)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS autópsia)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB será)
+      (RB hoje)
+     )
+     (VB realizada)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Instituto)
+       (NNS de)
+       (NNS Medicina)
+       (NNS Legal)
+       (NNS de_)
+       (NNS o)
+       (NNS Porto)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

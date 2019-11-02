@@ -1,1 +1,26 @@
-(S (NP (NP (NNS Medalha) (PP (IN de) (NP (NNS prata))))) (VP (PP (IN para) (NP (NP (NNS José) (NNS Luna))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Medalha)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS prata)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (NNS José)
+      (NNS Luna)
+     )
+    )
+   )
+  )
+ )
+)

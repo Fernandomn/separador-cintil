@@ -1,1 +1,17 @@
-(S (NP (NP (PRP Eles)) (NP (CC e) (NP (DT os) (NNS Clash)))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (PRP Eles)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (DT os)
+     (NNS Clash)
+    )
+   )
+  )
+  .
+ )
+)

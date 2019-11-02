@@ -1,1 +1,19 @@
-(S '' (S (NP (NP (NNS Lei) (NNS de) (NNS Bases))) (VP (VB é) (JJ fundamental))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (NP 
+    (NP 
+     (NNS Lei)
+     (NNS de)
+     (NNS Bases)
+    )
+   )
+   (VP 
+    (VB é)
+    (JJ fundamental)
+   )
+  )
+ )
+)

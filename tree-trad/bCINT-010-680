@@ -1,1 +1,16 @@
-(S (NP (NNS Fotografias)) (VP (VP (RB não) (VB revelam)) (NP (NNS autor))))
+(
+ (S 
+  (NP 
+   (NNS Fotografias)
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB revelam)
+   )
+   (NP 
+    (NNS autor)
+   )
+  )
+ )
+)

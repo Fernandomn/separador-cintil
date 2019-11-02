@@ -1,1 +1,49 @@
-(S (S (VP (VB É) (NP (NP (NP (NP (NP (NP (DT o) (NNS trabalho)) (NP , (NP (DT a) (NNS bola)))) ,) (NP (DT o) (NP (NNS fato) (PP (IN de) (NP (NNS treino)))))) ,) (NP (DT os) (NNS golos))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NP 
+          (DT o)
+          (NNS trabalho)
+         )
+         (NP 
+          ,
+          (NP 
+           (DT a)
+           (NNS bola)
+          )
+         )
+        )
+        ,
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS fato)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS treino)
+          )
+         )
+        )
+       )
+      )
+      ,
+     )
+     (NP 
+      (DT os)
+      (NNS golos)
+     )
+    )
+   )
+  )
+  .
+ )
+)

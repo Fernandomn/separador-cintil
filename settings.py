@@ -27,7 +27,7 @@ def init():
     conjPTag = 'CONJP'
     CTag = 'CC'
     CPBarTag = '_CP_'
-    CPTag = 'CP'
+    CPTag = 'CONJP'
     pointTag = 'PNT'
     removeTag = '_TOREMOVE_'
     # eofTag = 'EOE'

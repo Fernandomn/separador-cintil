@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Líder) (PP (IN de_) (NP (DT o) (NNS PSD))))) (VP (VB muda) (NP (NNS discurso))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Líder)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS PSD)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB muda)
+   (NP 
+    (NNS discurso)
+   )
+  )
+ )
+)

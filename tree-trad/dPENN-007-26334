@@ -1,1 +1,36 @@
-(S (S (NP (DT A) (NNS CIA)) (VP (VP (VB disse) (NP (PRP -lhe))) (CP (CC que) (S (VP (VP (RB não) (VB fazia)) (NP (NP (NNS contra-espionagem) (JJ doméstica)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS CIA)
+   )
+   (VP 
+    (VP 
+     (VB disse)
+     (NP 
+      (PRP -lhe)
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB fazia)
+       )
+       (NP 
+        (NP 
+         (NNS contra-espionagem)
+         (JJ doméstica)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

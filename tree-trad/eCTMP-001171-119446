@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pepetela)) (VP (VP (VB sentiu) (NP (DT isso))) (PP (IN em_) (NP (DT a) (NNS pele))))) ?)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pepetela)
+   )
+   (VP 
+    (VP 
+     (VB sentiu)
+     (NP 
+      (DT isso)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS pele)
+     )
+    )
+   )
+  )
+  ?
+ )
+)

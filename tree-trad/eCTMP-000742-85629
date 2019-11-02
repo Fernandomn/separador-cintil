@@ -1,1 +1,24 @@
-(S (NP (NNS Alice)) (VP (PP (IN em_) (NP (DT as) (NP (NNS ruínas) (PP (IN de) (NP (NNS Montemor))))))))
+(
+ (S 
+  (NP 
+   (NNS Alice)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS ruínas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Montemor)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

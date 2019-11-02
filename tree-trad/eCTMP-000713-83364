@@ -1,1 +1,26 @@
-(S (S (NP (DT As) (NNS promessas)) (VP (VP (VB são) (VB cumpridas)) (PP (RB invariavelmente) (PP (IN de) (NP (NNS joelhos)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS promessas)
+   )
+   (VP 
+    (VP 
+     (VB são)
+     (VB cumpridas)
+    )
+    (PP 
+     (RB invariavelmente)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS joelhos)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

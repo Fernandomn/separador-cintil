@@ -1,1 +1,22 @@
-(S (NP (NNS DDT)) (VP (VP (JJ mau)) (PP (IN para) (NP (DT o) (NP (NNS sexo) (JJ masculino))))))
+(
+ (S 
+  (NP 
+   (NNS DDT)
+  )
+  (VP 
+   (VP 
+    (JJ mau)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS sexo)
+      (JJ masculino)
+     )
+    )
+   )
+  )
+ )
+)

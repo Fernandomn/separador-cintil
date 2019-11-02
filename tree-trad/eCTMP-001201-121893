@@ -1,1 +1,25 @@
-(S (S (VP (VP (RB Não) (VB assinala)) (NP (DT as) (NP (NNS mudanças) (PP (IN de) (NP (NNS direcção))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB assinala)
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NNS mudanças)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS direcção)
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

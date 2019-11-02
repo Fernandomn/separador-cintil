@@ -1,1 +1,20 @@
-(S (NP (NP (NP (NNS Taça) (NNS de_) (NNS o) (NNS Mundo)) (PP (IN em) (NP (NNS golfe))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Taça)
+     (NNS de_)
+     (NNS o)
+     (NNS Mundo)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS golfe)
+     )
+    )
+   )
+  )
+ )
+)

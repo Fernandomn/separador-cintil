@@ -1,1 +1,17 @@
-(S (NP (NNS Culturporto)) (VP (VB vai) (VP (VB gerir) (NP (DT o) (NNS Rivoli)))))
+(
+ (S 
+  (NP 
+   (NNS Culturporto)
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB gerir)
+    (NP 
+     (DT o)
+     (NNS Rivoli)
+    )
+   )
+  )
+ )
+)

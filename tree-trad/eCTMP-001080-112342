@@ -1,1 +1,37 @@
-(S (NP '' (NP (NNS Violência) (PP (IN a_) (NP (DT a) (NP (JJ americana))))) ``) (VP (PP (IN em_) (NP (DT as) (NP (NNS ruas) (PP (IN de) (NP (NNS Paris))))))))
+(
+ (S 
+  (NP 
+   ''
+   ''
+   (NP 
+    (NNS Violência)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (JJ americana)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NP 
+      (NNS ruas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Paris)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

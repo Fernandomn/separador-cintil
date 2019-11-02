@@ -1,1 +1,41 @@
-(S (S (NP (DT Um) (NP (JJ alegado) (NP (NNS efeito) (JJ secundário)))) (S (VP (VB é)) (NP (DT o) (NP (JJ ligeiro) (NP (NNS aumento) (PP (IN de) (NP (DT uma) (NP (NNS hormona) (JJ cerebral))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (JJ alegado)
+     (NP 
+      (NNS efeito)
+      (JJ secundário)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (JJ ligeiro)
+      (NP 
+       (NNS aumento)
+       (PP 
+        (IN de)
+        (NP 
+         (DT uma)
+         (NP 
+          (NNS hormona)
+          (JJ cerebral)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

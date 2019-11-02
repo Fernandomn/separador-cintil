@@ -1,1 +1,33 @@
-(S (NP (DT Uma) (NP (NP (NNS fase) (JJ transitória)) (PP (IN de_) (NP (DT a) (NP (NNS normalização) (PP (IN de_) (NP (DT o) (NP (NNS accionista) (NNS PT))))))))) .)
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NP 
+     (NNS fase)
+     (JJ transitória)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS normalização)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS accionista)
+          (NNS PT)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

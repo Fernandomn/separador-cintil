@@ -1,1 +1,25 @@
-(S (S (VP (VB Escrevemos) (NP (NP (NNS romances) (ADJP (RB tão) (ADJP (JJ densos) (ADJP (CC e) (JJ chatos)))))))) !)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Escrevemos)
+    (NP 
+     (NP 
+      (NNS romances)
+      (ADJP 
+       (RB tão)
+       (ADJP 
+        (JJ densos)
+        (ADJP 
+         (CC e)
+         (JJ chatos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  !
+ )
+)

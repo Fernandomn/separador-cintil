@@ -1,1 +1,20 @@
-(S (NP (NNS Congresso)) (VP (VB discutiu) (NP (DT os) (NP (CD próximos) (NP (CD quatro) (NNS anos))))))
+(
+ (S 
+  (NP 
+   (NNS Congresso)
+  )
+  (VP 
+   (VB discutiu)
+   (NP 
+    (DT os)
+    (NP 
+     (CD próximos)
+     (NP 
+      (CD quatro)
+      (NNS anos)
+     )
+    )
+   )
+  )
+ )
+)

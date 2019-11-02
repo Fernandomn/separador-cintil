@@ -1,1 +1,12 @@
-(S (S (NP (DT O) (NNS Rui)) (VB sorriu)) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Rui)
+   )
+   (VB sorriu)
+  )
+  :
+ )
+)

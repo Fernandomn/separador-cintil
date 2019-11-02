@@ -1,1 +1,37 @@
-(S (NP (NP (NNS Seminário) (PP (IN em_) (NP (DT o) (NP (NNS Convento) (NNS de_) (NNS a) (NNS Arrábida)))))) (VP (VB discute) (NP (DT o) (NP (NNS jornalista) (PP (IN de_) (NP (DT o) (NNS futuro)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Seminário)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS Convento)
+       (NNS de_)
+       (NNS a)
+       (NNS Arrábida)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB discute)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS jornalista)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS futuro)
+      )
+     )
+    )
+   )
+  )
+ )
+)

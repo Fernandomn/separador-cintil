@@ -1,1 +1,45 @@
-(S (S (PP (IN Para) (RB trás)) (S (VP (VB ficam)) (NP (DT os) (NP (NNS falhanços) (PP (PP (IN em_) (NP (DT o) (NNS Europeu-92))) (PP (CC e) (PP (IN em_) (NP (DT o) (NP (NNS Benfica-94) (NNS /) (NNS 96)))))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (RB trás)
+   )
+   (S 
+    (VP 
+     (VB ficam)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS falhanços)
+      (PP 
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS Europeu-92)
+        )
+       )
+       (PP 
+        (CC e)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS Benfica-94)
+           (NNS /)
+           (NNS 96)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

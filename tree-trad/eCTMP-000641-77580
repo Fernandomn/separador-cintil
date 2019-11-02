@@ -1,1 +1,22 @@
-(S (VP (VB Superados)) (NP (NP (NP (NNS problemas) (JJ iniciais)) (PP (IN de_) (NP (DT a) (NNS missão))))))
+(
+ (S 
+  (VP 
+   (VB Superados)
+  )
+  (NP 
+   (NP 
+    (NP 
+     (NNS problemas)
+     (JJ iniciais)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS missão)
+     )
+    )
+   )
+  )
+ )
+)

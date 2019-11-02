@@ -1,1 +1,26 @@
-(S (S (PP (PP (IN Em) (NP (NNS Guimarães))) ,) (S (NP (DT o) (NNS panorama)) (VP (VB é) (JJ semelhante)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Guimarães)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS panorama)
+    )
+    (VP 
+     (VB é)
+     (JJ semelhante)
+    )
+   )
+  )
+  .
+ )
+)

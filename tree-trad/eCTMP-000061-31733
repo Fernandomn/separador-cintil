@@ -1,1 +1,58 @@
-(S (S (VP (ADVP (RB Visivelmente) ,) (VP (VB prefere) (NP (NP (NP (NP (DT os) (NP (JJ pobres))) (NP , (NP (DT os) (NP (CP (NP (PRP que)) (S (VB trabalham))))))) ,) (NP (DT os) (NP (CP (NP (PRP que)) (S (VB sofrem))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Visivelmente)
+     ,
+    )
+    (VP 
+     (VB prefere)
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (DT os)
+         (NP 
+          (JJ pobres)
+         )
+        )
+        (NP 
+         ,
+         (NP 
+          (DT os)
+          (NP 
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VB trabalham)
+            )
+           )
+          )
+         )
+        )
+       )
+       ,
+      )
+      (NP 
+       (DT os)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VB sofrem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

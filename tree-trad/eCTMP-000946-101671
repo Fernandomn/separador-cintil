@@ -1,1 +1,18 @@
-(S (S (NP (DT As) (NNS cartas)) (VP (VP (VB estão) (PRP todas)) (RB ali))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS cartas)
+   )
+   (VP 
+    (VP 
+     (VB estão)
+     (PRP todas)
+    )
+    (RB ali)
+   )
+  )
+  .
+ )
+)

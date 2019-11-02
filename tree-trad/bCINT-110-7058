@@ -1,1 +1,17 @@
-(S (S (VP (VB Faz) (NP (DT uma) (NP (NNS arquitectura) (JJ portuguesa))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Faz)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS arquitectura)
+      (JJ portuguesa)
+     )
+    )
+   )
+  )
+  ?
+ )
+)

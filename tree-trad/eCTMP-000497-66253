@@ -1,1 +1,29 @@
-(S (S (NP (NP (NNS Vini) (NNS Reilly))) (VP (VB é) (NP (DT um) (NP (NNS tipo) (ADJP (JJ franzino) (ADJP (CC e) (JJ taciturno))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Vini)
+     (NNS Reilly)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS tipo)
+      (ADJP 
+       (JJ franzino)
+       (ADJP 
+        (CC e)
+        (JJ taciturno)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

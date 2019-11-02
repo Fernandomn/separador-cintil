@@ -1,1 +1,17 @@
-(S (S (NP (PRP Ele)) (VP (VB voltou) (PP (IN a) (VB sorrir)))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB voltou)
+    (PP 
+     (IN a)
+     (VB sorrir)
+    )
+   )
+  )
+  :
+ )
+)

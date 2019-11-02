@@ -1,1 +1,40 @@
-(S (S (NP (DT A) (NP (NNS administração) (JJ fiscal))) (VP (VP (VB está) (ADVP , (RB contudo) ,)) (PP (IN contra) (NP (DT o) (NP (NNS conteúdo) (PP (IN de_) (NP (DT essa) (NNS determinação)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS administração)
+     (JJ fiscal)
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (ADVP 
+      ,
+      (RB contudo)
+      ,
+     )
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS conteúdo)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT essa)
+         (NNS determinação)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

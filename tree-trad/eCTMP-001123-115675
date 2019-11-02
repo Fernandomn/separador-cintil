@@ -1,1 +1,18 @@
-(S (S (NP (DT O) (NNS atentado)) (VP (VP (RB não) (VB foi)) (VB reivindicado))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS atentado)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB foi)
+    )
+    (VB reivindicado)
+   )
+  )
+  .
+ )
+)

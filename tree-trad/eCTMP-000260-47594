@@ -1,1 +1,30 @@
-(S (S (NP (DT O) (NNS livro)) (VP (VB acaba) (PP (IN de) (VP (VB sair) (PP (IN em_) (NP (DT a) (NP (NNS editora) (NNS Seuil)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS livro)
+   )
+   (VP 
+    (VB acaba)
+    (PP 
+     (IN de)
+     (VP 
+      (VB sair)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS editora)
+         (NNS Seuil)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

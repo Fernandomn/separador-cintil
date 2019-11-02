@@ -1,1 +1,20 @@
-(S (S (NP (DT Os) (NP (NNS temas) (JJ escolhidos))) (VP (VB são) (NP (CD cinco)))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS temas)
+     (JJ escolhidos)
+    )
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (CD cinco)
+    )
+   )
+  )
+  :
+ )
+)

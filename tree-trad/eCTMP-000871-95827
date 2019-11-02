@@ -1,1 +1,18 @@
-(S (S (VP (VB É) (JJ possível)) (NP (DT uma) (NP (NNS recuperação) (JJ completa)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ possível)
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS recuperação)
+     (JJ completa)
+    )
+   )
+  )
+  .
+ )
+)

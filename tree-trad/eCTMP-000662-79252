@@ -1,1 +1,34 @@
-(S (S (VP (PP (IN Em_) (NP (DT o) (NP (NNS patamar) (PP (IN de) (NP (NNS Estado-Maior)))))) (VP (RB ainda) (VP (VP (RB não) (VB é)) (RB assim))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS patamar)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Estado-Maior)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (RB ainda)
+     (VP 
+      (VP 
+       (RB não)
+       (VB é)
+      )
+      (RB assim)
+     )
+    )
+   )
+  )
+  .
+ )
+)

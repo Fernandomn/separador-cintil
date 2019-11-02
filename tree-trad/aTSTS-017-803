@@ -1,1 +1,32 @@
-(S (S (VP (VB Viram) (NP (DT a) (NP (NP (NNS opinião) (PP (IN de_) (NP (DT o) (NNS rapaz)))) (PP (IN sobre) (NP (DT a) (NNS política))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS opinião)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS rapaz)
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NNS política)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

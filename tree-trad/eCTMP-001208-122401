@@ -1,1 +1,28 @@
-(S (NP (NP (NNS Trabalho) (ADJP (VB pago) (PP (IN a) (NP (CD 70) (NP (NNS escudos) (PP (IN por) (NP (NNS viagem))))))))) !)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Trabalho)
+    (ADJP 
+     (VB pago)
+     (PP 
+      (IN a)
+      (NP 
+       (CD 70)
+       (NP 
+        (NNS escudos)
+        (PP 
+         (IN por)
+         (NP 
+          (NNS viagem)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  !
+ )
+)

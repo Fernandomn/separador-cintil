@@ -1,1 +1,14 @@
-(S (S (NP (DT O) (NP (JJ outro))) (VB sorriu)) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ outro)
+    )
+   )
+   (VB sorriu)
+  )
+  :
+ )
+)

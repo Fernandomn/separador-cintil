@@ -1,1 +1,32 @@
-(S (S (RB Hoje) (S (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB interessa)))))) (VP (VB é) (NP (DT a) (NNS política-competência))))) .)
+(
+ (S 
+  (S 
+   (RB Hoje)
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB interessa)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NNS política-competência)
+     )
+    )
+   )
+  )
+  .
+ )
+)

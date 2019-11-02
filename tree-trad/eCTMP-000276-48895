@@ -1,1 +1,19 @@
-(S (NP (DT Os) (NP (NP (NNS heróis) (JJ anónimos)) (PP (IN de) (NP (NNS Fronteira))))))
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NP 
+    (NP 
+     (NNS heróis)
+     (JJ anónimos)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Fronteira)
+     )
+    )
+   )
+  )
+ )
+)

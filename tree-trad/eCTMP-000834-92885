@@ -1,1 +1,37 @@
-(S (S (NP (DT A) (NP (NNS mãe) (CP , (CP (NP (PRP que)) (S (VP (NP (PRP o)) (VB abandonou)))) ,))) (VP (VB tem) (NP (CD 27) (NNS anos)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS mãe)
+     (CONJP 
+      ,
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP o)
+         )
+         (VB abandonou)
+        )
+       )
+      )
+      ,
+     )
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (CD 27)
+     (NNS anos)
+    )
+   )
+  )
+  .
+ )
+)

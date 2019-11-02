@@ -1,1 +1,17 @@
-(S (NP (NNS Académica)) (VP (VP (VB recebe) (RB hoje)) (NP (DT o) (NNS Sporting))))
+(
+ (S 
+  (NP 
+   (NNS Académica)
+  )
+  (VP 
+   (VP 
+    (VB recebe)
+    (RB hoje)
+   )
+   (NP 
+    (DT o)
+    (NNS Sporting)
+   )
+  )
+ )
+)

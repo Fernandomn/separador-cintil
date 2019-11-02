@@ -1,1 +1,23 @@
-(S (S (VP (VB Foi) (ADJP (JJ bonito) (ADJP , (ADJP (JJ inteligente) (ADJP (CC e) (JJ elegante))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foi)
+    (ADJP 
+     (JJ bonito)
+     (ADJP 
+      ,
+      (ADJP 
+       (JJ inteligente)
+       (ADJP 
+        (CC e)
+        (JJ elegante)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

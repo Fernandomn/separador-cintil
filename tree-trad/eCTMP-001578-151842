@@ -1,1 +1,36 @@
-(S (S (NP (DT Os) (NP (NNS Estados) (NNS Unidos))) (VP (VB suspenderam) (NP (DT os) (NP (PP$ seus) (NP (NP (NNS exercícios) (JJ militares)) (PP (IN em_) (NP (DT a) (NNS Indonésia)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS Estados)
+     (NNS Unidos)
+    )
+   )
+   (VP 
+    (VB suspenderam)
+    (NP 
+     (DT os)
+     (NP 
+      (PP seus)
+      (NP 
+       (NP 
+        (NNS exercícios)
+        (JJ militares)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Indonésia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

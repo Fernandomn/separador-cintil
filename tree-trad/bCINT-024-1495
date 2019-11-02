@@ -1,1 +1,16 @@
-(S (S (VP (PP (RB Mesmo) (PP (IN a) (VB calhar))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (RB Mesmo)
+     (PP 
+      (IN a)
+      (VB calhar)
+     )
+    )
+   )
+  )
+  .
+ )
+)

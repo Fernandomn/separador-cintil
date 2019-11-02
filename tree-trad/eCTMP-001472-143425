@@ -1,1 +1,42 @@
-(S (S (NP (DT A) (NP (NP (NNS pressão) (PP (IN de_) (NP (DT o) (NP (NNS FC) (NNS Porto))))) (PP (IN sobre) (NP (DT a) (NNS Federação))))) (VP (VP (VB teve) (RB ontem)) (NP (DT outro) (NNS episódio)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS pressão)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS FC)
+         (NNS Porto)
+        )
+       )
+      )
+     )
+     (PP 
+      (IN sobre)
+      (NP 
+       (DT a)
+       (NNS Federação)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB teve)
+     (RB ontem)
+    )
+    (NP 
+     (DT outro)
+     (NNS episódio)
+    )
+   )
+  )
+  .
+ )
+)

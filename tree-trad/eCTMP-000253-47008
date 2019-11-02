@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS resultado)) (VP (VB está) (PP (IN a_) (NP (DT a) (NNS vista))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS resultado)
+   )
+   (VP 
+    (VB está)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS vista)
+     )
+    )
+   )
+  )
+  .
+ )
+)

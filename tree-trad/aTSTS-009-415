@@ -1,1 +1,11 @@
-(S (S (VB Chegou) (NP (NNS vinho))) .)
+(
+ (S 
+  (S 
+   (VB Chegou)
+   (NP 
+    (NNS vinho)
+   )
+  )
+  .
+ )
+)

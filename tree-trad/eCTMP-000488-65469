@@ -1,1 +1,22 @@
-(S (S (S (NP (NNS Cantinflas)) (VP (VB é) (NP (DT o) (NP (NNS prato) (JJ forte))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Cantinflas)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS prato)
+       (JJ forte)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

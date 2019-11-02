@@ -1,1 +1,54 @@
-(S (S (VP (VP (VP (VB Encaramos) (NP (DT o) (NNS futuro))) (PP (IN com) (NP (NNS confiança)))) (PP , (PP (IN sem) (NP (NP (NNS cepticismos) (ADJP (JJ próprios) (PP (IN de_) (NP (DT os) (NP (NNS vencidos) (PP (IN de_) (NP (DT a) (NNS vida))))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Encaramos)
+      (NP 
+       (DT o)
+       (NNS futuro)
+      )
+     )
+     (PP 
+      (IN com)
+      (NP 
+       (NNS confiança)
+      )
+     )
+    )
+    (PP 
+     ,
+     (PP 
+      (IN sem)
+      (NP 
+       (NP 
+        (NNS cepticismos)
+        (ADJP 
+         (JJ próprios)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS vencidos)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT a)
+              (NNS vida)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

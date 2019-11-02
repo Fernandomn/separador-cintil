@@ -1,1 +1,16 @@
-(S (NP (NP (NNS S.) (NNS Francisco))) (VP (VB avança) (RB mesmo)))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS 
+     .
+    )
+    (NNS Francisco)
+   )
+  )
+  (VP 
+   (VB avança)
+   (RB mesmo)
+  )
+ )
+)

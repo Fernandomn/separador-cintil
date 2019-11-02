@@ -1,1 +1,27 @@
-(S (NP (DT Os) (NP (NNS dilemas) (PP (IN de_) (NP (DT o) (NP (NNS alargamento) (PP (IN de_) (NP (DT a) (NNS Comunidade)))))))) .)
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NP 
+    (NNS dilemas)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS alargamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Comunidade)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

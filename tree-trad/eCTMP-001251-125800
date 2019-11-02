@@ -1,39 +1,41 @@
-(S 
+(
  (S 
   (S 
-   (VB Bastou)
-   (NP 
-    (DT a)
+   (S 
+    (VB Bastou)
     (NP 
-     (NNS fusão)
-     (PP 
-      (IN de_)
-      (NP 
-       (DT as)
-       (NNS instituições)
+     (DT a)
+     (NP 
+      (NNS fusão)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS instituições)
+       )
       )
      )
     )
    )
-  )
-  (CONJP para que)
-  (S 
-   (NP 
-    (DT esse)
-    (NNS entendimento)
-   )
+   (CONJP para que)
    (S 
-    (VP 
-     (NP 
-      (PRP se)
-     )
-     (VB pudesse)
+    (NP 
+     (DT esse)
+     (NNS entendimento)
     )
-    (VP 
-     (VB garantir)
+    (S 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB pudesse)
+     )
+     (VP 
+      (VB garantir)
+     )
     )
    )
   )
+  .
  )
- .
 )

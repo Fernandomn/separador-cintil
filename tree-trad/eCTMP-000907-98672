@@ -1,1 +1,24 @@
-(S (NP (NP (NNS Espírito) (NNS Santo))) (VP (VP (VB compra) (NP (NNS banco))) (PP (IN em) (NP (NNS Espanha)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Espírito)
+    (NNS Santo)
+   )
+  )
+  (VP 
+   (VP 
+    (VB compra)
+    (NP 
+     (NNS banco)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Espanha)
+    )
+   )
+  )
+ )
+)

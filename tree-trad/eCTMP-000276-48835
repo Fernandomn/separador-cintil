@@ -1,1 +1,51 @@
-(S (S '' (S (VP (VB Vamos) (VP (VB ver) (NP (DT o) (NP (CP (NP (PRP que)) (S (NP (DT a) (NNS Sopar)) (VP (VB quer) (VP (VP (VB fazer) (PP (IN com) (NP (DT a) (NP (PP$ sua) (NNS posição)))))))))))))) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (VP 
+     (VB Vamos)
+     (VP 
+      (VB ver)
+      (NP 
+       (DT o)
+       (NP 
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (NP 
+           (DT a)
+           (NNS Sopar)
+          )
+          (VP 
+           (VB quer)
+           (VP 
+            (VP 
+             (VB fazer)
+             (PP 
+              (IN com)
+              (NP 
+               (DT a)
+               (NP 
+                (PP sua)
+                (NNS posição)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,15 @@
-(S (S (VB Chegaram) (NP (PRP todos) (NP (DT estes) (NNS Pedros)))) .)
+(
+ (S 
+  (S 
+   (VB Chegaram)
+   (NP 
+    (PRP todos)
+    (NP 
+     (DT estes)
+     (NNS Pedros)
+    )
+   )
+  )
+  .
+ )
+)

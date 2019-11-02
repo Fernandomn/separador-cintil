@@ -1,1 +1,24 @@
-(S (S (VP (PP (IN Em) (NP (PP$ seu) (NNS lugar))) (VB falou)) (NP (NP (NNS Juan) (NNS Luis) (NNS Cebrián)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PP seu)
+      (NNS lugar)
+     )
+    )
+    (VB falou)
+   )
+   (NP 
+    (NP 
+     (NNS Juan)
+     (NNS Luis)
+     (NNS Cebrián)
+    )
+   )
+  )
+  .
+ )
+)

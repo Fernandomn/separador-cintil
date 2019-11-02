@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB polvilhou) (NP (DT o) (NNS bolo))) (PP (IN com) (NP (NNS açúcar))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB polvilhou)
+     (NP 
+      (DT o)
+      (NNS bolo)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NNS açúcar)
+     )
+    )
+   )
+  )
+  .
+ )
+)

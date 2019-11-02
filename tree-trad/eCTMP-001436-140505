@@ -1,1 +1,30 @@
-(S (VP (VB Começa) (PP (IN a) (VP (VP (VB haver) (NP (DT um) (NP (JJ grande) (NNS mal-estar)))) (PP (IN em_) (NP (DT a) (NNS sociedade)))))) .)
+(
+ (S 
+  (VP 
+   (VB Começa)
+   (PP 
+    (IN a)
+    (VP 
+     (VP 
+      (VB haver)
+      (NP 
+       (DT um)
+       (NP 
+        (JJ grande)
+        (NNS mal-estar)
+       )
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS sociedade)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

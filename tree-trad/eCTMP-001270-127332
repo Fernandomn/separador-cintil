@@ -1,1 +1,33 @@
-(S `` (S (S (S (VP (VB É) (NP (DT uma) (NNS miséria)))) (S , (S (VP (VP (VB estão) (RB sempre)) (PP (IN a) (VB discutir)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB É)
+      (NP 
+       (DT uma)
+       (NNS miséria)
+      )
+     )
+    )
+    (S 
+     ,
+     (S 
+      (VP 
+       (VP 
+        (VB estão)
+        (RB sempre)
+       )
+       (PP 
+        (IN a)
+        (VB discutir)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

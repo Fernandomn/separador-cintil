@@ -1,1 +1,40 @@
-(S (S (ADVP (ADVP (RB Junto) (PP (IN de_) (NP (DT a) (NP (NNS GNR) (NNS de) (NNS Fafe))))) ,) (S (NP (DT o) (NNS PÚBLICO)) (VP (VP (RB não) (VB obteve)) (NP (PRP qualquer) (NNS informação))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Junto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS GNR)
+        (NNS de)
+        (NNS Fafe)
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS PÚBLICO)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB obteve)
+     )
+     (NP 
+      (PRP qualquer)
+      (NNS informação)
+     )
+    )
+   )
+  )
+  .
+ )
+)

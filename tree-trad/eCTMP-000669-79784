@@ -1,1 +1,17 @@
-(S (NP (NNS Guimarães)) (VP (VB inaugura) (NP (CD oito) (NP (NNS bibliotecas) (JJ escolares)))))
+(
+ (S 
+  (NP 
+   (NNS Guimarães)
+  )
+  (VP 
+   (VB inaugura)
+   (NP 
+    (CD oito)
+    (NP 
+     (NNS bibliotecas)
+     (JJ escolares)
+    )
+   )
+  )
+ )
+)

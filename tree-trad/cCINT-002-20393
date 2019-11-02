@@ -1,1 +1,13 @@
-(S (S (NP (PRP Tudo)) (VP (RB bem))) ?)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (RB bem)
+   )
+  )
+  ?
+ )
+)

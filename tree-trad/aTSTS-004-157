@@ -1,1 +1,11 @@
-(S (S (VB Desapareceram) (NP (PP$ meus))) .)
+(
+ (S 
+  (S 
+   (VB Desapareceram)
+   (NP 
+    (PP meus)
+   )
+  )
+  .
+ )
+)

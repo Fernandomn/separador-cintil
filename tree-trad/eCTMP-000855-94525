@@ -1,1 +1,23 @@
-(S (VP (VB Há) (NP (NP (NNS estereótipos) (PP (IN contra) (NP (DT o) (NP (NNS serviço) (JJ militar))))))) .)
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (NNS estereótipos)
+     (PP 
+      (IN contra)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS serviço)
+        (JJ militar)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

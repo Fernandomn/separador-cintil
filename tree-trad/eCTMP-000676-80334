@@ -1,1 +1,18 @@
-(S (S (NP (DT A) (NNS prostituição)) (VP (VB veio) (ADVP (RB mais) (RB tarde)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS prostituição)
+   )
+   (VP 
+    (VB veio)
+    (ADVP 
+     (RB mais)
+     (RB tarde)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,13 @@
-(S (NP (NNS GOVERNO)) (VP (VB DÁ) (NP (NNS CASAS))))
+(
+ (S 
+  (NP 
+   (NNS GOVERNO)
+  )
+  (VP 
+   (VB DÁ)
+   (NP 
+    (NNS CASAS)
+   )
+  )
+ )
+)

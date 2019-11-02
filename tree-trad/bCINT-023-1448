@@ -1,1 +1,39 @@
-(S (S (VP (VP (PP (IN Com) (NP (NP (NNS padres) (PP (IN de_) (NP (DT o) (NP (NNS lado) (PP (IN de_) (NP (DT os) (NNS trabalhadores)))))))))) (ADVP , (RB curiosamente)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (PP 
+      (IN Com)
+      (NP 
+       (NP 
+        (NNS padres)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NP 
+           (NNS lado)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NNS trabalhadores)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (ADVP 
+     ,
+     (RB curiosamente)
+    )
+   )
+  )
+  .
+ )
+)

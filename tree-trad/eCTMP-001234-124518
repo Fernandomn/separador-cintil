@@ -1,1 +1,21 @@
-(S (NP (DT O) (NP (NNS país) (CP (NP (PRP que)) (S (VP (RB ontem) (VB ardeu)))))))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS país)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (RB ontem)
+       (VB ardeu)
+      )
+     )
+    )
+   )
+  )
+ )
+)

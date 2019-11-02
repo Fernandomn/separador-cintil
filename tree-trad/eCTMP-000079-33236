@@ -1,1 +1,25 @@
-(S (NP (NNS Sampras)) (VP (VP (VB está) (PP (IN de) (NP (NNS volta)))) (PP (IN em_) (NP (DT o) (NNS Canadá)))))
+(
+ (S 
+  (NP 
+   (NNS Sampras)
+  )
+  (VP 
+   (VP 
+    (VB está)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS volta)
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Canadá)
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,14 @@
-(S (S (NP (DT isso)) (VP (VB é) (JJ provável))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT isso)
+   )
+   (VP 
+    (VB é)
+    (JJ provável)
+   )
+  )
+  .
+ )
+)

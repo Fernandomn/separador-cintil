@@ -1,1 +1,36 @@
-(S (S (CP (S '' (S (S (VP (VB É) (NP (NNS treta)))) !) ``) ,) (S (VP (VB diz)) (NP (NP (NNS Macário) (NNS Correia))))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     ''
+     ''
+     (S 
+      (S 
+       (VP 
+        (VB É)
+        (NP 
+         (NNS treta)
+        )
+       )
+      )
+      !
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NP 
+      (NNS Macário)
+      (NNS Correia)
+     )
+    )
+   )
+  )
+  .
+ )
+)

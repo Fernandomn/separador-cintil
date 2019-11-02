@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB abotoa) (NP (PRP -se))) (PP (IN com) (NP (DT o) (NNS dinheiro))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB abotoa)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT o)
+      (NNS dinheiro)
+     )
+    )
+   )
+  )
+  .
+ )
+)

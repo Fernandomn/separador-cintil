@@ -1,1 +1,26 @@
-(S (S (NP (DT Esta)) (VP (VB é) (NP (DT a) (NP (NNS mensagem) (PP (IN de_) (NP (DT a) (NNS Bíblia))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS mensagem)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Bíblia)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

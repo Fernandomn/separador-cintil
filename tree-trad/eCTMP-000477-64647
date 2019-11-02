@@ -1,1 +1,28 @@
-(S (S (NP (DT A) (NP (NNS cultura) (JJ europeia))) (VP (VB cresceu) (PP (PP (IN a) (IN partir) (IN de)) (NP (PRP muitas) (NNS raízes))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS cultura)
+     (JJ europeia)
+    )
+   )
+   (VP 
+    (VB cresceu)
+    (PP 
+     (PP 
+      (IN a)
+      (IN partir)
+      (IN de)
+     )
+     (NP 
+      (PRP muitas)
+      (NNS raízes)
+     )
+    )
+   )
+  )
+  .
+ )
+)

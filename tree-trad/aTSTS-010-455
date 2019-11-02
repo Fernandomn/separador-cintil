@@ -1,1 +1,14 @@
-(S (S (VP (VB Vejo) (NP (PRP alguma) (NNS areia)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (PRP alguma)
+     (NNS areia)
+    )
+   )
+  )
+  .
+ )
+)

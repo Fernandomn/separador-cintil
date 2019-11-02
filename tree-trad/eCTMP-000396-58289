@@ -1,1 +1,49 @@
-(S (S (CP (S '' (S (VP (VB Admitimos) (CP (CC que) (S (NP (DT esta) (NNS operação)) (VP (VP (RB não) (VB possa)) (VP (VB ir) (PP (IN para) (NP (DT a) (NNS frente))))))))) ``) ,) (S (VP (VB adiantou)))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     ''
+     ''
+     (S 
+      (VP 
+       (VB Admitimos)
+       (CONJP 
+        (CC que)
+        (S 
+         (NP 
+          (DT esta)
+          (NNS operação)
+         )
+         (VP 
+          (VP 
+           (RB não)
+           (VB possa)
+          )
+          (VP 
+           (VB ir)
+           (PP 
+            (IN para)
+            (NP 
+             (DT a)
+             (NNS frente)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB adiantou)
+    )
+   )
+  )
+  .
+ )
+)

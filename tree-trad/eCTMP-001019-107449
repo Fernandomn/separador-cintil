@@ -1,1 +1,65 @@
-(S (S (CP (S '' (S (S (S (VP (VB Comparando) (PP (IN com) (NP (DT outras) (NP (NNS obras) (PP (IN de) (NP (NNS construção)))))))) ,) (S (NP (DT estes) (NNS números)) (VP (VP (RB não) (VB são)) (VB elevados)))) ``) ,) (S (VP (VB afirma)) (NP (NP (NNS Pereira) (NNS de_) (NNS a) (NNS Silva))))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     ''
+     ''
+     (S 
+      (S 
+       (S 
+        (VP 
+         (VB Comparando)
+         (PP 
+          (IN com)
+          (NP 
+           (DT outras)
+           (NP 
+            (NNS obras)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS construção)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       ,
+      )
+      (S 
+       (NP 
+        (DT estes)
+        (NNS números)
+       )
+       (VP 
+        (VP 
+         (RB não)
+         (VB são)
+        )
+        (VB elevados)
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB afirma)
+    )
+    (NP 
+     (NP 
+      (NNS Pereira)
+      (NNS de_)
+      (NNS a)
+      (NNS Silva)
+     )
+    )
+   )
+  )
+  .
+ )
+)

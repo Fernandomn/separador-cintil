@@ -1,1 +1,47 @@
-(S (S (S (S (VP (VP (RB Não) (VB podemos)) (VP (VB entrar) (PP (IN em) (NP (NNS loucuras)))))) (S , (S (NP (PRP eles)) (VP (VB estão) (PP (IN a) (VP (VB esconder) (NP (PRP alguma) (NNS coisa)))))))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VP 
+       (RB Não)
+       (VB podemos)
+      )
+      (VP 
+       (VB entrar)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS loucuras)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     ,
+     (S 
+      (NP 
+       (PRP eles)
+      )
+      (VP 
+       (VB estão)
+       (PP 
+        (IN a)
+        (VP 
+         (VB esconder)
+         (NP 
+          (PRP alguma)
+          (NNS coisa)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

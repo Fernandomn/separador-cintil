@@ -1,1 +1,16 @@
-(S (S (CP (S (VB Chover))) (VP (VB é) (JJ inevitável))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VB Chover)
+    )
+   )
+   (VP 
+    (VB é)
+    (JJ inevitável)
+   )
+  )
+  .
+ )
+)

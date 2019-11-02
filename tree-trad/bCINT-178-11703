@@ -1,1 +1,35 @@
-(S (NP (NP (NNS RENDIMENTO) (JJ MÍNIMO))) (VP (VB ARRANCA) (PP (IN EM) (NP (CD 16) (NP (NNS FREGUESIAS) (PP (IN de_) (NP (DT o) (NP (NNS CONTINENTE) (NP (CC E) (NNS ILHAS))))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS RENDIMENTO)
+    (JJ MÍNIMO)
+   )
+  )
+  (VP 
+   (VB ARRANCA)
+   (PP 
+    (IN EM)
+    (NP 
+     (CD 16)
+     (NP 
+      (NNS FREGUESIAS)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS CONTINENTE)
+         (NP 
+          (CC E)
+          (NNS ILHAS)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

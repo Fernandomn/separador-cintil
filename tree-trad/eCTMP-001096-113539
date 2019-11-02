@@ -1,1 +1,26 @@
-(S (S (S (NP (DT A) (NNS procura)) (VP (RB não) (VB desapareceu))) (S , (S (VP (RB simplesmente) (VB diminuiu))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS procura)
+    )
+    (VP 
+     (RB não)
+     (VB desapareceu)
+    )
+   )
+   (S 
+    ,
+    (S 
+     (VP 
+      (RB simplesmente)
+      (VB diminuiu)
+     )
+    )
+   )
+  )
+  .
+ )
+)

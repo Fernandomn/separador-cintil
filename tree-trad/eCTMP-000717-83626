@@ -1,1 +1,22 @@
-(S (NP (NNS Cascais)) (VP (VB homenageia) (NP (NP (NNS munícipe) (PP (IN de) (NP (CD 83) (NNS anos)))))))
+(
+ (S 
+  (NP 
+   (NNS Cascais)
+  )
+  (VP 
+   (VB homenageia)
+   (NP 
+    (NP 
+     (NNS munícipe)
+     (PP 
+      (IN de)
+      (NP 
+       (CD 83)
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,35 @@
-(S (S (JJ Decisiva) (S (VP (VB foi)) (NP (DT a) (NP (NNS opinião) (PP (IN de_) (NP (DT o) (NP (NP (NNS treinador) (JJ portista)) (NP (NNS Joseph) (NNS Mlynarczik))))))))) .)
+(
+ (S 
+  (S 
+   (JJ Decisiva)
+   (S 
+    (VP 
+     (VB foi)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NNS opinião)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (NP 
+          (NNS treinador)
+          (JJ portista)
+         )
+         (NP 
+          (NNS Joseph)
+          (NNS Mlynarczik)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

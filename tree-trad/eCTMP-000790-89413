@@ -1,1 +1,23 @@
-(S (NP (NP (NNS Autarca) (PP (IN de_) (NP (DT a) (NNS Nazaré))))) (VP (RB ainda) (VP (VB pode) (VB recorrer))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Autarca)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS Nazaré)
+     )
+    )
+   )
+  )
+  (VP 
+   (RB ainda)
+   (VP 
+    (VB pode)
+    (VB recorrer)
+   )
+  )
+ )
+)

@@ -1,1 +1,35 @@
-(S (S (NP (NP (NP (NNS Dirigentes) (PP (IN de_) (NP (DT o) (NNS Gil))))) (NP (CC e) (NP (DT a) (NNS polícia)))) (VP (VB garantiram) (NP (DT a) (NNS segurança)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Dirigentes)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Gil)
+       )
+      )
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT a)
+      (NNS polícia)
+     )
+    )
+   )
+   (VP 
+    (VB garantiram)
+    (NP 
+     (DT a)
+     (NNS segurança)
+    )
+   )
+  )
+  .
+ )
+)

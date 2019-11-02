@@ -1,1 +1,22 @@
-(S (NP (DT A) (NP (NP (NNS demissão) (JJ misteriosa)) (PP (IN de) (NP (NP (NNS Hans-Dietrich) (NNS Genscher)))))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NP 
+     (NNS demissão)
+     (JJ misteriosa)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS Hans-Dietrich)
+       (NNS Genscher)
+      )
+     )
+    )
+   )
+  )
+ )
+)

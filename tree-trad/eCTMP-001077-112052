@@ -1,1 +1,46 @@
-(S (NP (NP (NNS Julgamento) (ADJP (VB adiado) (PP (IN por) (NP (CD 12) (NNS vezes)))))) (VP (VP (VB dá) (NP (NNS despacho))) (PP (IN por) (NP '' (NP (NNS continuação) (PP (IN de) (NP (NP (NNS actividades) (JJ criminosas))))) ``))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Julgamento)
+    (ADJP 
+     (VB adiado)
+     (PP 
+      (IN por)
+      (NP 
+       (CD 12)
+       (NNS vezes)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB dá)
+    (NP 
+     (NNS despacho)
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     ''
+     ''
+     (NP 
+      (NNS continuação)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS actividades)
+         (JJ criminosas)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

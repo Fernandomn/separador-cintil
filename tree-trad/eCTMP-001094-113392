@@ -1,1 +1,34 @@
-(S (S (PP (PP (IN de) (NP (NNS resto))) ,) (S (NP (PRP tudo)) (VP (VP (VB é) (JJ novo)) (PP (IN em_) (NP (DT o) (NNS Safrane)))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN de)
+     (NP 
+      (NNS resto)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VP 
+     (VP 
+      (VB é)
+      (JJ novo)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Safrane)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

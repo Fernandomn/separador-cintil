@@ -1,1 +1,27 @@
-(S (NP (NP (NNS Programas) (PP (IN de) (NP (NNS Francês))))) (VP (VP (VB criticados) (PP (IN por_) (NP (DT os) (NNS professores))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Programas)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Francês)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB criticados)
+    (PP 
+     (IN por_)
+     (NP 
+      (DT os)
+      (NNS professores)
+     )
+    )
+   )
+  )
+ )
+)

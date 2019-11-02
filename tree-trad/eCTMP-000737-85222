@@ -1,1 +1,29 @@
-(S (NP (NP (NP (NNS Decisão) (JJ judicial)) (PP (IN sobre) (NP (NNS Berlusconi))))) (VP (VP (VB adiada)) (PP (IN para) (NP (NNS Setembro)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Decisão)
+     (JJ judicial)
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (NNS Berlusconi)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (VB adiada)
+   )
+   (PP 
+    (IN para)
+    (NP 
+     (NNS Setembro)
+    )
+   )
+  )
+ )
+)

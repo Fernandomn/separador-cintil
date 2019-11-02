@@ -1,55 +1,57 @@
-(S 
+(
  (S 
-  (NP 
+  (S 
    (NP 
-    (NNS Armando)
-   )
-   (NP 
-    (CC ou)
     (NP 
-     (NNS Raudnei)
-    )
-   )
-  )
-  (VP 
-   (VP 
-    (VP 
-     (RB não)
-     (VB oferecem)
+     (NNS Armando)
     )
     (NP 
+     (CC ou)
      (NP 
-      (NNS condições)
-      (JJ mínimas)
+      (NNS Raudnei)
      )
     )
    )
-   (CONJP para que)
-   (S 
-    (NP 
-     (DT o)
+   (VP 
+    (VP 
+     (VP 
+      (RB não)
+      (VB oferecem)
+     )
      (NP 
-      (NNS ataque)
-      (PP 
-       (IN de_)
-       (NP 
-        (DT o)
+      (NP 
+       (NNS condições)
+       (JJ mínimas)
+      )
+     )
+    )
+    (CONJP para que)
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       (NNS ataque)
+       (PP 
+        (IN de_)
         (NP 
-         (NNS Gil)
-         (NNS Vicente)
+         (DT o)
+         (NP 
+          (NNS Gil)
+          (NNS Vicente)
+         )
         )
        )
       )
      )
-    )
-    (VP 
-     (VB constitua)
-     (NP 
-      (NNS perigo)
+     (VP 
+      (VB constitua)
+      (NP 
+       (NNS perigo)
+      )
      )
     )
    )
   )
+  .
  )
- .
 )

@@ -1,1 +1,32 @@
-(S (S (RB Aqui) (S (VP (VB estão)) (NP (CD dois) (NP (NNS casos) (CP (NP (PRP que)) (S (VP (NP (PRP o)) (VB ilustram)))))))) .)
+(
+ (S 
+  (S 
+   (RB Aqui)
+   (S 
+    (VP 
+     (VB estão)
+    )
+    (NP 
+     (CD dois)
+     (NP 
+      (NNS casos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP o)
+         )
+         (VB ilustram)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

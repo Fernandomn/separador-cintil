@@ -1,1 +1,26 @@
-(S (VP (PP (IN Com) (NP (NP (NP (NNS Constance) (NNS Bennett))) (NP , (NP (NP (NNS Roland) (NNS Young))))))))
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Constance)
+       (NNS Bennett)
+      )
+     )
+     (NP 
+      ,
+      (NP 
+       (NP 
+        (NNS Roland)
+        (NNS Young)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

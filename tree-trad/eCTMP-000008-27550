@@ -1,1 +1,32 @@
-(S (S (PP (PP (IN Em) (NP (NNS Portugal))) ,) (S (NP (DT esta) (NNS novela)) (VP (VP (VP (RB não) (VB foi)) (RB ainda)) (VB editada)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Portugal)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT esta)
+     (NNS novela)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB foi)
+      )
+      (RB ainda)
+     )
+     (VB editada)
+    )
+   )
+  )
+  .
+ )
+)

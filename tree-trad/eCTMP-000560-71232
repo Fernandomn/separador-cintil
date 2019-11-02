@@ -1,1 +1,25 @@
-(S (S (NP (DT O) (NNS fecho)) (VP (VB foi) (PP (IN com) (NP '' (NP (NNS Falha) (NNS Humana)) ``)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS fecho)
+   )
+   (VP 
+    (VB foi)
+    (PP 
+     (IN com)
+     (NP 
+      ''
+      ''
+      (NP 
+       (NNS Falha)
+       (NNS Humana)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

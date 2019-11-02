@@ -1,38 +1,40 @@
-(S 
+(
  (S 
-  (PP 
-   (PP 
-    (IN em_)
-    (NP 
-     (DT este)
-     (NNS aspecto)
-    )
-   )
-   ,
-  )
   (S 
-   (NP 
-    (DT a)
-    (NNS JCP)
-   )
-   (VP 
-    (VP 
-     (VB critica)
+   (PP 
+    (PP 
+     (IN em_)
      (NP 
-      (DT a)
+      (DT este)
+      (NNS aspecto)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS JCP)
+    )
+    (VP 
+     (VP 
+      (VB critica)
       (NP 
-       (NNS estagnação)
-       (PP 
-        (IN de_)
-        (NP 
-         (DT os)
+       (DT a)
+       (NP 
+        (NNS estagnação)
+        (PP 
+         (IN de_)
          (NP 
-          (NNS investimentos)
-          (PP 
-           (IN em_)
-           (NP 
-            (DT esta)
-            (NNS área)
+          (DT os)
+          (NP 
+           (NNS investimentos)
+           (PP 
+            (IN em_)
+            (NP 
+             (DT esta)
+             (NNS área)
+            )
            )
           )
          )
@@ -40,10 +42,10 @@
        )
       )
      )
-    )
-    (CONJP 
      ,
-     (CONJP uma vez que)
+     (CC uma)
+     (CC vez)
+     (CC que)
      (S 
       (NP 
        (DT a)
@@ -89,6 +91,6 @@
     )
    )
   )
+  .
  )
- .
 )

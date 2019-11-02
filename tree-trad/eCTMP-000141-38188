@@ -1,28 +1,29 @@
-(S 
+(
  (S 
-  (NP 
-   (PRP Algo)
-  )
-  (VP 
+  (S 
+   (NP 
+    (PRP Algo)
+   )
    (VP 
-    (VB vai)
     (VP 
-     (VB mudar)
-     (PP 
-      (IN em_)
-      (NP 
-       (DT a)
+     (VB vai)
+     (VP 
+      (VB mudar)
+      (PP 
+       (IN em_)
        (NP 
-        (NNS gestão)
-        (NNS Expo)
+        (DT a)
+        (NP 
+         (NNS gestão)
+         (NNS Expo)
+        )
        )
       )
      )
     )
-   )
-   (CONJP 
     ,
-    (CONJP ainda que)
+    (CC ainda)
+    (CC que)
     (S 
      (NP 
       (DT o)
@@ -35,6 +36,6 @@
     )
    )
   )
+  .
  )
- .
 )

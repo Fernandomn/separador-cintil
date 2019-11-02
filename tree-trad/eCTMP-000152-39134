@@ -1,1 +1,78 @@
-(S (NP (DT Um) (NP (NP (NNS discurso) (PP (IN em) (NP (NP (NNS fim) (PP (IN de) (NP (NNS trabalhos))))))) (PP (IN de) (NP (DT um) (NP (NP (NNS Conselho) (NNS Nacional)) (CP (NP (DT cujo) (NP (NNS tema) (JJ forte))) (S (VP (VB foi) (NP (DT a) (NP (NNS revisão) (PP (IN de_) (NP (DT o) (NP (JJ novo) (NP (NNS programa) (PP (IN de_) (NP (DT o) (NNS partido))))))))))))))))) .)
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NP 
+     (NNS discurso)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS fim)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS trabalhos)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT um)
+      (NP 
+       (NP 
+        (NNS Conselho)
+        (NNS Nacional)
+       )
+       (CONJP 
+        (NP 
+         (DT cujo)
+         (NP 
+          (NNS tema)
+          (JJ forte)
+         )
+        )
+        (S 
+         (VP 
+          (VB foi)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS revisão)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NP 
+               (JJ novo)
+               (NP 
+                (NNS programa)
+                (PP 
+                 (IN de_)
+                 (NP 
+                  (DT o)
+                  (NNS partido)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

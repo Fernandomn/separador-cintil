@@ -1,1 +1,13 @@
-(S (S (VP (ADVP (RB A) (RB sério)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB A)
+     (RB sério)
+    )
+   )
+  )
+  .
+ )
+)

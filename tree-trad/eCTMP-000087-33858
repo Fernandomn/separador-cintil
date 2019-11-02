@@ -1,1 +1,33 @@
-(S `` (S (S (VP (CONJP (CONJP (CC Se) (S (VP (VB forem) (VB rotulados)))) ,) (VP (VB ficamos) (ADJP (ADVP (RB muito) (RB mais)) (JJ tranquilos))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC Se)
+       (S 
+        (VP 
+         (VB forem)
+         (VB rotulados)
+        )
+       )
+      )
+      ,
+     )
+     (VP 
+      (VB ficamos)
+      (ADJP 
+       (ADVP 
+        (RB muito)
+        (RB mais)
+       )
+       (JJ tranquilos)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

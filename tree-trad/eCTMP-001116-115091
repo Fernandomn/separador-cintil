@@ -1,1 +1,31 @@
-(S (S (CONJP (CC Quando) (S (S (NP (PRP se)) (VB passa)) (PP (IN em_) (NP (DT as) (NNS portagens))))) (S (VB lê) (NP (PRP -se)))) :)
+(
+ (S 
+  (S 
+   (CONJP 
+    (CC Quando)
+    (S 
+     (S 
+      (NP 
+       (PRP se)
+      )
+      (VB passa)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT as)
+       (NNS portagens)
+      )
+     )
+    )
+   )
+   (S 
+    (VB lê)
+    (NP 
+     (PRP -se)
+    )
+   )
+  )
+  :
+ )
+)

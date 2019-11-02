@@ -1,1 +1,19 @@
-(S (S (S (NP (NNS Aristides)) (VB sorriu)) (S (CC e) (S (VB esclareceu)))) :)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (NNS Aristides)
+    )
+    (VB sorriu)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VB esclareceu)
+    )
+   )
+  )
+  :
+ )
+)

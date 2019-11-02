@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Canal) (JJ educativo))) (VP (PP (IN em) (NP (NP (NNS satélite) (JJ espanhol))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Canal)
+    (JJ educativo)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS satélite)
+      (JJ espanhol)
+     )
+    )
+   )
+  )
+ )
+)

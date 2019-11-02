@@ -1,1 +1,23 @@
-(S (VP (VP (VB Há) (NP (NP (CD 70) (CD mil)) (NNS contentores))) (PP (IN em) (NP (NNS Lisboa)))) .)
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (NP 
+     (NP 
+      (CD 70)
+      (CD mil)
+     )
+     (NNS contentores)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Lisboa)
+    )
+   )
+  )
+  .
+ )
+)

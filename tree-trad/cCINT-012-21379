@@ -1,1 +1,38 @@
-(S (S (VP (VP (VB Passava) (NP (DT a) (NNS vida))) (PP (PP (IN a) (VB namorar)) (PP (CC e) (PP (IN a) (VP (VB sair) (PP (IN a_) (NP (DT a) (NNS noite))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Passava)
+     (NP 
+      (DT a)
+      (NNS vida)
+     )
+    )
+    (PP 
+     (PP 
+      (IN a)
+      (VB namorar)
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN a)
+       (VP 
+        (VB sair)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS noite)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

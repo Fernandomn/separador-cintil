@@ -1,47 +1,49 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT Esta)
-    (NNS casa)
-   )
-   (VP 
-    (VB é)
-    (ADJP 
-     (ADJP 
-      (ADVP 
-       (RB muito)
-       (RB mais)
-      )
-      (JJ velha)
-     )
-     (CONJP de_ o que)
-     (NP 
-      (DT a)
-      (NP 
-       (JJ outra)
-      )
-     )
-    )
-   )
-  )
-  (S 
-   ,
    (S 
+    (NP 
+     (DT Esta)
+     (NNS casa)
+    )
     (VP 
-     (ADVP 
-      (RB nem)
-      (RB sequer)
-     )
-     (VP 
-      (VB tem)
+     (VB é)
+     (ADJP 
+      (ADJP 
+       (ADVP 
+        (RB muito)
+        (RB mais)
+       )
+       (JJ velha)
+      )
+      (CONJP de_ o que)
       (NP 
-       (NNS elevador)
+       (DT a)
+       (NP 
+        (JJ outra)
+       )
+      )
+     )
+    )
+   )
+   (S 
+    ,
+    (S 
+     (VP 
+      (ADVP 
+       (RB nem)
+       (RB sequer)
+      )
+      (VP 
+       (VB tem)
+       (NP 
+        (NNS elevador)
+       )
       )
      )
     )
    )
   )
+  !
  )
- !
 )

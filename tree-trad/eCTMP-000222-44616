@@ -1,1 +1,26 @@
-(S (NP (DT A) (NP (NNS vez) (PP (IN de_) (NP (DT os) (NP (NNS números) (PP (IN de_) (NP (DT o) (NNS Totoloto)))))))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (NNS vez)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS números)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS Totoloto)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

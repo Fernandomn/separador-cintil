@@ -1,1 +1,21 @@
-(S (VP '' (VP (VP (RB Não) (VB deve)) (VP (VB haver) (NP (NNS tabus)))) ``) .)
+(
+ (S 
+  (VP 
+   ''
+   ''
+   (VP 
+    (VP 
+     (RB Não)
+     (VB deve)
+    )
+    (VP 
+     (VB haver)
+     (NP 
+      (NNS tabus)
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,35 +1,36 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (PRP Muitas)
+   (S 
     (NP 
-     (PP 
-      (IN de_)
-      (NP 
-       (DT as)
+     (PRP Muitas)
+     (NP 
+      (PP 
+       (IN de_)
        (NP 
-        (NNS vítimas)
-        (JJ mortais)
+        (DT as)
+        (NP 
+         (NNS vítimas)
+         (JJ mortais)
+        )
        )
       )
      )
     )
-   )
-   (VP 
     (VP 
      (VP 
       (VP 
-       (RB não)
-       (VB foram)
+       (VP 
+        (RB não)
+        (VB foram)
+       )
+       (RB ainda)
       )
-      (RB ainda)
+      (VB identificadas)
      )
-     (VB identificadas)
-    )
-    (CONJP 
      ,
-     (CONJP já que)
+     (CC já)
+     (CC que)
      (S 
       (NP 
        (PRP alguns)
@@ -55,7 +56,7 @@
      )
     )
    )
+   .
   )
-  .
  )
 )

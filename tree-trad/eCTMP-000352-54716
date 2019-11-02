@@ -1,1 +1,22 @@
-(S (NP (NNS PSD)) (VP (VP (RB não) (VB quer)) (NP (NP (ADVP (RB mais) (RB de)) (CD 185)))))
+(
+ (S 
+  (NP 
+   (NNS PSD)
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB quer)
+   )
+   (NP 
+    (NP 
+     (ADVP 
+      (RB mais)
+      (RB de)
+     )
+     (CD 185)
+    )
+   )
+  )
+ )
+)

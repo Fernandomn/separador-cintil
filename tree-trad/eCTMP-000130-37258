@@ -1,1 +1,24 @@
-(S (NP (NNS Nandim)) (VP (VB reivindica) (NP (NP (NNS apoio) (PP (IN de_) (NP (DT os) (NP (JJ veneráveis))))))))
+(
+ (S 
+  (NP 
+   (NNS Nandim)
+  )
+  (VP 
+   (VB reivindica)
+   (NP 
+    (NP 
+     (NNS apoio)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (JJ veneráveis)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

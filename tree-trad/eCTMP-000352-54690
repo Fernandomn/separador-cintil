@@ -1,1 +1,22 @@
-(S '' (NP (NP (NP (PRP Muita) (NNS parra)) (NP (CC e) (NP (PRP pouca) (NNS uva)))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (NP 
+   (NP 
+    (NP 
+     (PRP Muita)
+     (NNS parra)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (PRP pouca)
+      (NNS uva)
+     )
+    )
+   )
+   .
+  )
+ )
+)

@@ -1,1 +1,61 @@
-(S `` (S (S (VP (VB Sei) (CP (CC que) (S (VP (VB posso) (VP (VP (VB jogar) (PP (IN a_) (NP (DT o) (NP (JJ mesmo) (NNS nível))))) (PP (IN durante) (NP (NP (NP (CD cinco) (NNS jogos)) ,) (NP (CC ou) (NP (RB mesmo) (NP (DT um) (NP '' (NNS set) ``)))))))))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Sei)
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB posso)
+        (VP 
+         (VP 
+          (VB jogar)
+          (PP 
+           (IN a_)
+           (NP 
+            (DT o)
+            (NP 
+             (JJ mesmo)
+             (NNS nível)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN durante)
+          (NP 
+           (NP 
+            (NP 
+             (CD cinco)
+             (NNS jogos)
+            )
+            ,
+           )
+           (NP 
+            (CC ou)
+            (NP 
+             (RB mesmo)
+             (NP 
+              (DT um)
+              (NP 
+               ''
+               ''
+               (NNS set)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

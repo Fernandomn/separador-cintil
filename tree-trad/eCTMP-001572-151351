@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Cooperação) (PP (RB só) (PP (IN com) (NP (NP (NNS Direitos) (NNS Humanos))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cooperação)
+    (PP 
+     (RB só)
+     (PP 
+      (IN com)
+      (NP 
+       (NP 
+        (NNS Direitos)
+        (NNS Humanos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

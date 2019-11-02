@@ -1,1 +1,24 @@
-(S (S (NP (DT A) (NNS decisão)) (VP (VP (VB deverá) (VP (VB ser) (VB anunciada))) (ADVP (RB até) (RB amanhã)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS decisão)
+   )
+   (VP 
+    (VP 
+     (VB deverá)
+     (VP 
+      (VB ser)
+      (VB anunciada)
+     )
+    )
+    (ADVP 
+     (RB até)
+     (RB amanhã)
+    )
+   )
+  )
+  .
+ )
+)

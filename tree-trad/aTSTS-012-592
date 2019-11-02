@@ -1,1 +1,22 @@
-(S (S (CP (S (VP (VB Reparar) (NP (DT esse) (NNS problema))))) (VP (VB é) (JJ difícil))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB Reparar)
+      (NP 
+       (DT esse)
+       (NNS problema)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (JJ difícil)
+   )
+  )
+  .
+ )
+)

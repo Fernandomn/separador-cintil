@@ -1,1 +1,29 @@
-(S (S (ADVP (ADVP (RB Hoje) (ADVP (CC e) (RB amanhã))) ,) (S (NP (PRP eles)) (VP (VB ficarão) (PP (IN de) (RB fora))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Hoje)
+     (ADVP 
+      (CC e)
+      (RB amanhã)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (PRP eles)
+    )
+    (VP 
+     (VB ficarão)
+     (PP 
+      (IN de)
+      (RB fora)
+     )
+    )
+   )
+  )
+  .
+ )
+)

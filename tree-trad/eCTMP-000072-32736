@@ -1,1 +1,19 @@
-(S (NP (NP (NNS Polje) (NNS de) (NNS Minde))) (VP (PP (IN em) (NP (NNS risco)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Polje)
+    (NNS de)
+    (NNS Minde)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS risco)
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Guerra) (NNS Junqueiro))) (VP (RB só) (VP (PP (IN para) (NP (NNS peões))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Guerra)
+    (NNS Junqueiro)
+   )
+  )
+  (VP 
+   (RB só)
+   (VP 
+    (PP 
+     (IN para)
+     (NP 
+      (NNS peões)
+     )
+    )
+   )
+  )
+ )
+)

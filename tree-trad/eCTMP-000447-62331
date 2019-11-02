@@ -1,1 +1,29 @@
-(S (S (NP (DT Este)) (VP (VP (VB é) (ADVP (RB de) (RB facto))) (NP (DT um) (NP (NNS país) (ADJP (RB muito) (JJ especial)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (ADVP 
+      (RB de)
+      (RB facto)
+     )
+    )
+    (NP 
+     (DT um)
+     (NP 
+      (NNS país)
+      (ADJP 
+       (RB muito)
+       (JJ especial)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

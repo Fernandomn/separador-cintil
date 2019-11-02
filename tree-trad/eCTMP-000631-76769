@@ -1,1 +1,19 @@
-(S (NP (NP (JJ Novo) (NP (NNS fôlego) (PP (IN para) (NP (DT o) (NNS MAR)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (JJ Novo)
+    (NP 
+     (NNS fôlego)
+     (PP 
+      (IN para)
+      (NP 
+       (DT o)
+       (NNS MAR)
+      )
+     )
+    )
+   )
+  )
+ )
+)

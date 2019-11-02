@@ -1,1 +1,21 @@
-(S (NP (DT Uma) (NP (CD última) (NP (NNS questão) (ADJP , (ADJP (RB mais) (JJ pessoal)))))) .)
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (CD última)
+    (NP 
+     (NNS questão)
+     (ADJP 
+      ,
+      (ADJP 
+       (RB mais)
+       (JJ pessoal)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

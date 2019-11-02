@@ -1,1 +1,36 @@
-(S (S (NP (DT A) (NP (JJ nova) (NP (NP '' (NNS estrela) ``) (PP (IN de_) (NP (DT o) (NNS Liverpool)))))) (VP (VP (VB era) (RB agora)) (NP (NNS Fowler)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ nova)
+     (NP 
+      (NP 
+       ''
+       ''
+       (NNS estrela)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS Liverpool)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB era)
+     (RB agora)
+    )
+    (NP 
+     (NNS Fowler)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,49 @@
-(S (S (NP (DT Este) (NNS valor)) (VP (VB representa) (NP (DT os) (NP (NP (NNS preços) (JJ mínimos)) (CP (PP (IN por) (NP (PRP que))) (S (VP (VB podem) (VP (VP (VB ser) (VB vendidos)))) (NP (DT os) (NP (NNS produtos) (JJ agrícolas))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS valor)
+   )
+   (VP 
+    (VB representa)
+    (NP 
+     (DT os)
+     (NP 
+      (NP 
+       (NNS preços)
+       (JJ mínimos)
+      )
+      (CONJP 
+       (PP 
+        (IN por)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (VP 
+         (VB podem)
+         (VP 
+          (VP 
+           (VB ser)
+           (VB vendidos)
+          )
+         )
+        )
+        (NP 
+         (DT os)
+         (NP 
+          (NNS produtos)
+          (JJ agrícolas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

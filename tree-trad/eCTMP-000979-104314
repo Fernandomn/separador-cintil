@@ -1,1 +1,22 @@
-(S (VP (PP (IN Contra) (NP (DT a) (NP (NNS pílula) (PP (IN de_) (NP (DT o) (NNS aborto))))))))
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Contra)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS pílula)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS aborto)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

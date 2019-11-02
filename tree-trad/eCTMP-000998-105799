@@ -1,43 +1,45 @@
-(S 
+(
  (S 
-  (VP 
+  (S 
    (VP 
-    (VB Tem)
     (VP 
+     (VB Tem)
      (VP 
-      (VB desempenhado)
-      (RB frequentemente)
-     )
-     (NP 
-      (DT este)
-      (NNS papel)
-     )
-    )
-   )
-   (CONJP desde que)
-   (S 
-    (NP 
-     (DT os)
-     (NNS republicanos)
-    )
-    (VP 
-     (VP 
-      (VB conquistaram)
+      (VP 
+       (VB desempenhado)
+       (RB frequentemente)
+      )
       (NP 
-       (DT a)
-       (NNS maioria)
+       (DT este)
+       (NNS papel)
       )
      )
-     (PP 
-      (IN em_)
-      (NP 
-       (DT a)
+    )
+    (CONJP desde que)
+    (S 
+     (NP 
+      (DT os)
+      (NNS republicanos)
+     )
+     (VP 
+      (VP 
+       (VB conquistaram)
        (NP 
-        (NNS Câmara)
-        (PP 
-         (IN em)
-         (NP 
-          (CD 1994)
+        (DT a)
+        (NNS maioria)
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS Câmara)
+         (PP 
+          (IN em)
+          (NP 
+           (CD 1994)
+          )
          )
         )
        )
@@ -46,6 +48,6 @@
     )
    )
   )
+  .
  )
- .
 )

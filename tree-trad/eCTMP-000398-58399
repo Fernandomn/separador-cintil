@@ -1,1 +1,21 @@
-(S (NP (NP (NP (NNS Carlos) (NNS Menem)) ,) (NP (NP (NNS presidente) (NNS de_) (NNS a) (NNS Argentina)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Carlos)
+     (NNS Menem)
+    )
+    ,
+   )
+   (NP 
+    (NP 
+     (NNS presidente)
+     (NNS de_)
+     (NNS a)
+     (NNS Argentina)
+    )
+   )
+  )
+ )
+)

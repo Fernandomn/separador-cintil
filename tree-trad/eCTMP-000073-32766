@@ -1,1 +1,30 @@
-(S (S (VP (VB Tem) (NP (DT os) (NP (NNS documentos) (CP (NP (PRP que)) (S (VP (VB atestam) (NP (DT a) (NNS compra))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tem)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS documentos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB atestam)
+         (NP 
+          (DT a)
+          (NNS compra)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

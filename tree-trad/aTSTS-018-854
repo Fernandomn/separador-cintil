@@ -1,1 +1,18 @@
-(S (S (VP (VP (VB Extraíram) (NP (PRP -lhe))) (NP (DT isso)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Extraíram)
+     (NP 
+      (PRP -lhe)
+     )
+    )
+    (NP 
+     (DT isso)
+    )
+   )
+  )
+  .
+ )
+)

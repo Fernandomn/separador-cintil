@@ -1,1 +1,40 @@
-(S (S (NP (PRP Tudo)) (VP (ADVP , (RB enfim) ,) (VP (VP (NP (PRP se)) (VB resume)) (PP (IN a) (NP (DT uma) (NP (NNS questão) (PP (IN de) (NP (NNS prioridades))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Tudo)
+   )
+   (VP 
+    (ADVP 
+     ,
+     (RB enfim)
+     ,
+    )
+    (VP 
+     (VP 
+      (NP 
+       (PRP se)
+      )
+      (VB resume)
+     )
+     (PP 
+      (IN a)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS questão)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS prioridades)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

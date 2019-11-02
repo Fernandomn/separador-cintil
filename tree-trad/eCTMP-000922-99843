@@ -1,1 +1,39 @@
-(S (S (NP (DT O) (NP (NNS programa) (JJ eleitoral))) (VP (VP (VB está) (JJ concluído)) (PP (PP (IN até) (IN a_)) (NP (DT o) (NP (NNS fim) (PP (IN de_) (NP (DT o) (NNS mês)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS programa)
+     (JJ eleitoral)
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (JJ concluído)
+    )
+    (PP 
+     (PP 
+      (IN até)
+      (IN a_)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS fim)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS mês)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,15 @@
-(S (S (NP (DT o) (NNS Manuel)) (VP (VB é) (JJ simpático))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB é)
+    (JJ simpático)
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,18 @@
-(S '' (S (S (VP (VP (RB Não) (VB está)) (RB lá))) ?) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB está)
+     )
+     (RB lá)
+    )
+   )
+   ?
+  )
+ )
+)

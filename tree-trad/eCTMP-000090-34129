@@ -1,1 +1,35 @@
-(S (NP (NP (NP (NP (NNS João) (NNS Pinto))) (NP , (NP (CD 20) (NNS anos)) ,)) (NP (DT o) (NP (NNS protagonista) (PP (IN de_) (NP (DT a) (NNS jornada)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS João)
+      (NNS Pinto)
+     )
+    )
+    (NP 
+     ,
+     (NP 
+      (CD 20)
+      (NNS anos)
+     )
+     ,
+    )
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS protagonista)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS jornada)
+      )
+     )
+    )
+   )
+  )
+ )
+)

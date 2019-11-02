@@ -1,1 +1,49 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS Misericórdia))) ,) (S (VP (VB são) (NP (DT os) (NP (NNS velhinhos) (PP (IN de_) (NP (DT o) (NNS lar)))))) (NP (NP (PRP quem)) (S (VP (VB representa) (NP (DT a) (NNS cena))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS Misericórdia)
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB são)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS velhinhos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS lar)
+        )
+       )
+      )
+     )
+    )
+    (NP 
+     (NP 
+      (PRP quem)
+     )
+     (S 
+      (VP 
+       (VB representa)
+       (NP 
+        (DT a)
+        (NNS cena)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

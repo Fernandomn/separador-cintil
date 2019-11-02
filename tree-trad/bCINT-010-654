@@ -1,1 +1,22 @@
-(S (S (NP (DT O) (NNS problema)) (VP (VB é) (NP (DT o) (NP '' (NNS cerca) ``)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS problema)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      ''
+      ''
+      (NNS cerca)
+     )
+    )
+   )
+  )
+  .
+ )
+)

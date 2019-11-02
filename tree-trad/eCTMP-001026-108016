@@ -1,1 +1,31 @@
-(S (NP (DT Um) (NP (NP (NNS lance) (ADJP (RB pouco) (JJ usual))) (PP (IN em_) (NP (DT o) (NP (NNS reportório) (PP (IN de) (NP (NNS Karpov)))))))))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NP 
+     (NNS lance)
+     (ADJP 
+      (RB pouco)
+      (JJ usual)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS reportório)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Karpov)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

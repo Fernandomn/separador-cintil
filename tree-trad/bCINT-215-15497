@@ -1,1 +1,27 @@
-(S (S (NP (NNS Pacheco)) (VP (VB avisa) (PP (IN em) (NP (NP (NNS tom) (PP (IN de) (NP (NNS ameaça)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Pacheco)
+   )
+   (VP 
+    (VB avisa)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS tom)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS ameaça)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

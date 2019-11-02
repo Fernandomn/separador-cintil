@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS presidente)) (VP (VP (VB pronunciou) (NP (PRP -se))) (PP (IN sobre) (NP (DT a) (NNS decisão))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS presidente)
+   )
+   (VP 
+    (VP 
+     (VB pronunciou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NNS decisão)
+     )
+    )
+   )
+  )
+  .
+ )
+)

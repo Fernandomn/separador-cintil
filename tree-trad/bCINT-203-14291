@@ -1,1 +1,28 @@
-(S (VP (PP (IN Em) (NP (PRP qualquer) (NP (PP (IN de_) (NP (DT os) (NNS cenários)))))) (VP (VB há) (NP (NNS oportunidades)))) .)
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em)
+    (NP 
+     (PRP qualquer)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS cenários)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (NNS oportunidades)
+    )
+   )
+  )
+  .
+ )
+)

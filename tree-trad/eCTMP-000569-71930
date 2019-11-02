@@ -1,1 +1,33 @@
-(S (NP '' (NP (NNS Made) (NNS in) (NNS Portugal)) ``) (VP (RB já) (VP (RB nem) (VP (VB é) (ADJP '' (ADJP (JJ barato) (ADJP (CC mas) (JJ mau))) ``)))))
+(
+ (S 
+  (NP 
+   ''
+   ''
+   (NP 
+    (NNS Made)
+    (NNS in)
+    (NNS Portugal)
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (RB nem)
+    (VP 
+     (VB é)
+     (ADJP 
+      ''
+      ''
+      (ADJP 
+       (JJ barato)
+       (ADJP 
+        (CC mas)
+        (JJ mau)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

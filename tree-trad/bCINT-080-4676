@@ -1,1 +1,13 @@
-(S (NP (NNS Ludgero)) (VP (VB ataca) (NP (NNS Menezes))))
+(
+ (S 
+  (NP 
+   (NNS Ludgero)
+  )
+  (VP 
+   (VB ataca)
+   (NP 
+    (NNS Menezes)
+   )
+  )
+ )
+)

@@ -1,1 +1,27 @@
-(S (S (S (S (VB Respirou) (NP (PRP -se))) (PP (IN de) (NP (NNS alívio)))) (PP (IN em) (NP (NNS Alvalade)))) .)
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VB Respirou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS alívio)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Alvalade)
+    )
+   )
+  )
+  .
+ )
+)

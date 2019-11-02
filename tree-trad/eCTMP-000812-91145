@@ -1,1 +1,20 @@
-(S (NP (NP (NNS Margarida) (NNS Santos) (NNS Lopes)) ,) (VP (PP (IN em) (NP (NNS Jerusalém)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Margarida)
+    (NNS Santos)
+    (NNS Lopes)
+   )
+   ,
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Jerusalém)
+    )
+   )
+  )
+ )
+)

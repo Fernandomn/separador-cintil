@@ -1,1 +1,24 @@
-(S (S (NP (DT o) (NNS cliente)) (VP (VB encomendou) (NP (DT um) (NP (NNS computador) (ADJP (RB tão) (JJ barato)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS cliente)
+   )
+   (VP 
+    (VB encomendou)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS computador)
+      (ADJP 
+       (RB tão)
+       (JJ barato)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

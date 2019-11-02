@@ -1,1 +1,24 @@
-(S (NP (NP (NNS Taça) (PP (IN de) (NP (NNS Inglaterra))))) (VP (PP (IN em_) (NP (DT as) (NNS meias-finais)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Taça)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Inglaterra)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT as)
+     (NNS meias-finais)
+    )
+   )
+  )
+ )
+)

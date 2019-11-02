@@ -1,1 +1,22 @@
-(S (NP (NNS Observadores)) (VP (VB suspendem) (NP (NP (NNS acções) (PP (IN em_) (NP (DT o) (NNS terreno)))))))
+(
+ (S 
+  (NP 
+   (NNS Observadores)
+  )
+  (VP 
+   (VB suspendem)
+   (NP 
+    (NP 
+     (NNS acções)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS terreno)
+      )
+     )
+    )
+   )
+  )
+ )
+)

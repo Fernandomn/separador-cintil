@@ -1,1 +1,26 @@
-(S (S (NP (DT A) (NNS irmã)) (VP (VP (VB tentou) (RB então)) (VP (VB mudar) (PP (IN de) (NP (NNS assunto)))))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS irmã)
+   )
+   (VP 
+    (VP 
+     (VB tentou)
+     (RB então)
+    )
+    (VP 
+     (VB mudar)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS assunto)
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

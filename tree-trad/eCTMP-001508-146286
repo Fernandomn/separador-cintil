@@ -1,1 +1,26 @@
-(S (NP (NP (NP (NNS Mandado) (PP (IN de) (NP (NNS captura)))) (PP (IN a) (NP (NP (NNS Pedro) (NNS Caldeira)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Mandado)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS captura)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NP 
+       (NNS Pedro)
+       (NNS Caldeira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

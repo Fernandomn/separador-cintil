@@ -1,1 +1,23 @@
-(S (S (VP (VB Comprei) (NP (NP (CD vinte) (CD e) (CD dois) (CD mil) (CD e) (CD duzentos) (CD e) (CD vinte)) (NNS computadores)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Comprei)
+    (NP 
+     (NP 
+      (CD vinte)
+      (CD e)
+      (CD dois)
+      (CD mil)
+      (CD e)
+      (CD duzentos)
+      (CD e)
+      (CD vinte)
+     )
+     (NNS computadores)
+    )
+   )
+  )
+  .
+ )
+)

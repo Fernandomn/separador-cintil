@@ -1,1 +1,20 @@
-(S (S (NP (DT Os) (NNS muçulmanos)) (VP (VB apresentam) (NP (NP (NNS argumentos) (JJ opostos))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS muçulmanos)
+   )
+   (VP 
+    (VB apresentam)
+    (NP 
+     (NP 
+      (NNS argumentos)
+      (JJ opostos)
+     )
+    )
+   )
+  )
+  .
+ )
+)

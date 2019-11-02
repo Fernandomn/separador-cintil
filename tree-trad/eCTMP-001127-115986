@@ -1,1 +1,33 @@
-(S (S '' (S (NP (DT O) (NNS banco)) (VP (VP (RB não) (VB é)) (ADJP (ADJP (RB mais) (JJ idóneo)) (CONJP (CC que) (NP (PRP eu)))))) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (NP 
+     (DT O)
+     (NNS banco)
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (JJ idóneo)
+      )
+      (CONJP 
+       (CC que)
+       (NP 
+        (PRP eu)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

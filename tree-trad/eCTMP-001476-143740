@@ -1,1 +1,26 @@
-(S '' (S (NP (NNS AACS)) (VP (VB é) (NP (NP (NNS estrutura) (PP (IN de_) (NP (DT o) (NNS PSD))))))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (NP 
+    (NNS AACS)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS estrutura)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS PSD)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

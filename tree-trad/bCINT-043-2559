@@ -1,1 +1,38 @@
-(S (S (VP (ADVP (RB Perto) (PP (IN de_) (NP (DT o) (NP (NNS campo) (PP (IN de) (NP (NNS futebol))))))) (VB existem)) (NP (CD três) (NP (JJ potenciais) (NP (NNS valas) (JJ comuns))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Perto)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS campo)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS futebol)
+         )
+        )
+       )
+      )
+     )
+    )
+    (VB existem)
+   )
+   (NP 
+    (CD três)
+    (NP 
+     (JJ potenciais)
+     (NP 
+      (NNS valas)
+      (JJ comuns)
+     )
+    )
+   )
+  )
+  .
+ )
+)

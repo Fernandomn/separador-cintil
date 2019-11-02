@@ -1,1 +1,24 @@
-(S (S (NP (NP (NNS Madredeus)) (NP (CC e) (NP (NNS Cesária)))) ,) (PP (IN por) (NP (NNS unanimidade))))
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Madredeus)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (NNS Cesária)
+     )
+    )
+   )
+   ,
+  )
+  (PP 
+   (IN por)
+   (NP 
+    (NNS unanimidade)
+   )
+  )
+ )
+)

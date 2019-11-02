@@ -1,1 +1,17 @@
-(S (NP (NNS Dólar)) (VP (VB sobe) (PP (IN contra) (NP (DT o) (NNS iene)))))
+(
+ (S 
+  (NP 
+   (NNS Dólar)
+  )
+  (VP 
+   (VB sobe)
+   (PP 
+    (IN contra)
+    (NP 
+     (DT o)
+     (NNS iene)
+    )
+   )
+  )
+ )
+)

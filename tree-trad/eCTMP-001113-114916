@@ -1,1 +1,26 @@
-(S (S (NP (DT A) (NP (PP$ sua) (NP (CD última) (NNS esperança)))) (S (VP (VB é)) (NP (DT a) (NNS Associação)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP sua)
+     (NP 
+      (CD última)
+      (NNS esperança)
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT a)
+     (NNS Associação)
+    )
+   )
+  )
+  .
+ )
+)

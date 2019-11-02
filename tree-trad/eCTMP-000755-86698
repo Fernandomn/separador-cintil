@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Acrobacia) (NP (CC e) (NP (NNS malabarismo) (PP (IN com) (NP (NNS fogo))))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Acrobacia)
+    (NP 
+     (CC e)
+     (NP 
+      (NNS malabarismo)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS fogo)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

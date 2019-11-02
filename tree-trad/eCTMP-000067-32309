@@ -1,1 +1,22 @@
-(S (S (VP (VB Deu) (NP (DT uma) (NP (NNS gargalhada) (PP (IN de) (NP (NNS inglês))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Deu)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS gargalhada)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS inglês)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

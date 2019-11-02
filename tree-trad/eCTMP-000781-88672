@@ -1,88 +1,91 @@
-(S 
+(
  (S 
-  (NP 
-   (DT As)
+  (S 
    (NP 
+    (DT As)
     (NP 
-     (NNS relações)
-     (JJ económicas)
-    )
-    (PP 
-     (IN de)
      (NP 
-      (NNS Portugal)
+      (NNS relações)
+      (JJ económicas)
      )
-    )
-   )
-  )
-  (VP 
-   (VP 
-    (VB tiveram)
-    (NP 
-     (DT um)
-     (NP 
-      (NNS crescimento)
-      (ADJP 
-       (RB muito)
-       (JJ grande)
-      )
-     )
-    )
-   )
-   (PP 
-    (PP 
-     (IN com)
-     (NP 
-      (NP 
-       (DT a)
-       (NNS Espanha)
-      )
-      (NP 
-       ,
-       (NP 
-        (NP 
-         (NNS França)
-        )
-        (NP 
-         (CC e)
-         (NP 
-          (NNS Alemanha)
-         )
-        )
-       )
-      )
-     )
-    )
-    (PP 
-     (CONJP e ,)
      (PP 
-      (PP 
-       (IN em_)
+      (IN de)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB tiveram)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS crescimento)
+       (ADJP 
+        (RB muito)
+        (JJ grande)
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN com)
+      (NP 
        (NP 
-        (DT um)
+        (DT a)
+        (NNS Espanha)
+       )
+       (NP 
+        ,
         (NP 
-         (CD segundo)
-         (NNS registo)
+         (NP 
+          (NNS França)
+         )
+         (NP 
+          (CC e)
+          (NP 
+           (NNS Alemanha)
+          )
+         )
         )
        )
       )
+     )
+     (PP 
+      (CC e)
+      ,
       (PP 
-       ,
        (PP 
-        (PP 
-         (IN com)
+        (IN em_)
+        (NP 
+         (DT um)
          (NP 
-          (DT a)
-          (NNS Holanda)
+          (CD segundo)
+          (NNS registo)
          )
         )
+       )
+       (PP 
+        ,
         (PP 
-         (CC e)
          (PP 
           (IN com)
           (NP 
            (DT a)
-           (NNS Itália)
+           (NNS Holanda)
+          )
+         )
+         (PP 
+          (CC e)
+          (PP 
+           (IN com)
+           (NP 
+            (DT a)
+            (NNS Itália)
+           )
           )
          )
         )
@@ -92,6 +95,6 @@
     )
    )
   )
+  .
  )
- .
 )

@@ -1,1 +1,35 @@
-(S (S (S (NP (DT A) (NNS Rússia)) (VB acreditou)) (S (CC e) (S (VP (VB dramatizou) (NP (DT a) (NP (NNS resolução) (PP (IN de_) (NP (DT o) (NNS grupo))))))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS Rússia)
+    )
+    (VB acreditou)
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB dramatizou)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS resolução)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS grupo)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

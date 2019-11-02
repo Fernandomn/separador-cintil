@@ -1,1 +1,24 @@
-(S (S (S (VP (VB Temos) (NP (NP (DT as) (NNS maquetas)) (NP (CC e) (NP (PRP tudo)))))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Temos)
+     (NP 
+      (NP 
+       (DT as)
+       (NNS maquetas)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (PRP tudo)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

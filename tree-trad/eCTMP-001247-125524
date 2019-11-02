@@ -1,1 +1,57 @@
-(S (S (VP (RB Só) (VP (PP (PP (IN depois) (IN de_)) (NP (DT isto))) (VP (VB faria) (NP (NNS sentido))))) (NP (DT um) (NP (NNS assalto) (PP (IN a_) (NP (DT as) (NP (NP (NNS tropas) (PP (IN de) (NP (NNS elite)))) (NP (CC e) (NP (NNS palácios) (JJ presidenciais))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Só)
+    (VP 
+     (PP 
+      (PP 
+       (IN depois)
+       (IN de_)
+      )
+      (NP 
+       (DT isto)
+      )
+     )
+     (VP 
+      (VB faria)
+      (NP 
+       (NNS sentido)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (NNS assalto)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT as)
+       (NP 
+        (NP 
+         (NNS tropas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS elite)
+          )
+         )
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS palácios)
+          (JJ presidenciais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

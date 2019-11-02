@@ -1,1 +1,33 @@
-(S (S (NP (DT o) (NNS Manuel)) (VP (VB é) (NP (DT o) (NP (NP (NNS pai) (ADJP (RB muito) (JJ provável))) (PP (IN de_) (NP (DT a) (NNS Maria))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT o)
+    (NNS Manuel)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS pai)
+       (ADJP 
+        (RB muito)
+        (JJ provável)
+       )
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Maria)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

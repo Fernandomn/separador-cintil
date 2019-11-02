@@ -1,1 +1,21 @@
-(S (VP (PP (PP (IN EM) (IN CIMA) (IN de_)) (NP (DT o) (NNS PÓDIO))) (VP (RB NUNCA) (VB EXPERIMENTEI))))
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN EM)
+     (IN CIMA)
+     (IN de_)
+    )
+    (NP 
+     (DT o)
+     (NNS PÓDIO)
+    )
+   )
+   (VP 
+    (RB NUNCA)
+    (VB EXPERIMENTEI)
+   )
+  )
+ )
+)

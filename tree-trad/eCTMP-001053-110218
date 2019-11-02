@@ -1,1 +1,32 @@
-(S (NP (DT As) (NP (NP (NNS bandeiras) (JJ vermelhas)) (PP (IN de_) (NP (DT a) (NP (NP (NNS revolução) (JJ cultural)) (PP (IN de) (NP (NNS Mao)))))))) .)
+(
+ (S 
+  (NP 
+   (DT As)
+   (NP 
+    (NP 
+     (NNS bandeiras)
+     (JJ vermelhas)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS revolução)
+        (JJ cultural)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Mao)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,22 @@
-(S (NP (NNS Ucrânia)) (VP (VP (VB quer) (NP (NNS base))) (PP (IN em_) (NP (DT a) (NNS Antártida)))))
+(
+ (S 
+  (NP 
+   (NNS Ucrânia)
+  )
+  (VP 
+   (VP 
+    (VB quer)
+    (NP 
+     (NNS base)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NNS Antártida)
+    )
+   )
+  )
+ )
+)

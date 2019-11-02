@@ -1,1 +1,23 @@
-(S (VP (PP (IN em_) (NP (DT esta) (NNS indústria))) (VP (VP (RB não) (VB há)) (NP (NNS nacionalidade)))) .)
+(
+ (S 
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT esta)
+     (NNS indústria)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB há)
+    )
+    (NP 
+     (NNS nacionalidade)
+    )
+   )
+  )
+  .
+ )
+)

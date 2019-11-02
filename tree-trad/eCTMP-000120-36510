@@ -1,1 +1,23 @@
-(S (S (VP (PP (PP (IN De) (NP (PRP qualquer) (NNS forma))) ,) (VP (VB são) (JJ obrigatórias)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN De)
+      (NP 
+       (PRP qualquer)
+       (NNS forma)
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB são)
+     (JJ obrigatórias)
+    )
+   )
+  )
+  .
+ )
+)

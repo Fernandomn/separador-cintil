@@ -30,12 +30,16 @@ ns = {'base': "http://nlx.di.fc.ul.pt",
       'xsi': 'http://www.w3.org/2001/XMLSchema-instance'}
 
 occList = ["CL", "CONJ'"]
-dir_relatorios = 'relatorios/'
+dir_relatorios = 'relatorios'
+dir_raw_trad = 'raw-trad'
+dir_tree_trad = 'tree-trad'
+dir_list = [dir_relatorios, dir_raw_trad, dir_tree_trad]
 
 
 # metodo criado unicamente para facilitar escrita do projeto final. servepara criar um arquivo com uma lista de conjunções.
 def printOccList(dict):
-    occ_file = open(dir_relatorios + 'occurrence_count.csv', 'w')
+    file_name = '{0}/{1}'.format(dir_relatorios, 'occurrence_count.csv')
+    occ_file = open(file_name, 'w', encoding='utf-8')
     listKeys = settings.posDict.keys()
     for key in sorted(listKeys):
         occ_file.write("{0}, {1}\n".format(key, dict[key] if key in dict else 0))
@@ -45,14 +49,15 @@ def printOccList(dict):
 
 def createListFiles():
     createListFile('separated_conjunction_list.txt', settings.conjList)
-    createListFile('combined_conjunction_list.txt', settings.conjList2)
+    # createListFile('combined_conjunction_list.txt', settings.conjList2)
     createListFile('points_list.txt', settings.pointList)
     createListFile('clitics_list.txt', settings.clitList)
     printOccList(settings.tagOcc)
 
 
 def createListFile(fileName, list):
-    conjFile = open(dir_relatorios + fileName, 'w')
+    file_name = '{0}/{1}'.format(dir_relatorios, fileName)
+    conjFile = open(file_name, 'w', encoding='utf-8')
     list.sort()
     conjFile.write("\n".join(str(item) for item in list))
     conjFile.close()
@@ -60,18 +65,29 @@ def createListFile(fileName, list):
 
 def verificaOcorrencias(occList, treeText):
     for tag in occList:
-        fileName = dir_relatorios + 'occurrence_list_{0}.txt'.format(tag)
-        occFile = open(fileName, 'a' if os.path.exists(fileName) else 'w')
+        fileName = '{0}/{1}'.format(dir_relatorios, 'occurrence_list_{0}.txt'.format(tag))
+        occFile = open(fileName, 'a' if os.path.exists(fileName) else 'w', encoding='utf-8')
         if '({0}'.format(tag) in treeText.split():
             occFile.write(treeText + '\n')
         occFile.close()
 
 
 def iniciaOcorrencias():
+    for dir in dir_list:
+        if not os.path.exists(dir):
+            os.mkdir(dir)
+        # os.chdir(dir)
+
     for tag in occList:
-        fileName = dir_relatorios + 'occurrence_list_{0}.txt'.format(tag)
-        occFile = open(fileName, 'w')
+        fileName = '{0}/{1}'.format(dir_relatorios, 'occurrence_list_{0}.txt'.format(tag))
+        occFile = open(fileName, 'w', encoding='utf-8')
         occFile.close()
+
+
+def createTreeFile(base_dir, id, text):
+    tree_file = open('{0}-trad/{1}'.format(base_dir, id), 'w', encoding='utf-8')
+    tree_file.write(text)
+    tree_file.close()
 
 
 def main():
@@ -82,18 +98,13 @@ def main():
             id = sentenca.find('base:id', ns).text.replace('/', '-')
             raw = sentenca.find('base:raw', ns)
             tree = sentenca.find('base:tree', ns)
-            treeText = tree.text
+            tree_text = tree.text
 
-            verificaOcorrencias(occList, treeText)
+            verificaOcorrencias(occList, tree_text)
 
-            treeText = translator.traduzirTags(treeText)
-
-            raw_file = open('raw-trad/%s' % id, 'w')
-            tree_file = open('tree-trad/%s' % id, 'w')
-            raw_file.write(raw.text)
-            tree_file.write(treeText)
-            raw_file.close()
-            tree_file.close()
+            tree_text = translator.traduzirTags(tree_text)
+            createTreeFile('raw', id, raw.text)
+            createTreeFile('tree', id, tree_text)
 
     createListFiles()
 

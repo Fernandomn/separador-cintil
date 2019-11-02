@@ -1,1 +1,32 @@
-(S (S (NP (DT A) (NP (NNS Segunda) (NNS Circular))) (VP (VB foi) (VP (VB concluída) (PP (IN com) (NP (DT o) (NP (NNS Viaduto) (NNS de_) (NNS o) (NNS Relógio))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Segunda)
+     (NNS Circular)
+    )
+   )
+   (VP 
+    (VB foi)
+    (VP 
+     (VB concluída)
+     (PP 
+      (IN com)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Viaduto)
+        (NNS de_)
+        (NNS o)
+        (NNS Relógio)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

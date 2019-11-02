@@ -1,1 +1,30 @@
-(S (NP '' (NP (NNS Porto) (NNS Santo)) ``) (VP (VB recebe) (NP (NP (NNS apoio) (PP (IN de_) (NP (DT a) (NP (NNS Expo) (NNS 98))))))))
+(
+ (S 
+  (NP 
+   ''
+   ''
+   (NP 
+    (NNS Porto)
+    (NNS Santo)
+   )
+  )
+  (VP 
+   (VB recebe)
+   (NP 
+    (NP 
+     (NNS apoio)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS Expo)
+        (NNS 98)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

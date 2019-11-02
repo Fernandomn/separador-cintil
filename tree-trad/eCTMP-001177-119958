@@ -1,1 +1,22 @@
-(S (S '' (S (NP (DT Os) (NNS professores)) (VP (RB também) (VP (VB foram) (VB alertados)))) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (NP 
+     (DT Os)
+     (NNS professores)
+    )
+    (VP 
+     (RB também)
+     (VP 
+      (VB foram)
+      (VB alertados)
+     )
+    )
+   )
+  )
+  .
+ )
+)

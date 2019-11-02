@@ -1,1 +1,35 @@
-(S (S (ADVP (ADVP (RB Mesmo) (RB assim)) ,) (S (NP (DT o) (NP (PP$ seu) (NNS falhanço))) (VP (VB foi) (VP (VB brindado) (PP (IN com) (NP (NNS palmas))))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Mesmo)
+     (RB assim)
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (PP seu)
+      (NNS falhanço)
+     )
+    )
+    (VP 
+     (VB foi)
+     (VP 
+      (VB brindado)
+      (PP 
+       (IN com)
+       (NP 
+        (NNS palmas)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

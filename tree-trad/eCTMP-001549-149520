@@ -1,1 +1,21 @@
-(S (S (VB Acabara) (NP (DT a) (NP (NNS corrida) (PP (IN de_) (NP (DT as) (NNS motos)))))) .)
+(
+ (S 
+  (S 
+   (VB Acabara)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS corrida)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS motos)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

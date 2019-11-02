@@ -1,1 +1,21 @@
-(S (NP (NP (NNS CDU)) (NP (CC e) (NP (NNS PS)))) (VP (ADJP (RB mais) (JJ próximos))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS CDU)
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NNS PS)
+    )
+   )
+  )
+  (VP 
+   (ADJP 
+    (RB mais)
+    (JJ próximos)
+   )
+  )
+ )
+)

@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Orquestra) (NNS Clássica) (NNS de_) (NNS o) (NNS Porto))) (VP (VB tem) (NP (NP (JJ novo) (NNS auditório)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Orquestra)
+    (NNS Clássica)
+    (NNS de_)
+    (NNS o)
+    (NNS Porto)
+   )
+  )
+  (VP 
+   (VB tem)
+   (NP 
+    (NP 
+     (JJ novo)
+     (NNS auditório)
+    )
+   )
+  )
+ )
+)

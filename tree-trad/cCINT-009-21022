@@ -1,1 +1,9 @@
-(S (NP (PRP Algum) (NNS professor)) ?)
+(
+ (S 
+  (NP 
+   (PRP Algum)
+   (NNS professor)
+  )
+  ?
+ )
+)

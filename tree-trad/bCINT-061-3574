@@ -1,1 +1,25 @@
-(S `` (S (VP (PP (IN Em_) (NP (DT o) (NNS futebol))) (VP (VP (RB não) (VB há)) (NP (NNS preferências)))) .))
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS futebol)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB há)
+     )
+     (NP 
+      (NNS preferências)
+     )
+    )
+   )
+   .
+  )
+ )
+)

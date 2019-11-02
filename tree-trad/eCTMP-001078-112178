@@ -1,1 +1,21 @@
-(S (NP (NNS Acidente)) (VP (PP (IN em_) (NP (DT a) (NP (NNS Vasco) (NNS de_) (NNS a) (NNS Gama))))))
+(
+ (S 
+  (NP 
+   (NNS Acidente)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Vasco)
+      (NNS de_)
+      (NNS a)
+      (NNS Gama)
+     )
+    )
+   )
+  )
+ )
+)

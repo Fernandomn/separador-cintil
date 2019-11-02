@@ -1,1 +1,36 @@
-(S (S (S (NP (DT O) (NP '' (NP (NNS homem) (PP (IN de_) (NP (DT o) (NNS bigodinho)))) ``)) (VP (VB está) (PP (IN de) (NP (NNS volta))))) ?) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NP 
+      ''
+      ''
+      (NP 
+       (NNS homem)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS bigodinho)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB está)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS volta)
+      )
+     )
+    )
+   )
+   ?
+  )
+  .
+ )
+)

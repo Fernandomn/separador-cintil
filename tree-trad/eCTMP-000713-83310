@@ -1,1 +1,46 @@
-(S (S (NP (NP (NP '' (NP (NNS As) (NNS Heresias)) ``) (PP , (PP (IN de_) (NP (DT o) (NP (JJ situacionista) (NP (NNS Raoul) (NNS Vaneigem))))) ,))) (VP (VB proporcionam) (NP (DT uma) (NP (NNS viagem) (JJ fascinante))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      ''
+      ''
+      (NP 
+       (NNS As)
+       (NNS Heresias)
+      )
+     )
+     (PP 
+      ,
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (JJ situacionista)
+         (NP 
+          (NNS Raoul)
+          (NNS Vaneigem)
+         )
+        )
+       )
+      )
+      ,
+     )
+    )
+   )
+   (VP 
+    (VB proporcionam)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS viagem)
+      (JJ fascinante)
+     )
+    )
+   )
+  )
+  .
+ )
+)

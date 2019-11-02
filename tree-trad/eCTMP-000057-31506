@@ -1,1 +1,26 @@
-(S (NP (NP (NNS País) (ADJP (ADJP (ADJP (RB bastante) (JJ caótico)) ,) (ADJP (CC mas) (ADJP (RB muito) (JJ industrioso)))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS País)
+    (ADJP 
+     (ADJP 
+      (ADJP 
+       (RB bastante)
+       (JJ caótico)
+      )
+      ,
+     )
+     (ADJP 
+      (CC mas)
+      (ADJP 
+       (RB muito)
+       (JJ industrioso)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

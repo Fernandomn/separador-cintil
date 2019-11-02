@@ -1,1 +1,34 @@
-(S (S (NP (DT A) (NP (NNS pré-época) (PP (IN de_) (NP (DT o) (NNS Sporting))))) (VP (VP (RB não) (VB podia)) (VP (VB ser) (NP (NP (JJ melhor)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS pré-época)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Sporting)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB podia)
+    )
+    (VP 
+     (VB ser)
+     (NP 
+      (NP 
+       (JJ melhor)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

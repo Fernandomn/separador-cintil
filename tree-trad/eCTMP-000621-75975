@@ -1,1 +1,32 @@
-(S (S (VP (PP (IN Em_) (NP (DT a) (NNS Grã-Bretanha))) (VP (RB nunca) (VP (VB tinha) (VP (VB sido) (VB vista))))) (NP (NP (NNS coisa) (JJ igual)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS Grã-Bretanha)
+     )
+    )
+    (VP 
+     (RB nunca)
+     (VP 
+      (VB tinha)
+      (VP 
+       (VB sido)
+       (VB vista)
+      )
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (NNS coisa)
+     (JJ igual)
+    )
+   )
+  )
+  .
+ )
+)

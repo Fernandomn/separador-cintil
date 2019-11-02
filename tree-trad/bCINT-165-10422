@@ -1,1 +1,14 @@
-(S (NP (NNS Decisão)) (VP (VB criou) (NP (PRP algum) (NNS pânico))))
+(
+ (S 
+  (NP 
+   (NNS Decisão)
+  )
+  (VP 
+   (VB criou)
+   (NP 
+    (PRP algum)
+    (NNS pânico)
+   )
+  )
+ )
+)

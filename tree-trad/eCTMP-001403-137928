@@ -1,1 +1,39 @@
-(S (S (NP (DT As) (NNS personagens)) (VP (VB passam) (PP (IN a) (VP (VB ser) (VP (VP (VB vistas) (PP (IN com) (NP (DT outros) (NNS olhos)))) (PP (IN por_) (NP (DT os) (NNS espectadores)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS personagens)
+   )
+   (VP 
+    (VB passam)
+    (PP 
+     (IN a)
+     (VP 
+      (VB ser)
+      (VP 
+       (VP 
+        (VB vistas)
+        (PP 
+         (IN com)
+         (NP 
+          (DT outros)
+          (NNS olhos)
+         )
+        )
+       )
+       (PP 
+        (IN por_)
+        (NP 
+         (DT os)
+         (NNS espectadores)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

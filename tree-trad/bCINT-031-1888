@@ -1,1 +1,52 @@
-(S `` (S (S (S (NP (PRP Eu)) (VP (VP (RB não) (VB sou)) (NP (DT um) (NP (NNS jogador) (PP (IN de) (NP (NNS talento))))))) (S , (S (VP (VB sou) (NP (DT um) (NP (NNS jogador) (PP (IN de) (NP (NNS trabalho))))))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (PRP Eu)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB sou)
+      )
+      (NP 
+       (DT um)
+       (NP 
+        (NNS jogador)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS talento)
+         )
+        )
+       )
+      )
+     )
+    )
+    (S 
+     ,
+     (S 
+      (VP 
+       (VB sou)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS jogador)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS trabalho)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

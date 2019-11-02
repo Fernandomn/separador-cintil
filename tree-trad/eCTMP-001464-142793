@@ -1,1 +1,35 @@
-(S (S (NP (DT A) (NNS independência)) (VP (VP (VB foi) (VB conseguida)) (PP (IN a_) (NP (DT o) (NP (NNS fim) (PP (IN de) (NP (NP (JJ longa) (NNS luta))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS independência)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (VB conseguida)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS fim)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (JJ longa)
+          (NNS luta)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

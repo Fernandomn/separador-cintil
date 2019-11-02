@@ -1,1 +1,26 @@
-(S (NP (NP (NNS António) (NNS Guterres))) (VP (VP (PP (IN em) (NP (NNS diálogo)))) (PP (IN em) (NP (NNS Portalegre)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS António)
+    (NNS Guterres)
+   )
+  )
+  (VP 
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS diálogo)
+     )
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Portalegre)
+    )
+   )
+  )
+ )
+)

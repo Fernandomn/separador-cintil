@@ -1,1 +1,37 @@
-(S (NP (NNS Accionistas)) (VP (ADJP (JJ descontentes) (PP (IN com) (NP (DT a) (NP (NP (NNS entrada) (PP (IN de_) (NP (DT o) (NNS Itaú)))) (PP (IN em_) (NP (DT o) (NNS BPI)))))))))
+(
+ (S 
+  (NP 
+   (NNS Accionistas)
+  )
+  (VP 
+   (ADJP 
+    (JJ descontentes)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS entrada)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS Itaú)
+         )
+        )
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT o)
+         (NNS BPI)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

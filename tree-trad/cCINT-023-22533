@@ -1,1 +1,22 @@
-(S (S (NP (DT O) (NNS Vasco)) (VP (ADVP , (RB porém) ,) (VP (RB não) (VB ligou)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Vasco)
+   )
+   (VP 
+    (ADVP 
+     ,
+     (RB porém)
+     ,
+    )
+    (VP 
+     (RB não)
+     (VB ligou)
+    )
+   )
+  )
+  .
+ )
+)

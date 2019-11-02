@@ -1,1 +1,37 @@
-(S (S (S (S (NP (DT Estes)) (VP (VB podiam) (VP (VP (VB ter) (VP (VB sido) (VB feitos))) (RB agora)))) ,) (S (CC e) (S (VP (RB não) (VB cansam))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT Estes)
+     )
+     (VP 
+      (VB podiam)
+      (VP 
+       (VP 
+        (VB ter)
+        (VP 
+         (VB sido)
+         (VB feitos)
+        )
+       )
+       (RB agora)
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (RB não)
+      (VB cansam)
+     )
+    )
+   )
+  )
+  .
+ )
+)

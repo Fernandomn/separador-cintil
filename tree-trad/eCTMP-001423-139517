@@ -1,41 +1,43 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT O)
+   (S 
     (NP 
-     (NNS Exército)
-     (NNS Federal)
-     (NNS Jugoslavo)
+     (DT O)
+     (NP 
+      (NNS Exército)
+      (NNS Federal)
+      (NNS Jugoslavo)
+     )
     )
-   )
-   (VP 
     (VP 
      (VP 
-      (VB foi)
-      (RB mal)
+      (VP 
+       (VB foi)
+       (RB mal)
+      )
+      (VB dirigido)
      )
-     (VB dirigido)
-    )
-    (CONJP desde que)
-    (S 
-     (VB começou)
-     (NP 
-      (DT o)
+     (CONJP desde que)
+     (S 
+      (VB começou)
       (NP 
-       (NNS conflito)
-       (PP 
-        (IN contra)
-        (NP 
-         (DT a)
-         (NNS Croácia)
+       (DT o)
+       (NP 
+        (NNS conflito)
+        (PP 
+         (IN contra)
+         (NP 
+          (DT a)
+          (NNS Croácia)
+         )
         )
        )
       )
      )
     )
    )
+   .
   )
-  .
  )
 )

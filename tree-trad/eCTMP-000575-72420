@@ -1,1 +1,24 @@
-(S (NP (DT O) (NP (NNS destino) (PP (IN de_) (NP (DT o) (NP '' (NP (NNS ouro) (NNS Melmer)) ``))))))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS destino)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       ''
+       ''
+       (NP 
+        (NNS ouro)
+        (NNS Melmer)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

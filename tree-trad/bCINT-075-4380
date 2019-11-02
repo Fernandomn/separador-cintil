@@ -1,1 +1,21 @@
-(S (NP (NNS Câmara)) (VP (VB suspende) (NP (NP (NNS obras) (PP (IN de) (NP (NNS gasolineira)))))))
+(
+ (S 
+  (NP 
+   (NNS Câmara)
+  )
+  (VP 
+   (VB suspende)
+   (NP 
+    (NP 
+     (NNS obras)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS gasolineira)
+      )
+     )
+    )
+   )
+  )
+ )
+)

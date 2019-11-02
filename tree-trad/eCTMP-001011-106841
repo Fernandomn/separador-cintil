@@ -1,54 +1,54 @@
-(S 
+(
  (S 
-  (CONJP 
+  (S 
    (CONJP Mesmo que)
    (S 
     (VB quisessem)
    )
    ,
-  )
-  (S 
-   (NP 
-    (DT as)
+   (S 
     (NP 
-     (NNS pessoas)
+     (DT as)
      (NP 
-      (PRP que)
-     )
-     (S 
-      (VP 
-       (VB estavam)
-       (PP 
-        (IN em_)
-        (NP 
-         (DT o)
-         (NNS parque)
+      (NNS pessoas)
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB estavam)
+        (PP 
+         (IN em_)
+         (NP 
+          (DT o)
+          (NNS parque)
+         )
         )
        )
       )
      )
     )
-   )
-   (VP 
-    (VP 
-     (RB não)
-     (VB conseguiam)
-    )
     (VP 
      (VP 
-      (VB ficar)
-      (JJ indiferentes)
+      (RB não)
+      (VB conseguiam)
      )
-     (PP 
-      (IN a_)
-      (NP 
-       (DT a)
-       (NNS situação)
+     (VP 
+      (VP 
+       (VB ficar)
+       (JJ indiferentes)
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
+        (NNS situação)
+       )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

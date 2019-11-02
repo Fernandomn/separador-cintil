@@ -1,1 +1,22 @@
-(S (S (RB Depois) (S (NP (NP (NNS chocolates) (NP (CC e) (NP (NNS bombons) (NNS Hohenzollern))))))) .)
+(
+ (S 
+  (S 
+   (RB Depois)
+   (S 
+    (NP 
+     (NP 
+      (NNS chocolates)
+      (NP 
+       (CC e)
+       (NP 
+        (NNS bombons)
+        (NNS Hohenzollern)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

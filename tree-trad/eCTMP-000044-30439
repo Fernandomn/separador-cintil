@@ -1,1 +1,29 @@
-(S (S (NP (DT A) (NP (NNS cotação) (PP (IN de) (NP (NNS Lenine))))) (VP (RB nunca) (VP (VB foi) (ADJP (RB tão) (JJ baixa))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS cotação)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS Lenine)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB nunca)
+    (VP 
+     (VB foi)
+     (ADJP 
+      (RB tão)
+      (JJ baixa)
+     )
+    )
+   )
+  )
+  .
+ )
+)

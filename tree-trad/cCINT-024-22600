@@ -1,1 +1,16 @@
-(S (S (VP (RB Já) (VP (VB estão) (ADJP (VB reformados))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (VB estão)
+     (ADJP 
+      (VB reformados)
+     )
+    )
+   )
+  )
+  .
+ )
+)

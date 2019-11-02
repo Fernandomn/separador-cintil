@@ -1,1 +1,23 @@
-(S (NP (NNS Iene)) (VP (PP (IN sob) (NP (NP (NNS pressão) (PP (IN de) (NP (NNS venda))))))))
+(
+ (S 
+  (NP 
+   (NNS Iene)
+  )
+  (VP 
+   (PP 
+    (IN sob)
+    (NP 
+     (NP 
+      (NNS pressão)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS venda)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

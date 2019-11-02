@@ -1,1 +1,33 @@
-(S (S (NP (NNS Esforço)) (VP (VP (JJ inútil)) (CONJP , (CONJP (CC porque) (S (VP (VP (RB não) (VB conseguiu)) (NP (DT a) (NNS vitória)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Esforço)
+   )
+   (VP 
+    (VP 
+     (JJ inútil)
+    )
+    (CONJP 
+     ,
+     (CONJP 
+      (CC porque)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB conseguiu)
+        )
+        (NP 
+         (DT a)
+         (NNS vitória)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,15 @@
-(S (S (VB Chegaram) (NP (PP$ minhas) (NP (JJ outras) (NNS cartas)))) .)
+(
+ (S 
+  (S 
+   (VB Chegaram)
+   (NP 
+    (PP minhas)
+    (NP 
+     (JJ outras)
+     (NNS cartas)
+    )
+   )
+  )
+  .
+ )
+)

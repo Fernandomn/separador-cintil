@@ -1,1 +1,13 @@
-(S (S (VP (VB Vejo) (NP (NNS Portos)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (NNS Portos)
+    )
+   )
+  )
+  .
+ )
+)

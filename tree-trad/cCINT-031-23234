@@ -1,1 +1,21 @@
-(S (S (VP (VB Tenho) (NP (NP (NNS ar) (PP (IN de) (NP (NNS repetente))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tenho)
+    (NP 
+     (NP 
+      (NNS ar)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS repetente)
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

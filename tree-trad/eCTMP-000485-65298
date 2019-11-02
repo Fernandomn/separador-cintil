@@ -1,1 +1,31 @@
-(S `` (S (S (VP (VB Foi) (NP (DT uma) (NP (NP (NNS semana) (JJ espectacular)) (PP , (PP (IN com) (NP (CD duas) (NNS vitórias)))))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Foi)
+     (NP 
+      (DT uma)
+      (NP 
+       (NP 
+        (NNS semana)
+        (JJ espectacular)
+       )
+       (PP 
+        ,
+        (PP 
+         (IN com)
+         (NP 
+          (CD duas)
+          (NNS vitórias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

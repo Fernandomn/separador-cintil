@@ -1,21 +1,23 @@
-(S 
+(
  (S 
   (S 
-   (VB Existe)
-   (NP 
+   (S 
+    (VB Existe)
     (NP 
-     (NNS espaço)
-     (PP 
-      (IN para)
-      (NP 
-       (PRP alguma)
+     (NP 
+      (NNS espaço)
+      (PP 
+       (IN para)
        (NP 
-        (NNS descida)
-        (PP 
-         (IN de_)
-         (NP 
-          (DT as)
-          (NNS taxas)
+        (PRP alguma)
+        (NP 
+         (NNS descida)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS taxas)
+          )
          )
         )
        )
@@ -23,28 +25,28 @@
      )
     )
    )
-  )
-  (CONJP sem que)
-  (S 
-   (NP 
-    (DT isso)
-   )
-   (VP 
-    (VB afecte)
+   (CONJP sem que)
+   (S 
     (NP 
-     (DT a)
+     (DT isso)
+    )
+    (VP 
+     (VB afecte)
      (NP 
-      (NNS posição)
-      (PP 
-       (IN de_)
-       (NP 
-        (DT a)
+      (DT a)
+      (NP 
+       (NNS posição)
+       (PP 
+        (IN de_)
         (NP 
-         (NNS taxa)
-         (PP 
-          (IN de)
-          (NP 
-           (NNS câmbio)
+         (DT a)
+         (NP 
+          (NNS taxa)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS câmbio)
+           )
           )
          )
         )
@@ -54,6 +56,6 @@
     )
    )
   )
+  .
  )
- .
 )

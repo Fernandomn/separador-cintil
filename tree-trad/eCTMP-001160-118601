@@ -1,1 +1,38 @@
-(S (S (NP (DT O) (NP (CD primeiro) (NP (NNS domingo) (PP (IN em) (NP (NNS Wimbledon)))))) (VP (VP (VB é) (RB tradicionalmente)) (VP (VB dedicado) (PP (IN a_) (NP (DT o) (NNS descanso)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (CD primeiro)
+     (NP 
+      (NNS domingo)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Wimbledon)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB tradicionalmente)
+    )
+    (VP 
+     (VB dedicado)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT o)
+       (NNS descanso)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,26 @@
-(CP (CP (ADVP (RB Sim) ,) (S (NP (PRP tu)) (VP (VB vais) (VP (VB ter) (NP (DT uma) (NNS madrinha)))))) !)
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Sim)
+    ,
+   )
+   (S 
+    (NP 
+     (PRP tu)
+    )
+    (VP 
+     (VB vais)
+     (VP 
+      (VB ter)
+      (NP 
+       (DT uma)
+       (NNS madrinha)
+      )
+     )
+    )
+   )
+  )
+  !
+ )
+)

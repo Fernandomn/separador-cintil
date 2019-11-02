@@ -1,1 +1,30 @@
-(S (S (VP (VP (RB Não) (VB sabias)) (CP (CC que) (S (NP (PRP ela)) (VP (VB viveu) (PP (IN em) (NP (NNS Coimbra)))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB sabias)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP ela)
+      )
+      (VP 
+       (VB viveu)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Coimbra)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

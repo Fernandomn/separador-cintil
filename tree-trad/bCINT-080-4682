@@ -1,1 +1,31 @@
-(S (NP (DT Um) (NP (NNS repto) (CP (PP (IN a) (NP (PRP que))) (S (NP (DT o) (NNS empresário)) (VP (VP (RB não) (VB foge))))))) :)
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS repto)
+    (CONJP 
+     (PP 
+      (IN a)
+      (NP 
+       (PRP que)
+      )
+     )
+     (S 
+      (NP 
+       (DT o)
+       (NNS empresário)
+      )
+      (VP 
+       (VP 
+        (RB não)
+        (VB foge)
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

@@ -1,1 +1,21 @@
-(S (S (NP (PRP Ele)) (VP (VB salientou) (CP (S (VP (VB estarem) (JJ seguros)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB salientou)
+    (CONJP 
+     (S 
+      (VP 
+       (VB estarem)
+       (JJ seguros)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

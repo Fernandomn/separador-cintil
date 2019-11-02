@@ -1,1 +1,37 @@
-(S (S (VP (VB Mostrou) (NP (NP (DT aquilo)) (NP (CC e) (NP (DT os) (NP (NNS nomes) (CP (NP (PRP que)) (S (VP (RB já) (VP (VB conheciam))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Mostrou)
+    (NP 
+     (NP 
+      (DT aquilo)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS nomes)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (RB já)
+           (VP 
+            (VB conheciam)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

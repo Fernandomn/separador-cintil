@@ -1,1 +1,33 @@
-(S (S (VP (VB Querem) (VP (VP (VB ser) (ADVP , (RB então) ,)) (NP (DT os) (NP (NNS donos) (PP (IN de_) (NP (DT o) (NNS clube)))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Querem)
+    (VP 
+     (VP 
+      (VB ser)
+      (ADVP 
+       ,
+       (RB então)
+       ,
+      )
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (NNS donos)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS clube)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

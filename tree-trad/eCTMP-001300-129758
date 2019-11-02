@@ -1,1 +1,26 @@
-(S (S (VP (VP (VB Começou) (PP (IN a) (VB trabalhar))) (PP (IN a_) (NP (DT os) (NP (CD sete) (NNS anos)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Começou)
+     (PP 
+      (IN a)
+      (VB trabalhar)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (CD sete)
+       (NNS anos)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

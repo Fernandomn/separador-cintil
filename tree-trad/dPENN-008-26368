@@ -1,1 +1,8 @@
-(S (NP (NNS Presidente)) .)
+(
+ (S 
+  (NP 
+   (NNS Presidente)
+  )
+  .
+ )
+)

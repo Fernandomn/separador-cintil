@@ -1,1 +1,36 @@
-(S '' (NP (NP (NNS Revisão) (PP (IN de) (NP (NP (NP (NNS preços) ``) (PP (IN de) (NP (NP (NNS estrada) (PP (IN em_) (NP (DT os) (NNS Açores))))))))))))
+(
+ (S 
+  ''
+  ''
+  (NP 
+   (NP 
+    (NNS Revisão)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        (NNS preços)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS estrada)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT os)
+            (NNS Açores)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

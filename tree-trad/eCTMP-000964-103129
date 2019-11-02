@@ -1,1 +1,37 @@
-(S (VP (PP (IN Com) (NP (NP (NP (NNS Michael) (NNS Palin))) (NP , (NP (NP (NP (NNS Lindsay) (NNS Duncan))) (NP (CC e) (NP (NP (NNS Robert) (NNS Lindsay))))))))))
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NP 
+       (NNS Michael)
+       (NNS Palin)
+      )
+     )
+     (NP 
+      ,
+      (NP 
+       (NP 
+        (NP 
+         (NNS Lindsay)
+         (NNS Duncan)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Robert)
+          (NNS Lindsay)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Professores) (JJ licenciados))) (VP (PP (IN contra) (NP (NP (NNS Lei) (NNS de) (NNS Bases))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Professores)
+    (JJ licenciados)
+   )
+  )
+  (VP 
+   (PP 
+    (IN contra)
+    (NP 
+     (NP 
+      (NNS Lei)
+      (NNS de)
+      (NNS Bases)
+     )
+    )
+   )
+  )
+ )
+)

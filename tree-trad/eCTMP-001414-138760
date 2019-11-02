@@ -1,1 +1,25 @@
-(S `` (S (S (VP (VB É) (NP (DT uma) (NP (NNS figura) (ADJP (ADVP (RB tão) (RB bem)) (VB conseguida)))))) !))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS figura)
+       (ADJP 
+        (ADVP 
+         (RB tão)
+         (RB bem)
+        )
+        (VB conseguida)
+       )
+      )
+     )
+    )
+   )
+   !
+  )
+ )
+)

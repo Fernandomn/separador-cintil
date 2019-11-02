@@ -1,1 +1,17 @@
-(S (S (NP (DT Uma) (NNS vida))) (PP (IN por) (NP (DT um) (NNS barco))))
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NNS vida)
+   )
+  )
+  (PP 
+   (IN por)
+   (NP 
+    (DT um)
+    (NNS barco)
+   )
+  )
+ )
+)

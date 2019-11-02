@@ -1,1 +1,9 @@
-(S (NP (DT A) (NNS frase)) :)
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS frase)
+  )
+  :
+ )
+)

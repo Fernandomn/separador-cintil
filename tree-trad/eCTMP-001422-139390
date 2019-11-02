@@ -1,1 +1,56 @@
-(S (NP (NP (NNS Angústia) (CP (NP (PRP que)) (S (VP (VB aumenta) (CONJP (CC quando) (S '' (S (S (S (NP (DT o) (NNS avião)) (VP (VB chega) (RB tarde))) ,) (S (CC ou) (S (VP (VP (RB não) (VB há)) (NP (NNS futebol)))))) ``))))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Angústia)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB aumenta)
+       (CONJP 
+        (CC quando)
+        (S 
+         ''
+         ''
+         (S 
+          (S 
+           (S 
+            (NP 
+             (DT o)
+             (NNS avião)
+            )
+            (VP 
+             (VB chega)
+             (RB tarde)
+            )
+           )
+           ,
+          )
+          (S 
+           (CC ou)
+           (S 
+            (VP 
+             (VP 
+              (RB não)
+              (VB há)
+             )
+             (NP 
+              (NNS futebol)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

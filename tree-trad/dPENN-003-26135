@@ -1,1 +1,30 @@
-(S (NP (NP (NNS Terça-feira) ,) (NP (CD 31) (NP (PP (IN de) (NP (NP (NNS Outubro) (PP (IN de) (NP (CD 1989))))))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Terça-feira)
+    ,
+   )
+   (NP 
+    (CD 31)
+    (NP 
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Outubro)
+        (PP 
+         (IN de)
+         (NP 
+          (CD 1989)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

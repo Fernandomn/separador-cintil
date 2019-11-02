@@ -1,1 +1,25 @@
-(S (S (VP (VP (RB Detrás)) ,) (NP (DT uma) (NP (NNS teia) (PP (IN de) (NP (NNS fios)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Detrás)
+    )
+    ,
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS teia)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS fios)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,35 @@
-(S (NP (DT Um) (NP (NNS quartel) (CP (PP (IN por) (RB onde)) (S (NP (DT a) (NNS guerra)) (VP (VP (VB passava) (NP (PRP todos) (NP (DT os) (NNS dias))))))))) .)
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS quartel)
+    (CONJP 
+     (PP 
+      (IN por)
+      (RB onde)
+     )
+     (S 
+      (NP 
+       (DT a)
+       (NNS guerra)
+      )
+      (VP 
+       (VP 
+        (VB passava)
+        (NP 
+         (PRP todos)
+         (NP 
+          (DT os)
+          (NNS dias)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

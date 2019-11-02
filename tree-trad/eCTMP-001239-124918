@@ -1,1 +1,21 @@
-(S (S (NP (DT Os) (NNS membros)) (VP (VB constituem) (NP (DT uma) (NP (NNS comunidade) (JJ heterogénea))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS membros)
+   )
+   (VP 
+    (VB constituem)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS comunidade)
+      (JJ heterogénea)
+     )
+    )
+   )
+  )
+  .
+ )
+)

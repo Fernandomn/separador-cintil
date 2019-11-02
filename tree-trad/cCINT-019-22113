@@ -1,1 +1,33 @@
-(S (S (NP (DT O) (NNS pai)) (VP (VP (VB estava) (PP (IN em_) (NP (DT a) (NNS sala)))) (PP (IN a) (VP (VB ver) (NP (DT o) (NNS noticiário)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS pai)
+   )
+   (VP 
+    (VP 
+     (VB estava)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NNS sala)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB ver)
+      (NP 
+       (DT o)
+       (NNS noticiário)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

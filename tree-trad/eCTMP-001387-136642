@@ -1,74 +1,76 @@
-(S 
+(
  (S 
-  (ADVP 
-   (RB Felizmente)
-   ,
-  )
   (S 
-   (NP 
-    (DT as)
+   (ADVP 
+    (RB Felizmente)
+    ,
+   )
+   (S 
     (NP 
-     (NNS associações)
-     (PP 
-      (IN de)
-      (NP 
-       (NNS profissionais)
+     (DT as)
+     (NP 
+      (NNS associações)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS profissionais)
+       )
       )
      )
     )
-   )
-   (VP 
-    (VB existem)
-    (CONJP para que)
-    (S 
-     (PP 
-      (IN com)
-      (NP 
-       (DT a)
+    (VP 
+     (VB existem)
+     (CONJP para que)
+     (S 
+      (PP 
+       (IN com)
        (NP 
+        (DT a)
         (NP 
-         ''
-         ''
-         (NNS carolice)
-        )
-        (PP 
-         (IN de)
          (NP 
-          (PRP alguns)
+          ''
+          ''
+          (NNS carolice)
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (PRP alguns)
+          )
          )
         )
        )
       )
-     )
-     (S 
-      (VP 
+      (S 
        (VP 
-        (NP 
-         (PRP se)
-        )
-        (VB promova)
-       )
-       (ADVP 
-        ,
-        (ADVP 
-         (RB de)
-         (RB facto)
-        )
-        ,
-       )
-      )
-      (NP 
-       (DT a)
-       (NP 
-        (NP 
-         (NNS formação)
-         (JJ contínua)
-        )
-        (PP 
-         (IN de_)
+        (VP 
          (NP 
-          (DT os)
-          (NNS professores)
+          (PRP se)
+         )
+         (VB promova)
+        )
+        (ADVP 
+         ,
+         (ADVP 
+          (RB de)
+          (RB facto)
+         )
+         ,
+        )
+       )
+       (NP 
+        (DT a)
+        (NP 
+         (NP 
+          (NNS formação)
+          (JJ contínua)
+         )
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS professores)
+          )
          )
         )
        )
@@ -77,6 +79,6 @@
     )
    )
   )
+  .
  )
- .
 )

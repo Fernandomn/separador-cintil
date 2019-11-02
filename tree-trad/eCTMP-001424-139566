@@ -1,42 +1,44 @@
-(S 
+(
  (S 
-  (NP 
+  (S 
    (NP 
-    (NNS Alfred)
-    (NNS Stepan)
-   )
-  )
-  (VP 
-   (VB teve)
-   (NP 
-    (DT um)
     (NP 
+     (NNS Alfred)
+     (NNS Stepan)
+    )
+   )
+   (VP 
+    (VB teve)
+    (NP 
+     (DT um)
      (NP 
-      (NNS percurso)
-      (ADJP 
-       (JJ académico)
+      (NP 
+       (NNS percurso)
        (ADJP 
-        (CC e)
-        (JJ profissional)
+        (JJ académico)
+        (ADJP 
+         (CC e)
+         (JJ profissional)
+        )
        )
       )
-     )
-     (ADJP 
       (ADJP 
-       (RB mais)
-       (JJ variado)
-      )
-      (CONJP de_ o que)
-      (NP 
-       (DT o)
+       (ADJP 
+        (RB mais)
+        (JJ variado)
+       )
+       (CONJP de_ o que)
        (NP 
+        (DT o)
         (NP 
-         (PRP que)
-        )
-        (S 
-         (VP 
-          (VB é)
-          (JJ típico)
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VB é)
+           (JJ típico)
+          )
          )
         )
        )
@@ -45,6 +47,6 @@
     )
    )
   )
+  .
  )
- .
 )

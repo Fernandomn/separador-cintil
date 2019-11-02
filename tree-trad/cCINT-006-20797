@@ -1,1 +1,36 @@
-(S (S (VP (RB Já) (VP (VB come) (NP (NP (NNS sopa)) (NP , (NP (NP (NNS carne)) (NP (CC e) (NP (NP (DT essas) (NNS coisas)) (PRP todas))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (VB come)
+     (NP 
+      (NP 
+       (NNS sopa)
+      )
+      (NP 
+       ,
+       (NP 
+        (NP 
+         (NNS carne)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NP 
+           (DT essas)
+           (NNS coisas)
+          )
+          (PRP todas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

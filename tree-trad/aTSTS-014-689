@@ -1,1 +1,24 @@
-(S (S (NP (DT O) (NNS reitor)) (VP (VB especulou) (PP (IN sobre) (NP (DT as) (NP (JJ possíveis) (NNS razões)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS reitor)
+   )
+   (VP 
+    (VB especulou)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ possíveis)
+       (NNS razões)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

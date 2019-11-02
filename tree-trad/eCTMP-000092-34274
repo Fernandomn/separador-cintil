@@ -1,1 +1,24 @@
-(S (S (VP (VP (VB É) (RB assim)) (CONJP (S (VP (VB há) (NP (PRP muitos) (NNS meses))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (RB assim)
+    )
+    (CONJP 
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (PRP muitos)
+        (NNS meses)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

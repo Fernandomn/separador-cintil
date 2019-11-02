@@ -1,1 +1,61 @@
-(S (S (PP (PP (PP (IN A) (IN respeito) (IN de_)) (NP (DT as) (NP (NNS acusações) (CP (NP (PRP que)) (S (VP (VB impendem) (PP (IN sobre) (NP (PRP ele))))))))) ,) (S (NP (DT o) (NNS xeque)) (VP (VP (VB terá) (VB dito)) (PP , (PP (IN segundo) (NP (DT o) (NNS advogado))))))) :)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN A)
+      (IN respeito)
+      (IN de_)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NNS acusações)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB impendem)
+          (PP 
+           (IN sobre)
+           (NP 
+            (PRP ele)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS xeque)
+    )
+    (VP 
+     (VP 
+      (VB terá)
+      (VB dito)
+     )
+     (PP 
+      ,
+      (PP 
+       (IN segundo)
+       (NP 
+        (DT o)
+        (NNS advogado)
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

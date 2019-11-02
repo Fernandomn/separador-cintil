@@ -1,1 +1,27 @@
-(S (S (PP (PP (IN em_) (NP (DT uma) (NP (NNS entrevista) (JJ recente)))) ,) (S (NP (DT o) (NNS escritor)) (VB afirmava))) :)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS entrevista)
+       (JJ recente)
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS escritor)
+    )
+    (VB afirmava)
+   )
+  )
+  :
+ )
+)

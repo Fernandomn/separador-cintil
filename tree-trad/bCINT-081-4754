@@ -1,1 +1,13 @@
-(S (NP (NNS Monge)) (VP (VB toma) (NP (NNS posse))))
+(
+ (S 
+  (NP 
+   (NNS Monge)
+  )
+  (VP 
+   (VB toma)
+   (NP 
+    (NNS posse)
+   )
+  )
+ )
+)

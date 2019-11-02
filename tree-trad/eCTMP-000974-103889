@@ -1,1 +1,25 @@
-(S (S (NP (NNS Lima)) (VP (VP (VB começava) (RB logo)) (PP (IN a) (VP (VB ganhar) (NP (NNS avanço)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Lima)
+   )
+   (VP 
+    (VP 
+     (VB começava)
+     (RB logo)
+    )
+    (PP 
+     (IN a)
+     (VP 
+      (VB ganhar)
+      (NP 
+       (NNS avanço)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

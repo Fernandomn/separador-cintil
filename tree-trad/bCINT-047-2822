@@ -1,1 +1,26 @@
-(S `` (S (S (S (VB Analisamos)) (S , (S (S (VB dialogamos)) (S (CC e) (S (VB recomendamos)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VB Analisamos)
+    )
+    (S 
+     ,
+     (S 
+      (S 
+       (VB dialogamos)
+      )
+      (S 
+       (CC e)
+       (S 
+        (VB recomendamos)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

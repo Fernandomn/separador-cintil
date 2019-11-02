@@ -1,1 +1,21 @@
-(S (S (NP (DT A) (NNS estética)) (VP (VP (VB diz) (RB esteticamente)) (NP (DT a) (NNS salvação)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS estética)
+   )
+   (VP 
+    (VP 
+     (VB diz)
+     (RB esteticamente)
+    )
+    (NP 
+     (DT a)
+     (NNS salvação)
+    )
+   )
+  )
+  .
+ )
+)

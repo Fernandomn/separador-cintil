@@ -1,1 +1,28 @@
-(S (S (S (NP (DT Um) (NP (NNS apartamento) (PP (IN com) (NP (CD dois) (NNS quartos)))))) (PP (IN por) (NP (CD 950000)))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Um)
+     (NP 
+      (NNS apartamento)
+      (PP 
+       (IN com)
+       (NP 
+        (CD dois)
+        (NNS quartos)
+       )
+      )
+     )
+    )
+   )
+   (PP 
+    (IN por)
+    (NP 
+     (CD 950000)
+    )
+   )
+  )
+  .
+ )
+)

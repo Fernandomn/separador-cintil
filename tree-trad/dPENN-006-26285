@@ -1,1 +1,7 @@
-(S (NP (NNS Vice-presidente)))
+(
+ (S 
+  (NP 
+   (NNS Vice-presidente)
+  )
+ )
+)

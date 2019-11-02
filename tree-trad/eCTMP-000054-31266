@@ -1,1 +1,46 @@
-(S (S (PP (PP (IN Perante) (NP (DT as) (NP (JJ novas) (NNS necessidades)))) ,) (S (NP (DT o) (NP (JJ velho) (NP (NNS edifício) (PP (IN em_) (NP (DT a) (NNS Kruppstrasse)))))) (VP (VB foi) (VP '' (VB reciclado) ``)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Perante)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ novas)
+       (NNS necessidades)
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (JJ velho)
+      (NP 
+       (NNS edifício)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NNS Kruppstrasse)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB foi)
+     (VP 
+      ''
+      ''
+      (VB reciclado)
+     )
+    )
+   )
+  )
+  .
+ )
+)

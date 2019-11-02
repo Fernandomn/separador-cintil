@@ -1,1 +1,25 @@
-(S `` (S (S (NP (PRP Eles)) (VP (VP (VB enviaram) (PP (IN para) (RB aqui))) (NP (DT uma) (NNS notificação)))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eles)
+    )
+    (VP 
+     (VP 
+      (VB enviaram)
+      (PP 
+       (IN para)
+       (RB aqui)
+      )
+     )
+     (NP 
+      (DT uma)
+      (NNS notificação)
+     )
+    )
+   )
+   .
+  )
+ )
+)

@@ -1,1 +1,12 @@
-(S (NP (DT Um) (NNS operário)) (VP (VB ficou) (VB ferido)))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NNS operário)
+  )
+  (VP 
+   (VB ficou)
+   (VB ferido)
+  )
+ )
+)

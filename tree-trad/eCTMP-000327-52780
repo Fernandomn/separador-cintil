@@ -1,1 +1,23 @@
-(S (NP (NNS Taiwan)) (VP (PP (IN entre) (NP (NP (NNS China)) (NP (CC e) (NP (NNS Japão)))))))
+(
+ (S 
+  (NP 
+   (NNS Taiwan)
+  )
+  (VP 
+   (PP 
+    (IN entre)
+    (NP 
+     (NP 
+      (NNS China)
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NNS Japão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

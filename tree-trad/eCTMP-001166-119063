@@ -1,1 +1,44 @@
-(S (VP (PP (IN Em_) (NP (DT as) (NNS Ilhas))) (VP (VP (VB tratou) (NP (PRP -se))) (PP (IN de) (NP (DT uma) (NP (NNS experiência) (ADJP (VB feita) (PP (IN por) (NP (PRP alguma) (NP (NNS alma) (JJ perdida)))))))))) .)
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Em_)
+    (NP 
+     (DT as)
+     (NNS Ilhas)
+    )
+   )
+   (VP 
+    (VP 
+     (VB tratou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS experiência)
+       (ADJP 
+        (VB feita)
+        (PP 
+         (IN por)
+         (NP 
+          (PRP alguma)
+          (NP 
+           (NNS alma)
+           (JJ perdida)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

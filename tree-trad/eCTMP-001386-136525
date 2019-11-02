@@ -1,33 +1,34 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT O)
+   (S 
     (NP 
-     (PP seu)
+     (DT O)
      (NP 
-      (NNS romance)
-      (JJ preferido)
-     )
-    )
-   )
-   (VP 
-    (VP 
-     (VB é)
-     (NP 
-      ''
-      ''
+      (PP seu)
       (NP 
-       (NP 
-        (DT um)
-        (JJ qualquer)
-       )
+       (NNS romance)
+       (JJ preferido)
       )
      )
     )
-    (CONJP 
+    (VP 
+     (VP 
+      (VB é)
+      (NP 
+       ''
+       ''
+       (NP 
+        (NP 
+         (DT um)
+         (JJ qualquer)
+        )
+       )
+      )
+     )
      ,
-     (CONJP desde que)
+     (CC desde)
+     (CC que)
      (S 
       (VP 
        (VB tenha)
@@ -51,6 +52,6 @@
     )
    )
   )
+  .
  )
- .
 )

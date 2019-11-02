@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS proprietário)) (VP (VB é) (NP (NP (NNS José) (NNS António) (NNS Chalaça))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS proprietário)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS José)
+      (NNS António)
+      (NNS Chalaça)
+     )
+    )
+   )
+  )
+  .
+ )
+)

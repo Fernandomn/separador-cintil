@@ -1,1 +1,38 @@
-(S '' (S (VP (VB Podemos) (VP (VB brincar) (PP (PP (IN com) (NP (DT os) (NNS Madredeus))) (PP (CC ou) (PP (IN com) (NP (DT o) (NP (NNS Quim) (NNS Barreiros.))))))))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (VP 
+    (VB Podemos)
+    (VP 
+     (VB brincar)
+     (PP 
+      (PP 
+       (IN com)
+       (NP 
+        (DT os)
+        (NNS Madredeus)
+       )
+      )
+      (PP 
+       (CC ou)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS Quim)
+          (NNS 
+           .
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

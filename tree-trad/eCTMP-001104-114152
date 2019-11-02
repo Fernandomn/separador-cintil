@@ -1,1 +1,33 @@
-(S (S (NP (NP (NP (NNS Don) (NNS Mansell))) (NP , (NP (NP (NNS Os) (NNS Dinossauros))))) (VP (VB estão) (PP (IN de) (NP (NNS Volta))))) !)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Don)
+      (NNS Mansell)
+     )
+    )
+    (NP 
+     ,
+     (NP 
+      (NP 
+       (NNS Os)
+       (NNS Dinossauros)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS Volta)
+     )
+    )
+   )
+  )
+  !
+ )
+)

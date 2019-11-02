@@ -1,1 +1,20 @@
-(S (S (NP (DT Essa)) (VP (VB seria) (NP (DT a) (NP (JJ grande) (NNS blasfémia))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Essa)
+   )
+   (VP 
+    (VB seria)
+    (NP 
+     (DT a)
+     (NP 
+      (JJ grande)
+      (NNS blasfémia)
+     )
+    )
+   )
+  )
+  .
+ )
+)

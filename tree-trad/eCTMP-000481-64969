@@ -1,1 +1,20 @@
-(S (NP (NNS Negócio)) (VP (VB foi) (ADJP (JJ melhor) (CONJP (CC que) (NP (DT o) (NNS Totta))))))
+(
+ (S 
+  (NP 
+   (NNS Negócio)
+  )
+  (VP 
+   (VB foi)
+   (ADJP 
+    (JJ melhor)
+    (CONJP 
+     (CC que)
+     (NP 
+      (DT o)
+      (NNS Totta)
+     )
+    )
+   )
+  )
+ )
+)

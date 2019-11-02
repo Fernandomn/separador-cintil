@@ -1,1 +1,21 @@
-(S (NP (NP (NNS José) (NNS Eduardo) (NNS Agualusa)) ,) (VP (PP (IN em_) (NP (DT o) (NNS Soweto)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS José)
+    (NNS Eduardo)
+    (NNS Agualusa)
+   )
+   ,
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Soweto)
+    )
+   )
+  )
+ )
+)

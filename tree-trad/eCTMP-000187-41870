@@ -1,1 +1,22 @@
-(S '' (S (NP (DT O) (NP (NNS fundamentalismo) (JJ islâmico))) (VP (VB é) (NP (DT um) (NNS nojo)))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS fundamentalismo)
+     (JJ islâmico)
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NNS nojo)
+    )
+   )
+  )
+ )
+)

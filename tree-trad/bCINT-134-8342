@@ -1,1 +1,24 @@
-(S (S (NP (DT A) (NP (NNS situação) (PP (IN de_) (NP (DT o) (NNS doente))))) (VP (VB é) (JJ estável))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS situação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS doente)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (JJ estável)
+   )
+  )
+  .
+ )
+)

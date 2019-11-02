@@ -1,1 +1,27 @@
-(S (S (VP (VB Está) (NP (PRP -se))) (PP (IN em) (NP (NP (NNS estado) (PP (IN de) (NP (NNS vigília))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Está)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS estado)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS vigília)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

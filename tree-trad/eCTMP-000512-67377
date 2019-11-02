@@ -1,1 +1,27 @@
-(S (NP (NP (NP (NNS Cardoso) (NNS e) (NNS Cunha))) (NP , (NP (NNS comissário) (PP (IN de_) (NP (DT a) (NNS CE)))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Cardoso)
+     (NNS e)
+     (NNS Cunha)
+    )
+   )
+   (NP 
+    ,
+    (NP 
+     (NNS comissário)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS CE)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

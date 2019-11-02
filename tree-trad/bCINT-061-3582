@@ -1,1 +1,33 @@
-(S (S (NP (DT O) (NP (NNS porta-voz) (PP (IN de_) (NP (DT o) (NNS partido))))) (VP (VP (RB não) (VB podia)) (VP (VB ser) (ADJP (RB mais) (JJ claro))))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS porta-voz)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS partido)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB podia)
+    )
+    (VP 
+     (VB ser)
+     (ADJP 
+      (RB mais)
+      (JJ claro)
+     )
+    )
+   )
+  )
+  :
+ )
+)

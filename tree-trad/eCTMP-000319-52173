@@ -1,1 +1,32 @@
-(S (S (VP (RB Inconscientemente) (VP (VB procuro) (VP (VP (VB compensar) (NP (DT a) (NP (NNS desconfiança) (JJ inicial)))) (PP (IN com) (NP (DT a) (NNS rapidez))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Inconscientemente)
+    (VP 
+     (VB procuro)
+     (VP 
+      (VP 
+       (VB compensar)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS desconfiança)
+         (JJ inicial)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT a)
+        (NNS rapidez)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

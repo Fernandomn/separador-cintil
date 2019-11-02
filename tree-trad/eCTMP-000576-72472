@@ -1,1 +1,28 @@
-(S (NP (NNS PSD)) (VP (VB quer) (NP (NP (JJ nova) (NP (NNS lei) (PP (IN de_) (NP (DT as) (NP (NNS finanças) (JJ locais)))))))))
+(
+ (S 
+  (NP 
+   (NNS PSD)
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (NP 
+     (JJ nova)
+     (NP 
+      (NNS lei)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS finanças)
+         (JJ locais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,63 @@
-(S (S (ADVP (ADVP (RB Em) (RB suma)) ,) (S (NP (PRP alguns) (NP (NNS fiscais) (PP (IN de_) (NP (DT a) (NNS Câmara))))) (VP (VB eram) (NP (DT os) (NP (NNS empreiteiros) (PP (IN de_) (NP (DT as) (NP (JJ próprias) (NP (NNS obras) (CP (NP (PRP que)) (S (VP (VB deveriam) (VP (VB fiscalizar)))))))))))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Em)
+     (RB suma)
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (PRP alguns)
+     (NP 
+      (NNS fiscais)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Câmara)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB eram)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS empreiteiros)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT as)
+         (NP 
+          (JJ próprias)
+          (NP 
+           (NNS obras)
+           (CONJP 
+            (NP 
+             (PRP que)
+            )
+            (S 
+             (VP 
+              (VB deveriam)
+              (VP 
+               (VB fiscalizar)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

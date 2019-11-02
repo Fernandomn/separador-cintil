@@ -1,28 +1,30 @@
-(S 
- (NP 
-  (DT Um)
+(
+ (S 
   (NP 
+   (DT Um)
    (NP 
-    (NNS Algarve)
-    (JJ estranho)
-   )
-   (ADJP 
-    ,
+    (NP 
+     (NNS Algarve)
+     (JJ estranho)
+    )
     (ADJP 
+     ,
      (ADJP 
-      (RB mais)
-      (JJ real)
-     )
-     (CONJP de_ o que)
-     (NP 
-      (DT o)
-      (NP 
+      (ADJP 
+       (RB mais)
        (JJ real)
+      )
+      (CONJP de_ o que)
+      (NP 
+       (DT o)
+       (NP 
+        (JJ real)
+       )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

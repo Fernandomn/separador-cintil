@@ -1,1 +1,50 @@
-(S (CP (S '' (S (VP (VP (VB Vim) (RB aqui)) (CONJP (CC porque) (S (VP (VP (VB confio) (RB muito)) (PP (IN em_) (NP (DT a) (NP (NNS força) (PP (IN de) (NP (NNS Deus))))))))))) ``) ,) (S (VP (VB disse))))
+(
+ (S 
+  (CONJP 
+   (S 
+    ''
+    ''
+    (S 
+     (VP 
+      (VP 
+       (VB Vim)
+       (RB aqui)
+      )
+      (CONJP 
+       (CC porque)
+       (S 
+        (VP 
+         (VP 
+          (VB confio)
+          (RB muito)
+         )
+         (PP 
+          (IN em_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS força)
+            (PP 
+             (IN de)
+             (NP 
+              (NNS Deus)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   ,
+  )
+  (S 
+   (VP 
+    (VB disse)
+   )
+  )
+ )
+)

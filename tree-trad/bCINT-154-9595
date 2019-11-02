@@ -1,1 +1,38 @@
-(S (S (PP (IN De_) (NP (NP (DT a) (NP (NNS República) (NNS Checa))) (NP , (NP (PP$ nosso) (NP (JJ futuro) (NNS opositor))) ,))) (S (VP (VP (VB falaremos) (RB depois))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (IN De_)
+    (NP 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS República)
+       (NNS Checa)
+      )
+     )
+     (NP 
+      ,
+      (NP 
+       (PP nosso)
+       (NP 
+        (JJ futuro)
+        (NNS opositor)
+       )
+      )
+      ,
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB falaremos)
+      (RB depois)
+     )
+    )
+   )
+  )
+  .
+ )
+)

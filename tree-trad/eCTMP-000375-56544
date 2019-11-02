@@ -1,1 +1,49 @@
-(S (S (S (VP (CONJP (CONJP (CC Se) (S (VP (RB já) (VP (VB souberes) (CP (CC que) (S (VP (VB é) (NP (NNS mentira))))))))) ,) (VP (RB então) (VP (VP (RB não) (VB estás)) (PP (IN a) (VB mentir)))))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC Se)
+       (S 
+        (VP 
+         (RB já)
+         (VP 
+          (VB souberes)
+          (CONJP 
+           (CC que)
+           (S 
+            (VP 
+             (VB é)
+             (NP 
+              (NNS mentira)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+      ,
+     )
+     (VP 
+      (RB então)
+      (VP 
+       (VP 
+        (RB não)
+        (VB estás)
+       )
+       (PP 
+        (IN a)
+        (VB mentir)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

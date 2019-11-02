@@ -1,1 +1,39 @@
-(S (S (VP (PP (PP (IN Em) (NP (NNS Portugal))) ,) (VP (VP (RB não) (VB encontra)) (NP (NP (NNS lutadores) (PP (IN de_) (NP (DT o) (NP (PP$ seu) (NNS nível))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NNS Portugal)
+      )
+     )
+     ,
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB encontra)
+     )
+     (NP 
+      (NP 
+       (NNS lutadores)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NNS nível)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

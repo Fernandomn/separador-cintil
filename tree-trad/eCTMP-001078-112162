@@ -1,1 +1,31 @@
-(S (VP (VB Há) (NP (DT uns) (NP (NNS espertinhos) (CP (NP (PRP que)) (S (VP (VB tentam) (VP (VB ludibriar) (NP (DT o) (NNS carro-vassoura))))))))) .)
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (DT uns)
+    (NP 
+     (NNS espertinhos)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VP 
+        (VB tentam)
+        (VP 
+         (VB ludibriar)
+         (NP 
+          (DT o)
+          (NNS carro-vassoura)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

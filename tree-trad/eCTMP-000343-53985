@@ -1,1 +1,38 @@
-(S (S (NP (DT Um) (NP (PP (IN de_) (NP (DT os) (NNS polícias))))) (VP (VB reagiu) (S (VP (VB disparando) (NP (NP (NNS balas) (PP (IN de) (NP (NNS borracha))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS polícias)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB reagiu)
+    (S 
+     (VP 
+      (VB disparando)
+      (NP 
+       (NP 
+        (NNS balas)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS borracha)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

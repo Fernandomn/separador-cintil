@@ -1,50 +1,52 @@
-(S 
+(
  (S 
-  (ADVP 
-   (ADVP 
-    (RB Por)
-    (RB outro)
-    (RB lado)
-   )
-   ,
-  )
   (S 
-   (NP 
-    (DT a)
-    (NNS empresa)
+   (ADVP 
+    (ADVP 
+     (RB Por)
+     (RB outro)
+     (RB lado)
+    )
+    ,
    )
-   (VP 
+   (S 
+    (NP 
+     (DT a)
+     (NNS empresa)
+    )
     (VP 
      (VP 
-      (VB foi)
       (VP 
-       (VB contactada)
-       (PP 
-        (IN por)
-        (NP 
-         (DT este)
-         (NNS jornal)
+       (VB foi)
+       (VP 
+        (VB contactada)
+        (PP 
+         (IN por)
+         (NP 
+          (DT este)
+          (NNS jornal)
+         )
         )
        )
       )
-     )
-     (PP 
-      (IN em_)
-      (NP 
-       (DT o)
+      (PP 
+       (IN em_)
        (NP 
-        (NNS dia)
-        (PP 
-         (IN de_)
-         (NP 
-          (DT a)
+        (DT o)
+        (NP 
+         (NNS dia)
+         (PP 
+          (IN de_)
           (NP 
-           (NNS elaboração)
-           (PP 
-            (IN de_)
-            (NP 
-             (DT o)
-             (NNS artigo)
+           (DT a)
+           (NP 
+            (NNS elaboração)
+            (PP 
+             (IN de_)
+             (NP 
+              (DT o)
+              (NNS artigo)
+             )
             )
            )
           )
@@ -53,10 +55,9 @@
        )
       )
      )
-    )
-    (CONJP 
      ,
-     (CONJP sem que)
+     (CC sem)
+     (CC que)
      (S 
       (VP 
        (VB tenha)
@@ -85,6 +86,6 @@
     )
    )
   )
+  .
  )
- .
 )

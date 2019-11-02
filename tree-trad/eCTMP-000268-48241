@@ -1,1 +1,22 @@
-(S (S (VP (VB Dizem) (CP (CC que) (S (VP (VB querem) (NP (DT as) (NNS reformas))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Dizem)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB querem)
+       (NP 
+        (DT as)
+        (NNS reformas)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,52 @@
-(S (S (NP (DT A) (NNS jornada)) (VP (VB terminará) (PP (IN com) (NP (DT a) (NP (NNS entrega) (PP (IN de) (NP (NP (NNS presentes) (ADJP (VB oferecidos) (PP (IN por) (NP (NP (NNS lojas) (PP (IN de_) (NP (DT o) (NP (NNS centro) (JJ comercial)))))))))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS jornada)
+   )
+   (VP 
+    (VB terminará)
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS entrega)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS presentes)
+          (ADJP 
+           (VB oferecidos)
+           (PP 
+            (IN por)
+            (NP 
+             (NP 
+              (NNS lojas)
+              (PP 
+               (IN de_)
+               (NP 
+                (DT o)
+                (NP 
+                 (NNS centro)
+                 (JJ comercial)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

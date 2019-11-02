@@ -1,1 +1,24 @@
-(S (NP (NP (NNS Número) (PP (IN de) (NP (NNS desempregados))))) (VP (VB subiu) (PP (IN em) (NP (NNS Abril)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Número)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS desempregados)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB subiu)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Abril)
+    )
+   )
+  )
+ )
+)

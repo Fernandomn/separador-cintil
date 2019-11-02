@@ -1,1 +1,18 @@
-(S (S (RB Já) (S (NP (DT os) (NNS franceses)) (VP (RB não) (VB pararam)))) .)
+(
+ (S 
+  (S 
+   (RB Já)
+   (S 
+    (NP 
+     (DT os)
+     (NNS franceses)
+    )
+    (VP 
+     (RB não)
+     (VB pararam)
+    )
+   )
+  )
+  .
+ )
+)

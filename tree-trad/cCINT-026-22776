@@ -1,1 +1,14 @@
-(S (S (VP (VB Tirei) (NP (PRP imensas) (NNS fotografias)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Tirei)
+    (NP 
+     (PRP imensas)
+     (NNS fotografias)
+    )
+   )
+  )
+  .
+ )
+)

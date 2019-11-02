@@ -1,1 +1,14 @@
-(S (NP (NNS Despiste)) (VP (VB causa) (NP (CD dois) (NNS mortos))))
+(
+ (S 
+  (NP 
+   (NNS Despiste)
+  )
+  (VP 
+   (VB causa)
+   (NP 
+    (CD dois)
+    (NNS mortos)
+   )
+  )
+ )
+)

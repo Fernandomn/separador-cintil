@@ -1,1 +1,17 @@
-(S (NP (NNS GUNGUNHANA)) (VP (VB CHEGA) (PP (IN a_) (NP (DT os) (NNS AÇORES)))))
+(
+ (S 
+  (NP 
+   (NNS GUNGUNHANA)
+  )
+  (VP 
+   (VB CHEGA)
+   (PP 
+    (IN a_)
+    (NP 
+     (DT os)
+     (NNS AÇORES)
+    )
+   )
+  )
+ )
+)

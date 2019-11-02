@@ -1,1 +1,35 @@
-(S (S (NP (DT O) (NP (NNS catálogo) (PP (IN de_) (NP (DT a) (NNS exposição))))) (VP (VP (VB está) (JJ disponível)) (PP (RB também) (PP (IN em) (NP (NNS braille)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS catálogo)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS exposição)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (JJ disponível)
+    )
+    (PP 
+     (RB também)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS braille)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

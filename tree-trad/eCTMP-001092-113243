@@ -1,1 +1,23 @@
-(S (S (NP (DT A) (NP (PP$ vossa) (NNS carta))) (VP (VB fala) (PP (IN por) (NP (PRP si))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (PP vossa)
+     (NNS carta)
+    )
+   )
+   (VP 
+    (VB fala)
+    (PP 
+     (IN por)
+     (NP 
+      (PRP si)
+     )
+    )
+   )
+  )
+  .
+ )
+)

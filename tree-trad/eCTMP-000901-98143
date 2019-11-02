@@ -1,57 +1,59 @@
-(S 
+(
  (S 
-  (NP 
-   (DT Este)
-   (NNS assunto)
-  )
-  (VP 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS assunto)
+   )
    (VP 
-    (VB tem)
     (VP 
-     (VB sido)
+     (VB tem)
      (VP 
-      (VB gerido)
-      (PP 
-       (IN por_)
-       (NP 
+      (VB sido)
+      (VP 
+       (VB gerido)
+       (PP 
+        (IN por_)
         (NP 
-         (DT o)
          (NP 
-          (NNS líder)
-          (JJ regional)
+          (DT o)
+          (NP 
+           (NNS líder)
+           (JJ regional)
+          )
          )
-        )
-        (NP 
-         ,
          (NP 
-          (NNS José)
-          (NNS Apolinário)
+          ,
+          (NP 
+           (NNS José)
+           (NNS Apolinário)
+          )
+          ,
          )
-         ,
         )
        )
       )
      )
     )
-   )
-   (CONJP sem que)
-   (S 
-    (VP 
-     (RB ainda)
+    (CONJP sem que)
+    (S 
      (VP 
-      (VB tivesse)
+      (RB ainda)
       (VP 
-       (VB sido)
-       (VB encontrada)
+       (VB tivesse)
+       (VP 
+        (VB sido)
+        (VB encontrada)
+       )
       )
      )
-    )
-    (NP 
-     (DT uma)
-     (NNS saída)
+     (NP 
+      (DT uma)
+      (NNS saída)
+     )
     )
    )
   )
+  .
  )
- .
 )

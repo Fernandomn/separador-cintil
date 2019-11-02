@@ -1,1 +1,38 @@
-(S '' (S (S (CONJP (CONJP (CC Quando) (S (NP (NNS Sines)) (VB espirra))) ,) (S (NP (NP (NNS Santo) (NNS André))) (VP (VB tem) (NP (DT uma) (NNS pneumonia))))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (CONJP 
+     (CONJP 
+      (CC Quando)
+      (S 
+       (NP 
+        (NNS Sines)
+       )
+       (VB espirra)
+      )
+     )
+     ,
+    )
+    (S 
+     (NP 
+      (NP 
+       (NNS Santo)
+       (NNS André)
+      )
+     )
+     (VP 
+      (VB tem)
+      (NP 
+       (DT uma)
+       (NNS pneumonia)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

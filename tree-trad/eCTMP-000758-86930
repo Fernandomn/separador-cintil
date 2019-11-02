@@ -1,1 +1,20 @@
-(S (NP (DT Um) (NP (NNS ano) (PP (IN de) (NP (NP (NNS LUSITÂNIA) (NNS COMBOIO) (NNS HOTEL)))))))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS ano)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS LUSITÂNIA)
+       (NNS COMBOIO)
+       (NNS HOTEL)
+      )
+     )
+    )
+   )
+  )
+ )
+)

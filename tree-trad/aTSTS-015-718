@@ -1,1 +1,25 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB borrifa) (NP (PRP -se))) (PP (IN para) (NP (PRP tudo))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB borrifa)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (PRP tudo)
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,39 @@
-(S (S (NP (DT O) (NP '' (NNS sonho) ``)) (VP (VP (VB desfez) (NP (PRP -se))) (PP (IN com) (NP (DT a) (NP (NNS queda) (PP (IN de_) (NP (DT o) (NNS avião)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     ''
+     ''
+     (NNS sonho)
+    )
+   )
+   (VP 
+    (VP 
+     (VB desfez)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS queda)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS avião)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

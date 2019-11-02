@@ -1,1 +1,25 @@
-(S (S (VB Caíram) (NP (NP (DT as) (NP (JJ farmacêuticas))) (NP (CC e) (NP (DT as) (NP (JJ financeiras)))))) .)
+(
+ (S 
+  (S 
+   (VB Caíram)
+   (NP 
+    (NP 
+     (DT as)
+     (NP 
+      (JJ farmacêuticas)
+     )
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ financeiras)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

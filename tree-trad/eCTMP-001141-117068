@@ -1,1 +1,38 @@
-(S (S (VP (VB É) (NP (DT essa) (NP (NP (NNS qualidade) (PP (IN de) (NP (NNS precursor)))) (CP (NP (PRP que)) (S (VP (VB justifica) (NP (DT esta) (NNS visita))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT essa)
+     (NP 
+      (NP 
+       (NNS qualidade)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS precursor)
+        )
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB justifica)
+         (NP 
+          (DT esta)
+          (NNS visita)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

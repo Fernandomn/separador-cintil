@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB afasta) (NP (PRP -se))) (PP (IN de_) (NP (DT o) (NNS carro))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB afasta)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NNS carro)
+     )
+    )
+   )
+  )
+  .
+ )
+)

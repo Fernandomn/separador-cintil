@@ -1,1 +1,44 @@
-(S (S (NP (DT O) (NP (NNS nome) (PP (IN de) (NP (NP (NNS Xanana) (NNS Gusmão)))))) (VP (VB voltou) (PP (IN a) (VP (VB sobressaltar) (NP (DT a) (NP (NNS imprensa) (ADJP (JJ nacional) (ADJP (CC e) (JJ internacional))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS nome)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Xanana)
+        (NNS Gusmão)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB voltou)
+    (PP 
+     (IN a)
+     (VP 
+      (VB sobressaltar)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS imprensa)
+        (ADJP 
+         (JJ nacional)
+         (ADJP 
+          (CC e)
+          (JJ internacional)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

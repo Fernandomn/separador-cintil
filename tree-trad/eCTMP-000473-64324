@@ -1,1 +1,49 @@
-(S (S (NP (DT O) (NP (NNS Ayatollah) (NNS Sadeq) (NNS Khalkhali))) (VP (VB era) (NP (DT um) (NP (PP (IN de_) (NP (DT os) (NP (NP (NNS homens) (PP (IN de) (NP (NP (JJ maior) (NNS confiança))))) (PP (IN de) (NP (NNS Khomeini)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS Ayatollah)
+     (NNS Sadeq)
+     (NNS Khalkhali)
+    )
+   )
+   (VP 
+    (VB era)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NP 
+          (NNS homens)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (JJ maior)
+             (NNS confiança)
+            )
+           )
+          )
+         )
+         (PP 
+          (IN de)
+          (NP 
+           (NNS Khomeini)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

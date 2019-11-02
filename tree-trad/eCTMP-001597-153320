@@ -1,1 +1,17 @@
-(S (NP (NNS Croatas)) (VP (VB destruíram) (NP (CD 11) (NP (NNS cidades) (JJ sérvias)))))
+(
+ (S 
+  (NP 
+   (NNS Croatas)
+  )
+  (VP 
+   (VB destruíram)
+   (NP 
+    (CD 11)
+    (NP 
+     (NNS cidades)
+     (JJ sérvias)
+    )
+   )
+  )
+ )
+)

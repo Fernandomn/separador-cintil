@@ -1,1 +1,23 @@
-(S (S (VP (PP (PP (PP (IN Em) (NP (NNS inglês))) ,) (ADVP (RB claro))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Em)
+       (NP 
+        (NNS inglês)
+       )
+      )
+      ,
+     )
+     (ADVP 
+      (RB claro)
+     )
+    )
+   )
+  )
+  .
+ )
+)

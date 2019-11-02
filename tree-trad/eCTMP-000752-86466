@@ -1,1 +1,29 @@
-(S (NP (NP (NP (NNS Joel) (NNS Hasse) (NNS Ferreira))) (NP , (NNS PS) ,)) (VP (VP (VB eleito) (PP (IN por) (NP (NNS Setúbal))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Joel)
+     (NNS Hasse)
+     (NNS Ferreira)
+    )
+   )
+   (NP 
+    ,
+    (NNS PS)
+    ,
+   )
+  )
+  (VP 
+   (VP 
+    (VB eleito)
+    (PP 
+     (IN por)
+     (NP 
+      (NNS Setúbal)
+     )
+    )
+   )
+  )
+ )
+)

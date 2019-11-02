@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Instituto) (NNS de_) (NNS o) (NNS Trabalho) (NNS Portuário))) (VP (VB tem) (NP (NP (JJ novo) (NNS presidente)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Instituto)
+    (NNS de_)
+    (NNS o)
+    (NNS Trabalho)
+    (NNS Portuário)
+   )
+  )
+  (VP 
+   (VB tem)
+   (NP 
+    (NP 
+     (JJ novo)
+     (NNS presidente)
+    )
+   )
+  )
+ )
+)

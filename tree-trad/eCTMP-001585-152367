@@ -1,1 +1,39 @@
-(S (S (PP (IN Com) (NP (DT um) (NP (NP (NNS estado) (PP (IN de) (NP (NNS espírito)))) (ADJP (RB bem) (JJ diferente))))) (S (VP (VB estava)) (NP (NP (NNS Giancarlo) (NNS Raimondi))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (IN Com)
+    (NP 
+     (DT um)
+     (NP 
+      (NP 
+       (NNS estado)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS espírito)
+        )
+       )
+      )
+      (ADJP 
+       (RB bem)
+       (JJ diferente)
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB estava)
+    )
+    (NP 
+     (NP 
+      (NNS Giancarlo)
+      (NNS Raimondi)
+     )
+    )
+   )
+  )
+  .
+ )
+)

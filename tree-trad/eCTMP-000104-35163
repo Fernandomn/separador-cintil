@@ -1,1 +1,37 @@
-(S (NP (NP (NP '' (NP (NNS Negócio) (PP (IN de_) (NP (DT o) (NNS século)))) ``) (PP (IN com) (NP (NP (NNS dinheiros) (PP (IN de_) (NP (DT o) (NNS FSE)))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     ''
+     ''
+     (NP 
+      (NNS Negócio)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS século)
+       )
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS dinheiros)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS FSE)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

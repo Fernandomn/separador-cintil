@@ -1,1 +1,32 @@
-(S `` (S (S (VP (PP (IN em_) (NP (DT estes) (NP (CD dois) (NNS filmes)))) (VP (VB são) (JJ evidentes))) (NP (DT as) (NP (NNS fraquezas) (JJ estilísticas)))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN em_)
+      (NP 
+       (DT estes)
+       (NP 
+        (CD dois)
+        (NNS filmes)
+       )
+      )
+     )
+     (VP 
+      (VB são)
+      (JJ evidentes)
+     )
+    )
+    (NP 
+     (DT as)
+     (NP 
+      (NNS fraquezas)
+      (JJ estilísticas)
+     )
+    )
+   )
+   .
+  )
+ )
+)

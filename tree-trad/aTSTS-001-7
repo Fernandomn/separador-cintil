@@ -1,1 +1,33 @@
-(S (S (NP (DT O) (NNS Manuel)) (VP (VP (VB foi) (PP (IN a_) (NP (DT a) (NNS loja)))) (PP (RB apenas) (PP (IN com) (NP (DT a) (NNS Maria)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Manuel)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NNS loja)
+      )
+     )
+    )
+    (PP 
+     (RB apenas)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NNS Maria)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

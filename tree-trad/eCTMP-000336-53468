@@ -1,1 +1,42 @@
-(S '' (S (S (PP (PP (IN Com) (NP (DT uma) (NP (NNS maioria) (PP (IN de_) (NP (DT o) (NNS PSD)))))) ,) (S (NP (PRP tudo)) (VP (VB será) (ADJP (RB mais) (JJ fácil))))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Com)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS maioria)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS PSD)
+         )
+        )
+       )
+      )
+     )
+     ,
+    )
+    (S 
+     (NP 
+      (PRP tudo)
+     )
+     (VP 
+      (VB será)
+      (ADJP 
+       (RB mais)
+       (JJ fácil)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

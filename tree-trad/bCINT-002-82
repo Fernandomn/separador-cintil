@@ -1,1 +1,19 @@
-(S (S (VP (VB Juro) (CP (CC que) (S (VP (RB não) (VB interessa)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Juro)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (RB não)
+       (VB interessa)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

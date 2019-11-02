@@ -1,1 +1,13 @@
-(S (NP (NNS MADEIRA)) (VP (VB PROCURA) (NP (NNS EMPREGOS))))
+(
+ (S 
+  (NP 
+   (NNS MADEIRA)
+  )
+  (VP 
+   (VB PROCURA)
+   (NP 
+    (NNS EMPREGOS)
+   )
+  )
+ )
+)

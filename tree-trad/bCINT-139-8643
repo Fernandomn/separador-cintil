@@ -1,1 +1,28 @@
-(S (S (PP (IN Para) (NP (PRP nós))) (S (NP (DT o) (NNS rock)) (VP (VB é) (PP (IN em) (NP (NNS inglês)))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP nós)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS rock)
+    )
+    (VP 
+     (VB é)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS inglês)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

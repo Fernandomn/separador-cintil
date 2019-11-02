@@ -1,1 +1,24 @@
-(S (S (NP (NP (NP (NNS Agenda) (JJ política)) (PP$ própria))) (S (VP (VP (RB não) (VB tem))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Agenda)
+      (JJ política)
+     )
+     (PP própria)
+    )
+   )
+   (S 
+    (VP 
+     (VP 
+      (RB não)
+      (VB tem)
+     )
+    )
+   )
+  )
+  .
+ )
+)

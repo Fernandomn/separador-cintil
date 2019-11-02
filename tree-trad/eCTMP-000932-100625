@@ -1,1 +1,27 @@
-(S (S (NP (DT Os) (NP (NNS presidentes) (PP (IN de_) (NP (DT as) (NNS regiões))))) (VP (VP (RB não) (VB seriam)) (VB eleitos))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS presidentes)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS regiões)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB seriam)
+    )
+    (VB eleitos)
+   )
+  )
+  .
+ )
+)

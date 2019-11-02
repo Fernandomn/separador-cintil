@@ -1,1 +1,21 @@
-(S (NP (NNS Inflação)) (VP (VP (JJ generosa)) (PP (IN com) (NP (NP (JJ novo) (NNS índice))))))
+(
+ (S 
+  (NP 
+   (NNS Inflação)
+  )
+  (VP 
+   (VP 
+    (JJ generosa)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (JJ novo)
+      (NNS índice)
+     )
+    )
+   )
+  )
+ )
+)

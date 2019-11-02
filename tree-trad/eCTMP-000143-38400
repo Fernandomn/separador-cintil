@@ -1,1 +1,24 @@
-(S (NP (DT Um) (NP (NNS homem) (PP (IN com) (NP (DT uma) (NP '' (NP (NNS missão) (JJ divina)) ``))))))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS homem)
+    (PP 
+     (IN com)
+     (NP 
+      (DT uma)
+      (NP 
+       ''
+       ''
+       (NP 
+        (NNS missão)
+        (JJ divina)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

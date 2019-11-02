@@ -1,1 +1,26 @@
-(S (NP (NNS Obras)) (VP (VB afectam) (NP (NP (NP '' (NNS coração) ``) (PP (IN de_) (NP (DT a) (NNS Expo)))))))
+(
+ (S 
+  (NP 
+   (NNS Obras)
+  )
+  (VP 
+   (VB afectam)
+   (NP 
+    (NP 
+     (NP 
+      ''
+      ''
+      (NNS coração)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS Expo)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,30 @@
-(S (S (VP (ADVP (RB Aliás) ,) (VP (VP (RB não) (VB lembra)) (NP (DT o) (NP (NNS termo) (ADJP '' (JJ disponível) ``)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (ADVP 
+     (RB Aliás)
+     ,
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB lembra)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS termo)
+       (ADJP 
+        ''
+        ''
+        (JJ disponível)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

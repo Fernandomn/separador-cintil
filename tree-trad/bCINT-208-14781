@@ -1,1 +1,51 @@
-(S (S (NP (DT As) (NNS conclusões)) (VP (VP (VP (VB serão) (VB apresentadas)) (PP (IN em) (NP (NNS Setembro)))) (PP , (PP (IN em_) (NP (DT a) (NP (NP (NNS Real) (NNS Sociedade) (NNS de) (NNS Medicina)) (PP , (PP (IN em) (NP (NNS Londres)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NNS conclusões)
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB serão)
+      (VB apresentadas)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Setembro)
+      )
+     )
+    )
+    (PP 
+     ,
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS Real)
+         (NNS Sociedade)
+         (NNS de)
+         (NNS Medicina)
+        )
+        (PP 
+         ,
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Londres)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

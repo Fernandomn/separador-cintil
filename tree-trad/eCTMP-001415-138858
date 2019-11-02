@@ -1,50 +1,52 @@
-(S 
+(
  (S 
-  (RB Aliás)
   (S 
-   (PP 
-    ,
+   (RB Aliás)
+   (S 
     (PP 
-     (IN em_)
-     (NP 
-      (DT a)
+     ,
+     (PP 
+      (IN em_)
       (NP 
-       (NNS perspectiva)
-       (PP 
-        (IN de)
-        (NP 
+       (DT a)
+       (NP 
+        (NNS perspectiva)
+        (PP 
+         (IN de)
          (NP 
-          (NNS Branco)
-          (NNS Rodrigues)
+          (NP 
+           (NNS Branco)
+           (NNS Rodrigues)
+          )
          )
         )
        )
       )
      )
+     ,
     )
-    ,
-   )
-   (S 
-    ''
-    ''
     (S 
-     (NP 
-      (DT os)
-      (NNS objectivos)
-     )
-     (VP 
+     ''
+     ''
+     (S 
+      (NP 
+       (DT os)
+       (NNS objectivos)
+      )
       (VP 
        (VP 
         (VP 
-         (VB foram)
-         (RB perfeitamente)
+         (VP 
+          (VB foram)
+          (RB perfeitamente)
+         )
+         (VB cumpridos)
         )
-        (VB cumpridos)
        )
-      )
-      (CONJP 
        ,
-       (CONJP uma vez que)
+       (CC uma)
+       (CC vez)
+       (CC que)
        (S 
         ''
         ''
@@ -64,6 +66,6 @@
     )
    )
   )
+  .
  )
- .
 )

@@ -1,1 +1,18 @@
-(S (S (VP (VB Foram) (VB apresentados)) (NP (PRP vários) (NP (NNS modelos) (JJ possíveis)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Foram)
+    (VB apresentados)
+   )
+   (NP 
+    (PRP vários)
+    (NP 
+     (NNS modelos)
+     (JJ possíveis)
+    )
+   )
+  )
+  .
+ )
+)

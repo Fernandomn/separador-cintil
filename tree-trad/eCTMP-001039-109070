@@ -1,1 +1,22 @@
-(S `` (S (S (NP (PRP Eu)) (VP (VB quero) (VP (VB dizer) (NP (DT uma) (NNS coisa))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (PRP Eu)
+    )
+    (VP 
+     (VB quero)
+     (VP 
+      (VB dizer)
+      (NP 
+       (DT uma)
+       (NNS coisa)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

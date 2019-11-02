@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Cura) (PP (IN em) (NP (NP (CD vinte) (CD e) (CD quatro)) (NNS horas))))) ?)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cura)
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (CD vinte)
+       (CD e)
+       (CD quatro)
+      )
+      (NNS horas)
+     )
+    )
+   )
+  )
+  ?
+ )
+)

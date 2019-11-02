@@ -1,1 +1,13 @@
-(S (S (RB Lá) (S (VP (VB foram)))) .)
+(
+ (S 
+  (S 
+   (RB Lá)
+   (S 
+    (VP 
+     (VB foram)
+    )
+   )
+  )
+  .
+ )
+)

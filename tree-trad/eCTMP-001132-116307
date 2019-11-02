@@ -1,1 +1,34 @@
-(S (NP (NP (NNS Mota) (NNS Torres))) (VP (VP (VB recandidata) (NP (PRP -se))) (PP (IN a_) (NP (DT a) (NP (NNS liderança) (PP (IN de_) (NP (DT o) (NNS PS-Madeira))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Mota)
+    (NNS Torres)
+   )
+  )
+  (VP 
+   (VP 
+    (VB recandidata)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS liderança)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS PS-Madeira)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,26 @@
-(S (VP (PP (PP (IN Por) (IN causa) (IN de_)) (NP (DT os) (NP (NNS anúncios) (PP (IN de_) (NP (DT a) (NNS Cofina))))))))
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Por)
+     (IN causa)
+     (IN de_)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS anúncios)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Cofina)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

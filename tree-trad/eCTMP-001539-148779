@@ -1,1 +1,23 @@
-(S (S (NP (DT O) (NP (NNS jogo) (PP (IN em) (NP (PRP si))))) (VP (RB também) (VB prometia))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS jogo)
+     (PP 
+      (IN em)
+      (NP 
+       (PRP si)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB também)
+    (VB prometia)
+   )
+  )
+  .
+ )
+)

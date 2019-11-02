@@ -1,1 +1,24 @@
-(S (S (VP (VP (RB Não) (VB são)) (NP (NP (NNS apresentações) (PP (IN de) (NP (NNS números))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB são)
+    )
+    (NP 
+     (NP 
+      (NNS apresentações)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS números)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

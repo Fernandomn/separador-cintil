@@ -1,1 +1,18 @@
-(S (S (NP (DT O) (NNS Visionarium)) (VP (VP (VB foi) (RB ontem)) (VB inaugurado))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Visionarium)
+   )
+   (VP 
+    (VP 
+     (VB foi)
+     (RB ontem)
+    )
+    (VB inaugurado)
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,22 @@
-(S (NP (NNS PS)) (VP (VB antecipa) (NP (NP (NNS abertura) (PP (IN de_) (NP (DT a) (NNS pré-campanha)))))))
+(
+ (S 
+  (NP 
+   (NNS PS)
+  )
+  (VP 
+   (VB antecipa)
+   (NP 
+    (NP 
+     (NNS abertura)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS pré-campanha)
+      )
+     )
+    )
+   )
+  )
+ )
+)

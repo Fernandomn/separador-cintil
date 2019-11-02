@@ -1,1 +1,18 @@
-(S (S (VB Desapareceram) (NP (CD dois) (NP (NP (NNS carros) (PP$ meus)) (JJ novos)))) .)
+(
+ (S 
+  (S 
+   (VB Desapareceram)
+   (NP 
+    (CD dois)
+    (NP 
+     (NP 
+      (NNS carros)
+      (PP meus)
+     )
+     (JJ novos)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,19 @@
-(S (NP (NNS Câmara)) (VP (VB vai) (VP (VB gerir) (NP (NP (NNS equipamentos) (JJ municipais))))))
+(
+ (S 
+  (NP 
+   (NNS Câmara)
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB gerir)
+    (NP 
+     (NP 
+      (NNS equipamentos)
+      (JJ municipais)
+     )
+    )
+   )
+  )
+ )
+)

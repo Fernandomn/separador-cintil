@@ -1,1 +1,23 @@
-(S (S (PP (IN a_) (NP (DT o) (NNS Benfica))) (S (VP (VB calhou)) (NP (DT o) (NNS Guimarães)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS Benfica)
+    )
+   )
+   (S 
+    (VP 
+     (VB calhou)
+    )
+    (NP 
+     (DT o)
+     (NNS Guimarães)
+    )
+   )
+  )
+  .
+ )
+)

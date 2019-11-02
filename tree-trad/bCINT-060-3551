@@ -1,1 +1,8 @@
-(S (VB DIZ) (NP (PRP -SE)))
+(
+ (S 
+  (VB DIZ)
+  (NP 
+   (PRP -SE)
+  )
+ )
+)

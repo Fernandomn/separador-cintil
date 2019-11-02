@@ -1,1 +1,27 @@
-(S (S (NP (DT O) (NP (NNS ar) (PP (IN de_) (NP (DT o) (NNS mar))))) (VP (VB é) (ADJP (RB muito) (JJ fresco)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS ar)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS mar)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB muito)
+     (JJ fresco)
+    )
+   )
+  )
+  .
+ )
+)

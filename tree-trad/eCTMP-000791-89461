@@ -1,1 +1,35 @@
-(S `` (S (S (NP (DT A) (NP (NNS realidade) (PP (IN de_) (NP (DT os) (NNS factos))))) (VP (VB vai) (VP (VB levar) (PP (IN a) (NP (DT essa) (NNS execução)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS realidade)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS factos)
+       )
+      )
+     )
+    )
+    (VP 
+     (VB vai)
+     (VP 
+      (VB levar)
+      (PP 
+       (IN a)
+       (NP 
+        (DT essa)
+        (NNS execução)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

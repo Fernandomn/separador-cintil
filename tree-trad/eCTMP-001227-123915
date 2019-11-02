@@ -1,1 +1,18 @@
-(S (S (NP (DT O) (NP (NNS contra-ataque) (JJ social-democrata))) (VP (VB era) (JJ previsível))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS contra-ataque)
+     (JJ social-democrata)
+    )
+   )
+   (VP 
+    (VB era)
+    (JJ previsível)
+   )
+  )
+  :
+ )
+)

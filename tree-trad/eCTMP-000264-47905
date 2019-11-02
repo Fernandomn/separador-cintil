@@ -1,1 +1,36 @@
-(S (S (NP (DT As) (NP (NP '' (NNS lacunas) ``) (ADJP (RB assim) (VB produzidas)))) (VP (VP (VP (VB são) (RB depois)) (VB preenchidas)) (PP (IN com) (NP (NNS metal))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NP 
+      ''
+      ''
+      (NNS lacunas)
+     )
+     (ADJP 
+      (RB assim)
+      (VB produzidas)
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB são)
+      (RB depois)
+     )
+     (VB preenchidas)
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NNS metal)
+     )
+    )
+   )
+  )
+  .
+ )
+)

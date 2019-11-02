@@ -1,1 +1,31 @@
-(S (S (VP (VP (VB São) (RB apenas)) (NP (NP (NNS assuntos) (CP (NP (PRP que)) (S (VP (NP (PRP me)) (VB interessam)))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB São)
+     (RB apenas)
+    )
+    (NP 
+     (NP 
+      (NNS assuntos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP me)
+         )
+         (VB interessam)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

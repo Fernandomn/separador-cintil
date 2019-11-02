@@ -1,1 +1,22 @@
-(S (NP (NNS MACAU)) (VP (VB APOIA) (NP (NP (NNS PROJECTOS) (PP (IN de_) (NP (DT a) (NNS LUSA)))))))
+(
+ (S 
+  (NP 
+   (NNS MACAU)
+  )
+  (VP 
+   (VB APOIA)
+   (NP 
+    (NP 
+     (NNS PROJECTOS)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS LUSA)
+      )
+     )
+    )
+   )
+  )
+ )
+)

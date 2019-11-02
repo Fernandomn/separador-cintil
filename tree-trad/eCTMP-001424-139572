@@ -1,1 +1,36 @@
-(S (S (VP (VP (VB É) (PP , (PP (IN desde) (NP (NP (NNS Outubro) (JJ passado)))) ,)) (NP (NP (NNS professor) (PP (IN em) (NP (NNS Oxford))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB É)
+     (PP 
+      ,
+      (PP 
+       (IN desde)
+       (NP 
+        (NP 
+         (NNS Outubro)
+         (JJ passado)
+        )
+       )
+      )
+      ,
+     )
+    )
+    (NP 
+     (NP 
+      (NNS professor)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Oxford)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

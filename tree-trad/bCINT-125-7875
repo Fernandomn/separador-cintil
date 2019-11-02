@@ -1,1 +1,12 @@
-(S (NP (DT Um) (NP (NNS disparate) (JJ premeditado))) ?)
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS disparate)
+    (JJ premeditado)
+   )
+  )
+  ?
+ )
+)

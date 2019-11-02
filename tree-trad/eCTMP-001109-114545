@@ -1,1 +1,29 @@
-(S (NP '' (NP (NNS Nobel) (NNS de_) (NNS a) (NNS Tecnologia)) ``) (VP (VB vai) (VP (VP (VB ser) (VB atribuído)) (PP (IN em) (NP (NNS Outubro))))))
+(
+ (S 
+  (NP 
+   ''
+   ''
+   (NP 
+    (NNS Nobel)
+    (NNS de_)
+    (NNS a)
+    (NNS Tecnologia)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VP 
+     (VB ser)
+     (VB atribuído)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Outubro)
+     )
+    )
+   )
+  )
+ )
+)

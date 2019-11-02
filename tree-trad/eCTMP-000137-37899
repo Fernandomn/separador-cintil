@@ -1,28 +1,32 @@
-(S 
+(
  (S 
-  (VP 
-   (PP 
+  (S 
+   (VP 
     (PP 
      (PP 
-      (CONJP Não só)
       (PP 
-       (IN em)
-       (NP 
+       (CC Não)
+       (CC só)
+       (PP 
+        (IN em)
         (NP 
-         (NNS termos)
-         (JJ estéticos)
+         (NP 
+          (NNS termos)
+          (JJ estéticos)
+         )
         )
        )
       )
+      ,
      )
-     ,
-    )
-    (ADJP 
-     (CONJP mas também)
-     (JJ comerciais)
+     (ADJP 
+      (CC mas)
+      (CC também)
+      (JJ comerciais)
+     )
     )
    )
   )
+  .
  )
- .
 )

@@ -1,1 +1,25 @@
-(S (S (S (VP (ADVP (RB Assim) ,) (VP (VB está) (RB ali))) (NP (NP (PRP quase) (PRP tudo)))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (ADVP 
+      (RB Assim)
+      ,
+     )
+     (VP 
+      (VB está)
+      (RB ali)
+     )
+    )
+    (NP 
+     (NP 
+      (PRP quase)
+      (PRP tudo)
+     )
+    )
+   )
+   .
+  )
+ )
+)

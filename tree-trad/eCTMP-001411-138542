@@ -1,1 +1,23 @@
-(S (S (VP (VP (RB Não) (VB sou)) (PP (IN por_) (NP (DT as) (NP (NNS escolas) (JJ literárias)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB sou)
+    )
+    (PP 
+     (IN por_)
+     (NP 
+      (DT as)
+      (NP 
+       (NNS escolas)
+       (JJ literárias)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

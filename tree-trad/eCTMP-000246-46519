@@ -1,1 +1,60 @@
-(S (S (ADVP (RB Entretanto) ,) (S (S (RB já) (S (NP (PRP alguns)) (VP (VP (NP (PRP se)) (VB agitavam)) (PP (IN em_) (NP (DT as) (NNS cadeiras)))))) (S (CC e) (S (VP (VB falavam) (PP (IN para) (NP (DT o) (NP (NNS parceiro) (PP (IN de_) (NP (DT o) (NNS lado))))))))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Entretanto)
+    ,
+   )
+   (S 
+    (S 
+     (RB já)
+     (S 
+      (NP 
+       (PRP alguns)
+      )
+      (VP 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB agitavam)
+       )
+       (PP 
+        (IN em_)
+        (NP 
+         (DT as)
+         (NNS cadeiras)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB falavam)
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS parceiro)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS lado)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

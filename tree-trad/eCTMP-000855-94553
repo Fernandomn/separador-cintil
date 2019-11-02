@@ -1,1 +1,26 @@
-(S (NP (NP (NNS Factos) (CP (NP (PRP que)) (S (VP (RB não) (VP (NP (PRP se)) (VB confirmaram))))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Factos)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (RB não)
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB confirmaram)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

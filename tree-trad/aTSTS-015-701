@@ -1,1 +1,21 @@
-(S (S (NP (DT A) (NNS empresa)) (VP (VB remeteu) (PP (IN contra) (NP (DT os) (NNS anúncios))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS empresa)
+   )
+   (VP 
+    (VB remeteu)
+    (PP 
+     (IN contra)
+     (NP 
+      (DT os)
+      (NNS anúncios)
+     )
+    )
+   )
+  )
+  .
+ )
+)

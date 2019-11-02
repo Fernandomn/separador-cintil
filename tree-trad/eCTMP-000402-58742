@@ -1,1 +1,20 @@
-(S (S (VP (VB Temos) (PP (IN de) (VP (VB procurar) (NP (DT outra) (NNS ilha)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Temos)
+    (PP 
+     (IN de)
+     (VP 
+      (VB procurar)
+      (NP 
+       (DT outra)
+       (NNS ilha)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

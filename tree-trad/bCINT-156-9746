@@ -1,1 +1,11 @@
-(S (S (VP (RB Não) (VB resultou))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Não)
+    (VB resultou)
+   )
+  )
+  .
+ )
+)

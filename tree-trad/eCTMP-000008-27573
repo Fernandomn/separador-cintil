@@ -1,1 +1,37 @@
-(S (S (VP (PP (IN Em_) (NP (DT a) (NNS Grã-Bretanha))) (VP (VP (VB são) (VB mortas)) (ADVP , (RB anualmente) ,))) (NP (NP (ADVP (RB cerca) (RB de)) (CD 70)) (NNS crianças))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS Grã-Bretanha)
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (VB mortas)
+     )
+     (ADVP 
+      ,
+      (RB anualmente)
+      ,
+     )
+    )
+   )
+   (NP 
+    (NP 
+     (ADVP 
+      (RB cerca)
+      (RB de)
+     )
+     (CD 70)
+    )
+    (NNS crianças)
+   )
+  )
+  .
+ )
+)

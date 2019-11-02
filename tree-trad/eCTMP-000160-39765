@@ -1,1 +1,31 @@
-(S `` (S (S (NP (DT Os) (NNS franceses)) (VP (VP (VB resolveram) (NP (DT estes) (NNS problemas))) (PP (IN a_) (NP (DT a) (NP (JJ rica)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Os)
+     (NNS franceses)
+    )
+    (VP 
+     (VP 
+      (VB resolveram)
+      (NP 
+       (DT estes)
+       (NNS problemas)
+      )
+     )
+     (PP 
+      (IN a_)
+      (NP 
+       (DT a)
+       (NP 
+        (JJ rica)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

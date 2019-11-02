@@ -1,1 +1,23 @@
-(S (S (NP (DT A) (NNS educação)) (VP (VP (RB não) (VB tem)) (NP (NP (NNS regras) (JJ rígidas))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS educação)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB tem)
+    )
+    (NP 
+     (NP 
+      (NNS regras)
+      (JJ rígidas)
+     )
+    )
+   )
+  )
+  .
+ )
+)

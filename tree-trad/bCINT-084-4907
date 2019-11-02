@@ -1,1 +1,36 @@
-(S (S (VP (PP (PP (IN Em) (NP (NP (NNS declarações) (PP (IN a_) (NP (DT o) (NP '' (NP (NNS Diário) (NNS de) (NNS Notícias)) ``)))))) ,) (VB disse))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em)
+      (NP 
+       (NP 
+        (NNS declarações)
+        (PP 
+         (IN a_)
+         (NP 
+          (DT o)
+          (NP 
+           ''
+           ''
+           (NP 
+            (NNS Diário)
+            (NNS de)
+            (NNS Notícias)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+     ,
+    )
+    (VB disse)
+   )
+  )
+  :
+ )
+)

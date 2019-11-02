@@ -1,63 +1,67 @@
-(S 
+(
  (S 
-  (NP 
-   (DT A)
+  (S 
    (NP 
-    (NNS moral)
-    (JJ católica)
+    (DT A)
+    (NP 
+     (NNS moral)
+     (JJ católica)
+    )
    )
-  )
-  (VP 
-   (VB é)
    (VP 
-    (VB feita)
-    (PP 
+    (VB é)
+    (VP 
+     (VB feita)
      (PP 
-      (CONJP não só)
       (PP 
-       (IN por_)
-       (NP 
-        (DT o)
+       (CC não)
+       (CC só)
+       (PP 
+        (IN por_)
         (NP 
-         (NNS catecismo)
-         (PP 
-          (IN de_)
-          (NP 
-           (DT a)
+         (DT o)
+         (NP 
+          (NNS catecismo)
+          (PP 
+           (IN de_)
            (NP 
-            (NNS igreja)
-            (JJ católica)
+            (DT a)
+            (NP 
+             (NNS igreja)
+             (JJ católica)
+            )
            )
           )
          )
         )
        )
       )
-     )
-     (PP 
-      (CONJP mas também)
       (PP 
-       (IN por_)
-       (NP 
-        (DT os)
+       (CC mas)
+       (CC também)
+       (PP 
+        (IN por_)
         (NP 
+         (DT os)
          (NP 
-          (NNS teólogos)
-          (JJ moralistas)
-         )
-         (NP 
-          (PRP que)
-         )
-         (S 
-          (VP 
-           (VB são)
-           (ADJP 
-            (JJ especialistas)
-            (PP 
-             (IN em_)
-             (NP 
-              (DT estas)
-              (NNS áreas)
+          (NP 
+           (NNS teólogos)
+           (JJ moralistas)
+          )
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB são)
+            (ADJP 
+             (JJ especialistas)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT estas)
+               (NNS áreas)
+              )
              )
             )
            )
@@ -70,6 +74,6 @@
     )
    )
   )
+  .
  )
- .
 )

@@ -1,1 +1,14 @@
-(S (NP (NP (NNS Instituto) (NNS Superior) (NNS de) (NNS Economia) (NNS e) (NNS Gestão))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Instituto)
+    (NNS Superior)
+    (NNS de)
+    (NNS Economia)
+    (NNS e)
+    (NNS Gestão)
+   )
+  )
+ )
+)

@@ -1,1 +1,33 @@
-(S (S (VP (VP (VB Disseram) (NP (PRP -me))) (CP (CC que) (S (NP (DT a) (NP (PP$ minha) (NNS filha))) (VP (VB tinha) (NP (NNS sida))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Disseram)
+     (NP 
+      (PRP -me)
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NP 
+        (PP minha)
+        (NNS filha)
+       )
+      )
+      (VP 
+       (VB tinha)
+       (NP 
+        (NNS sida)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

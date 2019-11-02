@@ -1,1 +1,23 @@
-(S (NP (NNS PSD)) (VP (PP (IN a) (VP '' (VP (VB dar) (NP (DT uma) (NNS mão))) ``))))
+(
+ (S 
+  (NP 
+   (NNS PSD)
+  )
+  (VP 
+   (PP 
+    (IN a)
+    (VP 
+     ''
+     ''
+     (VP 
+      (VB dar)
+      (NP 
+       (DT uma)
+       (NNS mão)
+      )
+     )
+    )
+   )
+  )
+ )
+)

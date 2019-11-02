@@ -1,1 +1,33 @@
-(S (S (VP (VB Era) (JJ visível)) (NP (DT a) (NP (NNS satisfação) (PP (IN de_) (NP (DT o) (NP (NNS dirigente) (PP (IN de_) (NP (DT o) (NNS CDS))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Era)
+    (JJ visível)
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS satisfação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS dirigente)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS CDS)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

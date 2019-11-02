@@ -1,1 +1,25 @@
-(S (S (ADVP (RB Muito) (RB bem)) (S (VP (VB esteve)) (NP (RB também) (NP (NP (NNS Joaquim) (NNS Gomes)))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Muito)
+    (RB bem)
+   )
+   (S 
+    (VP 
+     (VB esteve)
+    )
+    (NP 
+     (RB também)
+     (NP 
+      (NP 
+       (NNS Joaquim)
+       (NNS Gomes)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

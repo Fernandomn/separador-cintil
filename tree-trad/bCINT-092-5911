@@ -1,1 +1,25 @@
-(S `` (S (S (VP (VP (RB Não) (VB posso)) (VP (VB substituir) (NP (NP (DT os) (NNS jogadores)) (PRP todos))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB posso)
+     )
+     (VP 
+      (VB substituir)
+      (NP 
+       (NP 
+        (DT os)
+        (NNS jogadores)
+       )
+       (PRP todos)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

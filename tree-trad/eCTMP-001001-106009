@@ -1,1 +1,25 @@
-(S (NP (NP (NNS Operários) (PP (IN de_) (NP (DT a) (NP (NNS construção) (JJ civil)))))) (VP (VB formam) (NP (NNS conjunto))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Operários)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS construção)
+       (JJ civil)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB formam)
+   (NP 
+    (NNS conjunto)
+   )
+  )
+ )
+)

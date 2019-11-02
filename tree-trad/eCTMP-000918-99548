@@ -1,1 +1,75 @@
-(S `` (S (S (VP (VB É) (VB sabido)) (CP (CC que) (S (NP (DT os) (NP (NNS poluentes) (JJ urbanos))) (VP (VB podem) (VP (VB conter) (NP (NP (NP (NP (NNS percentagens) (JJ elevadas)) (PP (IN de) (NP (NNS toxinas)))) (CP (NP (PRP que)) (S (VP (VB podem) (VP (VB ter) (NP (NP (NP (NNS efeitos) (JJ nefastos)) (PP (IN sobre) (NP (DT a) (NNS saúde)))))))))))))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (VB sabido)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT os)
+       (NP 
+        (NNS poluentes)
+        (JJ urbanos)
+       )
+      )
+      (VP 
+       (VB podem)
+       (VP 
+        (VB conter)
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS percentagens)
+            (JJ elevadas)
+           )
+           (PP 
+            (IN de)
+            (NP 
+             (NNS toxinas)
+            )
+           )
+          )
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB podem)
+             (VP 
+              (VB ter)
+              (NP 
+               (NP 
+                (NP 
+                 (NNS efeitos)
+                 (JJ nefastos)
+                )
+                (PP 
+                 (IN sobre)
+                 (NP 
+                  (DT a)
+                  (NNS saúde)
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

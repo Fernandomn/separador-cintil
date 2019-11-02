@@ -1,1 +1,25 @@
-(S (NP (NP (NP (NNS Morte) (JJ súbita)) (PP (IN de_) (NP (DT o) (NP (NNS compositor) (NP (NNS Jorge) (NNS Peixinho))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Morte)
+     (JJ súbita)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS compositor)
+       (NP 
+        (NNS Jorge)
+        (NNS Peixinho)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,20 @@
-(S (S (NP (DT A) (NNS decisão)) (VP (VB foi) (PP (IN contra) (NP (NNS Tellextea))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS decisão)
+   )
+   (VP 
+    (VB foi)
+    (PP 
+     (IN contra)
+     (NP 
+      (NNS Tellextea)
+     )
+    )
+   )
+  )
+  .
+ )
+)

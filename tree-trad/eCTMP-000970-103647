@@ -1,1 +1,25 @@
-(S (S (VP (VP (VB Era) (NP (DT o) (NNS delírio))) (PP , (PP (IN em) (NP (NNS Alvalade)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Era)
+     (NP 
+      (DT o)
+      (NNS delírio)
+     )
+    )
+    (PP 
+     ,
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Alvalade)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

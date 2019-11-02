@@ -1,1 +1,35 @@
-(S (NP (NP (JJ Nova) (NP (NP (NNS travessia) (JJ rodoviária)) (PP (IN de_) (NP (DT o) (NNS Douro)))))) (VP (VB homenageia) (NP (DT o) (NP (NNS Infante) (NNS D.) (NNS Henrique)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (JJ Nova)
+    (NP 
+     (NP 
+      (NNS travessia)
+      (JJ rodoviária)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Douro)
+      )
+     )
+    )
+   )
+  )
+  (VP 
+   (VB homenageia)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS Infante)
+     (NNS 
+      .
+     )
+     (NNS Henrique)
+    )
+   )
+  )
+ )
+)

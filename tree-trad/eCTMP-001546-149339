@@ -1,1 +1,17 @@
-(S (NP (NNS Bordéus)) (VP (VB encontrou) (NP (DT um) (NP (NNS presidente) (JJ salvador)))))
+(
+ (S 
+  (NP 
+   (NNS Bordéus)
+  )
+  (VP 
+   (VB encontrou)
+   (NP 
+    (DT um)
+    (NP 
+     (NNS presidente)
+     (JJ salvador)
+    )
+   )
+  )
+ )
+)

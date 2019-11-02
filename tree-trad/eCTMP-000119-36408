@@ -1,1 +1,41 @@
-(S (S (S (S (VP (VB Foi) (NP (PRP tudo))) (VP (VB despejado) (PP (IN em_) (NP (DT um) (NP (JJ antigo) (NNS hospital)))))) (S (CC e) (S (RB ali) (S (VP (VB ficou)))))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (VP 
+      (VB Foi)
+      (NP 
+       (PRP tudo)
+      )
+     )
+     (VP 
+      (VB despejado)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT um)
+        (NP 
+         (JJ antigo)
+         (NNS hospital)
+        )
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (RB ali)
+      (S 
+       (VP 
+        (VB ficou)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

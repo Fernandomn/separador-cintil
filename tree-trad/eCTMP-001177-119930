@@ -1,1 +1,29 @@
-(S (NP (NP (NNS Orquestra) (NNS Regional) (NNS de_) (NNS o) (NNS Norte))) (VP (PP (IN com) (NP (NP (NNS salários) (PP (IN em) (NP (NNS atraso))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Orquestra)
+    (NNS Regional)
+    (NNS de_)
+    (NNS o)
+    (NNS Norte)
+   )
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS salários)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS atraso)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

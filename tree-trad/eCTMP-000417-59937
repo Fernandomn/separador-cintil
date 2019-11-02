@@ -1,1 +1,57 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS sexta-feira))) ,) (S (S (NP (DT os) (NP (NNS homens) (PP (IN de) (NP (NP (NNS Los) (NNS Angeles)))))) (VP (VB jogaram) (PP (IN em) (NP (NNS casa))))) (S (CC e) (S (VP (VB mantiveram) (NP (DT o) (NNS comando))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS sexta-feira)
+     )
+    )
+    ,
+   )
+   (S 
+    (S 
+     (NP 
+      (DT os)
+      (NP 
+       (NNS homens)
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS Los)
+          (NNS Angeles)
+         )
+        )
+       )
+      )
+     )
+     (VP 
+      (VB jogaram)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS casa)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB mantiveram)
+       (NP 
+        (DT o)
+        (NNS comando)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

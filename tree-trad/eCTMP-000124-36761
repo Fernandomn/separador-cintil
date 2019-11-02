@@ -1,1 +1,27 @@
-(S `` (S (VP (PP (IN Em) (NP (NNS Portugal))) (VP (VP (RB não) (VB há)) (NP (NP (NNS tradição) (JJ gímnica))))) .))
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em)
+     (NP 
+      (NNS Portugal)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB há)
+     )
+     (NP 
+      (NP 
+       (NNS tradição)
+       (JJ gímnica)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

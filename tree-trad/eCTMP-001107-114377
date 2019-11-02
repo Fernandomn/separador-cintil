@@ -1,1 +1,45 @@
-(S (S (NP (PRP Todos) (NP (DT os) (NP (NNS brancos) (CP (NP (PRP que)) (S (VP (VB estiveram) (PP (IN em_) (NP (DT o) (NNS governo))))))))) (VP (VB saíram) (PP (IN por) (NP (NP (NNS vontade) (PP$ própria)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS brancos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB estiveram)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS governo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB saíram)
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS vontade)
+       (PP própria)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

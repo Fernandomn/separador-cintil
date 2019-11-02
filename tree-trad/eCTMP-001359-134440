@@ -1,1 +1,39 @@
-(S (S (VP (VB É) (PP (IN de_) (NP (DT o) (NP (NNS melhor) (CP (NP (PRP que)) (S (NP (DT a) (NP (NP (NNS BD) (JJ espanhola)) (JJ contemporânea))) (VP (VB produziu))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS melhor)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (DT a)
+          (NP 
+           (NP 
+            (NNS BD)
+            (JJ espanhola)
+           )
+           (JJ contemporânea)
+          )
+         )
+         (VP 
+          (VB produziu)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

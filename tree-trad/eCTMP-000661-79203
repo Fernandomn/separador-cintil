@@ -1,1 +1,22 @@
-(S (NP (NP (NP (NNS Sílvia) (NNS de) (NNS Oliveira))) (NP (CC e) (NP (NP (NNS Christiana) (NNS Martins))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Sílvia)
+     (NNS de)
+     (NNS Oliveira)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Christiana)
+      (NNS Martins)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,38 @@
-(S (S (VP (VB São) (NP (NP (NP (NNS estruturas) (PP (IN de) (NP (NNS apoio)))) (PP (IN em_) (NP (DT a) (NP (NNS área) (PP (IN de) (NP (NNS lazer)))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (NP 
+      (NP 
+       (NNS estruturas)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS apoio)
+        )
+       )
+      )
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS área)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS lazer)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

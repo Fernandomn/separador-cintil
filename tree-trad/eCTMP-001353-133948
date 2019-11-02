@@ -1,19 +1,21 @@
-(S 
+(
  (S 
-  (NP 
-   (DT O)
-   (NNS caso)
-  )
-  (VP 
-   (VP 
-    (VB surpreendia)
-    (NP 
-     (PRP -o)
-    )
+  (S 
+   (NP 
+    (DT O)
+    (NNS caso)
    )
-   (CONJP 
+   (VP 
+    (VP 
+     (VB surpreendia)
+     (NP 
+      (PRP -o)
+     )
+    )
     ,
-    (CONJP tanto mais que)
+    (CC tanto)
+    (CC mais)
+    (CC que)
     (S 
      (NP 
       (DT o)
@@ -49,6 +51,6 @@
     )
    )
   )
+  .
  )
- .
 )

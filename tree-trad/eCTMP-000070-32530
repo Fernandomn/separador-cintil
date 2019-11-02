@@ -1,1 +1,24 @@
-(S (S (PP (IN em_) (NP (DT este) (NNS cenário))) (S (NP (DT a) (NNS margem)) (VP (VB é) (JJ estreita)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT este)
+     (NNS cenário)
+    )
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS margem)
+    )
+    (VP 
+     (VB é)
+     (JJ estreita)
+    )
+   )
+  )
+  .
+ )
+)

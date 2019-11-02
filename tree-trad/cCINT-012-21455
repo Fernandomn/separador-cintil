@@ -1,1 +1,9 @@
-(S (NP (DT As) (NNS orelhas)) ?)
+(
+ (S 
+  (NP 
+   (DT As)
+   (NNS orelhas)
+  )
+  ?
+ )
+)

@@ -1,36 +1,38 @@
-(S 
+(
  (S 
-  (PP 
-   (PP 
-    (IN Para)
-    (NP 
-     (PRP mim)
-    )
-   )
-   ,
-  )
   (S 
-   (NP 
-    (DT as)
-    (NNS pessoas)
+   (PP 
+    (PP 
+     (IN Para)
+     (NP 
+      (PRP mim)
+     )
+    )
+    ,
    )
-   (VP 
-    (VB são)
-    (ADJP 
-     (JJ 
-      (RB mais)
-      (ADJP 
-       (JJ importantes)
+   (S 
+    (NP 
+     (DT as)
+     (NNS pessoas)
+    )
+    (VP 
+     (VB são)
+     (ADJP 
+      (JJ 
+       (RB mais)
+       (ADJP 
+        (JJ importantes)
+       )
+      )
+      (CONJP de_ o que)
+      (NP 
+       (DT as)
+       (NNS coisas)
       )
      )
-     (CP de_ o que)
-     (NP 
-      (DT as)
-      (NNS coisas)
-     )
     )
    )
   )
+  .
  )
- .
 )

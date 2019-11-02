@@ -1,1 +1,17 @@
-(S (S (VP (VP (RB Não) (VB estou)) (PP (IN a) (VB perceber)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB estou)
+    )
+    (PP 
+     (IN a)
+     (VB perceber)
+    )
+   )
+  )
+  .
+ )
+)

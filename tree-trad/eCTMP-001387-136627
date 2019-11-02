@@ -1,1 +1,38 @@
-(S (S (NP (NP (NNS Álvaro) (NNS Mota))) (VP (RB também) (VP (VP (RB não) (VB aplaude)) (NP (DT a) (NP (NNS decisão) (PP (IN de_) (NP (DT o) (NP (PP$ seu) (NNS partido))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Álvaro)
+     (NNS Mota)
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (VP 
+      (RB não)
+      (VB aplaude)
+     )
+     (NP 
+      (DT a)
+      (NP 
+       (NNS decisão)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (PP seu)
+          (NNS partido)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

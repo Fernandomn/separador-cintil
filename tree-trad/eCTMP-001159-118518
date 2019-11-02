@@ -1,1 +1,33 @@
-(S '' (S (VP (VB Mantenho) (NP (DT a) (NP (NNS coordenação) (PP (IN de_) (NP (DT as) (NP (NNS finanças) (PP (IN de_) (NP (DT o) (NNS PS)))))))))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (VP 
+    (VB Mantenho)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS coordenação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS finanças)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS PS)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

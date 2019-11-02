@@ -1,1 +1,36 @@
-(S (S (NP (DT O) (NP (NNS custo) (PP (IN de) (NP (PRP cada) (NNS vídeo))))) (VP (VB podia) (VP (VB chegar) (PP (IN a_) (NP (DT os) (NP (CD mil) (NNS contos))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS custo)
+     (PP 
+      (IN de)
+      (NP 
+       (PRP cada)
+       (NNS vídeo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB podia)
+    (VP 
+     (VB chegar)
+     (PP 
+      (IN a_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD mil)
+        (NNS contos)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

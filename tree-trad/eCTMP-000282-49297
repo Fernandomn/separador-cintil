@@ -1,1 +1,41 @@
-(S (S (CP (S '' (S (NP (PRP Nada)) (VP (VP (VB foi) (JJ normal)) (PP (PP (IN a) (IN partir) (IN de_)) (RB aí)))) ``) ,) (S (VP (VB contou)) (NP (PRP ele)))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     ''
+     ''
+     (S 
+      (NP 
+       (PRP Nada)
+      )
+      (VP 
+       (VP 
+        (VB foi)
+        (JJ normal)
+       )
+       (PP 
+        (PP 
+         (IN a)
+         (IN partir)
+         (IN de_)
+        )
+        (RB aí)
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB contou)
+    )
+    (NP 
+     (PRP ele)
+    )
+   )
+  )
+  .
+ )
+)

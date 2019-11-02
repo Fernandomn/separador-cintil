@@ -1,1 +1,26 @@
-(S (S (S (S (NP (DT O) (NNS Presidente)) (VB ouviu)) ,) (S (CC mas) (S (VP (RB não) (VB respondeu))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (NP 
+      (DT O)
+      (NNS Presidente)
+     )
+     (VB ouviu)
+    )
+    ,
+   )
+   (S 
+    (CC mas)
+    (S 
+     (VP 
+      (RB não)
+      (VB respondeu)
+     )
+    )
+   )
+  )
+  .
+ )
+)

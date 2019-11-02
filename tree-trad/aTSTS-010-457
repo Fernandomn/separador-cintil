@@ -1,1 +1,14 @@
-(S (S (VP (VB Vejo) (NP (DT uma) (NNS areia)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (DT uma)
+     (NNS areia)
+    )
+   )
+  )
+  .
+ )
+)

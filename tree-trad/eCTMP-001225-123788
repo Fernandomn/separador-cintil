@@ -1,1 +1,36 @@
-(S (NP (DT Uma) (NP (NNS peça) (CP (RB onde) (S (S (VP (NP (PRP se)) (VB reserva)) (NP (DT o) (NP (NNS direito) (PP (IN de) (NP (NNS admissão)))))))))) .)
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS peça)
+    (CONJP 
+     (RB onde)
+     (S 
+      (S 
+       (VP 
+        (NP 
+         (PRP se)
+        )
+        (VB reserva)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (NNS direito)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS admissão)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,15 @@
-(S (S (NP (DT O) (NNS volume)) (VP (VB foi) (JJ moderado))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS volume)
+   )
+   (VP 
+    (VB foi)
+    (JJ moderado)
+   )
+  )
+  .
+ )
+)

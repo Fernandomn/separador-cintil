@@ -1,1 +1,32 @@
-(S (S (NP (DT Outras) (NP (NNS companhias) (PP (IN de) (NP (NNS seguros))))) (VP (VP (VB adoptaram) (RB já)) (NP (DT o) (NP (JJ mesmo) (NNS procedimento))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Outras)
+    (NP 
+     (NNS companhias)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS seguros)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB adoptaram)
+     (RB já)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (JJ mesmo)
+      (NNS procedimento)
+     )
+    )
+   )
+  )
+  .
+ )
+)

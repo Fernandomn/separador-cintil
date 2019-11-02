@@ -1,1 +1,22 @@
-(S (VP (VP (RB Não) (VB há)) (NP (NP (NNS turismo) (PP (IN sem) (NP (NNS prejuízos)))))) .)
+(
+ (S 
+  (VP 
+   (VP 
+    (RB Não)
+    (VB há)
+   )
+   (NP 
+    (NP 
+     (NNS turismo)
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS prejuízos)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

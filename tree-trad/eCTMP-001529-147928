@@ -1,1 +1,14 @@
-(S (NP (NP (NNS Feira) (NNS de_) (NNS o) (NNS Livro) (NNS de) (NNS Madrid))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Feira)
+    (NNS de_)
+    (NNS o)
+    (NNS Livro)
+    (NNS de)
+    (NNS Madrid)
+   )
+  )
+ )
+)

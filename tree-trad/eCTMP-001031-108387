@@ -1,1 +1,45 @@
-(S (S (PP (PP (IN Em) (NP (PRP vários) (NNS casos))) ,) (S (NP (DT os) (NP (CP (NP (PRP que)) (S (VP (VB existem) (PP (IN em_) (NP (DT o) (NNS dicionário)))))))) (VP (VB serviram) (RB perfeitamente)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (PRP vários)
+      (NNS casos)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB existem)
+         (PP 
+          (IN em_)
+          (NP 
+           (DT o)
+           (NNS dicionário)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB serviram)
+     (RB perfeitamente)
+    )
+   )
+  )
+  .
+ )
+)

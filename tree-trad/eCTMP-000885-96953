@@ -1,1 +1,23 @@
-(S (S (VP (PP (IN Em_) (NP (DT o) (NNS Norte))) (VP (VP (RB não) (VB é)) (RB assim)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT o)
+      (NNS Norte)
+     )
+    )
+    (VP 
+     (VP 
+      (RB não)
+      (VB é)
+     )
+     (RB assim)
+    )
+   )
+  )
+  .
+ )
+)

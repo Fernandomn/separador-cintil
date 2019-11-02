@@ -1,1 +1,21 @@
-(S (NP (NP (NP (NNS Manuela) (NNS Machado))) (NP (CC e) (NP (NP (NNS Fernanda) (NNS Ribeiro))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Manuela)
+     (NNS Machado)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Fernanda)
+      (NNS Ribeiro)
+     )
+    )
+   )
+  )
+ )
+)

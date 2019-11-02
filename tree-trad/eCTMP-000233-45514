@@ -1,1 +1,26 @@
-(S (NP (NP (NNS Manuel) (NNS Roque))) (VP (VB rejeita) (NP (NP (NNS criação) (PP (IN de) (NP '' (NNS holding) ``))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Manuel)
+    (NNS Roque)
+   )
+  )
+  (VP 
+   (VB rejeita)
+   (NP 
+    (NP 
+     (NNS criação)
+     (PP 
+      (IN de)
+      (NP 
+       ''
+       ''
+       (NNS holding)
+      )
+     )
+    )
+   )
+  )
+ )
+)

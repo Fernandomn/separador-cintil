@@ -1,1 +1,26 @@
-(S (S (VP (VB impediu) (CP (CC que) (S (NP (DT as) (NNS crianças)) (VP (VB comessem) (NP (DT o) (NNS bolo))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB impediu)
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT as)
+       (NNS crianças)
+      )
+      (VP 
+       (VB comessem)
+       (NP 
+        (DT o)
+        (NNS bolo)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

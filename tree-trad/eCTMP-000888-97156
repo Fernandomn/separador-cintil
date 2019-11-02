@@ -1,1 +1,30 @@
-(S `` (S (S (VP (VB É) (NP (DT o) (NP (JJ chamado) (NP (NNS investimento) (PP (IN a) (NP (NP (JJ longo) (NNS prazo))))))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (NP 
+      (DT o)
+      (NP 
+       (JJ chamado)
+       (NP 
+        (NNS investimento)
+        (PP 
+         (IN a)
+         (NP 
+          (NP 
+           (JJ longo)
+           (NNS prazo)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

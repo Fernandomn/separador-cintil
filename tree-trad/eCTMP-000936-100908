@@ -1,1 +1,20 @@
-(S (NP (NP (NNS José) (NNS Manuel) (NNS Fernandes)) ,) (VP (PP (IN em) (NP (NNS Benguela)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS José)
+    (NNS Manuel)
+    (NNS Fernandes)
+   )
+   ,
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Benguela)
+    )
+   )
+  )
+ )
+)

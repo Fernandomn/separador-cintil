@@ -1,1 +1,32 @@
-(S (S (VP (VB Viram) (NP (DT o) (NP (NP (NNS ressentimento) (PP (IN de_) (NP (DT o) (NNS rapaz)))) (PP (IN com) (NP (DT o) (NNS pai))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS ressentimento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS rapaz)
+        )
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (DT o)
+        (NNS pai)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

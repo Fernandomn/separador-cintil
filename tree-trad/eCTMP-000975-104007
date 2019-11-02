@@ -1,1 +1,27 @@
-(S (S (NP (DT O) (NP (NNS tom) (PP (IN de_) (NP (DT a) (NNS mensagem))))) (VP (VP (VB é) (RB relativamente)) (JJ intimista))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS tom)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS mensagem)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB relativamente)
+    )
+    (JJ intimista)
+   )
+  )
+  .
+ )
+)

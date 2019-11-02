@@ -1,1 +1,41 @@
-(S (S (NP (NP (NP (NNS Paulo) (NNS Martins))) (NP , (NP (NNS líder) (PP (IN de_) (NP (DT a) (NNS UDP)))) ,)) (VP (VB tem) (NP (NP (NNS ideias) (ADJP (RB bem) (JJ definidas)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Paulo)
+      (NNS Martins)
+     )
+    )
+    (NP 
+     ,
+     (NP 
+      (NNS líder)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS UDP)
+       )
+      )
+     )
+     ,
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (NP 
+      (NNS ideias)
+      (ADJP 
+       (RB bem)
+       (JJ definidas)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

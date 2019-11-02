@@ -1,1 +1,34 @@
-(S (S (VP (PP (IN em_) (NP (DT estes) (NNS casos))) (VP (ADVP , (RB aliás) ,) (VP (VB surge) (RB até)))) (NP (DT uma) (NP (NNS ameaça) (JJ suplementar)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT estes)
+      (NNS casos)
+     )
+    )
+    (VP 
+     (ADVP 
+      ,
+      (RB aliás)
+      ,
+     )
+     (VP 
+      (VB surge)
+      (RB até)
+     )
+    )
+   )
+   (NP 
+    (DT uma)
+    (NP 
+     (NNS ameaça)
+     (JJ suplementar)
+    )
+   )
+  )
+  .
+ )
+)

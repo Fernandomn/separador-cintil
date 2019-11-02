@@ -1,1 +1,30 @@
-(S (VP (VP (VP (RB Não) (VB houve)) (PP (PP (IN além) (IN de_)) (NP (DT isso)))) (NP '' (NP (NNS detalhe) (JJ institucional)) ``)) .)
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB houve)
+    )
+    (PP 
+     (PP 
+      (IN além)
+      (IN de_)
+     )
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+   (NP 
+    ''
+    ''
+    (NP 
+     (NNS detalhe)
+     (JJ institucional)
+    )
+   )
+  )
+  .
+ )
+)

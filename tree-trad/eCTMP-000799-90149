@@ -1,1 +1,20 @@
-(S (S (RB Só) (S (NP (NP (NNS São) (NNS Pedro))) (VP (RB não) (VB ajudou)))) .)
+(
+ (S 
+  (S 
+   (RB Só)
+   (S 
+    (NP 
+     (NP 
+      (NNS São)
+      (NNS Pedro)
+     )
+    )
+    (VP 
+     (RB não)
+     (VB ajudou)
+    )
+   )
+  )
+  .
+ )
+)

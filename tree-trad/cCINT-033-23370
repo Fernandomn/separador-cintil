@@ -1,1 +1,23 @@
-(S (S (VP (RB Hoje) (VP (VP (VB vim) (RB cá)) (PP (IN por) (NP (DT outros) (NNS motivos)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Hoje)
+    (VP 
+     (VP 
+      (VB vim)
+      (RB cá)
+     )
+     (PP 
+      (IN por)
+      (NP 
+       (DT outros)
+       (NNS motivos)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

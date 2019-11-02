@@ -1,1 +1,29 @@
-(S (NP (NNS Centralcer)) (VP (VB compra) (NP (NP (CD 9,5) (NP (NN %) (PP (IN de) (NP (NP (NNS cervejeira) (JJ andaluza)))))))))
+(
+ (S 
+  (NP 
+   (NNS Centralcer)
+  )
+  (VP 
+   (VB compra)
+   (NP 
+    (NP 
+     (CD 
+      ,
+     )
+     (NP 
+      (NN %)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS cervejeira)
+         (JJ andaluza)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

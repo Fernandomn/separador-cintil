@@ -1,1 +1,33 @@
-(S (S (VP (VB É) (NP (DT o) (NP (CD primeiro) (NP (NNS concerto) (PP (IN de_) (NP (DT o) (NP (NNS programa) (NP '' (NNS Vozes) ``))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT o)
+     (NP 
+      (CD primeiro)
+      (NP 
+       (NNS concerto)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NP 
+          (NNS programa)
+          (NP 
+           ''
+           ''
+           (NNS Vozes)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

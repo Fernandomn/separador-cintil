@@ -1,1 +1,39 @@
-(S (S (VP (PP (PP (PP (IN Até) (IN a_)) (NP (DT o) (NNS intervalo))) ,) (VP (VB foi) (NP (DT o) (NNS Benfica)))) (NP (DT a) (NP (NNS equipa) (ADJP (RB mais) (JJ perigosa))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (PP 
+       (IN Até)
+       (IN a_)
+      )
+      (NP 
+       (DT o)
+       (NNS intervalo)
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT o)
+      (NNS Benfica)
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS equipa)
+     (ADJP 
+      (RB mais)
+      (JJ perigosa)
+     )
+    )
+   )
+  )
+  .
+ )
+)

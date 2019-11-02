@@ -1,1 +1,17 @@
-(S (NP (DT Um) (NP (NNS processo) (ADJP (JJ longo) (ADJP (CC e) (JJ doloroso))))))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS processo)
+    (ADJP 
+     (JJ longo)
+     (ADJP 
+      (CC e)
+      (JJ doloroso)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,32 @@
-(S (S (VP (VB É) (NP (DT um) (NP (NNS erro) (CP (NP (PRP que)) (S (VP (VP (RB não) (VB podemos)) (VP (VB cometer))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT um)
+     (NP 
+      (NNS erro)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VP 
+          (RB não)
+          (VB podemos)
+         )
+         (VP 
+          (VB cometer)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

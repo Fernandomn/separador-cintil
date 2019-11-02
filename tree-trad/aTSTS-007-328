@@ -1,1 +1,18 @@
-(S (S (VP (VB Comprei) (NP (NP (CD vinte) (CD e) (CD uma)) (NNS impressoras)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Comprei)
+    (NP 
+     (NP 
+      (CD vinte)
+      (CD e)
+      (CD uma)
+     )
+     (NNS impressoras)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,32 @@
-(S (S (VP (VB Viram) (NP (DT o) (NP (NP (NNS esclarecimento) (PP (IN sobre) (NP (DT o) (NNS assunto)))) (PP (IN por_) (NP (DT o) (NNS rapaz))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS esclarecimento)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT o)
+         (NNS assunto)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS rapaz)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

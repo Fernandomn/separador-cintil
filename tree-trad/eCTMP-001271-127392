@@ -1,1 +1,26 @@
-(S (S (NP (DT A) (NNS morte)) (VP (VP (RB não) (VB pode)) (VP (VB atingir) (NP (NP (JJ maior) (NNS horror)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS morte)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB pode)
+    )
+    (VP 
+     (VB atingir)
+     (NP 
+      (NP 
+       (JJ maior)
+       (NNS horror)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

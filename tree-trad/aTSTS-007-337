@@ -1,1 +1,12 @@
-(S (S (VB Chegou) (NP (DT certo) (NNS carro))) .)
+(
+ (S 
+  (S 
+   (VB Chegou)
+   (NP 
+    (DT certo)
+    (NNS carro)
+   )
+  )
+  .
+ )
+)

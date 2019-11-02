@@ -1,1 +1,24 @@
-(S (NP (CD Doze) (NP (NNS anos) (PP (IN de) (NP (NP (NNS prisão) (PP (IN para) (NP (NNS traficante)))))))))
+(
+ (S 
+  (NP 
+   (CD Doze)
+   (NP 
+    (NNS anos)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS prisão)
+       (PP 
+        (IN para)
+        (NP 
+         (NNS traficante)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

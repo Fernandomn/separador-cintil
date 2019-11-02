@@ -1,1 +1,30 @@
-(S (VP (VB Há) (NP (NP (PRP quem)) (S (VP (VB diga) (CP (CC que) (S (VP (VB foi) (NP (DT um) (NNS milagre))))))))) .)
+(
+ (S 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (PRP quem)
+    )
+    (S 
+     (VP 
+      (VB diga)
+      (CONJP 
+       (CC que)
+       (S 
+        (VP 
+         (VB foi)
+         (NP 
+          (DT um)
+          (NNS milagre)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

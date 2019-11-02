@@ -1,1 +1,11 @@
-(S (NP (NP (NNS Jardim) (NNS Fernandes))) (VB reage))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Jardim)
+    (NNS Fernandes)
+   )
+  )
+  (VB reage)
+ )
+)

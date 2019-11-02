@@ -1,1 +1,20 @@
-(S (NP (NP (NP (NNS Marisa) (NNS Merz)) ,) (NP (DT a) (NP (NNS força) (JJ subterrânea)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Marisa)
+     (NNS Merz)
+    )
+    ,
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS força)
+     (JJ subterrânea)
+    )
+   )
+  )
+ )
+)

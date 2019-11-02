@@ -1,1 +1,31 @@
-(S (VP (VP (VB Terminou) (RB ontem)) (PP , (PP (IN em) (NP (NNS Lisboa))) ,)) (NP (NP (NNS congresso) (PP (IN sobre) (NP (NNS missionação))))))
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Terminou)
+    (RB ontem)
+   )
+   (PP 
+    ,
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Lisboa)
+     )
+    )
+    ,
+   )
+  )
+  (NP 
+   (NP 
+    (NNS congresso)
+    (PP 
+     (IN sobre)
+     (NP 
+      (NNS missionação)
+     )
+    )
+   )
+  )
+ )
+)

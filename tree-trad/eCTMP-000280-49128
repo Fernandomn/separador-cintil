@@ -1,1 +1,21 @@
-(S (NP (NNS Húngaros)) (VP (VB impedem) (NP (NP (NNS atentado) (PP (IN contra) (NP (NNS Cossiga)))))))
+(
+ (S 
+  (NP 
+   (NNS Húngaros)
+  )
+  (VP 
+   (VB impedem)
+   (NP 
+    (NP 
+     (NNS atentado)
+     (PP 
+      (IN contra)
+      (NP 
+       (NNS Cossiga)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,43 @@
-(S (S (S (VP (VP (RB Não) (VB tenho)) (NP (NNS dúvidas)))) (S (CC e) (S (VP (VP (VB sei) (NP (PRP -o))) (PP (IN com) (NP (NP (NNS factos) (NP (CC e) (NNS números))))))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB tenho)
+     )
+     (NP 
+      (NNS dúvidas)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VP 
+       (VB sei)
+       (NP 
+        (PRP -o)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NP 
+         (NNS factos)
+         (NP 
+          (CC e)
+          (NNS números)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

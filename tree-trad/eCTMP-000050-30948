@@ -1,26 +1,27 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT O)
-    (NNS empréstimo)
-   )
-   (VP 
+   (S 
+    (NP 
+     (DT O)
+     (NNS empréstimo)
+    )
     (VP 
      (VP 
-      (VB será)
-      (VB negociado)
-     )
-     (PP 
-      (IN por)
-      (NP 
-       (NNS tranches)
+      (VP 
+       (VB será)
+       (VB negociado)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (NNS tranches)
+       )
       )
      )
-    )
-    (CONJP 
      ,
-     (CONJP já que)
+     (CC já)
+     (CC que)
      (S 
       (NP 
        (DT o)
@@ -51,6 +52,6 @@
     )
    )
   )
+  .
  )
- .
 )

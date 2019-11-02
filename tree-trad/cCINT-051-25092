@@ -1,1 +1,16 @@
-(S (S (VP (VB Concordas) (PP (IN com) (NP (PRP ele))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Concordas)
+    (PP 
+     (IN com)
+     (NP 
+      (PRP ele)
+     )
+    )
+   )
+  )
+  ?
+ )
+)

@@ -1,1 +1,32 @@
-(S (S (VP (VB Viram) (NP (DT a) (NP (NP (NNS dedicatória) (PP (IN de_) (NP (DT o) (NNS poeta)))) (PP (IN a_) (NP (DT o) (NNS filho))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS dedicatória)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS poeta)
+        )
+       )
+      )
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS filho)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

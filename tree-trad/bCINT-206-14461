@@ -1,1 +1,33 @@
-(S (S (NP (RB Apenas) (NP (DT os) (NP (NNS resultados) (PP (IN de_) (NP (DT os) (NNS bancos)))))) (VP (VB poderão) (VP (VB impedir) (NP (PRP algumas) (NNS perdas))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (RB Apenas)
+    (NP 
+     (DT os)
+     (NP 
+      (NNS resultados)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS bancos)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB poderão)
+    (VP 
+     (VB impedir)
+     (NP 
+      (PRP algumas)
+      (NNS perdas)
+     )
+    )
+   )
+  )
+  .
+ )
+)

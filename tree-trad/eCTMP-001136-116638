@@ -1,1 +1,27 @@
-(S (NP (NP (NNS Actos) (JJ simbólicos))) (VP (PP (IN em_) (NP (DT o) (NP (NNS dia) (PP (IN de) (NP (NNS Coimbra))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Actos)
+    (JJ simbólicos)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS dia)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Coimbra)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,20 @@
-(S (NP (DT A) (NNS Taça)) (VP (VB fica) (PP (IN em) (NP (NP (NNS San) (NNS Diego))))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS Taça)
+  )
+  (VP 
+   (VB fica)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS San)
+      (NNS Diego)
+     )
+    )
+   )
+  )
+ )
+)

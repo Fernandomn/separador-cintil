@@ -1,1 +1,26 @@
-(S (S (VP (VP (RB Não) (VB é)) (JJ genuíno)) (CP (CC que) (S (S (NP (PRP se)) (VB faça)) (RB assim)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB é)
+    )
+    (JJ genuíno)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (S 
+      (NP 
+       (PRP se)
+      )
+      (VB faça)
+     )
+     (RB assim)
+    )
+   )
+  )
+  .
+ )
+)

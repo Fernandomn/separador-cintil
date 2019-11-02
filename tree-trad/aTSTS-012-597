@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB exerce) (NP (NNS pressão))) (PP (IN sobre) (NP (DT a) (NNS mesa))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB exerce)
+     (NP 
+      (NNS pressão)
+     )
+    )
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT a)
+      (NNS mesa)
+     )
+    )
+   )
+  )
+  .
+ )
+)

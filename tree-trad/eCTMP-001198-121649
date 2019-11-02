@@ -1,1 +1,43 @@
-(S (S (NP (DT A) (NP (NNS Câmara) (NNS de_) (NNS os) (NNS Representantes))) (VP (RB já) (VP (VP (VB aprovou) (PP (IN em) (NP (NNS Junho)))) (NP (DT o) (NP (NNS levantamento) (PP (IN de_) (NP (DT o) (NNS embargo)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS Câmara)
+     (NNS de_)
+     (NNS os)
+     (NNS Representantes)
+    )
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB aprovou)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS Junho)
+       )
+      )
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (NNS levantamento)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS embargo)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,22 @@
-(S (NP (NNS Calheiros)) (VP (VP (VB interrompe) (NP (NNS Salgueiros-Setúbal))) (PP (IN a_) (NP (DT o) (NNS intervalo)))))
+(
+ (S 
+  (NP 
+   (NNS Calheiros)
+  )
+  (VP 
+   (VP 
+    (VB interrompe)
+    (NP 
+     (NNS Salgueiros-Setúbal)
+    )
+   )
+   (PP 
+    (IN a_)
+    (NP 
+     (DT o)
+     (NNS intervalo)
+    )
+   )
+  )
+ )
+)

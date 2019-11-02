@@ -1,1 +1,40 @@
-(S `` (S (VP (VP (RB Não) (VB há)) (NP (NP (NP (NNS informações) (JJ concretas)) (PP (IN de_) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB vai) (VB acontecer)))))))))) .))
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB há)
+    )
+    (NP 
+     (NP 
+      (NP 
+       (NNS informações)
+       (JJ concretas)
+      )
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB vai)
+            (VB acontecer)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

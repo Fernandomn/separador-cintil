@@ -1,1 +1,17 @@
-(S (NP (DT Uma) (NP (NNS âncora) (PP (IN para) (NP (DT a) (NNS economia))))))
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS âncora)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNS economia)
+     )
+    )
+   )
+  )
+ )
+)

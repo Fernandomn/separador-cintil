@@ -1,1 +1,12 @@
-(S (NP (DT Uma) (NP (JJ autêntica) (NNS inspiração))) !)
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (JJ autêntica)
+    (NNS inspiração)
+   )
+  )
+  !
+ )
+)

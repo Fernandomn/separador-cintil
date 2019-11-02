@@ -1,1 +1,27 @@
-(S (NP (NP (NNS Dúvidas) (CP (NP (PRP que)) (S (VP (ADVP (RB só) (RB hoje)) (VP (VB ficarão) (JJ esclarecidas))))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Dúvidas)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (ADVP 
+        (RB só)
+        (RB hoje)
+       )
+       (VP 
+        (VB ficarão)
+        (JJ esclarecidas)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,12 @@
-(S (NP (NP (DT Um) (NNS quadro)) !) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (DT Um)
+    (NNS quadro)
+   )
+   !
+  )
+  .
+ )
+)

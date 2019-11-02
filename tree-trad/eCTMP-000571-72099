@@ -1,1 +1,41 @@
-(S (VP (VP (VP (RB Não) (VB podia)) (VP (VB haver) (NP (NNS luar)))) (CONJP (CC porque) (S (NP (DT a) (NP (NNS fase) (PP (IN de_) (NP (DT a) (NNS Lua))))) (VP (VB seria) (JJ nova))))) .)
+(
+ (S 
+  (VP 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB podia)
+    )
+    (VP 
+     (VB haver)
+     (NP 
+      (NNS luar)
+     )
+    )
+   )
+   (CONJP 
+    (CC porque)
+    (S 
+     (NP 
+      (DT a)
+      (NP 
+       (NNS fase)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS Lua)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB seria)
+      (JJ nova)
+     )
+    )
+   )
+  )
+  .
+ )
+)

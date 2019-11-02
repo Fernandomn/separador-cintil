@@ -1,1 +1,15 @@
-(S (S (NP (DT A) (NNS loja)) (VP (VB fica) (RB ali))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS loja)
+   )
+   (VP 
+    (VB fica)
+    (RB ali)
+   )
+  )
+  .
+ )
+)

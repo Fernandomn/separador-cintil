@@ -1,1 +1,32 @@
-(S (S (VP (VB Viram) (NP (DT o) (NP (NP (NNS eleito) (PP (IN para) (NP (DT o) (NNS cargo)))) (PP (IN por_) (NP (DT o) (NNS partido))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       (NNS eleito)
+       (PP 
+        (IN para)
+        (NP 
+         (DT o)
+         (NNS cargo)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS partido)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,9 @@
-(S (NP (PRP Imensas) (NNS fugas)) .)
+(
+ (S 
+  (NP 
+   (PRP Imensas)
+   (NNS fugas)
+  )
+  .
+ )
+)

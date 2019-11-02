@@ -1,1 +1,16 @@
-(S (NP (NNS Gulbenkian)) (VP (VP (RB não) (VB suspendeu)) (NP (NNS financiamento))))
+(
+ (S 
+  (NP 
+   (NNS Gulbenkian)
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB suspendeu)
+   )
+   (NP 
+    (NNS financiamento)
+   )
+  )
+ )
+)

@@ -1,1 +1,41 @@
-(S (NP (NNS CGD)) (VP (VB ESTÁ) (PP (IN A) (VP (VB NEGOCIAR) (NP (DT A) (NP (NNS VENDA) (PP (PP (IN de_) (NP (DT a) (NNS ODEFRUTA))) (PP (CC E) (PP (IN de_) (NP (DT a) (NNS ODEFLOR)))))))))))
+(
+ (S 
+  (NP 
+   (NNS CGD)
+  )
+  (VP 
+   (VB ESTÁ)
+   (PP 
+    (IN A)
+    (VP 
+     (VB NEGOCIAR)
+     (NP 
+      (DT A)
+      (NP 
+       (NNS VENDA)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS ODEFRUTA)
+         )
+        )
+        (PP 
+         (CC E)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NNS ODEFLOR)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

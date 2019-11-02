@@ -1,1 +1,31 @@
-(S (S (S (VP (PP (IN Para) (NP (DT o) (NNS ano))) (VP (RB já) (VP (VB vou) (VP (VB fazer) (NP (CD cem) (NNS anos))))))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Para)
+      (NP 
+       (DT o)
+       (NNS ano)
+      )
+     )
+     (VP 
+      (RB já)
+      (VP 
+       (VB vou)
+       (VP 
+        (VB fazer)
+        (NP 
+         (CD cem)
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

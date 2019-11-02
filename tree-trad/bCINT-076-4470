@@ -1,1 +1,24 @@
-(S (NP (NP (NNS Realojamento) (PP (IN de) (NP (NNS ciganos))))) (VP (VB avança) (PP (IN em) (NP (NNS Francelos)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Realojamento)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS ciganos)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB avança)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Francelos)
+    )
+   )
+  )
+ )
+)

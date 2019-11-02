@@ -1,1 +1,30 @@
-(S (NP (NP (NNS Grupo) (NNS Coface))) (VP (VB adquire) (NP (NP (CD 79,2) (NP (NN %) (PP (IN de_) (NP (DT a) (NNS OeKV))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Grupo)
+    (NNS Coface)
+   )
+  )
+  (VP 
+   (VB adquire)
+   (NP 
+    (NP 
+     (CD 
+      ,
+     )
+     (NP 
+      (NN %)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS OeKV)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

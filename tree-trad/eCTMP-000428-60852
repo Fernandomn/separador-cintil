@@ -1,1 +1,23 @@
-(S (NP (DT O) (NNS Norte)) (VP (VB é) (NP (DT um) (NP (NNS atraso) (PP (IN de) (NP (NNS vida)))))))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS Norte)
+  )
+  (VP 
+   (VB é)
+   (NP 
+    (DT um)
+    (NP 
+     (NNS atraso)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS vida)
+      )
+     )
+    )
+   )
+  )
+ )
+)

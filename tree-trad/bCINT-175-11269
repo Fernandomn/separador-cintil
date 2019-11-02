@@ -1,1 +1,13 @@
-(S (NP (NNS GOVERNO)) (VP (VB FINANCIA) (NP (NNS EMPREGO))))
+(
+ (S 
+  (NP 
+   (NNS GOVERNO)
+  )
+  (VP 
+   (VB FINANCIA)
+   (NP 
+    (NNS EMPREGO)
+   )
+  )
+ )
+)

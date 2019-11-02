@@ -1,1 +1,25 @@
-(S (NP (NP (NNS Mota) (NNS Freitas))) (VP (VP (VP (VB é) (VB ouvido)) (RB hoje)) (PP (IN em) (NP (NNS Tribunal)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Mota)
+    (NNS Freitas)
+   )
+  )
+  (VP 
+   (VP 
+    (VP 
+     (VB é)
+     (VB ouvido)
+    )
+    (RB hoje)
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Tribunal)
+    )
+   )
+  )
+ )
+)

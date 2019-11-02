@@ -1,1 +1,28 @@
-(S (S (VP (VB Referiram) (CP (CC que) (S (VP (VB foi) (VB solicitado)) (CP (CC que) (S (NP (DT isso)) (VB acontecesse))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Referiram)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VB foi)
+       (VB solicitado)
+      )
+      (CONJP 
+       (CC que)
+       (S 
+        (NP 
+         (DT isso)
+        )
+        (VB acontecesse)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

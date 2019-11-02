@@ -1,1 +1,34 @@
-(S (S (VP (VP (VB Tens) (PP (IN por) (RB aí))) (NP (PRP alguma) (NP (CP (NP (PRP que)) (S (VP (NP (PRP me)) (VB sirva)))))))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Tens)
+     (PP 
+      (IN por)
+      (RB aí)
+     )
+    )
+    (NP 
+     (PRP alguma)
+     (NP 
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP me)
+         )
+         (VB sirva)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

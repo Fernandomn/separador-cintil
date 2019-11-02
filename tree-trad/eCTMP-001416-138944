@@ -1,1 +1,19 @@
-(S (NP (NP (NP (NNS Balneário) (JJ insuflável)) (PP (IN contra) (NP (DT o) (NNS calor))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Balneário)
+     (JJ insuflável)
+    )
+    (PP 
+     (IN contra)
+     (NP 
+      (DT o)
+      (NNS calor)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,21 @@
-(S (NP (NNS Funcionários)) (VP (VB recebem) (NP (NP (NNS vales) (PP (IN para) (NP (NNS sapatos)))))))
+(
+ (S 
+  (NP 
+   (NNS Funcionários)
+  )
+  (VP 
+   (VB recebem)
+   (NP 
+    (NP 
+     (NNS vales)
+     (PP 
+      (IN para)
+      (NP 
+       (NNS sapatos)
+      )
+     )
+    )
+   )
+  )
+ )
+)

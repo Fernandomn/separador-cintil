@@ -1,1 +1,27 @@
-(S (S (S (VP (VB É) (ADJP (RB mais) (JJ difícil)))) (S , (S (VP (VB é) (NP (NNS verdade)))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB É)
+     (ADJP 
+      (RB mais)
+      (JJ difícil)
+     )
+    )
+   )
+   (S 
+    ,
+    (S 
+     (VP 
+      (VB é)
+      (NP 
+       (NNS verdade)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

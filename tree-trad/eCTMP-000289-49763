@@ -1,1 +1,41 @@
-(S (S (NP (DT O) (NP (JJ tradicional) (NP (NP '' (NP (NNS espírito) (PP (IN de) (NP (NNS guerra)))) ``) (PP (IN de) (NP (NP (NNS Lansdowne) (NNS Road))))))) (VP (RB nunca) (VB transpareceu))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (JJ tradicional)
+     (NP 
+      (NP 
+       ''
+       ''
+       (NP 
+        (NNS espírito)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS guerra)
+         )
+        )
+       )
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS Lansdowne)
+         (NNS Road)
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB nunca)
+    (VB transpareceu)
+   )
+  )
+  .
+ )
+)

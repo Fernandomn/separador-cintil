@@ -1,1 +1,23 @@
-(S (S (PP (PP (IN Em) (NP (CD sete) (NNS anos))) ,) (S (NP (PRP tudo)) (VB mudou))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em)
+     (NP 
+      (CD sete)
+      (NNS anos)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (PRP tudo)
+    )
+    (VB mudou)
+   )
+  )
+  .
+ )
+)

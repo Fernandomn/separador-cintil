@@ -1,26 +1,29 @@
-(S 
+(
  (S 
-  (VP 
-   (VB É)
-   (PP 
+  (S 
+   (VP 
+    (VB É)
     (PP 
-     (IN de_)
-     (NP 
-      (DT a)
-      (NNS Empire)
-     )
-    )
-    (PP 
-     (CONJP e ,)
      (PP 
-      (IN em)
+      (IN de_)
       (NP 
-       (NNS CD-ROM)
+       (DT a)
+       (NNS Empire)
+      )
+     )
+     (PP 
+      (CC e)
+      ,
+      (PP 
+       (IN em)
+       (NP 
+        (NNS CD-ROM)
+       )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

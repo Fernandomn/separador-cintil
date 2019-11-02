@@ -1,1 +1,17 @@
-(S (NP (DT A) (NNS Botilde)) (VP (VB está) (PP (IN de) (NP (NNS volta)))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS Botilde)
+  )
+  (VP 
+   (VB está)
+   (PP 
+    (IN de)
+    (NP 
+     (NNS volta)
+    )
+   )
+  )
+ )
+)

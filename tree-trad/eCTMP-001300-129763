@@ -1,1 +1,24 @@
-(S (NP (NP (NNS Liga) (PP (IN de) (NP (NNS futebol))))) (VP (VB começa) (PP (IN em) (NP (NNS Espanha)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Liga)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS futebol)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB começa)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Espanha)
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,34 @@
-(S (NP (NP (PRP Quem)) (S (VP (VB pode) (VP (VB estar) (PP (IN contra) (NP (DT uma) (NP (NNS Europa) (PP (IN de_) (NP (DT os) (NNS povos)))))))))) ?)
+(
+ (S 
+  (NP 
+   (NP 
+    (PRP Quem)
+   )
+   (S 
+    (VP 
+     (VB pode)
+     (VP 
+      (VB estar)
+      (PP 
+       (IN contra)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS Europa)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS povos)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

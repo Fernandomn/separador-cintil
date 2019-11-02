@@ -1,1 +1,38 @@
-(S (S (VP (VB Vim) (PP (IN a_) (NP (DT a) (NP (NNS procura) (PP (PP (IN de_) (NP (DT o) (NNS sol))) (PP (CC e) (PP (IN de_) (NP (DT as) (NNS praias)))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vim)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS procura)
+       (PP 
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS sol)
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS praias)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

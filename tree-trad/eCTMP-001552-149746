@@ -1,1 +1,29 @@
-(S (NP (DT Um) (NNS Papa)) (VP (PP (IN em_) (NP (DT o) (NP (NP '' (NNS tour) ``) (PP (IN de) (NP (NNS França))))))))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NNS Papa)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NP 
+      (NP 
+       ''
+       ''
+       (NNS tour)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS França)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

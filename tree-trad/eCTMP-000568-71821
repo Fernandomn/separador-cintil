@@ -1,1 +1,24 @@
-(S (NP (CD Três) (NP (NNS semanas) (PP (IN de) (NP (NP (NNS protestos) (PP (IN de) (NP (NNS rua)))))))))
+(
+ (S 
+  (NP 
+   (CD Três)
+   (NP 
+    (NNS semanas)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS protestos)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS rua)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

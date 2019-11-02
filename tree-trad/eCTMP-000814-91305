@@ -1,1 +1,23 @@
-(S (S (NP (DT A) (NNS guerra)) (VP (VB começa) (ADVP (ADVP (NP (CD 48) (NNS horas))) (RB depois)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS guerra)
+   )
+   (VP 
+    (VB começa)
+    (ADVP 
+     (ADVP 
+      (NP 
+       (CD 48)
+       (NNS horas)
+      )
+     )
+     (RB depois)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,28 @@
-(S (S (S (NP (DT Outra) (NNS pergunta))) (CONJP (CC se) (S (NP (PRP ela)) (VP (VP (RB não) (VB sai)) (RB mesmo))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT Outra)
+     (NNS pergunta)
+    )
+   )
+   (CONJP 
+    (CC se)
+    (S 
+     (NP 
+      (PRP ela)
+     )
+     (VP 
+      (VP 
+       (RB não)
+       (VB sai)
+      )
+      (RB mesmo)
+     )
+    )
+   )
+  )
+  .
+ )
+)

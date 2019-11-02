@@ -1,1 +1,14 @@
-(S (S (VP (VB Têm) (NP (DT uma) (NNS força)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Têm)
+    (NP 
+     (DT uma)
+     (NNS força)
+    )
+   )
+  )
+  .
+ )
+)

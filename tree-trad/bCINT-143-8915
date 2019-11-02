@@ -1,1 +1,8 @@
-(S (NP (NNS Tranquilidade)) .)
+(
+ (S 
+  (NP 
+   (NNS Tranquilidade)
+  )
+  .
+ )
+)

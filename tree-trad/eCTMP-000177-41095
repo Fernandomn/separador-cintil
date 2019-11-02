@@ -1,1 +1,18 @@
-(S (S (NP (DT Este) (NNS exemplo)) (VP (VP (RB não) (VB é)) (VB inventado))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS exemplo)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (VB inventado)
+   )
+  )
+  .
+ )
+)

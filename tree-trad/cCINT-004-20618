@@ -1,1 +1,12 @@
-(S (S (NP (DT Os) (NNS sócios)) (VB concordaram)) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS sócios)
+   )
+   (VB concordaram)
+  )
+  .
+ )
+)

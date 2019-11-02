@@ -1,1 +1,9 @@
-(S (NP (DT O) (NNS PÜBLICO)) (VB ERROU))
+(
+ (S 
+  (NP 
+   (DT O)
+   (NNS PÜBLICO)
+  )
+  (VB ERROU)
+ )
+)

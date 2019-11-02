@@ -1,1 +1,16 @@
-(S (NP (NP (NNS VALENTIM) (NNS LOUREIRO))) (VP (VB GANHA) (NP (NNS APOIOS))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS VALENTIM)
+    (NNS LOUREIRO)
+   )
+  )
+  (VP 
+   (VB GANHA)
+   (NP 
+    (NNS APOIOS)
+   )
+  )
+ )
+)

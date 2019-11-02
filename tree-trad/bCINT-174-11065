@@ -1,1 +1,21 @@
-(S (NP (NNS Fogo)) (VP (VP (VB destrói) (NP (NNS matas))) (PP (IN em) (NP (NNS Pinho)))))
+(
+ (S 
+  (NP 
+   (NNS Fogo)
+  )
+  (VP 
+   (VP 
+    (VB destrói)
+    (NP 
+     (NNS matas)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Pinho)
+    )
+   )
+  )
+ )
+)

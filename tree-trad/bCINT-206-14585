@@ -1,1 +1,32 @@
-(S (NP (NP (NNS TRIATLETA) (JJ PORTUGUESA))) (VP (VP (VB PARTICIPOU) (PP (IN POR) (NP (CD TRÊS) (NNS VEZES)))) (PP (IN EM_) (NP (DT O) (NP (NNS IRON) (NNS MAN))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS TRIATLETA)
+    (JJ PORTUGUESA)
+   )
+  )
+  (VP 
+   (VP 
+    (VB PARTICIPOU)
+    (PP 
+     (IN POR)
+     (NP 
+      (CD TRÊS)
+      (NNS VEZES)
+     )
+    )
+   )
+   (PP 
+    (IN EM_)
+    (NP 
+     (DT O)
+     (NP 
+      (NNS IRON)
+      (NNS MAN)
+     )
+    )
+   )
+  )
+ )
+)

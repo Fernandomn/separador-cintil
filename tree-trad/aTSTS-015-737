@@ -1,1 +1,25 @@
-(S (S (NP (PRP Ele)) (VP (VP (VB debruçou) (NP (PRP -se))) (PP (IN a_) (NP (DT o) (NNS balcão))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VP 
+     (VB debruçou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS balcão)
+     )
+    )
+   )
+  )
+  .
+ )
+)

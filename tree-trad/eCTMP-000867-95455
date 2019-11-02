@@ -1,28 +1,30 @@
-(S 
+(
  (S 
-  (RB Talvez)
   (S 
-   (NP 
-    (DT uma)
+   (RB Talvez)
+   (S 
     (NP 
-     (NNS pena)
-     (ADJP 
+     (DT uma)
+     (NP 
+      (NNS pena)
       (ADJP 
-       (ADVP 
-        (RB bem)
-        (RB mais)
+       (ADJP 
+        (ADVP 
+         (RB bem)
+         (RB mais)
+        )
+        (JJ dura)
        )
-       (JJ dura)
-      )
-      (CONJP de_ o que)
-      (NP 
-       (PRP qualquer)
-       (NNS prisão)
+       (CONJP de_ o que)
+       (NP 
+        (PRP qualquer)
+        (NNS prisão)
+       )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

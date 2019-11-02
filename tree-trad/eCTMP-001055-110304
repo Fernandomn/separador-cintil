@@ -1,1 +1,35 @@
-(S '' (S (S (VP (RB Provavelmente) (VP (RB até) (VP (RB nem) (VP (VP (VB trará) (NP (NNS nada))) (PP (IN a_) (NP (DT a) (NNS tona)))))))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (VP 
+     (RB Provavelmente)
+     (VP 
+      (RB até)
+      (VP 
+       (RB nem)
+       (VP 
+        (VP 
+         (VB trará)
+         (NP 
+          (NNS nada)
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS tona)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

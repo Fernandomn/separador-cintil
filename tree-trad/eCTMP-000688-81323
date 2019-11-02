@@ -1,1 +1,29 @@
-(S (NP (NP (NNS PCP) (NNS /) (NNS Aveiro))) (VP (VB exige) (NP (NP (NNS demissão) (PP (IN de) (NP (NP (NNS Oliveira) (NNS e) (NNS Costa))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS PCP)
+    (NNS /)
+    (NNS Aveiro)
+   )
+  )
+  (VP 
+   (VB exige)
+   (NP 
+    (NP 
+     (NNS demissão)
+     (PP 
+      (IN de)
+      (NP 
+       (NP 
+        (NNS Oliveira)
+        (NNS e)
+        (NNS Costa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

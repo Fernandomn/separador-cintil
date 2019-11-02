@@ -1,1 +1,37 @@
-(S (VP (PP (IN Com) (NP (NP (NP (NP (NP (NNS Marlène) (NNS Dietrich))) (NP , (NP (NP (NNS Charles) (NNS Boyer))))) ,) (NP (NP (NNS Basil) (NNS Rathbone)))))))
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Marlène)
+         (NNS Dietrich)
+        )
+       )
+       (NP 
+        ,
+        (NP 
+         (NP 
+          (NNS Charles)
+          (NNS Boyer)
+         )
+        )
+       )
+      )
+      ,
+     )
+     (NP 
+      (NP 
+       (NNS Basil)
+       (NNS Rathbone)
+      )
+     )
+    )
+   )
+  )
+ )
+)

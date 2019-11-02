@@ -1,1 +1,28 @@
-(S (S (NP (PRP Todos)) (VP (VP (VB estavam) (PP (IN de) (NP (NNS férias)))) (PP (IN em_) (NP (DT o) (NNS Algarve))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Todos)
+   )
+   (VP 
+    (VP 
+     (VB estavam)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS férias)
+      )
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NNS Algarve)
+     )
+    )
+   )
+  )
+  .
+ )
+)

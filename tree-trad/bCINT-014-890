@@ -1,1 +1,44 @@
-(S (VP (PP (PP (IN A_) (IN o) (IN longo) (IN de_)) (NP (DT a) (NNS semana))) (VP (VP (VB houve) (RB ainda)) (NP (DT outros) (NP (NNS títulos) (CP (NP (PRP que)) (S (VP (NP (PRP se)) (VB destacaram)))))))) .)
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN A_)
+     (IN o)
+     (IN longo)
+     (IN de_)
+    )
+    (NP 
+     (DT a)
+     (NNS semana)
+    )
+   )
+   (VP 
+    (VP 
+     (VB houve)
+     (RB ainda)
+    )
+    (NP 
+     (DT outros)
+     (NP 
+      (NNS títulos)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (NP 
+          (PRP se)
+         )
+         (VB destacaram)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

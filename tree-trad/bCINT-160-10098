@@ -1,1 +1,19 @@
-(S (NP (NP (NNS Concerto) (PP (IN de) (NP (NP (NNS Vítor) (NNS Rua)))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Concerto)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS Vítor)
+       (NNS Rua)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

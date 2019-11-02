@@ -1,1 +1,15 @@
-(S (S (NP (DT O) (NP (NNS filho) (JJ adoptivo))) (VB dorme)) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS filho)
+     (JJ adoptivo)
+    )
+   )
+   (VB dorme)
+  )
+  .
+ )
+)

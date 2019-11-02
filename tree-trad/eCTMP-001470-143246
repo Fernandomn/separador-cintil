@@ -1,1 +1,39 @@
-(S (S (NP (RB Também) (NP (DT o) (NNS Liverpool))) (VP (VB tem) (VP (VB estado) (PP (IN a) (VP (VB fazer) (NP (DT uma) (NP (NNS travessia) (PP (IN de_) (NP (DT o) (NNS deserto)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (RB Também)
+    (NP 
+     (DT o)
+     (NNS Liverpool)
+    )
+   )
+   (VP 
+    (VB tem)
+    (VP 
+     (VB estado)
+     (PP 
+      (IN a)
+      (VP 
+       (VB fazer)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS travessia)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS deserto)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

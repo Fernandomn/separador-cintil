@@ -1,1 +1,29 @@
-(S (S (NP (DT O) (NP (NP (JJ curioso)) (PP (IN de_) (NP (DT a) (NNS notícia))))) (VP (VP (RB não) (VB reside)) (RB aí))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (JJ curioso)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS notícia)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB reside)
+    )
+    (RB aí)
+   )
+  )
+  .
+ )
+)

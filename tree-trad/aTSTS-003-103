@@ -1,1 +1,18 @@
-(S (S (NP (DT Este) (NNS computador)) (VP (VB é) (ADJP (RB mais) (JJ pequeno)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS computador)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB mais)
+     (JJ pequeno)
+    )
+   )
+  )
+  .
+ )
+)

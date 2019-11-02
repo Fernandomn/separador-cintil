@@ -1,1 +1,55 @@
-(S (S (VP (RB Depois) (VB vem)) (NP (DT o) (NP (NNS refrão) (CP , (CP (NP (PRP que)) (S (VP (VB é)) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB está) (PP (IN em_) (NP (DT a) (NP (PP$ nossa) (NNS mensagem))))))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Depois)
+    (VB vem)
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS refrão)
+     (CONJP 
+      ,
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB é)
+        )
+        (NP 
+         (DT o)
+         (NP 
+          (CONJP 
+           (NP 
+            (PRP que)
+           )
+           (S 
+            (VP 
+             (VB está)
+             (PP 
+              (IN em_)
+              (NP 
+               (DT a)
+               (NP 
+                (PP nossa)
+                (NNS mensagem)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

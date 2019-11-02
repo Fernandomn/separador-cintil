@@ -1,1 +1,34 @@
-(S (S (NP (DT A) (NNS viagem)) (VP (VB decorre) (PP (IN entre) (NP (DT os) (NP (NNS dias) (NP (NP (CD 18)) (NP (CC e) (NP (CD 27))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS viagem)
+   )
+   (VP 
+    (VB decorre)
+    (PP 
+     (IN entre)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS dias)
+       (NP 
+        (NP 
+         (CD 18)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (CD 27)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

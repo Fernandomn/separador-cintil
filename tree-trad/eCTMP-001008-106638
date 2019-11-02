@@ -1,1 +1,24 @@
-(S (S (VP (PP (IN Com) (NP (DT um) (NP (NNS título) (PP (IN a) (NP (NNS preceito)))))))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Com)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS título)
+       (PP 
+        (IN a)
+        (NP 
+         (NNS preceito)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

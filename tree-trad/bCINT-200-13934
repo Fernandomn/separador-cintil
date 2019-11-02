@@ -1,1 +1,19 @@
-(S (S (NP (DT Essa)) (S (VP (VB é)) (NP (DT a) (NNS realidade)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Essa)
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT a)
+     (NNS realidade)
+    )
+   )
+  )
+  .
+ )
+)

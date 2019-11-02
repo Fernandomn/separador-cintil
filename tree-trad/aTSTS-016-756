@@ -1,1 +1,24 @@
-(S (S (CP (S (VP (VB Jogar) (NP (NNS computador))))) (VP (VB atrofia) (NP (DT os) (NNS músculos)))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (VP 
+      (VB Jogar)
+      (NP 
+       (NNS computador)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB atrofia)
+    (NP 
+     (DT os)
+     (NNS músculos)
+    )
+   )
+  )
+  .
+ )
+)

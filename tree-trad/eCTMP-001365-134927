@@ -1,1 +1,35 @@
-(S (S (NP (NP (JJ Mau) (NNS tempo)))) (PP (IN em_) (NP (NP (DT o) (NNS Canadá)) (NP , (NP (NP (NNS EUA)) (NP (CC e) (NP (NNS Austrália))))))))
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (JJ Mau)
+     (NNS tempo)
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (NP 
+     (DT o)
+     (NNS Canadá)
+    )
+    (NP 
+     ,
+     (NP 
+      (NP 
+       (NNS EUA)
+      )
+      (NP 
+       (CC e)
+       (NP 
+        (NNS Austrália)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

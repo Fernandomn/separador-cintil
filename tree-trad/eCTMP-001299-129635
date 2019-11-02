@@ -1,1 +1,67 @@
-(S (S (VP (VB São) (NP (NP (NNS pessoas) (CP (CP (NP (PRP que)) (S (VP (VP (VB estão) (RB perpetuamente)) (PP (IN em) (NP (NP (NNS situação) (PP (IN de) (NP (NNS concorrência))))))))) (CP (CC e) (CP (NP (PRP que)) (S (VP (VP (VB colocam) (RB sempre)) (NP (DT a) (NP (JJ mesma) (NNS questão)))))))))))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (VB São)
+    (NP 
+     (NP 
+      (NNS pessoas)
+      (CONJP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB estão)
+           (RB perpetuamente)
+          )
+          (PP 
+           (IN em)
+           (NP 
+            (NP 
+             (NNS situação)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS concorrência)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+       (CONJP 
+        (CC e)
+        (CONJP 
+         (NP 
+          (PRP que)
+         )
+         (S 
+          (VP 
+           (VP 
+            (VB colocam)
+            (RB sempre)
+           )
+           (NP 
+            (DT a)
+            (NP 
+             (JJ mesma)
+             (NNS questão)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

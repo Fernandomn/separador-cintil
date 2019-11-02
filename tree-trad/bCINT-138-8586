@@ -1,1 +1,22 @@
-(S (S (VP (VP (VB Soube) (RB depois)) (CP (CC que) (S (NP (PRP ele)) (VB tocava))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Soube)
+     (RB depois)
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (PRP ele)
+      )
+      (VB tocava)
+     )
+    )
+   )
+  )
+  .
+ )
+)

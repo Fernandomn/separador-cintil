@@ -1,1 +1,22 @@
-(S (NP (NP (PRP Quem)) (S (VP (VB vai) (VP (VB ganhar) (NP (DT as) (NNS eleições)))))) ?)
+(
+ (S 
+  (NP 
+   (NP 
+    (PRP Quem)
+   )
+   (S 
+    (VP 
+     (VB vai)
+     (VP 
+      (VB ganhar)
+      (NP 
+       (DT as)
+       (NNS eleições)
+      )
+     )
+    )
+   )
+  )
+  ?
+ )
+)

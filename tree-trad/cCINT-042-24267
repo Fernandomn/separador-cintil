@@ -1,1 +1,31 @@
-(S (S (VP (CONJP (CONJP (CC Se) (S (VP (RB não) (VB existisses)))) ,) (VP (VB terias) (PP (IN de) (VP (VB ser) (VB inventado)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (CONJP 
+     (CONJP 
+      (CC Se)
+      (S 
+       (VP 
+        (RB não)
+        (VB existisses)
+       )
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB terias)
+     (PP 
+      (IN de)
+      (VP 
+       (VB ser)
+       (VB inventado)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

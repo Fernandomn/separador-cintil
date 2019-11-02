@@ -1,29 +1,31 @@
-(S 
+(
  (S 
-  (NP 
-   (DT O)
-   (NNS tom)
-  )
-  (VP 
-   (VP 
-    (VB era)
-    (RB agora)
+  (S 
+   (NP 
+    (DT O)
+    (NNS tom)
    )
-   (ADJP 
-    (ADJP 
-     (RB mais)
-     (JJ amargo)
+   (VP 
+    (VP 
+     (VB era)
+     (RB agora)
     )
-    (CONJP de_ o que)
-    (NP 
-     (DT um)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ amargo)
+     )
+     (CONJP de_ o que)
      (NP 
-      (NNS limão)
-      (JJ verde)
+      (DT um)
+      (NP 
+       (NNS limão)
+       (JJ verde)
+      )
      )
     )
    )
   )
+  .
  )
- .
 )

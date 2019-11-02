@@ -1,1 +1,36 @@
-(S (S (NP (DT A) (NP (NNS estagnação) (PP (IN de_) (NP (DT a) (NNS boneca))))) (VP (VB significaria) (NP (DT a) (NP (NNS estagnação) (PP (IN de_) (NP (DT os) (NNS lucros))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS estagnação)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS boneca)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB significaria)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS estagnação)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS lucros)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

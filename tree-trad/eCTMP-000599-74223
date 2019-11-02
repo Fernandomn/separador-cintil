@@ -1,1 +1,33 @@
-(S (NP (DT O) (NP (CD último) (NP (NNS trecho) (PP (IN de_) (NP (DT o) (NP (CD primeiro) (NP (NNS dia) (PP (IN de_) (NP (DT esta) (NNS viagem)))))))))) .)
+(
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (CD último)
+    (NP 
+     (NNS trecho)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NP 
+        (CD primeiro)
+        (NP 
+         (NNS dia)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT esta)
+           (NNS viagem)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

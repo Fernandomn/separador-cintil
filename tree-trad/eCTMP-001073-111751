@@ -1,14 +1,15 @@
-(S 
+(
  (S 
   (S 
-   (VP 
+   (S 
     (VP 
-     (VB Vamos)
-     (VB ganhar)
-    )
-    (CONJP 
+     (VP 
+      (VB Vamos)
+      (VB ganhar)
+     )
      ,
-     (CONJP nem que)
+     (CC nem)
+     (CC que)
      (S 
       (VP 
        (VB seja)
@@ -23,7 +24,7 @@
      )
     )
    )
+   .
   )
-  .
  )
 )

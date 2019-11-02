@@ -1,1 +1,18 @@
-(S (S (NP (DT O) (NNS conselho)) (VP (VB emitiu) (NP (CD 17) (NNS pareceres)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS conselho)
+   )
+   (VP 
+    (VB emitiu)
+    (NP 
+     (CD 17)
+     (NNS pareceres)
+    )
+   )
+  )
+  .
+ )
+)

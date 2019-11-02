@@ -1,1 +1,38 @@
-(S (S (NP (DT O) (NP (NP (NNS valor) (JJ líquido)) (PP (IN de_) (NP (DT os) (NNS juros))))) (VP (VP (VB é) (NP (CD 45) (NNS escudos))) (PP (IN por) (NP (NNS obrigação))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS valor)
+      (JJ líquido)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NNS juros)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (NP 
+      (CD 45)
+      (NNS escudos)
+     )
+    )
+    (PP 
+     (IN por)
+     (NP 
+      (NNS obrigação)
+     )
+    )
+   )
+  )
+  .
+ )
+)

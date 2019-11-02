@@ -1,1 +1,31 @@
-(S (S (S (NP (DT A) (NNS colagem)) (VP (VB é) (JJ engenhosa))) (S (CC e) (S (VP (VB permite) (NP (NP (NNS efeitos) (JJ inesperados))))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS colagem)
+    )
+    (VP 
+     (VB é)
+     (JJ engenhosa)
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB permite)
+      (NP 
+       (NP 
+        (NNS efeitos)
+        (JJ inesperados)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

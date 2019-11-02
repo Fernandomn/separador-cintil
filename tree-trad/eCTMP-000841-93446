@@ -1,1 +1,41 @@
-(S (S (NP (DT A) (NP (JJ referida) (NNS exposição))) (VP (VP (VP (VB poderá) (VP (VB ser) (NP (NNS vista)))) (ADVP , (ADVP (RB mais) (RB tarde)) ,)) (PP (IN em) (NP (NNS Lisboa))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (JJ referida)
+     (NNS exposição)
+    )
+   )
+   (VP 
+    (VP 
+     (VP 
+      (VB poderá)
+      (VP 
+       (VB ser)
+       (NP 
+        (NNS vista)
+       )
+      )
+     )
+     (ADVP 
+      ,
+      (ADVP 
+       (RB mais)
+       (RB tarde)
+      )
+      ,
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Lisboa)
+     )
+    )
+   )
+  )
+  .
+ )
+)

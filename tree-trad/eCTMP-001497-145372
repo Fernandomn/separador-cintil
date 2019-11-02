@@ -1,1 +1,35 @@
-(S (S (NP (DT O) (NP (NNS resultado) (PP (IN de_) (NP (DT a) (NNS votação))))) (VP (VP (VB fixou) (NP (PRP -se))) (PP (IN em_) (NP (DT um) (NNS empate))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS resultado)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS votação)
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB fixou)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT um)
+      (NNS empate)
+     )
+    )
+   )
+  )
+  .
+ )
+)

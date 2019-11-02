@@ -1,1 +1,28 @@
-(S (NP (NP (NNS Cimeira) (JJ transatlântica))) (VP (PP (IN sob) (NP (DT o) (NP (NNS signo) (PP (IN de_) (NP (DT a) (NNS discórdia))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Cimeira)
+    (JJ transatlântica)
+   )
+  )
+  (VP 
+   (PP 
+    (IN sob)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS signo)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS discórdia)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

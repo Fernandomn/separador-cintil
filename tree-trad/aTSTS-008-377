@@ -1,1 +1,15 @@
-(S (S (S (VB Ruiu) (NP (DT um) (NNS prédio))) (RB hoje)) .)
+(
+ (S 
+  (S 
+   (S 
+    (VB Ruiu)
+    (NP 
+     (DT um)
+     (NNS prédio)
+    )
+   )
+   (RB hoje)
+  )
+  .
+ )
+)

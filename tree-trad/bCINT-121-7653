@@ -1,1 +1,26 @@
-(S (S (NP (NP (NNS Postura) (ADJP (JJ humilde) (ADJP (CC e) (JJ simpática)))) ,) (VP (VB merece) (NP (NNS respeito)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Postura)
+     (ADJP 
+      (JJ humilde)
+      (ADJP 
+       (CC e)
+       (JJ simpática)
+      )
+     )
+    )
+    ,
+   )
+   (VP 
+    (VB merece)
+    (NP 
+     (NNS respeito)
+    )
+   )
+  )
+  .
+ )
+)

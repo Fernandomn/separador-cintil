@@ -1,1 +1,31 @@
-(S (NP (NP (NP (NNS Pena) (PP (IN de) (NP (NNS prisão)))) (PP (IN para) (NP (NP (NNS grupo) (PP (IN de) (NP (NNS rap)))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Pena)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS prisão)
+      )
+     )
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS grupo)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS rap)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

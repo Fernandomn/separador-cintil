@@ -1,1 +1,11 @@
-(S (S (VP (VB Estou) (JJ triste))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estou)
+    (JJ triste)
+   )
+  )
+  .
+ )
+)

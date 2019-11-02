@@ -1,1 +1,55 @@
-(S (S (VP (RB Depois) (VP (PP , (PP (IN com) (NP (DT um) (NNS suspiro))) ,) (VP (VB lança) (NP (NP (DT uma) (NNS hipótese)) (NP , (NP (DT um) (NP (NNS conselho) (PP (IN de) (NP (NP (NNS orientadora) (PP (IN de) (NP (NNS vocações)))))))))))))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Depois)
+    (VP 
+     (PP 
+      ,
+      (PP 
+       (IN com)
+       (NP 
+        (DT um)
+        (NNS suspiro)
+       )
+      )
+      ,
+     )
+     (VP 
+      (VB lança)
+      (NP 
+       (NP 
+        (DT uma)
+        (NNS hipótese)
+       )
+       (NP 
+        ,
+        (NP 
+         (DT um)
+         (NP 
+          (NNS conselho)
+          (PP 
+           (IN de)
+           (NP 
+            (NP 
+             (NNS orientadora)
+             (PP 
+              (IN de)
+              (NP 
+               (NNS vocações)
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

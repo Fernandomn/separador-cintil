@@ -1,1 +1,25 @@
-(S (S (NP (NNS Rufino)) (VP (VP (VB deixou) (NP (NNS estádio))) (PP (IN em_) (NP (DT a) (NNS clandestinidade))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Rufino)
+   )
+   (VP 
+    (VP 
+     (VB deixou)
+     (NP 
+      (NNS estádio)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS clandestinidade)
+     )
+    )
+   )
+  )
+  .
+ )
+)

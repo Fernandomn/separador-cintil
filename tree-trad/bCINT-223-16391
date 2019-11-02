@@ -1,20 +1,24 @@
-(S 
+(
  (S 
-  (NP 
-   (DT Os)
-   (NNS argentinos)
-  )
-  (VP 
-   (VP 
-    (VB falharam)
-    (NP 
-     (DT o)
-     (NNS penalty)
-    )
+  (S 
+   (NP 
+    (DT Os)
+    (NNS argentinos)
    )
-   (CONJP 
+   (VP 
+    (VP 
+     (VB falharam)
+     (NP 
+      (DT o)
+      (NNS penalty)
+     )
+    )
     ,
-    (CONJP em_ a medida em que)
+    (CC em_)
+    (CC a)
+    (CC medida)
+    (CC em)
+    (CC que)
     (S 
      (NP 
       (DT um)
@@ -33,6 +37,6 @@
     )
    )
   )
+  .
  )
- .
 )

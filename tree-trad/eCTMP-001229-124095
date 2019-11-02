@@ -1,1 +1,24 @@
-(S (NP (NP (NNS Grelha) (PP (IN de) (NP (NNS partida))))) (VP (PP (IN em_) (NP (DT o) (NNS Japão)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Grelha)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS partida)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS Japão)
+    )
+   )
+  )
+ )
+)

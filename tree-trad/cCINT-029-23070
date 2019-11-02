@@ -1,1 +1,29 @@
-(S (S (VP (VB Estamos) (NP (PRP todos))) (ADJP (RB tão) (ADJP (JJ contentes) (PP (IN com) (NP (DT a) (NP (NNS casa) (JJ nova))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estamos)
+    (NP 
+     (PRP todos)
+    )
+   )
+   (ADJP 
+    (RB tão)
+    (ADJP 
+     (JJ contentes)
+     (PP 
+      (IN com)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS casa)
+        (JJ nova)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,49 @@
-(S (S (S (VP (VP (RB Não) (VB vamos)) (VP (VB poder) (VP '' (VP (VB ir) (PP (IN a) (NP (PRP todas)))) ``)))) (S (CC e) (S (VP (VB vamos) (VP (VB ter) (PP (IN de) (VP (VB ser) (JJ selectivos)))))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB vamos)
+     )
+     (VP 
+      (VB poder)
+      (VP 
+       ''
+       ''
+       (VP 
+        (VB ir)
+        (PP 
+         (IN a)
+         (NP 
+          (PRP todas)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB vamos)
+      (VP 
+       (VB ter)
+       (PP 
+        (IN de)
+        (VP 
+         (VB ser)
+         (JJ selectivos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

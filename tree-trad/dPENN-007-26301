@@ -1,1 +1,18 @@
-(S (S (NP (DT O) (NNS preço)) (VP (VP (RB não) (VB foi)) (VB divulgado))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS preço)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB foi)
+    )
+    (VB divulgado)
+   )
+  )
+  .
+ )
+)

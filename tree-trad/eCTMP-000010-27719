@@ -1,1 +1,32 @@
-(S (NP (NP (NP (NP (NNS Ida) (NP (CC e) (NNS volta))) (PP (IN de_) (NP (DT o) (NNS domicílio)))) (PP (IN a_) (NP (DT o) (NNS trabalho))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Ida)
+      (NP 
+       (CC e)
+       (NNS volta)
+      )
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS domicílio)
+      )
+     )
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS trabalho)
+     )
+    )
+   )
+  )
+  .
+ )
+)

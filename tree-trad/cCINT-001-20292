@@ -1,1 +1,8 @@
-(S (S (VB Tinha)) ?)
+(
+ (S 
+  (S 
+   (VB Tinha)
+  )
+  ?
+ )
+)

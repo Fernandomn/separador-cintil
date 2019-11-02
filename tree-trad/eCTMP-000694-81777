@@ -1,1 +1,25 @@
-(S (NP (NNS Manifestantes)) (VP (VB vão) (VP (VB pedir) (NP (NP (NNS demissão) (PP (IN de_) (NP (DT o) (NNS governador))))))))
+(
+ (S 
+  (NP 
+   (NNS Manifestantes)
+  )
+  (VP 
+   (VB vão)
+   (VP 
+    (VB pedir)
+    (NP 
+     (NP 
+      (NNS demissão)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS governador)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

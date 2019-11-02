@@ -1,1 +1,30 @@
-(S (S (VP (RB Igualmente) (VP (VB propõe) (NP (DT um) (NP (NNS programa) (PP (IN de) (NP '' (NP (NNS realidades) (JJ virtuais)) ``))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Igualmente)
+    (VP 
+     (VB propõe)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS programa)
+       (PP 
+        (IN de)
+        (NP 
+         ''
+         ''
+         (NP 
+          (NNS realidades)
+          (JJ virtuais)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

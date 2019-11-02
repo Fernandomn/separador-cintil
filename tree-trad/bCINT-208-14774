@@ -1,1 +1,16 @@
-(S (VB TERMINAM) (NP (NP (NNS INSCRIÇÕES) (PP (IN PARA) (NP (NNS EXAMES))))))
+(
+ (S 
+  (VB TERMINAM)
+  (NP 
+   (NP 
+    (NNS INSCRIÇÕES)
+    (PP 
+     (IN PARA)
+     (NP 
+      (NNS EXAMES)
+     )
+    )
+   )
+  )
+ )
+)

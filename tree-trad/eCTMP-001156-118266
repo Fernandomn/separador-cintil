@@ -1,1 +1,28 @@
-(S (S (NP (DT A) (NNS resposta)) (VP (VB chegará) (PP (IN a) (NP (CD 24) (NP (PP (IN de) (NP (NNS Abril)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS resposta)
+   )
+   (VP 
+    (VB chegará)
+    (PP 
+     (IN a)
+     (NP 
+      (CD 24)
+      (NP 
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Abril)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

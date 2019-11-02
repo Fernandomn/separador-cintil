@@ -1,1 +1,22 @@
-(S (NP '' (NP `` (NP (NNS Ben) (NNS Ben)) '') ``) (VP (VB critica) (NP (NNS Portugal))))
+(
+ (S 
+  (NP 
+   ''
+   ''
+   (NP 
+    (NP 
+     (NNS Ben)
+     (NNS Ben)
+    )
+    ''
+    ''
+   )
+  )
+  (VP 
+   (VB critica)
+   (NP 
+    (NNS Portugal)
+   )
+  )
+ )
+)

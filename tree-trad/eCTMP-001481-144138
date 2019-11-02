@@ -1,1 +1,26 @@
-(S '' (S (VP (VB Vivemos) (PP (IN em_) (NP (DT uma) (NP (NNS sociedade) (PP (IN de) (NP (NNS merda)))))))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (VP 
+    (VB Vivemos)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS sociedade)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS merda)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

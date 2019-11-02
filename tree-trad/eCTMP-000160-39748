@@ -1,1 +1,18 @@
-(S (NP (NP (ADVP (RB Mais) (RB de)) (NP (CD 8) (CD mil))) (NNS mortos)) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (ADVP 
+     (RB Mais)
+     (RB de)
+    )
+    (NP 
+     (CD 8)
+     (CD mil)
+    )
+   )
+   (NNS mortos)
+  )
+  .
+ )
+)

@@ -1,1 +1,19 @@
-(S (S (NP (NP (NNS Maria) (NNS Vitória))) (VP (VB tem) (NP (NNS razão)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Maria)
+     (NNS Vitória)
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (NNS razão)
+    )
+   )
+  )
+  .
+ )
+)

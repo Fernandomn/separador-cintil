@@ -1,1 +1,66 @@
-(S (S (VP (VB É) (JJ claro)) (CP (CC que) (S (NP (NP (NNS Susan) (NNS Ruby))) (VP (VB dormia) (PP (IN em_) (NP (DT o) (NP (NNS colo) (PP (IN de_) (NP (NP (DT o) (NNS avô)) (NP , (NP (DT o) (NP (NP (NNS ex-congressista) (NNS Molinari)) (CP , (CP (NP (PRP que)) (S (VB chorava)))))))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (JJ claro)
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (NP 
+       (NNS Susan)
+       (NNS Ruby)
+      )
+     )
+     (VP 
+      (VB dormia)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS colo)
+         (PP 
+          (IN de_)
+          (NP 
+           (NP 
+            (DT o)
+            (NNS avô)
+           )
+           (NP 
+            ,
+            (NP 
+             (DT o)
+             (NP 
+              (NP 
+               (NNS ex-congressista)
+               (NNS Molinari)
+              )
+              (CONJP 
+               ,
+               (CONJP 
+                (NP 
+                 (PRP que)
+                )
+                (S 
+                 (VB chorava)
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

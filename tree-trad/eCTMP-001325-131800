@@ -1,1 +1,28 @@
-(S (NP (NP (NP '' (NNS Dedovchtchina) ``) ,) (NP (DT a) (NP (NNS praxe) (CP (NP (PRP que)) (S (VB mata)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     ''
+     ''
+     (NNS Dedovchtchina)
+    )
+    ,
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS praxe)
+     (CONJP 
+      (NP 
+       (PRP que)
+      )
+      (S 
+       (VB mata)
+      )
+     )
+    )
+   )
+  )
+ )
+)

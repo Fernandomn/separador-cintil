@@ -1,1 +1,25 @@
-(S (VP (PP (PP (IN Apesar) (IN de)) (NP (PRP tudo))) (VP (VB há) (NP (NP (NNS indícios) (JJ positivos))))) .)
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN Apesar)
+     (IN de)
+    )
+    (NP 
+     (PRP tudo)
+    )
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (NP 
+      (NNS indícios)
+      (JJ positivos)
+     )
+    )
+   )
+  )
+  .
+ )
+)

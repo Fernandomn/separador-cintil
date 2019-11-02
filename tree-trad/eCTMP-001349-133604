@@ -1,1 +1,23 @@
-(S (NP (NP (NP (NNS Raul) (NNS de) (NNS Almeida) (NNS Capela)) ,) (NP (NP (NNS presidente) (NNS de_) (NNS o) (NNS Banif)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Raul)
+     (NNS de)
+     (NNS Almeida)
+     (NNS Capela)
+    )
+    ,
+   )
+   (NP 
+    (NP 
+     (NNS presidente)
+     (NNS de_)
+     (NNS o)
+     (NNS Banif)
+    )
+   )
+  )
+ )
+)

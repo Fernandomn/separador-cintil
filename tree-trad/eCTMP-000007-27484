@@ -1,1 +1,27 @@
-(S (S (NP (NP (DT A) (NNS França)) (NP (CC e) (NP (DT a) (NNS Grécia)))) (VP (VB apoiam) (NP (DT a) (NNS Grã-Bretanha)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT A)
+     (NNS França)
+    )
+    (NP 
+     (CC e)
+     (NP 
+      (DT a)
+      (NNS Grécia)
+     )
+    )
+   )
+   (VP 
+    (VB apoiam)
+    (NP 
+     (DT a)
+     (NNS Grã-Bretanha)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,30 @@
-(CP (CP (ADVP (RB Ora) ,) (S (NP (DT a) (NNS fé)) (VP (RB jamais) (VP (VB poderá) (VP (VB ser) (NP (DT um) (NNS país))))))) .)
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Ora)
+    ,
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NNS fé)
+    )
+    (VP 
+     (RB jamais)
+     (VP 
+      (VB poderá)
+      (VP 
+       (VB ser)
+       (NP 
+        (DT um)
+        (NNS país)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

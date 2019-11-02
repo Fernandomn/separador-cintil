@@ -1,1 +1,25 @@
-(S (NP (NNS Savimbi)) (VP (VB será) (NP (NP (NNS líder) (PP (IN de_) (NP (DT a) (NP (NNS oposição) (JJ leal))))))))
+(
+ (S 
+  (NP 
+   (NNS Savimbi)
+  )
+  (VP 
+   (VB será)
+   (NP 
+    (NP 
+     (NNS líder)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS oposição)
+        (JJ leal)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

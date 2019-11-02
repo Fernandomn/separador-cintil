@@ -1,1 +1,30 @@
-(S (NP (CD Três) (NP (JJ novos) (NP (NNS casos) (PP (IN de) (NP '' (NP (NNS gripe) (PP (IN de_) (NP (DT as) (NNS aves)))) ``))))))
+(
+ (S 
+  (NP 
+   (CD Três)
+   (NP 
+    (JJ novos)
+    (NP 
+     (NNS casos)
+     (PP 
+      (IN de)
+      (NP 
+       ''
+       ''
+       (NP 
+        (NNS gripe)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT as)
+          (NNS aves)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

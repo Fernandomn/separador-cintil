@@ -1,1 +1,33 @@
-(S (S (NP (DT O) (NNS julgamento)) (VP (VB deverá) (VP (VB começar) (PP (IN em_) (NP (DT o) (NP (NNS final) (PP (IN de_) (NP (DT o) (NNS mês))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS julgamento)
+   )
+   (VP 
+    (VB deverá)
+    (VP 
+     (VB começar)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS final)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT o)
+          (NNS mês)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

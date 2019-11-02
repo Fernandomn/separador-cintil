@@ -1,1 +1,47 @@
-(S (S (VP (VB É) (NP (DT o) (NP (NNS caso) (PP (IN de) (NP (NP (NP (NP (NP (NNS Tiago) (NNS Afonso)) ,) (PP (IN de) (NP (CD 18) (NNS anos)))) (CP (NP (PRP que)) (S (VB afirma)))))))))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS caso)
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NP 
+          (NP 
+           (NP 
+            (NNS Tiago)
+            (NNS Afonso)
+           )
+           ,
+          )
+          (PP 
+           (IN de)
+           (NP 
+            (CD 18)
+            (NNS anos)
+           )
+          )
+         )
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VB afirma)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

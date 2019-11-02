@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Bolsa) (NNS de) (NNS Tóquio))) (VP (RB novamente) (VP (PP (IN em) (NP (NNS queda))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Bolsa)
+    (NNS de)
+    (NNS Tóquio)
+   )
+  )
+  (VP 
+   (RB novamente)
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS queda)
+     )
+    )
+   )
+  )
+ )
+)

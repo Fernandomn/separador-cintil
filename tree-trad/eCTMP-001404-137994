@@ -1,1 +1,42 @@
-(S (S (VP (RB Já) (VP (VB estreou) (PP (IN em) (NP (NNS Bona))))) (NP (DT a) (NP (NP (NNS ópera) (NP '' (NNS Gorbatchov) ``)) (PP , (PP (IN em) (NP (CD quatro) (NNS actos))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Já)
+    (VP 
+     (VB estreou)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Bona)
+      )
+     )
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NNS ópera)
+      (NP 
+       ''
+       ''
+       (NNS Gorbatchov)
+      )
+     )
+     (PP 
+      ,
+      (PP 
+       (IN em)
+       (NP 
+        (CD quatro)
+        (NNS actos)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

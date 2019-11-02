@@ -1,1 +1,25 @@
-(S (S (VP (VB Estou) (PP (IN a) (VP (VB começar) (PP (IN a) (VP (VB ter) (NP (NNS sede)))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estou)
+    (PP 
+     (IN a)
+     (VP 
+      (VB começar)
+      (PP 
+       (IN a)
+       (VP 
+        (VB ter)
+        (NP 
+         (NNS sede)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

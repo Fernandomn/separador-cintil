@@ -1,1 +1,23 @@
-(S (S (NP (DT Uma) (NNS coisa)) (VP (VP (RB não) (VB exclui)) (NP (DT a) (NP (JJ outra))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Uma)
+    (NNS coisa)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB exclui)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (JJ outra)
+     )
+    )
+   )
+  )
+  .
+ )
+)

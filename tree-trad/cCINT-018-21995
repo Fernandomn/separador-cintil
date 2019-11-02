@@ -1,1 +1,19 @@
-(S (S (VP (VP (VB Gosto) (RB muito)) (PP (IN de) (NP (PRP ti))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Gosto)
+     (RB muito)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (PRP ti)
+     )
+    )
+   )
+  )
+  .
+ )
+)

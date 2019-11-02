@@ -1,36 +1,38 @@
-(S 
+(
  (S 
   (S 
-   (VP 
+   (S 
     (VP 
-     (RB Não)
-     (VB há)
-    )
-    (NP 
-     (PRP nenhum)
+     (VP 
+      (RB Não)
+      (VB há)
+     )
      (NP 
-      (NNS local)
-      (JJ seguro)
+      (PRP nenhum)
+      (NP 
+       (NNS local)
+       (JJ seguro)
+      )
      )
     )
    )
-  )
-  (S 
-   (CC mas)
    (S 
-    (VP 
-     (VB há)
-     (NP 
+    (CC mas)
+    (S 
+     (VP 
+      (VB há)
       (NP 
-       (NNS locais)
-       (ADJP 
+       (NP 
+        (NNS locais)
         (ADJP 
-         (RB mais)
-         (JJ seguros)
-        )
-        (CONJP de_ o que)
-        (NP 
-         (DT outros)
+         (ADJP 
+          (RB mais)
+          (JJ seguros)
+         )
+         (CONJP de_ o que)
+         (NP 
+          (DT outros)
+         )
         )
        )
       )
@@ -38,6 +40,6 @@
     )
    )
   )
+  .
  )
- .
 )

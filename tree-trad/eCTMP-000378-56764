@@ -1,1 +1,20 @@
-(S (NP (NP (NNS Sangue) (JJ contaminado))) (VP (RB já) (VP (VB fez) (NP (CD quatro) (NNS vítimas)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Sangue)
+    (JJ contaminado)
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VB fez)
+    (NP 
+     (CD quatro)
+     (NNS vítimas)
+    )
+   )
+  )
+ )
+)

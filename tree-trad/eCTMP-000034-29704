@@ -1,1 +1,32 @@
-(S (S (NP (DT Os) (NP (NNS investidores) (JJ estrangeiros))) (VP (VB estão) (PP (IN de) (NP (NP (NNS volta) (PP (IN a_) (NP (DT o) (NNS Brasil)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS investidores)
+     (JJ estrangeiros)
+    )
+   )
+   (VP 
+    (VB estão)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS volta)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT o)
+         (NNS Brasil)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

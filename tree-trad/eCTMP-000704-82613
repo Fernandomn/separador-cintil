@@ -1,1 +1,39 @@
-(S (S (NP (DT Os) (NP (NNS bares) (PP (IN de_) (NP (DT a) (NP (NP (NNS zona) (JJ antiga)) (PP (IN de_) (NP (DT a) (NNS cidade)))))))) (VP (VB estão) (ADJP (RB quase) (JJ vazios)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NNS bares)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NP 
+         (NNS zona)
+         (JJ antiga)
+        )
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NNS cidade)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB estão)
+    (ADJP 
+     (RB quase)
+     (JJ vazios)
+    )
+   )
+  )
+  .
+ )
+)

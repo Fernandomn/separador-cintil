@@ -1,1 +1,29 @@
-(S (S (S (S (S (VP (VB Era) (JJ escura))) ,) (S (CC mas) (S (VP (VB era) (NP (PRP Ele)))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB Era)
+       (JJ escura)
+      )
+     )
+     ,
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB era)
+       (NP 
+        (PRP Ele)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

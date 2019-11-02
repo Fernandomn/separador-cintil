@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Assembleia) (NNS Metropolitana))) (VP (RB já) (VP (VB tem) (NP (NP (NNS mesa) (JJ eleita))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Assembleia)
+    (NNS Metropolitana)
+   )
+  )
+  (VP 
+   (RB já)
+   (VP 
+    (VB tem)
+    (NP 
+     (NP 
+      (NNS mesa)
+      (JJ eleita)
+     )
+    )
+   )
+  )
+ )
+)

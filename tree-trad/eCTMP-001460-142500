@@ -1,1 +1,40 @@
-(S (S '' (S (RB Hoje) (S (NP (DT um) (NP (NNS aluno) (PP (IN com) (NP (CD 14) (NNS anos))))) (VP (VB tem) (NP (DT uma) (NP (NNS escolarização) (ADJP (RB totalmente) (JJ diferente))))))) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (RB Hoje)
+    (S 
+     (NP 
+      (DT um)
+      (NP 
+       (NNS aluno)
+       (PP 
+        (IN com)
+        (NP 
+         (CD 14)
+         (NNS anos)
+        )
+       )
+      )
+     )
+     (VP 
+      (VB tem)
+      (NP 
+       (DT uma)
+       (NP 
+        (NNS escolarização)
+        (ADJP 
+         (RB totalmente)
+         (JJ diferente)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

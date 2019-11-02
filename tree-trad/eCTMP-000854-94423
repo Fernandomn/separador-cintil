@@ -1,1 +1,29 @@
-(S `` (S (S (VP (VP (RB Não) (VB vamos)) (VP (VP (VB comemorar) (NP (DT isto))) (PP (IN com) (NP (NNS champanhe)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB vamos)
+     )
+     (VP 
+      (VP 
+       (VB comemorar)
+       (NP 
+        (DT isto)
+       )
+      )
+      (PP 
+       (IN com)
+       (NP 
+        (NNS champanhe)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

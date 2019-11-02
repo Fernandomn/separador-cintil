@@ -1,1 +1,28 @@
-(S (S (VP (PP (PP (IN de_) (NP (DT as) (NNS formas))) (PP (CC e) (PP (IN de_) (NP (DT os) (NNS materiais))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN de_)
+      (NP 
+       (DT as)
+       (NNS formas)
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NNS materiais)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,21 @@
-(S (NP (NNS Equipas)) (VP (VB garantem) (NP (NP (NNS presença) (PP (IN em) (NP (NNS Barcelona)))))))
+(
+ (S 
+  (NP 
+   (NNS Equipas)
+  )
+  (VP 
+   (VB garantem)
+   (NP 
+    (NP 
+     (NNS presença)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Barcelona)
+      )
+     )
+    )
+   )
+  )
+ )
+)

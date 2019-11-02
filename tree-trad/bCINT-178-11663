@@ -1,1 +1,22 @@
-(S (NP (NNS MONTEIRO)) (VP (VB DENUNCIA) (NP (NP (NNS VENDA) (PP (IN de_) (NP (DT o) (NNS PAÍS)))))))
+(
+ (S 
+  (NP 
+   (NNS MONTEIRO)
+  )
+  (VP 
+   (VB DENUNCIA)
+   (NP 
+    (NP 
+     (NNS VENDA)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS PAÍS)
+      )
+     )
+    )
+   )
+  )
+ )
+)

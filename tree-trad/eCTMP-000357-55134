@@ -1,1 +1,30 @@
-(S (S (NP (DT O) (NP (NNS ex-líder) (PP (IN de_) (NP (DT a) (NNS JSD))))) (VP (VB contrapunha) (PP (IN com) (NP (DT outras) (NNS dúvidas))))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS ex-líder)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NNS JSD)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB contrapunha)
+    (PP 
+     (IN com)
+     (NP 
+      (DT outras)
+      (NNS dúvidas)
+     )
+    )
+   )
+  )
+  :
+ )
+)

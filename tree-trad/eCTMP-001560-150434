@@ -1,1 +1,44 @@
-(S (S (PP (PP (IN em_) (NP (DT esta) (NNS altura))) ,) (S (NP (DT as) (NNS obras)) (VP (VP (VB estão) (RB já)) (PP (IN em_) (NP (DT a) (NP (NNS fase) (PP (IN de) (NP (NNS acabamentos))))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esta)
+      (NNS altura)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS obras)
+    )
+    (VP 
+     (VP 
+      (VB estão)
+      (RB já)
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS fase)
+        (PP 
+         (IN de)
+         (NP 
+          (NNS acabamentos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,11 @@
-(S (S (VP (RB Agora) (VB percebo))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (RB Agora)
+    (VB percebo)
+   )
+  )
+  .
+ )
+)

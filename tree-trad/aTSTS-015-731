@@ -1,1 +1,27 @@
-(S (S (NP (PRP Eles)) (VP (VP (VB classificaram) (NP (PRP -se))) (PP (IN entre) (NP (DT os) (NP (JJ melhores)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eles)
+   )
+   (VP 
+    (VP 
+     (VB classificaram)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (PP 
+     (IN entre)
+     (NP 
+      (DT os)
+      (NP 
+       (JJ melhores)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

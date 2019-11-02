@@ -1,1 +1,29 @@
-(S (VB Faleceu) (NP (NP (NP (NNS António) (NNS Campino))) (NP , (NP (DT o) (NP '' (NP (NNS Arquitecto) (NNS de_) (NNS os) (NNS Calções)) ``)))))
+(
+ (S 
+  (VB Faleceu)
+  (NP 
+   (NP 
+    (NP 
+     (NNS António)
+     (NNS Campino)
+    )
+   )
+   (NP 
+    ,
+    (NP 
+     (DT o)
+     (NP 
+      ''
+      ''
+      (NP 
+       (NNS Arquitecto)
+       (NNS de_)
+       (NNS os)
+       (NNS Calções)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,14 +1,15 @@
-(S 
+(
  (S 
   (S 
-   (NP 
-    (DT Um)
-    (NNS ultimato)
+   (S 
+    (NP 
+     (DT Um)
+     (NNS ultimato)
+    )
    )
-  )
-  (CONJP 
    ,
-   (CONJP para que)
+   (CC para)
+   (CC que)
    (S 
     (NP 
      (DT o)
@@ -65,6 +66,6 @@
     )
    )
   )
+  .
  )
- .
 )

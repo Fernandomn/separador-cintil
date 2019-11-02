@@ -1,1 +1,10 @@
-(S (NP (NP (NNS Saul) (NNS Resnick))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Saul)
+    (NNS Resnick)
+   )
+  )
+ )
+)

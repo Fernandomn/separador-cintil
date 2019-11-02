@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Autores) (JJ portugueses))) (VP (PP (IN com) (NP (NP (NNS presença) (JJ discreta))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Autores)
+    (JJ portugueses)
+   )
+  )
+  (VP 
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS presença)
+      (JJ discreta)
+     )
+    )
+   )
+  )
+ )
+)

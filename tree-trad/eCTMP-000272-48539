@@ -1,1 +1,23 @@
-(S (NP (NP (NNS Novacek) ,) (NP (DT o) (NP (NNS herói) (PP (IN de_) (NP (DT o) (NNS dia)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Novacek)
+    ,
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS herói)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS dia)
+      )
+     )
+    )
+   )
+  )
+ )
+)

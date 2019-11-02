@@ -1,1 +1,19 @@
-(S (NP (NP (NNS Mário) (NNS Reis))) (VP (VB continua) (PP (IN em) (NP (NNS Setúbal)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Mário)
+    (NNS Reis)
+   )
+  )
+  (VP 
+   (VB continua)
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Setúbal)
+    )
+   )
+  )
+ )
+)

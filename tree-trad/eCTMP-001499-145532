@@ -1,1 +1,33 @@
-(S (S (NP (DT O) (NNS pagamento)) (VP (VP (VB será) (VB efectuado)) (PP (IN a_) (NP (DT os) (NP (NNS balcões) (PP (IN de_) (NP (DT o) (NNS BPA)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS pagamento)
+   )
+   (VP 
+    (VP 
+     (VB será)
+     (VB efectuado)
+    )
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NP 
+       (NNS balcões)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS BPA)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

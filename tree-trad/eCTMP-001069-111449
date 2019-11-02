@@ -1,1 +1,25 @@
-(S (S (VP (VB Constituem) (NP (DT as) (NP (NP (NNS Forças) (NNS Armadas)) (PP (IN de) (NP (NNS Angola))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Constituem)
+    (NP 
+     (DT as)
+     (NP 
+      (NP 
+       (NNS Forças)
+       (NNS Armadas)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NNS Angola)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,25 @@
-(S (S (VP (VP (VP (VB Fala) (NP (PRP -se))) (RB hoje)) (RB muito)) (PP (IN de) (NP (NNS interactividade)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VP 
+      (VB Fala)
+      (NP 
+       (PRP -se)
+      )
+     )
+     (RB hoje)
+    )
+    (RB muito)
+   )
+   (PP 
+    (IN de)
+    (NP 
+     (NNS interactividade)
+    )
+   )
+  )
+  .
+ )
+)

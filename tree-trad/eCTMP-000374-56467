@@ -1,1 +1,48 @@
-(S (S (VP (VP (VB Critica) (RB ainda)) (NP (DT a) (NP (NP (NNS situação) (JJ concreta)) (CP (PP (IN com) (NP (PRP que))) (S (NP (DT os) (NNS arquitectos)) (VP (VP (VB trabalham) (PP (IN em_) (NP (DT este) (NNS momento))))))))))) :)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Critica)
+     (RB ainda)
+    )
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS situação)
+       (JJ concreta)
+      )
+      (CONJP 
+       (PP 
+        (IN com)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (DT os)
+         (NNS arquitectos)
+        )
+        (VP 
+         (VP 
+          (VB trabalham)
+          (PP 
+           (IN em_)
+           (NP 
+            (DT este)
+            (NNS momento)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

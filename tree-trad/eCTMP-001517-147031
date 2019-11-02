@@ -1,1 +1,44 @@
-(S (S (NP (DT O) (NP (NP (NNS ritmo) (JJ louco)) (PP (IN de_) (NP (DT os) (NP (CD últimos) (NP (NNS dias) (PP (IN em) (NP (NNS Belém))))))))) (VP (VP (VB teve) (RB ontem)) (NP (DT uma) (NNS inversão)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NP 
+      (NNS ritmo)
+      (JJ louco)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD últimos)
+        (NP 
+         (NNS dias)
+         (PP 
+          (IN em)
+          (NP 
+           (NNS Belém)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VP 
+     (VB teve)
+     (RB ontem)
+    )
+    (NP 
+     (DT uma)
+     (NNS inversão)
+    )
+   )
+  )
+  .
+ )
+)

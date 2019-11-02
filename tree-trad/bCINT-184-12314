@@ -1,1 +1,40 @@
-(S (S (VP (VB Era) (ADJP (JJ bonito) (ADJP , (ADJP (JJ jovem) (ADJP , (ADJP (JJ dinâmico) (ADJP (CC e) (ADJP (JJ cheio) (PP (IN de) (NP (NP (NNS vitalidade) (JJ criativa))))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Era)
+    (ADJP 
+     (JJ bonito)
+     (ADJP 
+      ,
+      (ADJP 
+       (JJ jovem)
+       (ADJP 
+        ,
+        (ADJP 
+         (JJ dinâmico)
+         (ADJP 
+          (CC e)
+          (ADJP 
+           (JJ cheio)
+           (PP 
+            (IN de)
+            (NP 
+             (NP 
+              (NNS vitalidade)
+              (JJ criativa)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

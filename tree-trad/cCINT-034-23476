@@ -1,1 +1,17 @@
-(S (S (VP (VP (RB Não) (VB imaginas)) (NP (DT a) (NNS confusão)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB imaginas)
+    )
+    (NP 
+     (DT a)
+     (NNS confusão)
+    )
+   )
+  )
+  .
+ )
+)

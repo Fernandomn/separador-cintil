@@ -1,1 +1,25 @@
-(S (S (NP (DT Um) (NP (PP (IN de_) (NP (PRP eles))))) (VP (VB perdeu) (NP (DT a) (NNS vida)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (PP 
+      (IN de_)
+      (NP 
+       (PRP eles)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB perdeu)
+    (NP 
+     (DT a)
+     (NNS vida)
+    )
+   )
+  )
+  .
+ )
+)

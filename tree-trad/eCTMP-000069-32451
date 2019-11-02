@@ -1,1 +1,43 @@
-(S (S (VP (PP (IN Em_) (NP (DT a) (NP (NNS vida) (JJ quotidiana)))) (VP (VB somos) (NP (NP (ADJP (JJ piores) (CONJP (CC que) (NP (NP (NNS Cortés)) (NP (CC ou) (NP (NNS Pizarro))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS vida)
+       (JJ quotidiana)
+      )
+     )
+    )
+    (VP 
+     (VB somos)
+     (NP 
+      (NP 
+       (ADJP 
+        (JJ piores)
+        (CONJP 
+         (CC que)
+         (NP 
+          (NP 
+           (NNS Cortés)
+          )
+          (NP 
+           (CC ou)
+           (NP 
+            (NNS Pizarro)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

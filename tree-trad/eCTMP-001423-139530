@@ -1,1 +1,31 @@
-(S (S (VP (VP (VB Temos) (NP (DT um) (NP (NNS contrato) (PP (IN com) (NP (DT a) (NNS Olivedesportos)))))) (PP (IN até) (NP (NNS Junho))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Temos)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS contrato)
+       (PP 
+        (IN com)
+        (NP 
+         (DT a)
+         (NNS Olivedesportos)
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (IN até)
+     (NP 
+      (NNS Junho)
+     )
+    )
+   )
+  )
+  .
+ )
+)

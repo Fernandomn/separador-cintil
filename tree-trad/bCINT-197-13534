@@ -1,1 +1,18 @@
-(S `` (S (S (VP (VB Vou) (PP (IN em) (NP (NNS sentimento))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Vou)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS sentimento)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

@@ -1,1 +1,20 @@
-(S (S (NP (DT Este) (NNS romance)) (VP (VB é) (PP (IN sobre) (NP (DT isso))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS romance)
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN sobre)
+     (NP 
+      (DT isso)
+     )
+    )
+   )
+  )
+  .
+ )
+)

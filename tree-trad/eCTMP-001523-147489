@@ -1,1 +1,30 @@
-(S '' (S (VP (VP (RB Não) (VB vamos)) (VP (VB ser) (NP (DT a) (NP (NNS retrete) (PP (IN de_) (NP (DT o) (NNS país)))))))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB vamos)
+    )
+    (VP 
+     (VB ser)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS retrete)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS país)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

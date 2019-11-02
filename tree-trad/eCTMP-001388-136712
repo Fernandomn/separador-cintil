@@ -1,1 +1,21 @@
-(S (NP (NNS Câmara)) (VP (VB paga) (NP (NP (NNS obras) (PP (IN em) (NP (NNS casa)))))))
+(
+ (S 
+  (NP 
+   (NNS Câmara)
+  )
+  (VP 
+   (VB paga)
+   (NP 
+    (NP 
+     (NNS obras)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS casa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,32 @@
-(S (S (S (VB Gostaria)) (S , (S (S (VP (VP (RB não) (VB tive)) (NP (NNS ocasião)))) (S (CC mas) (S (VB gostaria)))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (VB Gostaria)
+   )
+   (S 
+    ,
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (RB não)
+        (VB tive)
+       )
+       (NP 
+        (NNS ocasião)
+       )
+      )
+     )
+     (S 
+      (CC mas)
+      (S 
+       (VB gostaria)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

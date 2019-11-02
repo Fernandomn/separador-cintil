@@ -1,1 +1,35 @@
-(S (VP (VP (VB Há) (PP (IN em) (NP (NNS Kurosawa)))) (NP (DT um) (NP (JJ estranho) (NP (NNS fascínio) (PP (IN por_) (NP (DT os) (NP (NNS ambientes) (JJ sórdidos)))))))) .)
+(
+ (S 
+  (VP 
+   (VP 
+    (VB Há)
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Kurosawa)
+     )
+    )
+   )
+   (NP 
+    (DT um)
+    (NP 
+     (JJ estranho)
+     (NP 
+      (NNS fascínio)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS ambientes)
+         (JJ sórdidos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

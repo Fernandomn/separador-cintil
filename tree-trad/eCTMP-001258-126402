@@ -1,1 +1,27 @@
-(S (VP (ADJP (ADJP (RB Tão) (JJ grande)) (CONJP (CC como) (NP (DT um) (NP (NNS campo) (PP (IN de) (NP (NNS basquete)))))))))
+(
+ (S 
+  (VP 
+   (ADJP 
+    (ADJP 
+     (RB Tão)
+     (JJ grande)
+    )
+    (CONJP 
+     (CC como)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS campo)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS basquete)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

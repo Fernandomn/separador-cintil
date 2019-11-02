@@ -1,1 +1,23 @@
-(S (S (NP (DT O) (NNS fado)) (VP (VP (VB é) (RB sempre)) (NP (DT o) (NP (JJ mesmo))))) !)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS fado)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB sempre)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (JJ mesmo)
+     )
+    )
+   )
+  )
+  !
+ )
+)

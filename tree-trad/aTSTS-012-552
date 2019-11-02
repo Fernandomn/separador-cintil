@@ -1,1 +1,15 @@
-(S (S (NP (DT um) (NP (NNS Pedro) (JJ leonês))) (VB desapareceu)) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT um)
+    (NP 
+     (NNS Pedro)
+     (JJ leonês)
+    )
+   )
+   (VB desapareceu)
+  )
+  .
+ )
+)

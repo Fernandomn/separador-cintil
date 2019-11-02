@@ -1,1 +1,27 @@
-(S (S (PP (PP (IN em_) (NP (DT esse) (NNS dia))) ,) (S (NP (DT o) (NNS tribunal)) (VP (VB está) (JJ cheio)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esse)
+      (NNS dia)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS tribunal)
+    )
+    (VP 
+     (VB está)
+     (JJ cheio)
+    )
+   )
+  )
+  .
+ )
+)

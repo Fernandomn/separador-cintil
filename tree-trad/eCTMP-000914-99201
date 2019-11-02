@@ -1,1 +1,56 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NNS quinta-feira))) ,) (S (NP (DT o) (NP (NNS índice) (NNS Nikkei))) (VP (VP (VB evoluiu) (PP (IN em_) (NP (DT uma) (NP (NNS margem) (JJ estreita))))) (S , (S (VP (VB ganhando) (NP (RB apenas) (NP (CD 11) (NNS pontos))))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS quinta-feira)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS índice)
+      (NNS Nikkei)
+     )
+    )
+    (VP 
+     (VP 
+      (VB evoluiu)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS margem)
+         (JJ estreita)
+        )
+       )
+      )
+     )
+     (S 
+      ,
+      (S 
+       (VP 
+        (VB ganhando)
+        (NP 
+         (RB apenas)
+         (NP 
+          (CD 11)
+          (NNS pontos)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

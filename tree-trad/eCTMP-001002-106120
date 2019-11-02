@@ -1,1 +1,62 @@
-(S (S (S (VP (PP (IN Em_) (NP (DT os) (NP (NNS meses) (JJ frios)))) (VP (CONJP , (CONJP (CC quando) (S (NP (DT o) (NNS sol)) (VP (VB está) (ADJP (RB mais) (JJ baixo))))) ,) (VP (VB permitem) (NP (DT a) (NP (NNS entrada) (PP (IN de_) (NP (DT os) (NP (NNS raios) (JJ solares)))))))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT os)
+       (NP 
+        (NNS meses)
+        (JJ frios)
+       )
+      )
+     )
+     (VP 
+      (CONJP 
+       ,
+       (CONJP 
+        (CC quando)
+        (S 
+         (NP 
+          (DT o)
+          (NNS sol)
+         )
+         (VP 
+          (VB está)
+          (ADJP 
+           (RB mais)
+           (JJ baixo)
+          )
+         )
+        )
+       )
+       ,
+      )
+      (VP 
+       (VB permitem)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS entrada)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NP 
+            (NNS raios)
+            (JJ solares)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

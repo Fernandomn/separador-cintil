@@ -1,1 +1,19 @@
-(S (NP (NNS Apple)) (VP (VB continua) (PP (IN com) (NP (NP (NNS gama) (NNS Macintosh))))))
+(
+ (S 
+  (NP 
+   (NNS Apple)
+  )
+  (VP 
+   (VB continua)
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS gama)
+      (NNS Macintosh)
+     )
+    )
+   )
+  )
+ )
+)

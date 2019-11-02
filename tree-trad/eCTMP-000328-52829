@@ -1,1 +1,22 @@
-(S (NP (NNS Marco)) (VP (VP (ADJP (RB mais) (JJ fraco))) (PP (IN em_) (NP (DT o) (NNS SME)))))
+(
+ (S 
+  (NP 
+   (NNS Marco)
+  )
+  (VP 
+   (VP 
+    (ADJP 
+     (RB mais)
+     (JJ fraco)
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT o)
+     (NNS SME)
+    )
+   )
+  )
+ )
+)

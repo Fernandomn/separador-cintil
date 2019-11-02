@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS leitor)) (VP (VB estará) (PP (IN a_) (NP (DT o) (NNS corrente))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS leitor)
+   )
+   (VP 
+    (VB estará)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NNS corrente)
+     )
+    )
+   )
+  )
+  .
+ )
+)

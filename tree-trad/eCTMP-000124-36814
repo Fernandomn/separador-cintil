@@ -1,1 +1,36 @@
-(S (S (NP (NP (PRP Quem)) (S (VP (VB fala) (RB assim)))) (VP (VB é) (NP (NP (NNS neto) (PP (IN de) (NP (DT um) (NP (NNS homem) (JJ subjugado)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VB fala)
+      (RB assim)
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS neto)
+      (PP 
+       (IN de)
+       (NP 
+        (DT um)
+        (NP 
+         (NNS homem)
+         (JJ subjugado)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

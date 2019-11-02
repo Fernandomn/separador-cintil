@@ -1,1 +1,17 @@
-(S (NP (NP (NNS Recenseamento) (NNS Geral))) (VP (VP (VB é) (VB divulgado)) (RB hoje)))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Recenseamento)
+    (NNS Geral)
+   )
+  )
+  (VP 
+   (VP 
+    (VB é)
+    (VB divulgado)
+   )
+   (RB hoje)
+  )
+ )
+)

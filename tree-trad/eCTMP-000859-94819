@@ -1,48 +1,50 @@
-(S 
+(
  (S 
-  ''
-  ''
   (S 
-   (NP 
-    (DT A)
-    (NNS população)
-   )
-   (VP 
+   ''
+   ''
+   (S 
+    (NP 
+     (DT A)
+     (NNS população)
+    )
     (VP 
-     (VB ofereceu)
-     (NP 
-      (DT aquela)
+     (VP 
+      (VB ofereceu)
       (NP 
-       (NNS parcela)
-       (RB onde)
-       (S 
-        (VP 
-         (VB estão)
-        )
-        (NP 
-         (DT os)
-         (NNS barracões)
+       (DT aquela)
+       (NP 
+        (NNS parcela)
+        (RB onde)
+        (S 
+         (VP 
+          (VB estão)
+         )
+         (NP 
+          (DT os)
+          (NNS barracões)
+         )
         )
        )
       )
      )
-    )
-    (CONJP para que)
-    (S 
-     (VP 
-      (RB lá)
+     (CONJP para que)
+     (S 
       (VP 
-       (VB fosse)
-       (VB construída)
+       (RB lá)
+       (VP 
+        (VB fosse)
+        (VB construída)
+       )
       )
-     )
-     (NP 
-      (DT a)
-      (NNS escola)
+      (NP 
+       (DT a)
+       (NNS escola)
+      )
      )
     )
    )
   )
+  .
  )
- .
 )

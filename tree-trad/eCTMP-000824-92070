@@ -1,1 +1,21 @@
-(S (NP (NNS Famílias)) (VP (VB querem) (NP (NP (NNS apoios) (PP (IN para) (NP (NNS deficientes)))))))
+(
+ (S 
+  (NP 
+   (NNS Famílias)
+  )
+  (VP 
+   (VB querem)
+   (NP 
+    (NP 
+     (NNS apoios)
+     (PP 
+      (IN para)
+      (NP 
+       (NNS deficientes)
+      )
+     )
+    )
+   )
+  )
+ )
+)

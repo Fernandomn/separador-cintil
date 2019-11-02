@@ -1,1 +1,36 @@
-(S (S (PP (PP (IN Por) (NP (DT isso))) ,) (S '' (S (NP (DT a) (NNS população)) (VP (VB mantém) (NP (DT as) (NP (NNS reservas) (JJ iniciais))))) ``)) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Por)
+     (NP 
+      (DT isso)
+     )
+    )
+    ,
+   )
+   (S 
+    ''
+    ''
+    (S 
+     (NP 
+      (DT a)
+      (NNS população)
+     )
+     (VP 
+      (VB mantém)
+      (NP 
+       (DT as)
+       (NP 
+        (NNS reservas)
+        (JJ iniciais)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

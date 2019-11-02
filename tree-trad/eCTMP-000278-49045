@@ -1,1 +1,32 @@
-(S (S (VP (VB Dizem) (NP (DT os) (NNS brasileiros))) (CP (CC que) (S (NP (NNS Portugal)) (VP (VP (VB está) (PP (IN a) (VB jogar))) (RB impecavelmente))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Dizem)
+    (NP 
+     (DT os)
+     (NNS brasileiros)
+    )
+   )
+   (CONJP 
+    (CC que)
+    (S 
+     (NP 
+      (NNS Portugal)
+     )
+     (VP 
+      (VP 
+       (VB está)
+       (PP 
+        (IN a)
+        (VB jogar)
+       )
+      )
+      (RB impecavelmente)
+     )
+    )
+   )
+  )
+  .
+ )
+)

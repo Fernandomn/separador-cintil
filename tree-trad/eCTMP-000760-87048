@@ -1,1 +1,25 @@
-(S (S (NP (NP (NP (NNS Projecto) (JJ turístico)) (JJ novo)))) (PP (IN em_) (NP (DT o) (NP (NNS litoral) (JJ alentejano)))))
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Projecto)
+      (JJ turístico)
+     )
+     (JJ novo)
+    )
+   )
+  )
+  (PP 
+   (IN em_)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS litoral)
+     (JJ alentejano)
+    )
+   )
+  )
+ )
+)

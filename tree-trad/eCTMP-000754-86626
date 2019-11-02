@@ -1,1 +1,19 @@
-(S (NP (NNS Japão)) (VP (VB entra) (PP (IN em) (NP (NP (NNS recessão) (JJ oficial))))))
+(
+ (S 
+  (NP 
+   (NNS Japão)
+  )
+  (VP 
+   (VB entra)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS recessão)
+      (JJ oficial)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,17 @@
-(S (S (VP (VB Fizeram) (NP (DT um) (NP (JJ grande) (NNS álbum))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Fizeram)
+    (NP 
+     (DT um)
+     (NP 
+      (JJ grande)
+      (NNS álbum)
+     )
+    )
+   )
+  )
+  .
+ )
+)

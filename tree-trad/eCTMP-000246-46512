@@ -1,50 +1,52 @@
-(S 
+(
  (S 
   (S 
-   (VP 
-    (ADVP 
-     (RB Agora)
-     ,
-    )
+   (S 
     (VP 
-     (VP 
-      (VB querem)
-      (VP 
-       (VP 
-        (VB suspendê#)
-        (NP 
-         (PRP -lo)
-        )
-       )
-       (PP 
-        (IN a_)
-        (NP 
-         (DT a)
-         (NNS pressa)
-        )
-       )
-      )
+     (ADVP 
+      (RB Agora)
+      ,
      )
-     (CONJP para que)
-     (S 
-      (NP 
-       (DT o)
-       (NNS processo)
-      )
+     (VP 
       (VP 
-       (VB fique)
-       (PP 
-        (IN com)
-        (NP 
-         (DT uma)
+       (VB querem)
+       (VP 
+        (VP 
+         (VB suspendê#)
          (NP 
-          (NNS aparência)
-          (PP 
-           (IN de)
-           (NP 
+          (PRP -lo)
+         )
+        )
+        (PP 
+         (IN a_)
+         (NP 
+          (DT a)
+          (NNS pressa)
+         )
+        )
+       )
+      )
+      (CONJP para que)
+      (S 
+       (NP 
+        (DT o)
+        (NNS processo)
+       )
+       (VP 
+        (VB fique)
+        (PP 
+         (IN com)
+         (NP 
+          (DT uma)
+          (NP 
+           (NNS aparência)
+           (PP 
+            (IN de)
             (NP 
-             (NNS cobertura)
-             (JJ legal)
+             (NP 
+              (NNS cobertura)
+              (JJ legal)
+             )
             )
            )
           )
@@ -56,6 +58,6 @@
     )
    )
   )
+  .
  )
- .
 )

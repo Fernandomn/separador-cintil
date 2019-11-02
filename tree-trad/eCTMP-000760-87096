@@ -1,1 +1,22 @@
-(S `` (S (S (NP (DT O) (NNS país)) (VP (VB está) (PP (IN em) (NP (NNS perigo))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS país)
+    )
+    (VP 
+     (VB está)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS perigo)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

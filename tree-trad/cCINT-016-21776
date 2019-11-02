@@ -1,1 +1,14 @@
-(S (S (VP (VP (RB Não) (VB concordo)) (RB mesmo))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB concordo)
+    )
+    (RB mesmo)
+   )
+  )
+  .
+ )
+)

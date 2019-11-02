@@ -1,1 +1,29 @@
-(S (S (PP (PP (PP (IN Quanto) (IN a_)) (NP (DT a) (NNS final))) ,) (S (NP (NNS Ivanisevic)) (VP (VB está) (JJ confiante)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (PP 
+      (IN Quanto)
+      (IN a_)
+     )
+     (NP 
+      (DT a)
+      (NNS final)
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (NNS Ivanisevic)
+    )
+    (VP 
+     (VB está)
+     (JJ confiante)
+    )
+   )
+  )
+  .
+ )
+)

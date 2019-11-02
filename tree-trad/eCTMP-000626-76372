@@ -1,1 +1,19 @@
-(S (NP (NNS Ignatiev)) (VP (VP (RB não) (VB deve)) (VP (VB aceitar) (NP (NNS convite)))))
+(
+ (S 
+  (NP 
+   (NNS Ignatiev)
+  )
+  (VP 
+   (VP 
+    (RB não)
+    (VB deve)
+   )
+   (VP 
+    (VB aceitar)
+    (NP 
+     (NNS convite)
+    )
+   )
+  )
+ )
+)

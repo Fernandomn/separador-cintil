@@ -1,7 +1,7 @@
-(S 
+(
  (S 
-  (VP 
-   (CONJP 
+  (S 
+   (VP 
     (CONJP Sempre que)
     (S 
      (VB surge)
@@ -11,14 +11,14 @@
      )
     )
     ,
-   )
-   (VP 
-    (VB chamam)
-    (NP 
-     (PRP -na)
+    (VP 
+     (VB chamam)
+     (NP 
+      (PRP -na)
+     )
     )
    )
   )
+  .
  )
- .
 )

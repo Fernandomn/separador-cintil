@@ -1,1 +1,25 @@
-(S (S (VP (VP (VB Pediu) (NP (DT outras) (NNS vezes))) (PP , (PP (IN sem) (NP (NNS sucesso)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Pediu)
+     (NP 
+      (DT outras)
+      (NNS vezes)
+     )
+    )
+    (PP 
+     ,
+     (PP 
+      (IN sem)
+      (NP 
+       (NNS sucesso)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

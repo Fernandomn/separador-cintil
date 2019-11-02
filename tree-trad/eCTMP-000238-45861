@@ -1,1 +1,27 @@
-(S (NP (NP (NNS Subsídio) (PP (IN para) (NP (NP (NNS obras) (PP (IN em_) (NP (DT a) (NP (NNS Vila) (NNS Gomes))))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Subsídio)
+    (PP 
+     (IN para)
+     (NP 
+      (NP 
+       (NNS obras)
+       (PP 
+        (IN em_)
+        (NP 
+         (DT a)
+         (NP 
+          (NNS Vila)
+          (NNS Gomes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

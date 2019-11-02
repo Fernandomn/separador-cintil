@@ -1,1 +1,15 @@
-(S (NP (DT A) (NNS droga)) (VP (VB mudou) (NP (DT as) (NNS Marianas))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS droga)
+  )
+  (VP 
+   (VB mudou)
+   (NP 
+    (DT as)
+    (NNS Marianas)
+   )
+  )
+ )
+)

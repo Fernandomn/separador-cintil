@@ -1,1 +1,28 @@
-(S (S (NP (DT Esta)) (VP (VP (VB é) (RB apenas)) (NP (DT uma) (NP (PP (IN de_) (NP (DT as) (NNS incógnitas))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esta)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB apenas)
+    )
+    (NP 
+     (DT uma)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT as)
+        (NNS incógnitas)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

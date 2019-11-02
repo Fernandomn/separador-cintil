@@ -1,1 +1,28 @@
-(S (S (S (VP (VP (VB É) (RB só)) (NP (DT isso) (NP (CP (NP (PRP que)) (S (VB interessa))))))) .) ``)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (VB É)
+      (RB só)
+     )
+     (NP 
+      (DT isso)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VB interessa)
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

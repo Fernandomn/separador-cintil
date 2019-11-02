@@ -1,1 +1,26 @@
-(S (NP (CD Duas) (NP (NNS listas) (PP (IN para) (NP (DT a) (NP (NNS liderança) (PP (IN de_) (NP (DT a) (NNS CAP)))))))))
+(
+ (S 
+  (NP 
+   (CD Duas)
+   (NP 
+    (NNS listas)
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS liderança)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS CAP)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

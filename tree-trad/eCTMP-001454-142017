@@ -1,1 +1,21 @@
-(S (VB Começou) (NP (DT a) (NP (NP (NNS contagem) (JJ decrescente)) (PP (IN para) (NP (DT a) (NNS paz))))))
+(
+ (S 
+  (VB Começou)
+  (NP 
+   (DT a)
+   (NP 
+    (NP 
+     (NNS contagem)
+     (JJ decrescente)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NNS paz)
+     )
+    )
+   )
+  )
+ )
+)

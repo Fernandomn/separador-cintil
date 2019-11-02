@@ -1,1 +1,18 @@
-(S (S (NP (DT A) (NNS explosão)) (VP (VB fez) (NP (CD vinte) (NNS mortos)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS explosão)
+   )
+   (VP 
+    (VB fez)
+    (NP 
+     (CD vinte)
+     (NNS mortos)
+    )
+   )
+  )
+  .
+ )
+)

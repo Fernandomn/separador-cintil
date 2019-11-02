@@ -1,1 +1,17 @@
-(S (S (NP (DT A) (NNS administração)) (VP (VB nega) (NP (PRP tudo)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS administração)
+   )
+   (VP 
+    (VB nega)
+    (NP 
+     (PRP tudo)
+    )
+   )
+  )
+  .
+ )
+)

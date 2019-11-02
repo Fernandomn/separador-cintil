@@ -1,37 +1,41 @@
-(S 
+(
  (S 
   (S 
-   (CONJP Não só)
    (S 
-    (VP 
-     (VB anulou)
-     (NP 
-      (DT a)
-      (NNS desvantagem)
-     )
-    )
-   )
-  )
-  (S 
-   (CONJP como ainda)
-   (S 
-    (VP 
+    (CC Não)
+    (CC só)
+    (S 
      (VP 
+      (VB anulou)
       (NP 
-       (PRP a)
+       (DT a)
+       (NNS desvantagem)
       )
-      (VB superou)
      )
-     (PP 
-      (IN por)
-      (NP 
-       (CD oito)
-       (NNS segundos)
+    )
+   )
+   (S 
+    (CC como)
+    (CC ainda)
+    (S 
+     (VP 
+      (VP 
+       (NP 
+        (PRP a)
+       )
+       (VB superou)
+      )
+      (PP 
+       (IN por)
+       (NP 
+        (CD oito)
+        (NNS segundos)
+       )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

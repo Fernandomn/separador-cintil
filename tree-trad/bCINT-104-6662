@@ -1,1 +1,19 @@
-(S (NP (NP (NNS Lei) (PP (IN de) (NP (NNS bases))))) (VP (VB é) (JJ precisa)))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Lei)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS bases)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB é)
+   (JJ precisa)
+  )
+ )
+)

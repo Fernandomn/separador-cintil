@@ -1,1 +1,34 @@
-(S (S (NP (NP (NNS Aurora) (NNS Cunha))) (VP (PP (RB só) (PP (IN durante) (NP (CD cinco) (NNS quilómetros)))) (VP (VB teve) (NP (NP (NNS companhia) (JJ feminina)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Aurora)
+     (NNS Cunha)
+    )
+   )
+   (VP 
+    (PP 
+     (RB só)
+     (PP 
+      (IN durante)
+      (NP 
+       (CD cinco)
+       (NNS quilómetros)
+      )
+     )
+    )
+    (VP 
+     (VB teve)
+     (NP 
+      (NP 
+       (NNS companhia)
+       (JJ feminina)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

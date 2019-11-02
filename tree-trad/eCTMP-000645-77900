@@ -1,1 +1,19 @@
-(S (NP (NP (NNS Manuel) (NNS Monteiro))) (VP (VB apoia) (NP (NP (NNS promotores) (JJ imobiliários)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Manuel)
+    (NNS Monteiro)
+   )
+  )
+  (VP 
+   (VB apoia)
+   (NP 
+    (NP 
+     (NNS promotores)
+     (JJ imobiliários)
+    )
+   )
+  )
+ )
+)

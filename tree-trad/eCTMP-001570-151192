@@ -1,1 +1,43 @@
-(S (S (S (VP (CONJP (CONJP (CC Se) (S (NP (DT o) (NNS tempo)) (VP (VB deixou) (NP (PRP alguma) (NNS influência))))) ,) (VP (VB foi) (PP (RB mais) (PP (IN para) (NP (DT a) (NNS poesia))))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC Se)
+       (S 
+        (NP 
+         (DT o)
+         (NNS tempo)
+        )
+        (VP 
+         (VB deixou)
+         (NP 
+          (PRP alguma)
+          (NNS influência)
+         )
+        )
+       )
+      )
+      ,
+     )
+     (VP 
+      (VB foi)
+      (PP 
+       (RB mais)
+       (PP 
+        (IN para)
+        (NP 
+         (DT a)
+         (NNS poesia)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

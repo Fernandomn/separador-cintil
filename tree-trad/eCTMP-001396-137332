@@ -1,1 +1,20 @@
-(S (NP (NP (NP (NNS Albert) (NNS Einstein)) ,) (NP (DT o) (NP (NNS pacifista) (JJ nuclear)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Albert)
+     (NNS Einstein)
+    )
+    ,
+   )
+   (NP 
+    (DT o)
+    (NP 
+     (NNS pacifista)
+     (JJ nuclear)
+    )
+   )
+  )
+ )
+)

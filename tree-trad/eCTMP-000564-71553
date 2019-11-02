@@ -1,1 +1,61 @@
-(S (S (S (PP (PP (IN Segundo) (NP (DT o) (NNS pai))) ,) (S (NP (DT o) (NP '' (NNS Luís))) (VP (VP (VB telefonava) (RB sempre)) (CONJP (CONJP (CC quando) (S (VP (NP (PRP se)) (VB atrasava)))) (CONJP (CC ou) (CONJP (CC quando) (S (VB acontecia) (NP (PRP alguma) (NNS coisa))))))))) ``) .)
+(
+ (S 
+  (S 
+   (S 
+    (PP 
+     (PP 
+      (IN Segundo)
+      (NP 
+       (DT o)
+       (NNS pai)
+      )
+     )
+     ,
+    )
+    (S 
+     (NP 
+      (DT o)
+      (NP 
+       ''
+       ''
+       (NNS Luís)
+      )
+     )
+     (VP 
+      (VP 
+       (VB telefonava)
+       (RB sempre)
+      )
+      (CONJP 
+       (CONJP 
+        (CC quando)
+        (S 
+         (VP 
+          (NP 
+           (PRP se)
+          )
+          (VB atrasava)
+         )
+        )
+       )
+       (CONJP 
+        (CC ou)
+        (CONJP 
+         (CC quando)
+         (S 
+          (VB acontecia)
+          (NP 
+           (PRP alguma)
+           (NNS coisa)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,30 @@
-(S (S (VP (VB Estava) (PP (IN em_) (NP (DT o) (NP (NNS sítio) (CP (PP (IN por) (RB onde)) (S (VP (VB estava))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estava)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT o)
+      (NP 
+       (NNS sítio)
+       (CONJP 
+        (PP 
+         (IN por)
+         (RB onde)
+        )
+        (S 
+         (VP 
+          (VB estava)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

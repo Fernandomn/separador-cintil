@@ -1,1 +1,48 @@
-(S (S (S (NP (DT O) (NNS destino)) (VP (VB é) (NP (DT a) (NNS Holanda)))) (S , (S (NP (DT o) (NNS objectivo)) (VP (VB fica) (PP (IN em_) (NP (DT o) (NP (NNS segredo) (PP (IN de_) (NP (DT os) (NNS deuses)))))))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS destino)
+    )
+    (VP 
+     (VB é)
+     (NP 
+      (DT a)
+      (NNS Holanda)
+     )
+    )
+   )
+   (S 
+    ,
+    (S 
+     (NP 
+      (DT o)
+      (NNS objectivo)
+     )
+     (VP 
+      (VB fica)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NP 
+         (NNS segredo)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT os)
+           (NNS deuses)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

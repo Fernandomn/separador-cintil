@@ -1,1 +1,30 @@
-(S (NP (NNS Portas)) (VP (PP (IN contra) (NP (NP (NP '' (NNS chantagem) ``) (PP (IN de) (NP (NP (NNS António) (NNS Guterres)))))))))
+(
+ (S 
+  (NP 
+   (NNS Portas)
+  )
+  (VP 
+   (PP 
+    (IN contra)
+    (NP 
+     (NP 
+      (NP 
+       ''
+       ''
+       (NNS chantagem)
+      )
+      (PP 
+       (IN de)
+       (NP 
+        (NP 
+         (NNS António)
+         (NNS Guterres)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

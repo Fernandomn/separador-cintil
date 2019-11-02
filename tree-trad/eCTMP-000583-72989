@@ -1,1 +1,29 @@
-(S (S (ADJP (RB Quase) (JJ impossível)) (S (VP (VB é)) (NP (DT o) (NP (NNS apuramento) (PP (IN de_) (NP (DT a) (NNS Rússia))))))) .)
+(
+ (S 
+  (S 
+   (ADJP 
+    (RB Quase)
+    (JJ impossível)
+   )
+   (S 
+    (VP 
+     (VB é)
+    )
+    (NP 
+     (DT o)
+     (NP 
+      (NNS apuramento)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT a)
+        (NNS Rússia)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

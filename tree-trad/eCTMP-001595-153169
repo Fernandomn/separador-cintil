@@ -1,1 +1,23 @@
-(S (NP (NNS Ziad)) (VP (VB impediu) (NP (DT a) (NP (NNS derrota) (PP (IN de_) (NP (DT o) (NNS Guimarães)))))))
+(
+ (S 
+  (NP 
+   (NNS Ziad)
+  )
+  (VP 
+   (VB impediu)
+   (NP 
+    (DT a)
+    (NP 
+     (NNS derrota)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Guimarães)
+      )
+     )
+    )
+   )
+  )
+ )
+)

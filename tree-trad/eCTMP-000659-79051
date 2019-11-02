@@ -1,1 +1,41 @@
-(S '' (S (S (VP (CONJP (CONJP (CC Se) (S (VP (VB é) (NP (DT um) (NP (NNS festival) (JJ internacional)))))) ,) (VP (VB deve) (VP (VP (VB ser) (RB maioritariamente)) (JJ estrangeiro))))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (VP 
+     (CONJP 
+      (CONJP 
+       (CC Se)
+       (S 
+        (VP 
+         (VB é)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS festival)
+           (JJ internacional)
+          )
+         )
+        )
+       )
+      )
+      ,
+     )
+     (VP 
+      (VB deve)
+      (VP 
+       (VP 
+        (VB ser)
+        (RB maioritariamente)
+       )
+       (JJ estrangeiro)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

@@ -1,1 +1,20 @@
-(S (NP (DT A) (NP (CD primeira) (NP (NNS vitória) (PP (IN de_) (NP (DT o) (NNS Braga)))))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NP 
+    (CD primeira)
+    (NP 
+     (NNS vitória)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS Braga)
+      )
+     )
+    )
+   )
+  )
+ )
+)

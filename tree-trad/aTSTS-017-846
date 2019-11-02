@@ -1,1 +1,17 @@
-(S (S (NP (PRP Ele)) (VP (VB presidiu) (NP (DT as) (NNS reuniões)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB presidiu)
+    (NP 
+     (DT as)
+     (NNS reuniões)
+    )
+   )
+  )
+  .
+ )
+)

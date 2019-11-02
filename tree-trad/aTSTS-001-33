@@ -1,1 +1,24 @@
-(S (S (NP (DT Este) (NNS cliente)) (VP (VB está) (ADJP (JJ contentíssimo) (PP (IN com) (NP (DT A) (NNS compra)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Este)
+    (NNS cliente)
+   )
+   (VP 
+    (VB está)
+    (ADJP 
+     (JJ contentíssimo)
+     (PP 
+      (IN com)
+      (NP 
+       (DT A)
+       (NNS compra)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

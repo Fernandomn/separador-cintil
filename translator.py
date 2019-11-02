@@ -144,38 +144,39 @@ def appendRefLists(treeText, inicio, final, classe):
     # ------------------------
 
 
-def traduzirTags(treeText):
+def traduzirTags(tree_text):
     settings.isFirstQuoteMark = True
-    reverArvore = False
+    rever_arvore = False
 
-    for index in reversed(range(len(treeText))):
-        caractere = treeText[index]
+    for index in reversed(range(len(tree_text))):
+        caractere = tree_text[index]
 
         if caractere == '(':
             inicio = index + 1
-            final = inicio + treeText[inicio:].index(' ')
-            classe = treeText[inicio:final]
+            final = inicio + tree_text[inicio:].index(' ')
+            classe = tree_text[inicio:final]
 
             if classe == settings.pointTag:
-                treeText = extraiPnt(index, inicio, treeText)
+                tree_text = extraiPnt(index, inicio, tree_text)
             else:
                 classeTraduzida = tradutor(classe)
-                treeText = treeText[:inicio] + classeTraduzida + treeText[final:]
-                if not reverArvore and classeProblematica(classeTraduzida):
-                    reverArvore = True
+                tree_text = tree_text[:inicio] + classeTraduzida + tree_text[final:]
+                if not rever_arvore and classeProblematica(classeTraduzida):
+                    rever_arvore = True
 
-            appendRefLists(treeText, inicio, final, classe)
+            appendRefLists(tree_text, inicio, final, classe)
 
-    if reverArvore:
-        # i, listTree = tb.reconstroiArvore(treeText, 0, [])
-        # listTree = ['S', listTree]
-        # tb.revisaTags(listTree)  # ???
-        # treeText = tb.imprimeArvore(listTree, 0)
+    # if rever_arvore:
+    # i, listTree = tb.reconstroiArvore(treeText, 0, [])
+    # listTree = ['S', listTree]
+    # tb.revisaTags(listTree)  # ???
+    # treeText = tb.imprimeArvore(listTree, 0)
 
-        raiz = Sintagma('', [], '', '')
-        i, arvore = tb.reconstroiArvoreObj(treeText, 0, raiz)
+    raiz = Sintagma('', [], '', '')
+    i, arvore = tb.reconstroiArvoreObj(tree_text, 0, raiz)
+    if rever_arvore:
         tb.revisaTagsObj(arvore)
-        treeText = tb.imprimeArvoreObj(arvore,0)
-        treeText
+    tree_text = tb.imprimeArvoreObj(arvore, 0)
+    # treeText
 
-    return treeText
+    return tree_text

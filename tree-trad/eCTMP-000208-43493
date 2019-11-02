@@ -1,1 +1,22 @@
-(S (NP (NP (NP (NNS Filomena) (NNS Fontes))) (NP (CC e) (NP (NP (NNS Ana) (NNS Sá) (NNS Lopes))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Filomena)
+     (NNS Fontes)
+    )
+   )
+   (NP 
+    (CC e)
+    (NP 
+     (NP 
+      (NNS Ana)
+      (NNS Sá)
+      (NNS Lopes)
+     )
+    )
+   )
+  )
+ )
+)

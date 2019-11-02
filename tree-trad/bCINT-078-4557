@@ -1,1 +1,14 @@
-(S (NP (NNS Explosão)) (VP (VB faz) (NP (CD quatro) (NNS feridos))))
+(
+ (S 
+  (NP 
+   (NNS Explosão)
+  )
+  (VP 
+   (VB faz)
+   (NP 
+    (CD quatro)
+    (NNS feridos)
+   )
+  )
+ )
+)

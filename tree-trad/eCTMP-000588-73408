@@ -1,1 +1,20 @@
-(S (S (NP (NP (NNS Ramalho) (NNS Eanes))) (VP (VB continua) (PP (IN a) (VB pensar)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Ramalho)
+     (NNS Eanes)
+    )
+   )
+   (VP 
+    (VB continua)
+    (PP 
+     (IN a)
+     (VB pensar)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,21 @@
-(S (S (NP (DT O) (NNS trauma)) (VP (VB foi) (ADJP (ADVP (RB assim) (RB tão)) (JJ grande)))) ?)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS trauma)
+   )
+   (VP 
+    (VB foi)
+    (ADJP 
+     (ADVP 
+      (RB assim)
+      (RB tão)
+     )
+     (JJ grande)
+    )
+   )
+  )
+  ?
+ )
+)

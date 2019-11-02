@@ -1,1 +1,35 @@
-(S (S (NP (DT O) (NNS navio)) (VP (RB ainda) (VP (VP (RB não) (VB atingira)) (NP (DT as) (NP (NP (NNS águas) (JJ territoriais)) (PP (IN de) (NP (NNS Timor)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS navio)
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB atingira)
+     )
+     (NP 
+      (DT as)
+      (NP 
+       (NP 
+        (NNS águas)
+        (JJ territoriais)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Timor)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

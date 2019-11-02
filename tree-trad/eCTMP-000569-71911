@@ -1,1 +1,37 @@
-(S (VP (PP (IN Com) (NP (NP (NP (NP (NP (NNS Randolph) (NNS Scott))) (NP , (NP (NP (NNS Joel) (NNS McCrea))))) ,) (NP (NP (NNS Mariette) (NNS Hartley)))))))
+(
+ (S 
+  (VP 
+   (PP 
+    (IN Com)
+    (NP 
+     (NP 
+      (NP 
+       (NP 
+        (NP 
+         (NNS Randolph)
+         (NNS Scott)
+        )
+       )
+       (NP 
+        ,
+        (NP 
+         (NP 
+          (NNS Joel)
+          (NNS McCrea)
+         )
+        )
+       )
+      )
+      ,
+     )
+     (NP 
+      (NP 
+       (NNS Mariette)
+       (NNS Hartley)
+      )
+     )
+    )
+   )
+  )
+ )
+)

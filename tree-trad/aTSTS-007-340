@@ -1,1 +1,15 @@
-(S (S (VB Chegaram) (NP (CD três) (NP (CD primeiros) (NNS carros)))) .)
+(
+ (S 
+  (S 
+   (VB Chegaram)
+   (NP 
+    (CD três)
+    (NP 
+     (CD primeiros)
+     (NNS carros)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,63 @@
-(S (S (NP (NP (PRP Quem)) (S (VP (VB quiser) (VP (VP (VB transpor) (NP (DT as) (NP (NNS fronteiras) (JJ portuguesas)))) (PP (IN sem) (NP (PRP qualquer) (NP (NNS espécie) (PP (IN de) (NP (NNS controlo)))))))))) (VP (VB vai) (VP (VB ter) (PP (IN de) (VP (VP (VB esperar) (RB ainda)) (NP (PRP muitos) (NNS meses))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (PRP Quem)
+    )
+    (S 
+     (VP 
+      (VB quiser)
+      (VP 
+       (VP 
+        (VB transpor)
+        (NP 
+         (DT as)
+         (NP 
+          (NNS fronteiras)
+          (JJ portuguesas)
+         )
+        )
+       )
+       (PP 
+        (IN sem)
+        (NP 
+         (PRP qualquer)
+         (NP 
+          (NNS espécie)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS controlo)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB vai)
+    (VP 
+     (VB ter)
+     (PP 
+      (IN de)
+      (VP 
+       (VP 
+        (VB esperar)
+        (RB ainda)
+       )
+       (NP 
+        (PRP muitos)
+        (NNS meses)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

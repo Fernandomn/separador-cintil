@@ -1,1 +1,18 @@
-(S (NP (NP (NNS Claustro) (NNS de) (NNS Semide))) (VP (VB vai) (VP (VB ser) (VB recuperado))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Claustro)
+    (NNS de)
+    (NNS Semide)
+   )
+  )
+  (VP 
+   (VB vai)
+   (VP 
+    (VB ser)
+    (VB recuperado)
+   )
+  )
+ )
+)

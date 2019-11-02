@@ -1,1 +1,22 @@
-(S (NP (NP (NNS União) (NNS para) (NNS a) (NNS Democracia) (NNS Francesa))) (VP (VB tem) (NP (NP (JJ novo) (NNS presidente)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS União)
+    (NNS para)
+    (NNS a)
+    (NNS Democracia)
+    (NNS Francesa)
+   )
+  )
+  (VP 
+   (VB tem)
+   (NP 
+    (NP 
+     (JJ novo)
+     (NNS presidente)
+    )
+   )
+  )
+ )
+)

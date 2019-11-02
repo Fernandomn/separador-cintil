@@ -1,1 +1,32 @@
-(S (NP (NP (NNS Vacinas) (PP (IN contra) (NP (DT o) (NNS cancro))))) (VP (VB vão) (VP (VP (VB ser) (VB testadas)) (PP (IN em_) (NP (DT a) (NNS Grã-Bretanha))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Vacinas)
+    (PP 
+     (IN contra)
+     (NP 
+      (DT o)
+      (NNS cancro)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB vão)
+   (VP 
+    (VP 
+     (VB ser)
+     (VB testadas)
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NNS Grã-Bretanha)
+     )
+    )
+   )
+  )
+ )
+)

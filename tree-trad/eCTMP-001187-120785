@@ -1,1 +1,28 @@
-(S (S (NP (DT O) (NP (NNS pano) (PP (IN de) (NP (NNS fundo))))) (VP (VB é) (PP (IN de) (NP (NNS festa))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS pano)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS fundo)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS festa)
+     )
+    )
+   )
+  )
+  .
+ )
+)

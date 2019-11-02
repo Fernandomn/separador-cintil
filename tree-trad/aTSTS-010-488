@@ -1,1 +1,14 @@
-(S (S (VP (VB Vejo) (NP (PRP bastantes) (NNS vinhos)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (PRP bastantes)
+     (NNS vinhos)
+    )
+   )
+  )
+  .
+ )
+)

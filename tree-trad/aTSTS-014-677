@@ -1,1 +1,23 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VB divagou) (PP (IN por) (NP (NP (NNS territórios) (JJ desconhecidos)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VB divagou)
+    (PP 
+     (IN por)
+     (NP 
+      (NP 
+       (NNS territórios)
+       (JJ desconhecidos)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

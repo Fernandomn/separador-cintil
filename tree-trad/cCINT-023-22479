@@ -1,1 +1,20 @@
-(CP (CP (ADVP (RB Pronto) ,) (S (VP (VP (VB vamos) (RB lá)) (RB então)))) .)
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Pronto)
+    ,
+   )
+   (S 
+    (VP 
+     (VP 
+      (VB vamos)
+      (RB lá)
+     )
+     (RB então)
+    )
+   )
+  )
+  .
+ )
+)

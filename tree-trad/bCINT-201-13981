@@ -1,1 +1,32 @@
-(S (S (NP (NNS Portugal)) (VP (RB só) (VP (VP (VB tinha) (NP (DT o) (NNS futebol))) (PP (IN em_) (NP (DT o) (NP (NNS top) (JJ mundial))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Portugal)
+   )
+   (VP 
+    (RB só)
+    (VP 
+     (VP 
+      (VB tinha)
+      (NP 
+       (DT o)
+       (NNS futebol)
+      )
+     )
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS top)
+        (JJ mundial)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

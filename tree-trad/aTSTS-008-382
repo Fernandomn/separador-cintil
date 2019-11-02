@@ -1,1 +1,15 @@
-(S (S (VB Chegaram) (NP (DT outras) (NP (JJ certas) (NNS pessoas)))) .)
+(
+ (S 
+  (S 
+   (VB Chegaram)
+   (NP 
+    (DT outras)
+    (NP 
+     (JJ certas)
+     (NNS pessoas)
+    )
+   )
+  )
+  .
+ )
+)

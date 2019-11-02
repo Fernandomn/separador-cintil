@@ -1,1 +1,24 @@
-(S (S (NP (DT A) (NNS mulher)) (VP (VP (VB está) (JJ grávida)) (PP (IN de) (NP (CD nove) (NNS meses))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS mulher)
+   )
+   (VP 
+    (VP 
+     (VB está)
+     (JJ grávida)
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (CD nove)
+      (NNS meses)
+     )
+    )
+   )
+  )
+  .
+ )
+)

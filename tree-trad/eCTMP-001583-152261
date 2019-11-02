@@ -1,1 +1,72 @@
-(S (S (VP (PP (PP (IN Por) (NP (DT isso))) ,) (VP (VP (VB direi) (ADVP (RB mais) (RB adiante))) (CP (CC que) (S (VP (VP (RB não) (VB posso)) (VP (VB concordar) (PP (IN com) (NP (DT a) (NP (NP (NNS visão) (PP (IN de) (NP (NP (NNS Pacheco) (NNS Pereira))))) (PP (PP (IN a) (IN respeito) (IN de_)) (NP (DT o) (NNS Parlamento))))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Por)
+      (NP 
+       (DT isso)
+      )
+     )
+     ,
+    )
+    (VP 
+     (VP 
+      (VB direi)
+      (ADVP 
+       (RB mais)
+       (RB adiante)
+      )
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VP 
+         (RB não)
+         (VB posso)
+        )
+        (VP 
+         (VB concordar)
+         (PP 
+          (IN com)
+          (NP 
+           (DT a)
+           (NP 
+            (NP 
+             (NNS visão)
+             (PP 
+              (IN de)
+              (NP 
+               (NP 
+                (NNS Pacheco)
+                (NNS Pereira)
+               )
+              )
+             )
+            )
+            (PP 
+             (PP 
+              (IN a)
+              (IN respeito)
+              (IN de_)
+             )
+             (NP 
+              (DT o)
+              (NNS Parlamento)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

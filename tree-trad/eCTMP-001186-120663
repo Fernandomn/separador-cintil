@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Carros) (JJ municipais))) (VP (VP (VB movidos)) (PP (IN a) (NP (NNS girassol)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Carros)
+    (JJ municipais)
+   )
+  )
+  (VP 
+   (VP 
+    (VB movidos)
+   )
+   (PP 
+    (IN a)
+    (NP 
+     (NNS girassol)
+    )
+   )
+  )
+ )
+)

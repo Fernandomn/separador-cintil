@@ -1,1 +1,45 @@
-(S (S (CP (S '' (S (VP (VB Vamos) (VP (VB procurar) (CP (CC que) (S (VP (VB seja) (NP (DT um) (NP (NNS rali) (JJ divertido))))))))) ``) ,) (S (VP (VB diz)) (NP (NNS Jonathon)))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     ''
+     ''
+     (S 
+      (VP 
+       (VB Vamos)
+       (VP 
+        (VB procurar)
+        (CONJP 
+         (CC que)
+         (S 
+          (VP 
+           (VB seja)
+           (NP 
+            (DT um)
+            (NP 
+             (NNS rali)
+             (JJ divertido)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB diz)
+    )
+    (NP 
+     (NNS Jonathon)
+    )
+   )
+  )
+  .
+ )
+)

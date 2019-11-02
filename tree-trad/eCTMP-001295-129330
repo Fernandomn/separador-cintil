@@ -1,1 +1,26 @@
-(S (S (NP (NP (DT Este)) ,) (VP (VP (VB nega) (RB peremptoriamente)) (NP (PRP todas) (NP (DT as) (NNS acusações))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT Este)
+    )
+    ,
+   )
+   (VP 
+    (VP 
+     (VB nega)
+     (RB peremptoriamente)
+    )
+    (NP 
+     (PRP todas)
+     (NP 
+      (DT as)
+      (NNS acusações)
+     )
+    )
+   )
+  )
+  .
+ )
+)

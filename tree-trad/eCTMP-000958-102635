@@ -1,1 +1,30 @@
-(S (S '' (S (VP (PP (RB Só) (PP (PP (IN por) (IN cima) (IN de_)) (NP (DT o) (NP (PP$ nosso) (NNS cadáver))))))) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (VP 
+     (PP 
+      (RB Só)
+      (PP 
+       (PP 
+        (IN por)
+        (IN cima)
+        (IN de_)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (PP nosso)
+         (NNS cadáver)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

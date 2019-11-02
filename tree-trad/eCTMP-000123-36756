@@ -1,1 +1,22 @@
-(S (S (NP (NP (NNS Igor) (NNS Tcherepov))) (VP (VP (RB não) (VB tem)) (NP (NNS dúvidas)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Igor)
+     (NNS Tcherepov)
+    )
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB tem)
+    )
+    (NP 
+     (NNS dúvidas)
+    )
+   )
+  )
+  .
+ )
+)

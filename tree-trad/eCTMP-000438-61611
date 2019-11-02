@@ -1,1 +1,18 @@
-(S (S (NP (DT O) (NNS apelo)) (VP (VP (VB é) (RB tremendamente)) (JJ revelador))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS apelo)
+   )
+   (VP 
+    (VP 
+     (VB é)
+     (RB tremendamente)
+    )
+    (JJ revelador)
+   )
+  )
+  .
+ )
+)

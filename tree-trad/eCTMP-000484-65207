@@ -1,1 +1,32 @@
-(S `` (S (S (NP (DT O) (NNS regulamento)) (VP (VP (VP (RB não) (VB foi)) (RB ainda)) (VP (VB aplicado) (PP (IN por_) (NP (DT o) (NNS jornalistas)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS regulamento)
+    )
+    (VP 
+     (VP 
+      (VP 
+       (RB não)
+       (VB foi)
+      )
+      (RB ainda)
+     )
+     (VP 
+      (VB aplicado)
+      (PP 
+       (IN por_)
+       (NP 
+        (DT o)
+        (NNS jornalistas)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

@@ -1,25 +1,27 @@
-(S 
+(
  (S 
-  (NP 
-   (NNS Nogueira)
-  )
-  (VP 
-   (VB é)
-   (ADJP 
+  (S 
+   (NP 
+    (NNS Nogueira)
+   )
+   (VP 
+    (VB é)
     (ADJP 
-     (RB mais)
      (ADJP 
-      ''
-      ''
-      (JJ português)
+      (RB mais)
+      (ADJP 
+       ''
+       ''
+       (JJ português)
+      )
      )
-    )
-    (CONJP de_ o que)
-    (NP 
-     (NNS Guterres)
+     (CONJP de_ o que)
+     (NP 
+      (NNS Guterres)
+     )
     )
    )
   )
+  ?
  )
- ?
 )

@@ -1,1 +1,14 @@
-(S (S (NP (PRP Ele)) (VP (VB mora) (RB perto))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ele)
+   )
+   (VP 
+    (VB mora)
+    (RB perto)
+   )
+  )
+  .
+ )
+)

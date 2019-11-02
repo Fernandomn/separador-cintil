@@ -1,1 +1,23 @@
-(S (S (NP (PRP Muitos)) (VP (VB foram) (VP (VB corrompidos) (PP (IN por_) (NP (DT o) (NNS regime)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Muitos)
+   )
+   (VP 
+    (VB foram)
+    (VP 
+     (VB corrompidos)
+     (PP 
+      (IN por_)
+      (NP 
+       (DT o)
+       (NNS regime)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

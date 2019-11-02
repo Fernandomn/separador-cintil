@@ -1,1 +1,29 @@
-(S (S (VP (PP (IN Em_) (NP (DT a) (NNS ocasião))) (VP (VB é) (VB inaugurada))) (NP (DT a) (NP (NNS exposição) (NP `` (NNS S))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NNS ocasião)
+     )
+    )
+    (VP 
+     (VB é)
+     (VB inaugurada)
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS exposição)
+     (NP 
+      (NNS S)
+     )
+    )
+   )
+  )
+  .
+ )
+)

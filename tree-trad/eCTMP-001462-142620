@@ -1,1 +1,35 @@
-(S (NP (DT Uma) (NP (NNS espécie) (PP (IN de) (NP (NP (NP '' (NP (NNS capricho) (JJ pessoal)) ``) (PP (IN de) (NP (NP (NNS António) (NNS Guterres))))))))) .)
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS espécie)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NP 
+        ''
+        ''
+        (NP 
+         (NNS capricho)
+         (JJ pessoal)
+        )
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (NP 
+          (NNS António)
+          (NNS Guterres)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,23 @@
-(S (S (NP (DT O) (NNS cenário)) (VP (VB é) (NP (DT o) (NP (ADJP (RB mais) (JJ optimista)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS cenário)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (ADJP 
+       (RB mais)
+       (JJ optimista)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

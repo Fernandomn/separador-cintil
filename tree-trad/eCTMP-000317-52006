@@ -1,1 +1,47 @@
-(S (S (NP (DT O) (NP (NNS documento) (CP , (CP (PP (IN de) (NP (PRP que))) (S (NP (DT a) (NNS Lusa)) (VP (VB faz) (NP (DT um) (NP (NNS resumo)))))) ,))) (VP (VB contém) (NP (CD dez) (NNS pontos)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS documento)
+     (CONJP 
+      ,
+      (CONJP 
+       (PP 
+        (IN de)
+        (NP 
+         (PRP que)
+        )
+       )
+       (S 
+        (NP 
+         (DT a)
+         (NNS Lusa)
+        )
+        (VP 
+         (VB faz)
+         (NP 
+          (DT um)
+          (NP 
+           (NNS resumo)
+          )
+         )
+        )
+       )
+      )
+      ,
+     )
+    )
+   )
+   (VP 
+    (VB contém)
+    (NP 
+     (CD dez)
+     (NNS pontos)
+    )
+   )
+  )
+  .
+ )
+)

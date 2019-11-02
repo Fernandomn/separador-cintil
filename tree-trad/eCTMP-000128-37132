@@ -1,1 +1,33 @@
-(S (S (NP (DT A) (NP (NNS leitura) (PP (IN de_) (NP (DT os) (NP (PP$ seus) (NNS relatos)))))) (VP (VB marcou) (NP (DT a) (NP (PP$ minha) (NNS juventude))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS leitura)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (PP seus)
+        (NNS relatos)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (VB marcou)
+    (NP 
+     (DT a)
+     (NP 
+      (PP minha)
+      (NNS juventude)
+     )
+    )
+   )
+  )
+  .
+ )
+)

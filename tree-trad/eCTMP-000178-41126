@@ -1,1 +1,25 @@
-(S (NP (NP (NNS Rusga) (PP (IN em_) (NP (DT a) (NP (NNS casa) (PP (IN de_) (NP (DT o) (NNS secretário-geral)))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Rusga)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS casa)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS secretário-geral)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

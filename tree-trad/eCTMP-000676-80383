@@ -1,1 +1,21 @@
-(S (NP (NNS Heroína)) (VP (PP (IN em_) (NP (DT a) (NP (NNS Baixa) (NNS de_) (NNS a) (NNS Banheira))))))
+(
+ (S 
+  (NP 
+   (NNS Heroína)
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS Baixa)
+      (NNS de_)
+      (NNS a)
+      (NNS Banheira)
+     )
+    )
+   )
+  )
+ )
+)

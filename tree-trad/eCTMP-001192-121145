@@ -1,1 +1,34 @@
-(S (S (PP (PP (IN Em_) (NP (DT a) (NP (NNS freguesia) (NNS de_) (NNS o) (NNS Campo)))) ,) (S (NP (DT as) (NNS opiniões)) (VP (VB são) (NP (PRP diversas))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS freguesia)
+       (NNS de_)
+       (NNS o)
+       (NNS Campo)
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT as)
+     (NNS opiniões)
+    )
+    (VP 
+     (VB são)
+     (NP 
+      (PRP diversas)
+     )
+    )
+   )
+  )
+  .
+ )
+)

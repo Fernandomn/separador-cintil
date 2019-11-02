@@ -1,1 +1,37 @@
-(S (S (VP (VB Viu) (NP (DT uma) (NP (NNS parte) (PP (IN de_) (NP (DT o) (NNS treino))))))) (S (CC mas) (S (VP (RB ainda) (VP (VP (RB não) (VB pode)) (VB trabalhar))))))
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viu)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS parte)
+      (PP 
+       (IN de_)
+       (NP 
+        (DT o)
+        (NNS treino)
+       )
+      )
+     )
+    )
+   )
+  )
+  (S 
+   (CC mas)
+   (S 
+    (VP 
+     (RB ainda)
+     (VP 
+      (VP 
+       (RB não)
+       (VB pode)
+      )
+      (VB trabalhar)
+     )
+    )
+   )
+  )
+ )
+)

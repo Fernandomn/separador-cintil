@@ -1,1 +1,21 @@
-(S (NP (NNS Espanhóis)) (VP (VP (VB detidos)) (PP (IN com) (NP (NP (NNS pesetas) (JJ falsas))))))
+(
+ (S 
+  (NP 
+   (NNS Espanhóis)
+  )
+  (VP 
+   (VP 
+    (VB detidos)
+   )
+   (PP 
+    (IN com)
+    (NP 
+     (NP 
+      (NNS pesetas)
+      (JJ falsas)
+     )
+    )
+   )
+  )
+ )
+)

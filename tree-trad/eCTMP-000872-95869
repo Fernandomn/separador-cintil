@@ -1,1 +1,26 @@
-(S (S (NP (DT As) (NP (NNS mesas) (PP (IN de) (NP (NNS votos))))) (VP (VB serão) (NP (DT o) (NNS recinto)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT As)
+    (NP 
+     (NNS mesas)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS votos)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB serão)
+    (NP 
+     (DT o)
+     (NNS recinto)
+    )
+   )
+  )
+  .
+ )
+)

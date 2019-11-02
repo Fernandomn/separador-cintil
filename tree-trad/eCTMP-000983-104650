@@ -1,1 +1,25 @@
-(S (NP (NNS 4.458)) (VP (VB pode) (VP (VB ser) (VP (VB acompanhado) (PP (IN por) (NP (DT um) (NNS mapa)))))))
+(
+ (S 
+  (NP 
+   (NNS 
+    .
+   )
+  )
+  (VP 
+   (VB pode)
+   (VP 
+    (VB ser)
+    (VP 
+     (VB acompanhado)
+     (PP 
+      (IN por)
+      (NP 
+       (DT um)
+       (NNS mapa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

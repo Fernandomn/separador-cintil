@@ -1,1 +1,33 @@
-(S (S (NP (DT Os) (NP (NP (NNS foguetões) (JJ europeus)) (NNS Ariane))) (VP (RB ainda) (VP (VP (RB não) (VB atingiram)) (NP (DT o) (NP (CD sexagésimo) (NNS voo)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NP 
+     (NP 
+      (NNS foguetões)
+      (JJ europeus)
+     )
+     (NNS Ariane)
+    )
+   )
+   (VP 
+    (RB ainda)
+    (VP 
+     (VP 
+      (RB não)
+      (VB atingiram)
+     )
+     (NP 
+      (DT o)
+      (NP 
+       (CD sexagésimo)
+       (NNS voo)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

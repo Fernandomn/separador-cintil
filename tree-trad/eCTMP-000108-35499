@@ -1,1 +1,58 @@
-(CP (CP (ADVP (RB Sim) ,) (S (S (S (VP (VB trouxe) (NP (NP (NNS Félix) (NNS Hernandez))))) ,) (S (CC mas) (S (VP (PP (IN por) (NP (PRP ele))) (VP (RB também) (VB vieram))) (NP (NP (NP (NNS Júlio) (NNS César))) (NP (CC e) (NP (NNS Edu)))))))) .)
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Sim)
+    ,
+   )
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VB trouxe)
+       (NP 
+        (NP 
+         (NNS Félix)
+         (NNS Hernandez)
+        )
+       )
+      )
+     )
+     ,
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (PP 
+        (IN por)
+        (NP 
+         (PRP ele)
+        )
+       )
+       (VP 
+        (RB também)
+        (VB vieram)
+       )
+      )
+      (NP 
+       (NP 
+        (NP 
+         (NNS Júlio)
+         (NNS César)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NNS Edu)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,28 @@
-(S (S (NP (PRP Toda) (NP (DT a) (NNS gente))) (VP (VB tem) (NP (NP (NNS casas) (PP (IN de) (NP (NNS campo))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Toda)
+    (NP 
+     (DT a)
+     (NNS gente)
+    )
+   )
+   (VP 
+    (VB tem)
+    (NP 
+     (NP 
+      (NNS casas)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS campo)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

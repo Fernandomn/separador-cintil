@@ -1,1 +1,26 @@
-(S (NP (DT Os) (NP (JJ principais) (NP (NNS sismos) (PP (IN de_) (NP (DT os) (NP (CD últimos) (NP (CD cinco) (NNS anos)))))))))
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NP 
+    (JJ principais)
+    (NP 
+     (NNS sismos)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT os)
+       (NP 
+        (CD últimos)
+        (NP 
+         (CD cinco)
+         (NNS anos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

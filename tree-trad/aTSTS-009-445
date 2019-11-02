@@ -1,1 +1,15 @@
-(S (S (VB Chegaram) (NP (NP (RB uns) (CD quatro)) (NNS Pedros))) .)
+(
+ (S 
+  (S 
+   (VB Chegaram)
+   (NP 
+    (NP 
+     (RB uns)
+     (CD quatro)
+    )
+    (NNS Pedros)
+   )
+  )
+  .
+ )
+)

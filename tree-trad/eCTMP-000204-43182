@@ -1,1 +1,33 @@
-(S (S (VP (VB É) (NP (DT o) (NP (NNS passado) (CP (NP (PRP que)) (S (VP (VB regressa) (ADVP , (ADVP (RB até) (RB esteticamente)))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT o)
+     (NP 
+      (NNS passado)
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB regressa)
+         (ADVP 
+          ,
+          (ADVP 
+           (RB até)
+           (RB esteticamente)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,61 @@
-(S (S (PP (PP (IN Entre) (NP (DT as) (NP (JJ principais) (NP (NNS bolsas) (JJ internacionais))))) ,) (S (NP (DT a) (NP (NNS praça) (NNS de) (NNS Paris))) (VP (VB foi) (NP (DT aquela) (NP (CP (NP (PRP que)) (S (VP (VB registou) (NP (DT uma) (NP (NNS quebra) (ADJP (RB menos) (JJ significativa)))))))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN Entre)
+     (NP 
+      (DT as)
+      (NP 
+       (JJ principais)
+       (NP 
+        (NNS bolsas)
+        (JJ internacionais)
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NNS praça)
+      (NNS de)
+      (NNS Paris)
+     )
+    )
+    (VP 
+     (VB foi)
+     (NP 
+      (DT aquela)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB registou)
+          (NP 
+           (DT uma)
+           (NP 
+            (NNS quebra)
+            (ADJP 
+             (RB menos)
+             (JJ significativa)
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

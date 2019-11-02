@@ -1,1 +1,11 @@
-(S (S (VP (VB Estamos) (RB aqui))) !)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Estamos)
+    (RB aqui)
+   )
+  )
+  !
+ )
+)

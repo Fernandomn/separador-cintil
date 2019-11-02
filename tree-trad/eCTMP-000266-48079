@@ -1,1 +1,23 @@
-(S (NP (DT Os) (NP '' (NNS marines) ``)) (VP (PP (IN em) (NP (NP (NNS Niagara) (NNS Falls))))))
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NP 
+    ''
+    ''
+    (NNS marines)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS Niagara)
+      (NNS Falls)
+     )
+    )
+   )
+  )
+ )
+)

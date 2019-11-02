@@ -1,1 +1,34 @@
-(S (S (PP (PP (IN a_) (NP (DT o) (NP (CD terceiro) (NP '' (NNS chumbo) ``)))) ,) (S (NP (DT o) (NNS Parlamento)) (VP (VB é) (VB dissolvido)))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN a_)
+     (NP 
+      (DT o)
+      (NP 
+       (CD terceiro)
+       (NP 
+        ''
+        ''
+        (NNS chumbo)
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Parlamento)
+    )
+    (VP 
+     (VB é)
+     (VB dissolvido)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,14 @@
-(S (S (VP (VP (RB Não) (VB deveriam)) (VB falar))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (RB Não)
+     (VB deveriam)
+    )
+    (VB falar)
+   )
+  )
+  .
+ )
+)

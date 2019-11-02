@@ -1,65 +1,67 @@
-(S 
+(
  (S 
   (S 
    (S 
-    (VP 
-     (VB Comparando)
-     (PP 
-      (IN com)
-      (NP 
-       (DT o)
+    (S 
+     (VP 
+      (VB Comparando)
+      (PP 
+       (IN com)
        (NP 
-        (PP seu)
-        (NNS nascimento)
+        (DT o)
+        (NP 
+         (PP seu)
+         (NNS nascimento)
+        )
        )
       )
      )
     )
+    ,
    )
-   ,
-  )
-  (S 
-   (NP 
-    (DT o)
-    (NNS euro)
-   )
-   (VP 
-    (VB está)
-    (ADJP 
+   (S 
+    (NP 
+     (DT o)
+     (NNS euro)
+    )
+    (VP 
+     (VB está)
      (ADJP 
-      (ADVP 
+      (ADJP 
        (ADVP 
-        (NP 
+        (ADVP 
          (NP 
-          (ADVP 
-           (RB cerca)
-           (RB de)
-          )
           (NP 
-           (CD sete)
+           (ADVP 
+            (RB cerca)
+            (RB de)
+           )
            (NP 
-            (NN por)
-            (NN cento)
+            (CD sete)
+            (NP 
+             (NN por)
+             (NN cento)
+            )
            )
           )
          )
         )
+        (RB mais)
        )
-       (RB mais)
+       (JJ alto)
       )
-      (JJ alto)
-     )
-     (CONJP de_ o que)
-     (NP 
-      (DT o)
+      (CONJP de_ o que)
       (NP 
-       (NNS dólar)
-       (JJ norte-americano)
+       (DT o)
+       (NP 
+        (NNS dólar)
+        (JJ norte-americano)
+       )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

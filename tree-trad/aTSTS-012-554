@@ -1,1 +1,12 @@
-(S (S (NP (PRP Bastantes) (NNS Pedros)) (VB desapareceram)) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Bastantes)
+    (NNS Pedros)
+   )
+   (VB desapareceram)
+  )
+  .
+ )
+)

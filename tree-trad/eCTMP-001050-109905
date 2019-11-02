@@ -1,1 +1,21 @@
-(S (NP (NP (NP (NNS Central) (JJ betuminosa)) (PP (IN em) (NP (NP (NNS terrenos) (JJ agrícolas)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Central)
+     (JJ betuminosa)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NP 
+       (NNS terrenos)
+       (JJ agrícolas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

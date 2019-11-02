@@ -1,1 +1,26 @@
-(S (S (VP (VB Fui) (VP (VB fazer) (NP (DT uma) (NP (NNS visita) (PP (IN a_) (NP (DT a) (NNS Sarinha)))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Fui)
+    (VP 
+     (VB fazer)
+     (NP 
+      (DT uma)
+      (NP 
+       (NNS visita)
+       (PP 
+        (IN a_)
+        (NP 
+         (DT a)
+         (NNS Sarinha)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

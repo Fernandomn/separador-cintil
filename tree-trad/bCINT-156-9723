@@ -1,1 +1,15 @@
-(S (S (NP (DT A) (NNS resposta)) (VP (VB foi) (JJ conclusiva))) :)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS resposta)
+   )
+   (VP 
+    (VB foi)
+    (JJ conclusiva)
+   )
+  )
+  :
+ )
+)

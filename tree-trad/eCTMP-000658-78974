@@ -1,1 +1,28 @@
-(S (S (NP (DT Esse)) (VP (VB é) (NP (DT um) (NP (PP (IN de_) (NP (DT os) (NP (NNS pontos) (JJ fundamentais)))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esse)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS pontos)
+         (JJ fundamentais)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

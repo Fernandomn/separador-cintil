@@ -1,1 +1,45 @@
-(S (S (ADVP (RB Até) (RB agora)) (S (NP (DT a) (NP (NP (NNS organização) (ADJP (RB mais) (JJ barata))) (CP (NP (PRP que)) (S (VP (VB providenciaram)))))) (VP (VB rondou) (NP (DT os) (NP (CD 200) (NNS contos)))))) :)
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Até)
+    (RB agora)
+   )
+   (S 
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS organização)
+       (ADJP 
+        (RB mais)
+        (JJ barata)
+       )
+      )
+      (CONJP 
+       (NP 
+        (PRP que)
+       )
+       (S 
+        (VP 
+         (VB providenciaram)
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VB rondou)
+     (NP 
+      (DT os)
+      (NP 
+       (CD 200)
+       (NNS contos)
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

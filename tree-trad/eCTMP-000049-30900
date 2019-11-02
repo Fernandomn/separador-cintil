@@ -1,1 +1,23 @@
-(S (S (NP (NP (NNS Manuel) (NNS Monteiro))) (VP (VB mentiu) (PP (IN a_) (NP (DT os) (NNS portugueses))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Manuel)
+     (NNS Monteiro)
+    )
+   )
+   (VP 
+    (VB mentiu)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT os)
+      (NNS portugueses)
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,14 @@
-(S (S (VP (VB Sou) (NP (DT um) (NNS felizardo)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Sou)
+    (NP 
+     (DT um)
+     (NNS felizardo)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,23 @@
-(S (S (NP (NP (DT O) (NP (JJ outro))) ,) (VP (VB é) (NP (DT a) (NNS Bósnia)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (JJ outro)
+     )
+    )
+    ,
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT a)
+     (NNS Bósnia)
+    )
+   )
+  )
+  .
+ )
+)

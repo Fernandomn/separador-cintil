@@ -1,37 +1,41 @@
-(S 
+(
  (S 
-  (VP 
-   (PP 
+  (S 
+   (VP 
     (PP 
      (PP 
-      (CONJP Não só)
       (PP 
-       (IN em_)
-       (NP 
-        (DT a)
+       (CC Não)
+       (CC só)
+       (PP 
+        (IN em_)
         (NP 
-         (NNS carga)
-         (JJ psicológica)
+         (DT a)
+         (NP 
+          (NNS carga)
+          (JJ psicológica)
+         )
         )
        )
       )
+      ,
      )
-     ,
-    )
-    (PP 
-     (CONJP mas também)
      (PP 
-      (IN em)
-      (NP 
+      (CC mas)
+      (CC também)
+      (PP 
+       (IN em)
        (NP 
-        (NNS termos)
-        (JJ físicos)
+        (NP 
+         (NNS termos)
+         (JJ físicos)
+        )
        )
       )
      )
     )
    )
   )
+  .
  )
- .
 )

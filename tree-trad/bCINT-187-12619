@@ -1,1 +1,30 @@
-(S (S (NP (DT A) (NP (CD primeira))) (S (VP (VB pode) (NP (PRP -se))) (VP (VP (VB estudar) (VP (CC e) (VB aprender)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (CD primeira)
+    )
+   )
+   (S 
+    (VP 
+     (VB pode)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (VP 
+     (VP 
+      (VB estudar)
+      (VP 
+       (CC e)
+       (VB aprender)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

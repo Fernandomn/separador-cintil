@@ -1,1 +1,21 @@
-(S (NP (NNS Criança)) (VP (VP (VB esfaqueia) (NP (NNS jovem))) (PP (IN em) (NP (NNS Coimbra)))))
+(
+ (S 
+  (NP 
+   (NNS Criança)
+  )
+  (VP 
+   (VP 
+    (VB esfaqueia)
+    (NP 
+     (NNS jovem)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Coimbra)
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,26 @@
-(S `` (S (S (VP (VP (RB Não) (VB sabe)) (CP (CC que) (S (VP (VB é) (NP (NNS domingo))))))) ?))
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VP 
+      (RB Não)
+      (VB sabe)
+     )
+     (CONJP 
+      (CC que)
+      (S 
+       (VP 
+        (VB é)
+        (NP 
+         (NNS domingo)
+        )
+       )
+      )
+     )
+    )
+   )
+   ?
+  )
+ )
+)

@@ -1,1 +1,14 @@
-(S (NP (DT UM) (NNS PONTO)) (VP (VB É) (NP (PRP TUDO))))
+(
+ (S 
+  (NP 
+   (DT UM)
+   (NNS PONTO)
+  )
+  (VP 
+   (VB É)
+   (NP 
+    (PRP TUDO)
+   )
+  )
+ )
+)

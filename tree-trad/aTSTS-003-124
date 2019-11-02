@@ -1,1 +1,12 @@
-(S (S (VB Desapareceram) (NP (DT os) (NNS carros))) .)
+(
+ (S 
+  (S 
+   (VB Desapareceram)
+   (NP 
+    (DT os)
+    (NNS carros)
+   )
+  )
+  .
+ )
+)

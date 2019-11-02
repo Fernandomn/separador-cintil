@@ -1,1 +1,54 @@
-(S '' (S (S (VP (RB Ainda) (VP (RB hoje) (VP (VP (RB não) (VB sei)) (NP (DT o) (NP (CP (NP (PRP que)) (S (NP (PRP ele)) (VP (VP (VB queria) (CONJP (CC quando) (S (VP (NP (PRP me)) (VB chamou)))))))))))))) .) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (VP 
+     (RB Ainda)
+     (VP 
+      (RB hoje)
+      (VP 
+       (VP 
+        (RB não)
+        (VB sei)
+       )
+       (NP 
+        (DT o)
+        (NP 
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (NP 
+            (PRP ele)
+           )
+           (VP 
+            (VP 
+             (VB queria)
+             (CONJP 
+              (CC quando)
+              (S 
+               (VP 
+                (NP 
+                 (PRP me)
+                )
+                (VB chamou)
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

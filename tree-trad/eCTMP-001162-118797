@@ -1,1 +1,22 @@
-(S (S (VP (VP (VB Pode) (RB até)) (VP (VB ter) (VP (VB sido) (NP (PRP ele)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Pode)
+     (RB até)
+    )
+    (VP 
+     (VB ter)
+     (VP 
+      (VB sido)
+      (NP 
+       (PRP ele)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

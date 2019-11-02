@@ -1,1 +1,14 @@
-(S (JJ Velhos) (S (VP (VB são)) (NP (DT os) (NNS trapos))))
+(
+ (S 
+  (JJ Velhos)
+  (S 
+   (VP 
+    (VB são)
+   )
+   (NP 
+    (DT os)
+    (NNS trapos)
+   )
+  )
+ )
+)

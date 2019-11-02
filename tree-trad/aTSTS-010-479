@@ -1,1 +1,16 @@
-(S (S (VP (VB Vejo) (NP (NP (NNS vinho) (JJ branco))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (NP 
+      (NNS vinho)
+      (JJ branco)
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,25 @@
-(S (S (NP (PRP Eu)) (VP (RB hoje) (VP (VB quero) (VP (VB chegar) (PP (IN a) (NP (NNS horas))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Eu)
+   )
+   (VP 
+    (RB hoje)
+    (VP 
+     (VB quero)
+     (VP 
+      (VB chegar)
+      (PP 
+       (IN a)
+       (NP 
+        (NNS horas)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

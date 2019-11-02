@@ -1,1 +1,66 @@
-(S (S (PP (PP (IN a_) (IN o) (IN lado) (IN de_)) (NP (DT os) (NP (NNS portugueses) (NP (NP (NP (NNS Jorge) (NNS Vaz) (NNS de) (NNS Carvalho))) (NP (CC e) (NP (NP (NNS Marina) (NNS Ferreira)))))))) (S (VP (VB estarão)) (NP (NP (DT os) (NP (NNS cantores) (NP (NNS Werner) (NNS Wollweg)))) (NP (CC e) (NP (NP (NNS Gertrud) (NNS Ottenthal))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN a_)
+     (IN o)
+     (IN lado)
+     (IN de_)
+    )
+    (NP 
+     (DT os)
+     (NP 
+      (NNS portugueses)
+      (NP 
+       (NP 
+        (NP 
+         (NNS Jorge)
+         (NNS Vaz)
+         (NNS de)
+         (NNS Carvalho)
+        )
+       )
+       (NP 
+        (CC e)
+        (NP 
+         (NP 
+          (NNS Marina)
+          (NNS Ferreira)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   (S 
+    (VP 
+     (VB estarão)
+    )
+    (NP 
+     (NP 
+      (DT os)
+      (NP 
+       (NNS cantores)
+       (NP 
+        (NNS Werner)
+        (NNS Wollweg)
+       )
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (NP 
+        (NNS Gertrud)
+        (NNS Ottenthal)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

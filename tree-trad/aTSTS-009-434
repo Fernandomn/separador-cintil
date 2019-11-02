@@ -1,1 +1,18 @@
-(S (S (VB Chegaram) (NP (PRP todos) (NP (DT estes) (NP (CD quatro) (NNS computadores))))) .)
+(
+ (S 
+  (S 
+   (VB Chegaram)
+   (NP 
+    (PRP todos)
+    (NP 
+     (DT estes)
+     (NP 
+      (CD quatro)
+      (NNS computadores)
+     )
+    )
+   )
+  )
+  .
+ )
+)

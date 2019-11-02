@@ -1,1 +1,42 @@
-(S `` (S (S (NP (DT As) (NP (NNS filas) (PP (IN durante) (NP (DT as) (NP (NNS horas) (PP (IN de) (NP (NNS ponta)))))))) (VP (VP (VB são) (JJ intermináveis)) (PP (IN em) (NP (NNS Benavente))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT As)
+     (NP 
+      (NNS filas)
+      (PP 
+       (IN durante)
+       (NP 
+        (DT as)
+        (NP 
+         (NNS horas)
+         (PP 
+          (IN de)
+          (NP 
+           (NNS ponta)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+    (VP 
+     (VP 
+      (VB são)
+      (JJ intermináveis)
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Benavente)
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

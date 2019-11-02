@@ -1,1 +1,18 @@
-(S (NP (NP (NNS Filigrana) (CP (NP (PRP que)) (S (VB levanta))))) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Filigrana)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VB levanta)
+     )
+    )
+   )
+  )
+  .
+ )
+)

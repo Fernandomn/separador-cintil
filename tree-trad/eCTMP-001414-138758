@@ -1,1 +1,30 @@
-(S (NP (NP (NNS Poirot)) (NP , (NP (NP (NP (NNS Cavaco) (NNS Silva))) (NP (CC e) (NP (DT o) (NP (NNS Príncipe) (NNS Valente))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Poirot)
+   )
+   (NP 
+    ,
+    (NP 
+     (NP 
+      (NP 
+       (NNS Cavaco)
+       (NNS Silva)
+      )
+     )
+     (NP 
+      (CC e)
+      (NP 
+       (DT o)
+       (NP 
+        (NNS Príncipe)
+        (NNS Valente)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

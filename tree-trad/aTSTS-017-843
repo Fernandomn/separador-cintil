@@ -1,1 +1,35 @@
-(S (S (CP (S (NP (DT O) (NNS governo)) (VP (VB publicar) (NP (DT esses) (NNS números))))) (VP (VB é) (ADJP (JJ esclarecedor) (PP (IN de) (NP (PRP muita) (NNS coisa)))))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     (NP 
+      (DT O)
+      (NNS governo)
+     )
+     (VP 
+      (VB publicar)
+      (NP 
+       (DT esses)
+       (NNS números)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (JJ esclarecedor)
+     (PP 
+      (IN de)
+      (NP 
+       (PRP muita)
+       (NNS coisa)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

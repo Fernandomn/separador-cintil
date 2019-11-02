@@ -1,1 +1,19 @@
-(S (S (VB Toca) (NP (DT o) (NP (NNS Grupo) (NNS de) (NNS Metais) (NNS de_) (NNS o) (NNS Seixal)))) .)
+(
+ (S 
+  (S 
+   (VB Toca)
+   (NP 
+    (DT o)
+    (NP 
+     (NNS Grupo)
+     (NNS de)
+     (NNS Metais)
+     (NNS de_)
+     (NNS o)
+     (NNS Seixal)
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,24 @@
-(S (NP (NNS Défice)) (VP (VB diminui) (PP (IN para) (NP (NP (CD 2,2) (NP (NN por) (NN cento)))))))
+(
+ (S 
+  (NP 
+   (NNS Défice)
+  )
+  (VP 
+   (VB diminui)
+   (PP 
+    (IN para)
+    (NP 
+     (NP 
+      (CD 
+       ,
+      )
+      (NP 
+       (NN por)
+       (NN cento)
+      )
+     )
+    )
+   )
+  )
+ )
+)

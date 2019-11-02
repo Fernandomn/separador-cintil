@@ -1,1 +1,33 @@
-(S '' (S (S (NP (PRP Ele)) (VP (VB sabia) (NP (DT o) (NP (CP (NP (PRP que)) (S (VP (VB ia) (VB acontecer)))))))) !) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (S 
+    (NP 
+     (PRP Ele)
+    )
+    (VP 
+     (VB sabia)
+     (NP 
+      (DT o)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB ia)
+          (VB acontecer)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+   !
+  )
+ )
+)

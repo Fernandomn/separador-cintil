@@ -1,1 +1,23 @@
-(S (NP (NP (NP (NNS Plano) (PP (IN de) (NP (NNS combate)))) (PP (IN a) (NP (NNS prazo))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Plano)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS combate)
+      )
+     )
+    )
+    (PP 
+     (IN a)
+     (NP 
+      (NNS prazo)
+     )
+    )
+   )
+  )
+ )
+)

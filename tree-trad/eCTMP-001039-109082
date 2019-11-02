@@ -1,1 +1,39 @@
-(S (S (S (NP (DT O) (NNS índice)) (VP (VB traduziu) (NP (DT este) (NNS comportamento)))) (S (CC e) (S (VP (VB perdeu) (NP (NP (CD 2,57) (NP (NN por) (NN cento)))))))) .)
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT O)
+     (NNS índice)
+    )
+    (VP 
+     (VB traduziu)
+     (NP 
+      (DT este)
+      (NNS comportamento)
+     )
+    )
+   )
+   (S 
+    (CC e)
+    (S 
+     (VP 
+      (VB perdeu)
+      (NP 
+       (NP 
+        (CD 
+         ,
+        )
+        (NP 
+         (NN por)
+         (NN cento)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

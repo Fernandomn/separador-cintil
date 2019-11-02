@@ -1,1 +1,26 @@
-(S (S (VP (PP (PP (IN Em_) (NP (DT as) (NNS mulheres))) ,) (VP (VB estão) (ADJP (RB mais) (JJ misturados))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT as)
+       (NNS mulheres)
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB estão)
+     (ADJP 
+      (RB mais)
+      (JJ misturados)
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,22 @@
-(S (VP (PP (PP (IN FORA) (IN de_)) (NP (DT a) (NNS RELVA))) (VP (VB É) (NP (NNS PAISAGEM)))))
+(
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (IN FORA)
+     (IN de_)
+    )
+    (NP 
+     (DT a)
+     (NNS RELVA)
+    )
+   )
+   (VP 
+    (VB É)
+    (NP 
+     (NNS PAISAGEM)
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,40 @@
-(S (S (NP (DT A) (NNS população)) (VP (VB fala) (PP (IN em_) (NP (DT a) (NP (NP '' (NNS maldição) ``) (PP (IN de) (NP (DT um) (NP (JJ velho) (NP (NNS túmulo) (JJ emparedado)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS população)
+   )
+   (VP 
+    (VB fala)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        ''
+        ''
+        (NNS maldição)
+       )
+       (PP 
+        (IN de)
+        (NP 
+         (DT um)
+         (NP 
+          (JJ velho)
+          (NP 
+           (NNS túmulo)
+           (JJ emparedado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

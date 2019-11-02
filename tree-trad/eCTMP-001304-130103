@@ -1,1 +1,30 @@
-(S (NP (DT Os) (NP (NNS dias) (PP (IN de) (NP (NNS nevoeiro))))) (VP (VB são) (NP (NP (NNS dias) (PP (IN de) (NP (NNS festa)))))))
+(
+ (S 
+  (NP 
+   (DT Os)
+   (NP 
+    (NNS dias)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS nevoeiro)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB são)
+   (NP 
+    (NP 
+     (NNS dias)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS festa)
+      )
+     )
+    )
+   )
+  )
+ )
+)

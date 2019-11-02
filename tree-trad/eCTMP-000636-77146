@@ -1,1 +1,29 @@
-(S (NP (NP (NNS GLOBE) (NNS Internacional))) (VP (VB apresentou) (NP (NP (NNS conclusões) (PP (IN de_) (NP (DT a) (NP (NNS assembleia) (NNS de) (NNS Lisboa))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS GLOBE)
+    (NNS Internacional)
+   )
+  )
+  (VP 
+   (VB apresentou)
+   (NP 
+    (NP 
+     (NNS conclusões)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT a)
+       (NP 
+        (NNS assembleia)
+        (NNS de)
+        (NNS Lisboa)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

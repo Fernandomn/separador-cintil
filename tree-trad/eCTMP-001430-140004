@@ -1,1 +1,54 @@
-(S (S (VP (VP (VB Admitia) (NP (PRP -se))) (ADVP , (RB porém) ,)) (NP (DT a) (NP (NNS divulgação) (PP (IN de) (NP (DT um) (NP (NNS documento) (PP (IN de_) (NP (DT a) (NP (NNS autoria) (PP (IN de_) (NP (DT os) (NP (NNS mediadores) (JJ americanos))))))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Admitia)
+     (NP 
+      (PRP -se)
+     )
+    )
+    (ADVP 
+     ,
+     (RB porém)
+     ,
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NNS divulgação)
+     (PP 
+      (IN de)
+      (NP 
+       (DT um)
+       (NP 
+        (NNS documento)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT a)
+          (NP 
+           (NNS autoria)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT os)
+             (NP 
+              (NNS mediadores)
+              (JJ americanos)
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

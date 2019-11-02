@@ -1,1 +1,33 @@
-(S (S (NP (DT Um) (NP (NNS conjunto) (PP (IN de) (NP (NNS personagens))))) (VP (VB viaja) (PP (IN em_) (NP (DT a) (NP '' (NNS Bounty) ``))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NP 
+     (NNS conjunto)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS personagens)
+      )
+     )
+    )
+   )
+   (VP 
+    (VB viaja)
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       ''
+       ''
+       (NNS Bounty)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,17 @@
-(S (NP (NP (NNS Presidente) (NNS de) (NNS Junta))) (VP (VB suspende) (NP (NNS mandato))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Presidente)
+    (NNS de)
+    (NNS Junta)
+   )
+  )
+  (VP 
+   (VB suspende)
+   (NP 
+    (NNS mandato)
+   )
+  )
+ )
+)

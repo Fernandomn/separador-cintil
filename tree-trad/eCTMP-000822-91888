@@ -1,1 +1,24 @@
-(S (S (VP (PP (PP (IN Em_) (NP (DT a) (NNS Sofin))) ,) (VB reina)) (NP (DT a) (NNS agitação))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (PP 
+      (IN Em_)
+      (NP 
+       (DT a)
+       (NNS Sofin)
+      )
+     )
+     ,
+    )
+    (VB reina)
+   )
+   (NP 
+    (DT a)
+    (NNS agitação)
+   )
+  )
+  .
+ )
+)

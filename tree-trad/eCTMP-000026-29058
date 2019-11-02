@@ -1,1 +1,29 @@
-(S '' (S (NP (NP (NNS Estrutura) (PP (IN de) (NP (NNS carreira)))) ,) (VP (VP (RB não) (VB é)) (NP (NNS brincadeira)))) ``)
+(
+ (S 
+  ''
+  ''
+  (S 
+   (NP 
+    (NP 
+     (NNS Estrutura)
+     (PP 
+      (IN de)
+      (NP 
+       (NNS carreira)
+      )
+     )
+    )
+    ,
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB é)
+    )
+    (NP 
+     (NNS brincadeira)
+    )
+   )
+  )
+ )
+)

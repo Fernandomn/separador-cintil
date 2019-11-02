@@ -1,1 +1,17 @@
-(S (NP (NP (NNS Aga) (NNS Khan))) (VP (VB quer) (NP (DT o) (NNS divórcio))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Aga)
+    (NNS Khan)
+   )
+  )
+  (VP 
+   (VB quer)
+   (NP 
+    (DT o)
+    (NNS divórcio)
+   )
+  )
+ )
+)

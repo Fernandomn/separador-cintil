@@ -1,1 +1,37 @@
-(S (S (CP (S '' (S (NP (PRP Eu)) (VP (VB estou) (PP (IN com) (NP (DT o) (NNS Marcelo))))) ``) ,) (S (VP (VB disse)) (NP (NNS Jardim)))) .)
+(
+ (S 
+  (S 
+   (CONJP 
+    (S 
+     ''
+     ''
+     (S 
+      (NP 
+       (PRP Eu)
+      )
+      (VP 
+       (VB estou)
+       (PP 
+        (IN com)
+        (NP 
+         (DT o)
+         (NNS Marcelo)
+        )
+       )
+      )
+     )
+    )
+    ,
+   )
+   (S 
+    (VP 
+     (VB disse)
+    )
+    (NP 
+     (NNS Jardim)
+    )
+   )
+  )
+  .
+ )
+)

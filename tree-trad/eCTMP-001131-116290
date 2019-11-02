@@ -1,1 +1,35 @@
-(S (S (NP (NP (NP (NNS Victor) (NNS Fokin))) (NP , (NP (DT um) (NP (NNS siberiano) (PP (IN de) (NP (NNS Novosibirsk))))) ,)) (VP (VB está) (JJ furioso))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NP 
+      (NNS Victor)
+      (NNS Fokin)
+     )
+    )
+    (NP 
+     ,
+     (NP 
+      (DT um)
+      (NP 
+       (NNS siberiano)
+       (PP 
+        (IN de)
+        (NP 
+         (NNS Novosibirsk)
+        )
+       )
+      )
+     )
+     ,
+    )
+   )
+   (VP 
+    (VB está)
+    (JJ furioso)
+   )
+  )
+  .
+ )
+)

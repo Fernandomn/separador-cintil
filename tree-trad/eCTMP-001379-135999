@@ -1,1 +1,27 @@
-(S (NP (NP (NP (NNS Vitória) (PP (IN em_) (NP (DT o) (NNS Mónaco)))) (PP (IN com) (NP (NP (NNS recorde) (JJ nacional)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Vitória)
+     (PP 
+      (IN em_)
+      (NP 
+       (DT o)
+       (NNS Mónaco)
+      )
+     )
+    )
+    (PP 
+     (IN com)
+     (NP 
+      (NP 
+       (NNS recorde)
+       (JJ nacional)
+      )
+     )
+    )
+   )
+  )
+ )
+)

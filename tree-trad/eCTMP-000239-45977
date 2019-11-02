@@ -1,38 +1,39 @@
-(S 
+(
  (S 
-  (PP 
-   (IN em_)
-   (NP 
-    (DT essa)
-    (NNS altura)
-   )
-  )
   (S 
-   (NP 
-    (DT o)
+   (PP 
+    (IN em_)
     (NP 
-     (NNS apontador)
-     (PP 
-      (IN de)
-      (NP 
-       (NNS tiro)
+     (DT essa)
+     (NNS altura)
+    )
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NP 
+      (NNS apontador)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS tiro)
+       )
       )
      )
     )
-   )
-   (VP 
     (VP 
      (VP 
-      (VB puxá#-CL-ia)
-      (NP 
-       (PRP -lo)
+      (VP 
+       (VB puxá#-CL-ia)
+       (NP 
+        (PRP -lo)
+       )
       )
+      (RB cautelosamente)
      )
-     (RB cautelosamente)
-    )
-    (CONJP 
      ,
-     (CONJP até que)
+     (CC até)
+     (CC que)
      (S 
       (VP 
        (NP 
@@ -54,6 +55,6 @@
     )
    )
   )
+  .
  )
- .
 )

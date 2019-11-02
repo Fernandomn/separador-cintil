@@ -1,1 +1,49 @@
-(S (S (NP (DT O) (NP '' (NNS Bild) ``)) (VP (VB afirma) (CP (CC que) (S (VP (VP (VB comprou) (NP (DT a) (NNS foto))) (PP (IN a) (NP '' (NP (DT uma) (NP (JJ grande) (NP (NNS agência) (JJ parisiense)))) ``))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     ''
+     ''
+     (NNS Bild)
+    )
+   )
+   (VP 
+    (VB afirma)
+    (CONJP 
+     (CC que)
+     (S 
+      (VP 
+       (VP 
+        (VB comprou)
+        (NP 
+         (DT a)
+         (NNS foto)
+        )
+       )
+       (PP 
+        (IN a)
+        (NP 
+         ''
+         ''
+         (NP 
+          (DT uma)
+          (NP 
+           (JJ grande)
+           (NP 
+            (NNS agência)
+            (JJ parisiense)
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,22 @@
-(S (S '' (S (NP (DT A) (NP (NP (NNS ordem) (JJ mundial)) (JJ pós-Atlântico))) (VB chegou)) ``) .)
+(
+ (S 
+  (S 
+   ''
+   ''
+   (S 
+    (NP 
+     (DT A)
+     (NP 
+      (NP 
+       (NNS ordem)
+       (JJ mundial)
+      )
+      (JJ pós-Atlântico)
+     )
+    )
+    (VB chegou)
+   )
+  )
+  .
+ )
+)

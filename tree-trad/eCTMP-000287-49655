@@ -1,1 +1,17 @@
-(S (NP (DT Uma) (NP (NNS associação) (PP (IN com) (NP (CD 20) (NNS anos))))))
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (NNS associação)
+    (PP 
+     (IN com)
+     (NP 
+      (CD 20)
+      (NNS anos)
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,28 @@
-(S (S (NP (DT A) (NNS semana)) (VP (VP (VB começou) (RB mal)) (PP (IN para) (NP (DT a) (NP (NNS Bolsa) (NNS de) (NNS Paris)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS semana)
+   )
+   (VP 
+    (VP 
+     (VB começou)
+     (RB mal)
+    )
+    (PP 
+     (IN para)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Bolsa)
+       (NNS de)
+       (NNS Paris)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

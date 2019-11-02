@@ -1,1 +1,76 @@
-(S (S (NP (DT Estes)) (VP (VB são) (NP (PRP alguns) (NP (PP (IN de_) (NP (DT os) (NP (NNS comentários) (CP (NP (PRP que)) (S (VP (VB fazem)) (NP (DT os) (NP (NNS jovens) (CP (NP (PRP que)) (S (VP (PP , (PP (IN por_) (NP (DT a) (NP (CD primeira) (NNS vez)))) ,) (VP (VB contactam) (PP (IN com) (NP (DT a) (NNS Internet)))))))))))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Estes)
+   )
+   (VP 
+    (VB são)
+    (NP 
+     (PRP alguns)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS comentários)
+         (CONJP 
+          (NP 
+           (PRP que)
+          )
+          (S 
+           (VP 
+            (VB fazem)
+           )
+           (NP 
+            (DT os)
+            (NP 
+             (NNS jovens)
+             (CONJP 
+              (NP 
+               (PRP que)
+              )
+              (S 
+               (VP 
+                (PP 
+                 ,
+                 (PP 
+                  (IN por_)
+                  (NP 
+                   (DT a)
+                   (NP 
+                    (CD primeira)
+                    (NNS vez)
+                   )
+                  )
+                 )
+                 ,
+                )
+                (VP 
+                 (VB contactam)
+                 (PP 
+                  (IN com)
+                  (NP 
+                   (DT a)
+                   (NNS Internet)
+                  )
+                 )
+                )
+               )
+              )
+             )
+            )
+           )
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

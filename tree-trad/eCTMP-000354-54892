@@ -1,1 +1,21 @@
-(S (NP (NNS Croatas)) (VP (VB rejeitam) (NP (NP (NNS ultimato) (PP (IN em) (NP (NNS Dubrovnik)))))))
+(
+ (S 
+  (NP 
+   (NNS Croatas)
+  )
+  (VP 
+   (VB rejeitam)
+   (NP 
+    (NP 
+     (NNS ultimato)
+     (PP 
+      (IN em)
+      (NP 
+       (NNS Dubrovnik)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,27 @@
-(S (S (NP (NP (RB Apenas) (CD 147))) (VP (VB recebem) (NP (NP (NNS subsídio) (PP (IN de) (NP (NNS desemprego))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (RB Apenas)
+     (CD 147)
+    )
+   )
+   (VP 
+    (VB recebem)
+    (NP 
+     (NP 
+      (NNS subsídio)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS desemprego)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

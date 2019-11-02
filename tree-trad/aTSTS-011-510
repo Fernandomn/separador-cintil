@@ -1,1 +1,14 @@
-(S (S (VP (VB Vejo) (NP (PRP algum) (NNS Portugal)))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Vejo)
+    (NP 
+     (PRP algum)
+     (NNS Portugal)
+    )
+   )
+  )
+  .
+ )
+)

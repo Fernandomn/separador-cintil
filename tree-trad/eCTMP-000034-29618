@@ -1,21 +1,22 @@
-(S 
+(
  (S 
-  (VP 
+  (S 
    (VP 
-    (VB Poderá)
     (VP 
-     (VB recorrer)
-     (PP 
-      (IN a)
-      (NP 
-       (PRP elas)
+     (VB Poderá)
+     (VP 
+      (VB recorrer)
+      (PP 
+       (IN a)
+       (NP 
+        (PRP elas)
+       )
       )
      )
     )
-   )
-   (CONJP 
     ,
-    (CONJP mesmo que)
+    (CC mesmo)
+    (CC que)
     (S 
      (VP 
       (VP 
@@ -35,6 +36,6 @@
     )
    )
   )
+  ?
  )
- ?
 )

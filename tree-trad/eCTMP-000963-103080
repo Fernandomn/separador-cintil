@@ -1,1 +1,29 @@
-(S (S (VP (VB Compreende) (NP (PRP -se))) (NP (DT a) (NP (NP (NNS importância) (JJ histórica)) (PP (IN de_) (NP (DT o) (NNS documento)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Compreende)
+    (NP 
+     (PRP -se)
+    )
+   )
+   (NP 
+    (DT a)
+    (NP 
+     (NP 
+      (NNS importância)
+      (JJ histórica)
+     )
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS documento)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

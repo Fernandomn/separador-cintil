@@ -1,1 +1,36 @@
-(S (S (NP (NNS Donner)) (VP (VP (VB sabia) (ADVP , (RB aliás) ,)) (CP (CC que) (S (NP (DT a) (NNS eliminatória)) (VP (VB ia) (VP (VB ser) (JJ equilibrada))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Donner)
+   )
+   (VP 
+    (VP 
+     (VB sabia)
+     (ADVP 
+      ,
+      (RB aliás)
+      ,
+     )
+    )
+    (CONJP 
+     (CC que)
+     (S 
+      (NP 
+       (DT a)
+       (NNS eliminatória)
+      )
+      (VP 
+       (VB ia)
+       (VP 
+        (VB ser)
+        (JJ equilibrada)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

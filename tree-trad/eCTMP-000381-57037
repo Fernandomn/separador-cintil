@@ -1,1 +1,28 @@
-(S (NP (NP (NNS Primeiro-ministro) (JJ angolano))) (VP (VB admite) (PP (IN em) (NP (NP (NNS entrevista) (PP (IN a_) (NP (DT o) (NNS PÚBLICO))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Primeiro-ministro)
+    (JJ angolano)
+   )
+  )
+  (VP 
+   (VB admite)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS entrevista)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT o)
+        (NNS PÚBLICO)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

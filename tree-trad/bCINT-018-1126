@@ -1,1 +1,21 @@
-(S (NP (NP (NNS Demétrio) (NNS Alves))) (VP (VB contesta) (NP '' (NP (NNS pseudo-defesas) (JJ ecológicas)) ``)))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Demétrio)
+    (NNS Alves)
+   )
+  )
+  (VP 
+   (VB contesta)
+   (NP 
+    ''
+    ''
+    (NP 
+     (NNS pseudo-defesas)
+     (JJ ecológicas)
+    )
+   )
+  )
+ )
+)

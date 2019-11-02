@@ -1,1 +1,23 @@
-(S (S (S (VP (VB Pode) (VP (VB perder) (NP (PRP -se)))) (NP (DT um) (NNS miúdo))) (RB assim)) .)
+(
+ (S 
+  (S 
+   (S 
+    (VP 
+     (VB Pode)
+     (VP 
+      (VB perder)
+      (NP 
+       (PRP -se)
+      )
+     )
+    )
+    (NP 
+     (DT um)
+     (NNS miúdo)
+    )
+   )
+   (RB assim)
+  )
+  .
+ )
+)

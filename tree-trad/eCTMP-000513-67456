@@ -1,1 +1,23 @@
-(S (S (NP (DT Esse)) (VP (VB é) (NP (DT o) (NP (PP$ nosso) (NP (JJ principal) (NNS problema)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Esse)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (DT o)
+     (NP 
+      (PP nosso)
+      (NP 
+       (JJ principal)
+       (NNS problema)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

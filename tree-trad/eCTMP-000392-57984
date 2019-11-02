@@ -1,1 +1,18 @@
-(S (NP (DT A) (NNS culpa)) (VP (VB é) (PP (IN de_) (NP (DT as) (NNS estradas)))))
+(
+ (S 
+  (NP 
+   (DT A)
+   (NNS culpa)
+  )
+  (VP 
+   (VB é)
+   (PP 
+    (IN de_)
+    (NP 
+     (DT as)
+     (NNS estradas)
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,35 @@
-(S (NP (NP (NP (NNS Mulheres) (NP (CC e) (NNS crianças))) (PP (IN em) (NP (NNS risco))))) (VP (VP (ADJP (RB mais) (JJ protegidas))) (PP (IN em) (NP (NNS Coimbra)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Mulheres)
+     (NP 
+      (CC e)
+      (NNS crianças)
+     )
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS risco)
+     )
+    )
+   )
+  )
+  (VP 
+   (VP 
+    (ADJP 
+     (RB mais)
+     (JJ protegidas)
+    )
+   )
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Coimbra)
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,41 @@
-(S (NP (NP (NP (DT A) (NP (NNS exploração) (PP (IN de) (NP (PRP vários) (NNS níveis))))) (NP , (NP (DT a) (NP (NP (NNS ocupação) (JJ integral)) (PP (IN de_) (NP (DT o) (NNS espaço))))))) ``) .)
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (DT A)
+     (NP 
+      (NNS exploração)
+      (PP 
+       (IN de)
+       (NP 
+        (PRP vários)
+        (NNS níveis)
+       )
+      )
+     )
+    )
+    (NP 
+     ,
+     (NP 
+      (DT a)
+      (NP 
+       (NP 
+        (NNS ocupação)
+        (JJ integral)
+       )
+       (PP 
+        (IN de_)
+        (NP 
+         (DT o)
+         (NNS espaço)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,26 @@
-(S (VP (ADVP (RB Primeiro) ,) (VP (VB há) (NP (DT uma) (NP (NNS questão) (PP (IN de) (NP (NNS cronologia))))))) .)
+(
+ (S 
+  (VP 
+   (ADVP 
+    (RB Primeiro)
+    ,
+   )
+   (VP 
+    (VB há)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS questão)
+      (PP 
+       (IN de)
+       (NP 
+        (NNS cronologia)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

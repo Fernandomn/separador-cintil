@@ -1,1 +1,23 @@
-(S (S (NP (DT O) (NNS CDS)) (VP (VP (VB fica) (JJ mudo)) (PP (IN em) (NP (NNS Estrasburgo))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS CDS)
+   )
+   (VP 
+    (VP 
+     (VB fica)
+     (JJ mudo)
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Estrasburgo)
+     )
+    )
+   )
+  )
+  .
+ )
+)

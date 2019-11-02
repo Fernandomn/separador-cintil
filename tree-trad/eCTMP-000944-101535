@@ -1,1 +1,25 @@
-(S (S (VP (VP (VB Estava) (PP (IN para) (RB ali))) (PP (IN em_) (NP (DT a) (NP (PP$ minha)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Estava)
+     (PP 
+      (IN para)
+      (RB ali)
+     )
+    )
+    (PP 
+     (IN em_)
+     (NP 
+      (DT a)
+      (NP 
+       (PP minha)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

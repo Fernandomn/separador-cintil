@@ -1,1 +1,20 @@
-(S (NP (NP (NNS António) (NNS Martins) (NNS Mourão)) ,) (VP (PP (IN em) (NP (NNS Londres)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS António)
+    (NNS Martins)
+    (NNS Mourão)
+   )
+   ,
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS Londres)
+    )
+   )
+  )
+ )
+)

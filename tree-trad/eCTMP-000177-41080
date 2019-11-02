@@ -1,1 +1,36 @@
-(S (NP (NP (NNS Secretário) (NNS de) (NNS Estado))) (VP (VB promete) (PP (IN em) (NP (NP (NNS visita) (PP (IN a) (NP (NP (NNS Barcelos)) (NP (CC e) (NP (NNS Braga))))))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Secretário)
+    (NNS de)
+    (NNS Estado)
+   )
+  )
+  (VP 
+   (VB promete)
+   (PP 
+    (IN em)
+    (NP 
+     (NP 
+      (NNS visita)
+      (PP 
+       (IN a)
+       (NP 
+        (NP 
+         (NNS Barcelos)
+        )
+        (NP 
+         (CC e)
+         (NP 
+          (NNS Braga)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

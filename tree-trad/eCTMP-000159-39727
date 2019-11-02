@@ -1,1 +1,26 @@
-(S `` (S (S (NP (DT A) (NNS ginástica)) (VP (VB exige) (NP (DT um) (NP (NNS treino) (ADJP (RB muito) (JJ intensivo)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (NP 
+     (DT A)
+     (NNS ginástica)
+    )
+    (VP 
+     (VB exige)
+     (NP 
+      (DT um)
+      (NP 
+       (NNS treino)
+       (ADJP 
+        (RB muito)
+        (JJ intensivo)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

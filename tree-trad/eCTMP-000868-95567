@@ -1,1 +1,25 @@
-(S (S (NP (DT O) (NNS alvo)) (VP (VP (VB era) (ADVP , (RB contudo) ,)) (ADJP (RB mais) (JJ vasto)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS alvo)
+   )
+   (VP 
+    (VP 
+     (VB era)
+     (ADVP 
+      ,
+      (RB contudo)
+      ,
+     )
+    )
+    (ADJP 
+     (RB mais)
+     (JJ vasto)
+    )
+   )
+  )
+  .
+ )
+)

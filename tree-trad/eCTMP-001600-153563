@@ -1,35 +1,37 @@
-(S 
+(
  (S 
-  (NP 
-   (DT O)
-   (NNS amor)
-  )
-  (VP 
+  (S 
+   (NP 
+    (DT O)
+    (NNS amor)
+   )
    (VP 
-    (VB é)
-    (ADJP 
+    (VP 
+     (VB é)
      (ADJP 
-      (RB mais)
-      (JJ forte)
-     )
-     (CONJP de_ o que)
-     (NP 
-      (DT a)
-      (NNS morte)
+      (ADJP 
+       (RB mais)
+       (JJ forte)
+      )
+      (CONJP de_ o que)
+      (NP 
+       (DT a)
+       (NNS morte)
+      )
      )
     )
-   )
-   (ADVP 
-    ,
     (ADVP 
-     (RB mesmo)
+     ,
      (ADVP 
-      (RB por)
-      (RB acaso)
+      (RB mesmo)
+      (ADVP 
+       (RB por)
+       (RB acaso)
+      )
      )
     )
    )
   )
+  .
  )
- .
 )

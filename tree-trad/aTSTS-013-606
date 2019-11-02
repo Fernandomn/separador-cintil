@@ -1,1 +1,26 @@
-(S (S (NP (DT O) (NNS Pedro)) (VP (VP (VB pinta) (NP (DT a) (NNS parede))) (PP (IN de) (NP (NNS branco))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NNS Pedro)
+   )
+   (VP 
+    (VP 
+     (VB pinta)
+     (NP 
+      (DT a)
+      (NNS parede)
+     )
+    )
+    (PP 
+     (IN de)
+     (NP 
+      (NNS branco)
+     )
+    )
+   )
+  )
+  .
+ )
+)

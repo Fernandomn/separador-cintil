@@ -1,1 +1,39 @@
-(S (S (NP (DT A) (NP (NNS repressão) (PP (IN de_) (NP (DT o) (NNS tabagismo))))) (VP (PP , (PP (IN por) (NP (NNS exemplo))) ,) (VP (VB atrai) (NP (DT a) (NNS transgressão))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS repressão)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS tabagismo)
+      )
+     )
+    )
+   )
+   (VP 
+    (PP 
+     ,
+     (PP 
+      (IN por)
+      (NP 
+       (NNS exemplo)
+      )
+     )
+     ,
+    )
+    (VP 
+     (VB atrai)
+     (NP 
+      (DT a)
+      (NNS transgressão)
+     )
+    )
+   )
+  )
+  .
+ )
+)

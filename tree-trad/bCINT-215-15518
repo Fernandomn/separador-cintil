@@ -1,22 +1,24 @@
-(S 
- ''
- ''
- (VP 
+(
+ (S 
+  ''
+  ''
   (VP 
-   (VB Há)
-   (NP 
+   (VP 
+    (VB Há)
     (NP 
-     (NNS candidatos)
-     (ADJP 
-      (JJ melhores)
-      (CONJP de_ o que)
-      (NP 
-       (PRP eu)
+     (NP 
+      (NNS candidatos)
+      (ADJP 
+       (JJ melhores)
+       (CONJP de_ o que)
+       (NP 
+        (PRP eu)
+       )
       )
      )
     )
    )
+   .
   )
-  .
  )
 )

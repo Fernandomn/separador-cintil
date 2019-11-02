@@ -1,1 +1,22 @@
-(S (NP (NP (NNS Durão) (NNS Barroso))) (VP (PP (IN em_) (NP (DT a) (NP (NNS reunião) (NNS ACP-CE))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Durão)
+    (NNS Barroso)
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT a)
+     (NP 
+      (NNS reunião)
+      (NNS ACP-CE)
+     )
+    )
+   )
+  )
+ )
+)

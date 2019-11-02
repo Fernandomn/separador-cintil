@@ -1,1 +1,19 @@
-(S (VP (ADJP (JJ Romântico) (ADJP (CC e) (ADJP (ADVP (RB um) (RB pouco)) (JJ louco))))))
+(
+ (S 
+  (VP 
+   (ADJP 
+    (JJ Romântico)
+    (ADJP 
+     (CC e)
+     (ADJP 
+      (ADVP 
+       (RB um)
+       (RB pouco)
+      )
+      (JJ louco)
+     )
+    )
+   )
+  )
+ )
+)

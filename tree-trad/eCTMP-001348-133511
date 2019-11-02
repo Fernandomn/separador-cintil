@@ -1,1 +1,24 @@
-(S (S (NP (NP (NNS João) (NNS Medeiros) (NNS -))) (VP (VB Sofreu) (NP (DT uma) (NP (NNS rotura) (JJ muscular))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS João)
+     (NNS Medeiros)
+     (NNS -)
+    )
+   )
+   (VP 
+    (VB Sofreu)
+    (NP 
+     (DT uma)
+     (NP 
+      (NNS rotura)
+      (JJ muscular)
+     )
+    )
+   )
+  )
+  .
+ )
+)

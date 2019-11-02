@@ -1,1 +1,25 @@
-(S (NP (NP (NNS Protocolos) (PP (IN de) (NP (NNS reciclagem))))) (VP (VB vão) (VP (VP (VB ser) (VB assinados)) (RB hoje))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Protocolos)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS reciclagem)
+     )
+    )
+   )
+  )
+  (VP 
+   (VB vão)
+   (VP 
+    (VP 
+     (VB ser)
+     (VB assinados)
+    )
+    (RB hoje)
+   )
+  )
+ )
+)

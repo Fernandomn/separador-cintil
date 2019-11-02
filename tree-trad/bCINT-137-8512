@@ -1,1 +1,15 @@
-(S (S (NP (DT A) (NNS química)) (VP (VB é) (JJ importante))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS química)
+   )
+   (VP 
+    (VB é)
+    (JJ importante)
+   )
+  )
+  .
+ )
+)

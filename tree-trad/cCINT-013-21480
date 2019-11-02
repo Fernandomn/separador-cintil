@@ -1,1 +1,20 @@
-(CP (CP (ADVP (RB Não) ,) (S (VP (RB ainda) (VP (RB não) (VB adormeceu))))) .)
+(
+ (CONJP 
+  (CONJP 
+   (ADVP 
+    (RB Não)
+    ,
+   )
+   (S 
+    (VP 
+     (RB ainda)
+     (VP 
+      (RB não)
+      (VB adormeceu)
+     )
+    )
+   )
+  )
+  .
+ )
+)

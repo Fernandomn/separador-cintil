@@ -1,1 +1,24 @@
-(S (S (VP (PP (IN Em_) (NP (DT a) (NP (NNS Feira) (NNS de_) (NNS o) (NNS Livro) (NNS de_) (NNS o) (NNS Porto)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (PP 
+     (IN Em_)
+     (NP 
+      (DT a)
+      (NP 
+       (NNS Feira)
+       (NNS de_)
+       (NNS o)
+       (NNS Livro)
+       (NNS de_)
+       (NNS o)
+       (NNS Porto)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

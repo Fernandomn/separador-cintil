@@ -1,32 +1,34 @@
-(S 
+(
  (S 
-  (NP 
-   (DT O)
+  (S 
    (NP 
-    (NNS papel)
-    (PP 
-     (IN de_)
-     (NP 
-      (DT os)
+    (DT O)
+    (NP 
+     (NNS papel)
+     (PP 
+      (IN de_)
       (NP 
+       (DT os)
        (NP 
         (NP 
-         (NNS serviços)
-         (JJ aéreos)
-        )
-        (JJ regionais)
-       )
-       (PP 
-        (IN de)
-        (NP 
          (NP 
-          (NNS fornecimento)
-          (PP 
-           (IN de)
-           (NP 
+          (NNS serviços)
+          (JJ aéreos)
+         )
+         (JJ regionais)
+        )
+        (PP 
+         (IN de)
+         (NP 
+          (NP 
+           (NNS fornecimento)
+           (PP 
+            (IN de)
             (NP 
-             (NNS ligações)
-             (JJ periféricas)
+             (NP 
+              (NNS ligações)
+              (JJ periféricas)
+             )
             )
            )
           )
@@ -37,53 +39,53 @@
      )
     )
    )
-  )
-  (VP 
    (VP 
     (VP 
      (VP 
       (VP 
-       (VB é)
-       (JJ vital)
+       (VP 
+        (VB é)
+        (JJ vital)
+       )
       )
+      ,
      )
-     ,
-    )
-    (CONJP já que)
-    (S 
-     (VB ajudará)
-    )
-   )
-   (PP 
-    (PP 
-     (IN a_)
-     (NP 
-      (DT o)
-      (NP 
-       ''
-       ''
-       (NNS sucesso)
-      )
+     (CONJP já que)
+     (S 
+      (VB ajudará)
      )
     )
     (PP 
-     (CC e)
      (PP 
       (IN a_)
       (NP 
-       (DT a)
+       (DT o)
        (NP 
+        ''
+        ''
+        (NNS sucesso)
+       )
+      )
+     )
+     (PP 
+      (CC e)
+      (PP 
+       (IN a_)
+       (NP 
+        (DT a)
         (NP 
          (NP 
-          (NNS viabilidade)
-          (JJ económica)
+          (NP 
+           (NNS viabilidade)
+           (JJ económica)
+          )
          )
-        )
-        (PP 
-         (IN de_)
-         (NP 
-          (DT as)
-          (NNS regiões)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT as)
+           (NNS regiões)
+          )
          )
         )
        )
@@ -92,6 +94,6 @@
     )
    )
   )
+  .
  )
- .
 )

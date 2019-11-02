@@ -1,1 +1,21 @@
-(S (S (NP (DT A) (NP (NNS realidade) (JJ portuguesa))) (VP (VB é) (ADJP (RB bem) (JJ diferente)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NNS realidade)
+     (JJ portuguesa)
+    )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB bem)
+     (JJ diferente)
+    )
+   )
+  )
+  .
+ )
+)

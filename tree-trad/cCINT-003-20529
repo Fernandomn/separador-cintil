@@ -1,1 +1,17 @@
-(S (S (VP (VP (VB Tenho) (RB cá)) (NP (DT um) (NNS azar)))) !)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Tenho)
+     (RB cá)
+    )
+    (NP 
+     (DT um)
+     (NNS azar)
+    )
+   )
+  )
+  !
+ )
+)

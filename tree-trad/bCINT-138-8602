@@ -1,1 +1,13 @@
-(S (S (VP (VB É) (NP (NNS verdade)))) ?)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (NNS verdade)
+    )
+   )
+  )
+  ?
+ )
+)

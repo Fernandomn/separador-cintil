@@ -1,1 +1,21 @@
-(S (S (NP (DT Os) (NNS lucros)) (VP (VB advieram) (PP (IN a_) (NP (DT a) (NNS Maria))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS lucros)
+   )
+   (VP 
+    (VB advieram)
+    (PP 
+     (IN a_)
+     (NP 
+      (DT a)
+      (NNS Maria)
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,34 @@
-(S (S (ADVP (RB Contudo) ,) (S (NP (DT o) (NNS Itamaraty)) (VP (VB apresenta) (NP (PRP alguns) (NP (NNS excessos) (CP (NP (PRP que)) (S (VB surpreendem)))))))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Contudo)
+    ,
+   )
+   (S 
+    (NP 
+     (DT o)
+     (NNS Itamaraty)
+    )
+    (VP 
+     (VB apresenta)
+     (NP 
+      (PRP alguns)
+      (NP 
+       (NNS excessos)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VB surpreendem)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

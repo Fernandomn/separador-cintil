@@ -1,1 +1,32 @@
-(S (S (NP (NP (DT O) (NP (NNS brigadeiro) (NNS Portela))) (NP , (NP (NNS presidente) (NNS de_) (NNS as) (NNS OGMA)) ,)) (VP (VB demite) (NP (PRP -se)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (DT O)
+     (NP 
+      (NNS brigadeiro)
+      (NNS Portela)
+     )
+    )
+    (NP 
+     ,
+     (NP 
+      (NNS presidente)
+      (NNS de_)
+      (NNS as)
+      (NNS OGMA)
+     )
+     ,
+    )
+   )
+   (VP 
+    (VB demite)
+    (NP 
+     (PRP -se)
+    )
+   )
+  )
+  .
+ )
+)

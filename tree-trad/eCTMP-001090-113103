@@ -1,1 +1,17 @@
-(S (NP (NNS SIC)) (VP (VB assina) (PP (IN por) (NP (DT uma) (NNS época)))))
+(
+ (S 
+  (NP 
+   (NNS SIC)
+  )
+  (VP 
+   (VB assina)
+   (PP 
+    (IN por)
+    (NP 
+     (DT uma)
+     (NNS época)
+    )
+   )
+  )
+ )
+)

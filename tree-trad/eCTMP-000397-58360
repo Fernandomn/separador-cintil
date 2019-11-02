@@ -1,1 +1,27 @@
-(S (NP (DT Um) (NP (NNS problema) (CP (NP (PRP que)) (S (VP (VB dá) (NP (DT os) (NP (CD primeiros) (NNS passos)))))))))
+(
+ (S 
+  (NP 
+   (DT Um)
+   (NP 
+    (NNS problema)
+    (CONJP 
+     (NP 
+      (PRP que)
+     )
+     (S 
+      (VP 
+       (VB dá)
+       (NP 
+        (DT os)
+        (NP 
+         (CD primeiros)
+         (NNS passos)
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+)

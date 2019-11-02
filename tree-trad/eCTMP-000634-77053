@@ -1,1 +1,20 @@
-(S (S (NP (NP (NNS Fernando) (NNS Nogueira))) (VP (RB também) (VP (RB não) (VB sabia)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Fernando)
+     (NNS Nogueira)
+    )
+   )
+   (VP 
+    (RB também)
+    (VP 
+     (RB não)
+     (VB sabia)
+    )
+   )
+  )
+  .
+ )
+)

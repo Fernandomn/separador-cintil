@@ -1,1 +1,36 @@
-(S (S (ADVP (RB Depois) ,) (S (S (VP (VB pegou) (PP (IN em_) (NP (DT o) (NNS teste))))) (S (CC e) (S (VP (VB enervou) (NP (PRP -se))))))) :)
+(
+ (S 
+  (S 
+   (ADVP 
+    (RB Depois)
+    ,
+   )
+   (S 
+    (S 
+     (VP 
+      (VB pegou)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT o)
+        (NNS teste)
+       )
+      )
+     )
+    )
+    (S 
+     (CC e)
+     (S 
+      (VP 
+       (VB enervou)
+       (NP 
+        (PRP -se)
+       )
+      )
+     )
+    )
+   )
+  )
+  :
+ )
+)

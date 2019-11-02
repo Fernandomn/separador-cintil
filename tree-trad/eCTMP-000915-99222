@@ -1,1 +1,22 @@
-(S (NP (NNS Bush)) (VP (VB propõe) (NP (NP (NNS alargamento) (PP (IN de_) (NP (DT o) (NNS G7)))))))
+(
+ (S 
+  (NP 
+   (NNS Bush)
+  )
+  (VP 
+   (VB propõe)
+   (NP 
+    (NP 
+     (NNS alargamento)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS G7)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,26 @@
-(S (S (NP (DT A) (NNS apresentação)) (VP (VB será) (VP (VB feita) (PP (IN por) (NP (NP (NNS Augusto) (NNS Mateus))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS apresentação)
+   )
+   (VP 
+    (VB será)
+    (VP 
+     (VB feita)
+     (PP 
+      (IN por)
+      (NP 
+       (NP 
+        (NNS Augusto)
+        (NNS Mateus)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

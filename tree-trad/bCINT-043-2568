@@ -1,1 +1,27 @@
-(S (S (S (VB Existe) (NP (DT uma) (NP (JJ potencial) (NP (NNS vala) (JJ comum))))) (PP (IN em_) (NP (DT esse) (NNS local)))) .)
+(
+ (S 
+  (S 
+   (S 
+    (VB Existe)
+    (NP 
+     (DT uma)
+     (NP 
+      (JJ potencial)
+      (NP 
+       (NNS vala)
+       (JJ comum)
+      )
+     )
+    )
+   )
+   (PP 
+    (IN em_)
+    (NP 
+     (DT esse)
+     (NNS local)
+    )
+   )
+  )
+  .
+ )
+)

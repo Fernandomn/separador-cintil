@@ -1,1 +1,32 @@
-(S (S (VP (VB Viram) (NP (DT a) (NP (NP (NNS incidência) (PP (IN de_) (NP (DT a) (NNS luz)))) (PP (IN sobre) (NP (DT a) (NNS mesa))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS incidência)
+       (PP 
+        (IN de_)
+        (NP 
+         (DT a)
+         (NNS luz)
+        )
+       )
+      )
+      (PP 
+       (IN sobre)
+       (NP 
+        (DT a)
+        (NNS mesa)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

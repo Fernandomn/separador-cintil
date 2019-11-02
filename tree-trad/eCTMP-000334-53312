@@ -1,1 +1,27 @@
-(S (NP (NP (NP (NP (NNS -) (NNS Festa) (NNS de) (NNS Nossa) (NNS Senhora) (NNS de_) (NNS os) (NNS Remédios)) ,) (PP (IN em) (NP (NNS Lamego))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NP 
+      (NNS -)
+      (NNS Festa)
+      (NNS de)
+      (NNS Nossa)
+      (NNS Senhora)
+      (NNS de_)
+      (NNS os)
+      (NNS Remédios)
+     )
+     ,
+    )
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Lamego)
+     )
+    )
+   )
+  )
+ )
+)

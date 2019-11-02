@@ -1,1 +1,23 @@
-(S (NP (NP (NNS Processo) (PP (IN de) (NP (NNS secretários))))) (VP (PP (IN em) (NP (NNS curso)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Processo)
+    (PP 
+     (IN de)
+     (NP 
+      (NNS secretários)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em)
+    (NP 
+     (NNS curso)
+    )
+   )
+  )
+ )
+)

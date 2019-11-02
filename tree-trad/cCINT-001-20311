@@ -1,1 +1,11 @@
-(S (S (NP (PRP Ela)) (VB merecia)) !)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ela)
+   )
+   (VB merecia)
+  )
+  !
+ )
+)

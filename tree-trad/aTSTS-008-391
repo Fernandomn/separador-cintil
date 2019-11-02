@@ -1,1 +1,15 @@
-(S (S (VB Desapareceu) (NP (DT aquele) (NP (PP$ meu) (NNS carro)))) .)
+(
+ (S 
+  (S 
+   (VB Desapareceu)
+   (NP 
+    (DT aquele)
+    (NP 
+     (PP meu)
+     (NNS carro)
+    )
+   )
+  )
+  .
+ )
+)

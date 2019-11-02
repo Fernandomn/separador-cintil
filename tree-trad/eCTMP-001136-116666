@@ -1,1 +1,35 @@
-(S (S (NP (DT Um) (NNS ícone)) (VP (VB é) (NP (NP (NNS fruto) (PP (IN de) (NP (DT uma) (NP (NNS mastigação) (PP (IN de_) (NP (DT o) (NNS sagrado)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Um)
+    (NNS ícone)
+   )
+   (VP 
+    (VB é)
+    (NP 
+     (NP 
+      (NNS fruto)
+      (PP 
+       (IN de)
+       (NP 
+        (DT uma)
+        (NP 
+         (NNS mastigação)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT o)
+           (NNS sagrado)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

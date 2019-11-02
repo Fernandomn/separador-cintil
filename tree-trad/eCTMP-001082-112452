@@ -1,1 +1,24 @@
-(S (NP (NP (NNS Treino) (JJ militar))) (VP (ADJP (JJ próximo) (PP (IN de) (NP (NP (NNS zonas) (JJ urbanas)))))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NNS Treino)
+    (JJ militar)
+   )
+  )
+  (VP 
+   (ADJP 
+    (JJ próximo)
+    (PP 
+     (IN de)
+     (NP 
+      (NP 
+       (NNS zonas)
+       (JJ urbanas)
+      )
+     )
+    )
+   )
+  )
+ )
+)

@@ -1,1 +1,28 @@
-(S (NP (NP (NP (NNS Analista) (JJ principal)) (PP (IN de_) (NP (DT a) (NNS Dataquest))))) (VP (PP (IN em_) (NP (DT os) (NNS EUA)))))
+(
+ (S 
+  (NP 
+   (NP 
+    (NP 
+     (NNS Analista)
+     (JJ principal)
+    )
+    (PP 
+     (IN de_)
+     (NP 
+      (DT a)
+      (NNS Dataquest)
+     )
+    )
+   )
+  )
+  (VP 
+   (PP 
+    (IN em_)
+    (NP 
+     (DT os)
+     (NNS EUA)
+    )
+   )
+  )
+ )
+)

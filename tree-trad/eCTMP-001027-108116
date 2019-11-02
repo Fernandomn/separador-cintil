@@ -1,1 +1,76 @@
-(S (S (PP (PP (IN em_) (NP (DT esse) (NNS sentido))) ,) (S (S (VB existe) (NP (DT uma) (NP (JJ certa) (NP (NNS sobranceria) (PP (IN de_) (NP (DT os) (NNS autores))))))) (PP (PP (IN face) (IN a_)) (NP (DT os) (NP (NNS riscos) (CP (NP (PRP que)) (S (NP (DT a) (NP (NNS abordagem) (PP (IN de_) (NP (DT estas) (NNS questões))))) (VP (VB pode) (VP (VB comportar)))))))))) .)
+(
+ (S 
+  (S 
+   (PP 
+    (PP 
+     (IN em_)
+     (NP 
+      (DT esse)
+      (NNS sentido)
+     )
+    )
+    ,
+   )
+   (S 
+    (S 
+     (VB existe)
+     (NP 
+      (DT uma)
+      (NP 
+       (JJ certa)
+       (NP 
+        (NNS sobranceria)
+        (PP 
+         (IN de_)
+         (NP 
+          (DT os)
+          (NNS autores)
+         )
+        )
+       )
+      )
+     )
+    )
+    (PP 
+     (PP 
+      (IN face)
+      (IN a_)
+     )
+     (NP 
+      (DT os)
+      (NP 
+       (NNS riscos)
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (NP 
+          (DT a)
+          (NP 
+           (NNS abordagem)
+           (PP 
+            (IN de_)
+            (NP 
+             (DT estas)
+             (NNS questões)
+            )
+           )
+          )
+         )
+         (VP 
+          (VB pode)
+          (VP 
+           (VB comportar)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

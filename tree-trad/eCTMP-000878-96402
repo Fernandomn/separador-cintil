@@ -1,1 +1,28 @@
-(S (S (VP (VB É) (NP (DT um) (NP (PP (IN de_) (NP (DT os) (NP (NNS movimentos) (ADJP (RB mais) (JJ abrangentes))))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB É)
+    (NP 
+     (DT um)
+     (NP 
+      (PP 
+       (IN de_)
+       (NP 
+        (DT os)
+        (NP 
+         (NNS movimentos)
+         (ADJP 
+          (RB mais)
+          (JJ abrangentes)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

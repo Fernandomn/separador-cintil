@@ -1,1 +1,40 @@
-(S (S (NP (NP (NNS Eurico) (NNS Gomes))) (VP (VB é) (PP (IN de_) (NP (DT os) (NP (CP (NP (PRP que)) (S (VP (VP (VB têm) (RB sempre)) (NP (NNS emprego)))))))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NP 
+     (NNS Eurico)
+     (NNS Gomes)
+    )
+   )
+   (VP 
+    (VB é)
+    (PP 
+     (IN de_)
+     (NP 
+      (DT os)
+      (NP 
+       (CONJP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VP 
+           (VB têm)
+           (RB sempre)
+          )
+          (NP 
+           (NNS emprego)
+          )
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

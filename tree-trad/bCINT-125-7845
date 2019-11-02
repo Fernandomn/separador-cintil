@@ -1,1 +1,20 @@
-(S (NP (DT Uma) (NP (JJ boa) (NP (NNS imagem) (PP (IN para) (NP (NNS angústia)))))) .)
+(
+ (S 
+  (NP 
+   (DT Uma)
+   (NP 
+    (JJ boa)
+    (NP 
+     (NNS imagem)
+     (PP 
+      (IN para)
+      (NP 
+       (NNS angústia)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

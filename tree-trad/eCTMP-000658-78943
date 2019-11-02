@@ -1,1 +1,18 @@
-(S (S (NP (DT Os) (NNS mortos)) (VP (VP (RB não) (VB são)) (JJ iguais))) ?)
+(
+ (S 
+  (S 
+   (NP 
+    (DT Os)
+    (NNS mortos)
+   )
+   (VP 
+    (VP 
+     (RB não)
+     (VB são)
+    )
+    (JJ iguais)
+   )
+  )
+  ?
+ )
+)

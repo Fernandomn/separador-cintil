@@ -23,7 +23,6 @@ def reconstroiArvoreObj(frase, indice, arvore):
 
             if len(arvore.filhos) > 0:
                 subarvore = s.Sintagma(classe, arvore.filhos, arvore.classe, '')
-                # return i + indice, subarvore
             else:
                 subarvore = s.Sintagma(classe, [], arvore.classe, palavra)
             return i + indice, subarvore
@@ -48,22 +47,18 @@ def consertaTagProbObj(arvore):
 
 
 def setRemoveTagsObj(arvore):
-    to_remove = False
     if arvore.classe == settings.conjPTag:
         for filho in arvore.filhos:
             if filho.classe == settings.conjBarTag:
-                # to_remove = True
                 filho.classe = settings.conjPTag
                 arvore.classe = settings.removeTag
-        # if to_remove:
+
     if arvore.classe == settings.CPTag:
         for filho in arvore.filhos:
             if filho.classe == settings.CPBarTag:
                 # to_remove = True
                 filho.classe = settings.CPTag
         arvore.classe = settings.removeTag
-        # if to_remove:
-        # arvore.classe = settings.removeTag
 
 
 def revisaTagsObj(arvore):
@@ -89,13 +84,13 @@ def imprimeArvoreObj(arvore, nivel):
 
     # raiz
     if arvore.classe == '':
-        return imprimeArvoreObj(arvore.filhos[0], nivel)
+        return '(\n{0})'.format(imprimeArvoreObj(arvore.filhos[0], nivel+1))
+        # return imprimeArvoreObj(arvore.filhos[0], nivel)
 
     # nao-terminal
     if len(arvore.filhos) > 0:
 
         string_filhos = ''
-        # if arvore.valor != '':
         if arvore.classe in settings.wordLevelTags and arvore.valor != '':
             for filho in arvore.filhos:
                 string_filhos += filho.valor + ' '

@@ -1,1 +1,20 @@
-(S (S (VP (VB desembarcou) (PP (RB apenas) (PP (IN com) (NP (CD oito) (NNS homens)))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB desembarcou)
+    (PP 
+     (RB apenas)
+     (PP 
+      (IN com)
+      (NP 
+       (CD oito)
+       (NNS homens)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

@@ -1,1 +1,17 @@
-(S (S (NP (PRP Ela)) (VP (VB é) (ADJP (RB muito) (JJ sociável)))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (PRP Ela)
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (RB muito)
+     (JJ sociável)
+    )
+   )
+  )
+  .
+ )
+)

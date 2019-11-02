@@ -1,1 +1,32 @@
-(S (S (VP (VB Viram) (NP (DT a) (NP (NP (NNS indagação) (PP (IN sobre) (NP (DT o) (NNS crime)))) (PP (IN por_) (NP (DT a) (NNS polícia))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VB Viram)
+    (NP 
+     (DT a)
+     (NP 
+      (NP 
+       (NNS indagação)
+       (PP 
+        (IN sobre)
+        (NP 
+         (DT o)
+         (NNS crime)
+        )
+       )
+      )
+      (PP 
+       (IN por_)
+       (NP 
+        (DT a)
+        (NNS polícia)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

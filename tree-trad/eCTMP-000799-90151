@@ -1,1 +1,27 @@
-(S (S (ADVP (ADVP (RB Mesmo) (RB assim)) ,) (S (NP (DT os) (NP (PRP muitos) (NNS presentes))) (VP (RB até) (VB gostaram)))) .)
+(
+ (S 
+  (S 
+   (ADVP 
+    (ADVP 
+     (RB Mesmo)
+     (RB assim)
+    )
+    ,
+   )
+   (S 
+    (NP 
+     (DT os)
+     (NP 
+      (PRP muitos)
+      (NNS presentes)
+     )
+    )
+    (VP 
+     (RB até)
+     (VB gostaram)
+    )
+   )
+  )
+  .
+ )
+)

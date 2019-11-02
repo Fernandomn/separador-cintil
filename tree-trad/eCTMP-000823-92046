@@ -1,1 +1,31 @@
-(S (S (NP (DT A) (NNS obra)) (VP (RB já) (VP (VP (VB estava) (PP (IN em) (NP (NNS projecto)))) (PP (IN em) (NP (CD 1991)))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NNS obra)
+   )
+   (VP 
+    (RB já)
+    (VP 
+     (VP 
+      (VB estava)
+      (PP 
+       (IN em)
+       (NP 
+        (NNS projecto)
+       )
+      )
+     )
+     (PP 
+      (IN em)
+      (NP 
+       (CD 1991)
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

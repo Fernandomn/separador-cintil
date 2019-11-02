@@ -1,1 +1,19 @@
-(S (S (NP (NNS Gomo)) (VP (PP (RB quase) (PP (IN a) (VB chegar))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (NNS Gomo)
+   )
+   (VP 
+    (PP 
+     (RB quase)
+     (PP 
+      (IN a)
+      (VB chegar)
+     )
+    )
+   )
+  )
+  .
+ )
+)

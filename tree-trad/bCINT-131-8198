@@ -1,1 +1,35 @@
-(S `` (S (S (S (S (VP (VP (RB Não) (VB tenho)) (NP (DT a) (NNS certeza)))) ,) (S (CC mas) (S (VP (VB há) (NP (NNS sinais)))))) .))
+(
+ (S 
+  (S 
+   (S 
+    (S 
+     (S 
+      (VP 
+       (VP 
+        (RB Não)
+        (VB tenho)
+       )
+       (NP 
+        (DT a)
+        (NNS certeza)
+       )
+      )
+     )
+     ,
+    )
+    (S 
+     (CC mas)
+     (S 
+      (VP 
+       (VB há)
+       (NP 
+        (NNS sinais)
+       )
+      )
+     )
+    )
+   )
+   .
+  )
+ )
+)

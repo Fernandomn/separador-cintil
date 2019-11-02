@@ -1,1 +1,25 @@
-(S (S (VP (VP (VB Esgrimem) (RB sobretudo)) (NP (NP (NNS argumentos) (ADJP (JJ económicos) (ADJP (CC e) (JJ políticos))))))) .)
+(
+ (S 
+  (S 
+   (VP 
+    (VP 
+     (VB Esgrimem)
+     (RB sobretudo)
+    )
+    (NP 
+     (NP 
+      (NNS argumentos)
+      (ADJP 
+       (JJ económicos)
+       (ADJP 
+        (CC e)
+        (JJ políticos)
+       )
+      )
+     )
+    )
+   )
+  )
+  .
+ )
+)

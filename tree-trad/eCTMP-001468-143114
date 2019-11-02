@@ -1,1 +1,33 @@
-(S (S (NP (DT O) (NP (NNS discurso) (PP (IN de_) (NP (DT o) (NNS jurista))))) (VP (RB sempre) (VP (VB tem) (VP (VP (VB sido) (RB essencialmente)) (JJ verbal))))) .)
+(
+ (S 
+  (S 
+   (NP 
+    (DT O)
+    (NP 
+     (NNS discurso)
+     (PP 
+      (IN de_)
+      (NP 
+       (DT o)
+       (NNS jurista)
+      )
+     )
+    )
+   )
+   (VP 
+    (RB sempre)
+    (VP 
+     (VB tem)
+     (VP 
+      (VP 
+       (VB sido)
+       (RB essencialmente)
+      )
+      (JJ verbal)
+     )
+    )
+   )
+  )
+  .
+ )
+)
