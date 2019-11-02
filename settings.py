@@ -18,6 +18,7 @@ def init():
     global tagOcc
     global wordLevelTags
     global splitTag
+    global tagsProblematicas
 
     CWordDict = {}
     pointList = ['"', "'"]
@@ -35,5 +36,6 @@ def init():
     conjList2 = []
     clitList = []
     tagOcc = {}
-    wordLevelTags = [conjPTag, CPTag]
+    tagsProblematicas = [conjBarTag, CPBarTag]
+    wordLevelTags = [conjPTag, CPTag, conjBarTag]
     splitTag = '_SPLIT_'

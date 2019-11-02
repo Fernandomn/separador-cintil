@@ -1,17 +1,22 @@
 (S 
-  S  (['NP', [['DT', 'Este'], ['NNS', 'computador']]] 
-    (V P)
-    (['VB', 'é'] 
-      (A D)
-      (['RB', 'apenas'] 
-        (A D)
-        (['JJ', 'melhor'] 
-          (C O)
-          (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
-            (N P)
-            ['DT', 'esse']          )
-        )
-      )
-    )
+ (S 
+  (NP 
+   (DT Este)
+   (NNS computador)
   )
+  (VP 
+   (VB é)
+   (ADJP 
+    (RB apenas)
+    (ADJP 
+     (JJ melhor)
+     (CONJP de_ o que)
+     (NP 
+      (DT esse)
+     )
+    )
+   )
+  )
+ )
+ .
 )

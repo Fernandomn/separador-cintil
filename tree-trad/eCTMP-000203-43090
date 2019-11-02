@@ -1,15 +1,23 @@
 (S 
-  S  (['VP', [['VB', 'Será'], ['NP', [['DT', 'esta'], ['NNS', 'vida']]]]] 
-    (A D)
-    (['ADJP', [['RB', 'mais'], ['JJ', 'assustadora']]] 
-      (C O)
-      (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
-        (N P)
-        (['DT', 'a'] 
-          (N N)
-          (m o)
-        )
-      )
-    )
+ (S 
+  (VP 
+   (VB Será)
+   (NP 
+    (DT esta)
+    (NNS vida)
+   )
   )
+  (ADJP 
+   (ADJP 
+    (RB mais)
+    (JJ assustadora)
+   )
+   (CONJP de_ o que)
+   (NP 
+    (DT a)
+    (NNS morte)
+   )
+  )
+ )
+ ?
 )

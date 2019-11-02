@@ -1,20 +1,33 @@
 (S 
-  S  (["''"] 
-    S    (['NP', [['DT', 'A'], ['NP', [['NP', [['NNS', 'situação'], ['JJ', 'política']]], ['JJ', 'portuguesa']]]]] 
-      (V P)
-      (['VB', 'é'] 
-        (A D)
-        (['ADJP', [['RB', 'mais'], ['JJ', 'estável']]] 
-          (C O)
-          (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
-            (N P)
-            (['DT', 'a'] 
-              (N N)
-              (e s)
-            )
-          )
-        )
-      )
+ ''
+ ''
+ (S 
+  (S 
+   (NP 
+    (DT A)
+    (NP 
+     (NP 
+      (NNS situação)
+      (JJ política)
+     )
+     (JJ portuguesa)
     )
+   )
+   (VP 
+    (VB é)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ estável)
+     )
+     (CONJP de_ o que)
+     (NP 
+      (DT a)
+      (NNS espanhola)
+     )
+    )
+   )
   )
+  .
+ )
 )

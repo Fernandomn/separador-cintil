@@ -1,2 +1,26 @@
 (S 
-  S  ['VP', [['CONJP', [['_CONJP_', [['CC', 'Mesmo'], ['CC', 'que']]], ['S', [['VP', [['VB', 'quisesse'], ['VP', [['VB', 'ir'], ['PP', [['IN', 'com_'], ['NP', [['PRP', 'ti']]]]]]]]]]]]], ['VP', [['RB', 'não'], ['VB', 'podia']]]]])
+ (S 
+  (VP 
+   (CONJP Mesmo que)
+   (S 
+    (VP 
+     (VB quisesse)
+     (VP 
+      (VB ir)
+      (PP 
+       (IN com_)
+       (NP 
+        (PRP ti)
+       )
+      )
+     )
+    )
+   )
+   (VP 
+    (RB não)
+    (VB podia)
+   )
+  )
+ )
+ .
+)

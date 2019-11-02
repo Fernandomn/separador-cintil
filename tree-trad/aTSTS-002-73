@@ -1,21 +1,22 @@
 (S 
-  (S 
-    (NP 
-      (DT o)
-      (NNS Manuel)
-    )
-    (VP 
-      (VB é)
-      (ADJP 
-        (ADJP 
-          (RB mais)
-          (JJ alto)
-        )
-        (CONJP de_ o que)
-        (NP 
-          (PRP eu)
-        )
-      )
-    )
+ (S 
+  (NP 
+   (DT o)
+   (NNS Manuel)
   )
-  .)
+  (VP 
+   (VB é)
+   (ADJP 
+    (ADJP 
+     (RB mais)
+     (JJ alto)
+    )
+    (CONJP de_ o que)
+    (NP 
+     (PRP eu)
+    )
+   )
+  )
+ )
+ .
+)

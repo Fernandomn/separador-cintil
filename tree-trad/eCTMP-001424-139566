@@ -1,23 +1,50 @@
 (S 
-  S  (['NP', [['NP', [['NNS', 'Alfred'], ['NNS', 'Stepan']]]]] 
-    (V P)
-    (['VB', 'teve'] 
-      (N P)
-      (['DT', 'um'] 
-        (N P)
-        (['NP', [['NNS', 'percurso'], ['ADJP', [['JJ', 'académico'], ['ADJP', [['CC', 'e'], ['JJ', 'profissional']]]]]]] 
-          (A D)
-          (['ADJP', [['RB', 'mais'], ['JJ', 'variado']]] 
-            (C O)
-            (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
-              (N P)
-              (['DT', 'o'] 
-                (N P)
-                ['CP', [['NP', [['PRP', 'que']]], ['S', [['VP', [['VB', 'é'], ['JJ', 'típico']]]]]]]              )
-            )
-          )
-        )
-      )
-    )
+ (S 
+  (NP 
+   (NP 
+    (NNS Alfred)
+    (NNS Stepan)
+   )
   )
+  (VP 
+   (VB teve)
+   (NP 
+    (DT um)
+    (NP 
+     (NP 
+      (NNS percurso)
+      (ADJP 
+       (JJ académico)
+       (ADJP 
+        (CC e)
+        (JJ profissional)
+       )
+      )
+     )
+     (ADJP 
+      (ADJP 
+       (RB mais)
+       (JJ variado)
+      )
+      (CONJP de_ o que)
+      (NP 
+       (DT o)
+       (NP 
+        (NP 
+         (PRP que)
+        )
+        (S 
+         (VP 
+          (VB é)
+          (JJ típico)
+         )
+        )
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+ .
 )

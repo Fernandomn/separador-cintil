@@ -1,4 +1,36 @@
 (S 
-  S  (['PP', [['IN', 'Para'], ['NP', [['PRP', 'mim']]]]] 
-    ,  )
+ (S 
+  (PP 
+   (PP 
+    (IN Para)
+    (NP 
+     (PRP mim)
+    )
+   )
+   ,
+  )
+  (S 
+   (NP 
+    (DT as)
+    (NNS pessoas)
+   )
+   (VP 
+    (VB são)
+    (ADJP 
+     (JJ 
+      (RB mais)
+      (ADJP 
+       (JJ importantes)
+      )
+     )
+     (CP de_ o que)
+     (NP 
+      (DT as)
+      (NNS coisas)
+     )
+    )
+   )
+  )
+ )
+ .
 )

@@ -1,15 +1,22 @@
 (S 
-  (V P)
-  (['VP', [['VB', 'Há'], ['NP', [['PRP', 'várias'], ['NNS', 'razões']]]]] 
-    (C O)
-    (['_CONJP_', [['CC', 'para'], ['CC', 'que']]] 
-      S      (['NP', [['DT', 'isto']]] 
-        (V P)
-        (['RB', 'não'] 
-          (V B)
-          (a c)
-        )
-      )
-    )
+ (VP 
+  (VP 
+   (VB Há)
+   (NP 
+    (PRP várias)
+    (NNS razões)
+   )
   )
+  (CONJP para que)
+  (S 
+   (NP 
+    (DT isto)
+   )
+   (VP 
+    (RB não)
+    (VB aconteça)
+   )
+  )
+ )
+ .
 )

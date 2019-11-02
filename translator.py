@@ -1,5 +1,6 @@
 import settings
 import treebuilder as tb
+from sintagma import Sintagma
 
 
 def tradutor(tag):
@@ -17,6 +18,7 @@ def tradutor(tag):
             "ART": "DT",  # Artigo # Artigo [REVISAR] (TODO) nota: unico caso em que essa tag aparece está errado.
             "C'": settings.CPBarTag,  # "SBAR" Sintagma Objetal  - nao ocorre no handbook
             "C": settings.CTag,  # Complemento (TODO) objeto
+            "CP": settings.CPTag,  # "SBAR"  Sintagma Objetal (TODO) v
             "CARD": "CD",  # Cardinais
             "CARD'": "NP",  # Sintagmas Cardinais
             # "CJ": "CC",  # Conjunções - Essa tag aparece apenas em manuais. não ocorre no CINTIL em momento algum.
@@ -25,7 +27,6 @@ def tradutor(tag):
             "CONJ'": settings.conjBarTag,  # sintagma Conjuntivo
             "CONJ": settings.conjTag,  # Conjunções
             "CONJP": settings.conjPTag,  # sintagma Conjuntivo
-            "CP": settings.CPTag,  # "SBAR"  Sintagma Objetal (TODO) v
             "D": "DT",  # Artigo
             "D1": "DT",  # Quantificadores - nao ocorre no handbook, só no site
             "D2": "JJ",  # Quantificadores - nao ocorre no handbook, só no site
@@ -91,8 +92,7 @@ def tradutor(tag):
 
 
 def classeProblematica(classe):
-    return classe[0] == '_' and classe[-1] == '_'
-    # pass
+    return '_' in classe[-1]
 
 
 def extraiPnt(index, inicio, treeText):
@@ -112,11 +112,36 @@ def extraiPnt(index, inicio, treeText):
     return treeText[:index] + pntWord + treeText[final + 1:]
 
 
-def extraiEoe(index, inicio, treeText):
-    final = inicio + treeText[inicio:].index(')')
-    eoeWord = treeText[final - 1]
-    return treeText[:index] + eoeWord + treeText[final + 1:]
-    pass
+# def extraiEoe(index, inicio, treeText):
+#     final = inicio + treeText[inicio:].index(')')
+#     eoeWord = treeText[final - 1]
+#     return treeText[:index] + eoeWord + treeText[final + 1:]
+#     pass
+
+
+def appendRefLists(treeText, inicio, final, classe):
+    if classe == settings.conjTag or classe == 'CONJ':
+        palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
+        if palavra not in settings.conjList:
+            settings.conjList.append(palavra)
+    if classe == 'CL':
+        palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
+        if palavra not in settings.clitList:
+            settings.clitList.append(palavra)
+    # ------------------------
+
+    if classe in settings.tagOcc:
+        settings.tagOcc[classe] += 1
+    else:
+        settings.tagOcc[classe] = 1
+
+    if classe == settings.CTag:
+        word = treeText[final:].split(')')[0].strip().lower()
+        if word in settings.CWordDict:
+            settings.CWordDict[word] += 1
+        else:
+            settings.CWordDict[word] = 1
+    # ------------------------
 
 
 def traduzirTags(treeText):
@@ -131,49 +156,26 @@ def traduzirTags(treeText):
             final = inicio + treeText[inicio:].index(' ')
             classe = treeText[inicio:final]
 
-            # ------------------------
-            if classe in settings.tagOcc:
-                settings.tagOcc[classe] += 1
-            else:
-                settings.tagOcc[classe] = 1
-            # if classe == settings.CTag:
-            #     word = treeText[final:].split(')')[0].strip().lower()
-            #     if word in settings.CWordDict:
-            #         settings.CWordDict[word] += 1
-            #     else:
-            #         settings.CWordDict[word] = 1
-            # ------------------------
-
             if classe == settings.pointTag:
                 treeText = extraiPnt(index, inicio, treeText)
-            # elif classe == settings.eofTag:
-            #     treeText = extraiEoe(index, inicio, treeText)
             else:
                 classeTraduzida = tradutor(classe)
                 treeText = treeText[:inicio] + classeTraduzida + treeText[final:]
                 if not reverArvore and classeProblematica(classeTraduzida):
                     reverArvore = True
 
-            # palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
-            # if classe == settings.conjTag or classe == 'CONJ':
-            #     palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
-            #     if not palavra in settings.conjList:
-            #         settings.conjList.append(palavra)
-            # if classe == 'CL':
-            #     palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
-            #     if not palavra in settings.clitList:
-            #         settings.clitList.append(palavra)
-
-    # if settings.conjBarTag in treeText:
+            appendRefLists(treeText, inicio, final, classe)
 
     if reverArvore:
-        # print('precisa rever. Frase: {0}'.format(treeText))
+        # i, listTree = tb.reconstroiArvore(treeText, 0, [])
+        # listTree = ['S', listTree]
+        # tb.revisaTags(listTree)  # ???
+        # treeText = tb.imprimeArvore(listTree, 0)
 
-        i, listTree = tb.reconstroiArvore(treeText, 0, [])
-        listTree = ['S', listTree]
-        tb.revisaTags(listTree)  # ???
-        treeText = tb.imprimeArvore(listTree, 0)
-
-        # print(treeText)
+        raiz = Sintagma('', [], '', '')
+        i, arvore = tb.reconstroiArvoreObj(treeText, 0, raiz)
+        tb.revisaTagsObj(arvore)
+        treeText = tb.imprimeArvoreObj(arvore,0)
+        treeText
 
     return treeText

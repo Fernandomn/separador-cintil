@@ -1,18 +1,26 @@
 (S 
-  S  (['NP', [['DT', 'o'], ['NNS', 'Manuel']]] 
-    (V P)
-    (['VB', 'é'] 
-      (A D)
-      (['ADJP', [['ADVP', [['RB', 'muito'], ['RB', 'menos']]], ['JJ', 'alto']]] 
-        (C O)
-        (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
-          (N P)
-          (['DT', 'A'] 
-            (N N)
-            (M a)
-          )
-        )
-      )
-    )
+ (S 
+  (NP 
+   (DT o)
+   (NNS Manuel)
   )
+  (VP 
+   (VB é)
+   (ADJP 
+    (ADJP 
+     (ADVP 
+      (RB muito)
+      (RB menos)
+     )
+     (JJ alto)
+    )
+    (CONJP de_ o que)
+    (NP 
+     (DT A)
+     (NNS Maria)
+    )
+   )
+  )
+ )
+ .
 )

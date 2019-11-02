@@ -93,12 +93,12 @@ def main():
 
             treeText = translator.traduzirTags(treeText)
 
-            rawFile = open('raw-trad/%s' % id, 'w')
-            treeFile = open('tree-trad/%s' % id, 'w')
-            rawFile.write(raw.text)
-            treeFile.write(treeText)
-            rawFile.close()
-            treeFile.close()
+            raw_file = open('raw-trad/%s' % id, 'w')
+            tree_file = open('tree-trad/%s' % id, 'w')
+            raw_file.write(raw.text)
+            tree_file.write(treeText)
+            raw_file.close()
+            tree_file.close()
 
             # print(id.text)
             # print(raw.text)

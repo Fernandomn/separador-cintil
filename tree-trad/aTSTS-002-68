@@ -1,21 +1,22 @@
 (S 
-  (S 
-    (NP 
-      (DT Este)
-      (NNS computador)
-    )
-    (VP 
-      (VB é)
-      (ADJP 
-        (ADJP 
-          (RB mais)
-          (JJ barato)
-        )
-        (CONJP de_ o que)
-        (NP 
-          (DT esse)
-        )
-      )
-    )
+ (S 
+  (NP 
+   (DT Este)
+   (NNS computador)
   )
-  .)
+  (VP 
+   (VB é)
+   (ADJP 
+    (ADJP 
+     (RB mais)
+     (JJ barato)
+    )
+    (CONJP de_ o que)
+    (NP 
+     (DT esse)
+    )
+   )
+  )
+ )
+ .
+)

@@ -1,2 +1,37 @@
 (S 
-  S  ['VP', [['PP', [['PP', [['_CONJP_', [['CC', 'Não'], ['CC', 'só']]], ['PP', [['IN', 'em_'], ['NP', [['DT', 'a'], ['NP', [['NNS', 'carga'], ['JJ', 'psicológica']]]]]]]]], [','], ['PP', [['_CONJP_', [['CC', 'mas'], ['CC', 'também']]], ['PP', [['IN', 'em'], ['NP', [['NP', [['NNS', 'termos'], ['JJ', 'físicos']]]]]]]]]]]]])
+ (S 
+  (VP 
+   (PP 
+    (PP 
+     (PP 
+      (_CONJP_ Não só)
+      (PP 
+       (IN em_)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS carga)
+         (JJ psicológica)
+        )
+       )
+      )
+     )
+     ,
+    )
+    (PP 
+     (_CONJP_ mas também)
+     (PP 
+      (IN em)
+      (NP 
+       (NP 
+        (NNS termos)
+        (JJ físicos)
+       )
+      )
+     )
+    )
+   )
+  )
+ )
+ .
+)

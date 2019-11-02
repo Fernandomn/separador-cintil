@@ -1,8 +1,22 @@
 (S 
-  S  (["''"] 
-    (V P)
-    (['VB', 'Há'] 
-      (N P)
-      ['NP', [['NNS', 'candidatos'], ['ADJP', [['JJ', 'melhores'], ['CONJP', [['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]], ['NP', [['PRP', 'eu']]]]]]]]]    )
+ ''
+ ''
+ (VP 
+  (VP 
+   (VB Há)
+   (NP 
+    (NP 
+     (NNS candidatos)
+     (ADJP 
+      (JJ melhores)
+      (CONJP de_ o que)
+      (NP 
+       (PRP eu)
+      )
+     )
+    )
+   )
   )
+  .
+ )
 )

@@ -1,33 +1,35 @@
 (S 
-  (S 
-    (S 
-      (NP 
-        (DT O)
-        (NNS amor)
-      )
-      (VP 
-        (VP 
-          (VB é)
-          (ADJP 
-            (ADJP 
-              (RB mais)
-              (JJ forte)
-            )
-            (CONJP de_ o que)
-            (NP 
-              (DT a)
-              (NNS morte)
-            )
-          )
-        )
-        ,        (ADVP 
-          (RB mesmo)
-          (ADVP 
-            (RB por)
-            (RB acaso)
-          )
-        )
-      )
-    )
+ (S 
+  (NP 
+   (DT O)
+   (NNS amor)
   )
-  .)
+  (VP 
+   (VP 
+    (VB é)
+    (ADJP 
+     (ADJP 
+      (RB mais)
+      (JJ forte)
+     )
+     (CONJP de_ o que)
+     (NP 
+      (DT a)
+      (NNS morte)
+     )
+    )
+   )
+   (ADVP 
+    ,
+    (ADVP 
+     (RB mesmo)
+     (ADVP 
+      (RB por)
+      (RB acaso)
+     )
+    )
+   )
+  )
+ )
+ .
+)

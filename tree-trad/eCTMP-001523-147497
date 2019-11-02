@@ -1,17 +1,31 @@
 (S 
-  S  (['NP', [['DT', 'O'], ['NP', [['NNS', 'transporte'], ['JJ', 'marítimo']]]]] 
-    (V P)
-    (['VB', 'é'] 
-      (A D)
-      (['ADJP', [['ADVP', [['RB', 'muito'], ['RB', 'mais']]], ['JJ', 'económico']]] 
-        (C O)
-        (['_CONJP_', [['CC', 'de_'], ['CC', 'o'], ['CC', 'que']]] 
-          (N P)
-          (['PRP', 'qualquer'] 
-            (N P)
-            ['JJ', 'outro']          )
-        )
-      )
-    )
+ (S 
+  (NP 
+   (DT O)
+   (NP 
+    (NNS transporte)
+    (JJ marítimo)
+   )
   )
+  (VP 
+   (VB é)
+   (ADJP 
+    (ADJP 
+     (ADVP 
+      (RB muito)
+      (RB mais)
+     )
+     (JJ económico)
+    )
+    (CONJP de_ o que)
+    (NP 
+     (PRP qualquer)
+     (NP 
+      (JJ outro)
+     )
+    )
+   )
+  )
+ )
+ .
 )
