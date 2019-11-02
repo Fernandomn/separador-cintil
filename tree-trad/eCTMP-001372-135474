@@ -33,7 +33,7 @@
     )
    )
    (NP 
-    (_CONJP_ bem como)
+    (CONJP bem como)
     (NP 
      (DT a)
      (NP 

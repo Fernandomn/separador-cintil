@@ -54,7 +54,7 @@
      )
     )
     (PP 
-     (_CONJP_ e ,)
+     (CONJP e ,)
      (PP 
       (PP 
        (IN em_)

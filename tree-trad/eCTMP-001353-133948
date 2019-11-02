@@ -11,40 +11,40 @@
      (PRP -o)
     )
    )
-   ,
-   (CC tanto)
-   (CC mais)
-   (CC que)
-   (S 
-    (NP 
-     (DT o)
+   (CONJP 
+    ,
+    (CONJP tanto mais que)
+    (S 
      (NP 
-      (NNS resto)
-      (PP 
-       (IN de_)
-       (NP 
-        (DT a)
+      (DT o)
+      (NP 
+       (NNS resto)
+       (PP 
+        (IN de_)
         (NP 
-         (NNS arborização)
-         (PP 
-          (IN de_)
-          (NP 
-           (DT o)
-           (NNS Parque)
+         (DT a)
+         (NP 
+          (NNS arborização)
+          (PP 
+           (IN de_)
+           (NP 
+            (DT o)
+            (NNS Parque)
+           )
           )
          )
         )
        )
       )
      )
-    )
-    (VP 
      (VP 
-      (RB não)
-      (VB oferecia)
-     )
-     (NP 
-      (NNS problemas)
+      (VP 
+       (RB não)
+       (VB oferecia)
+      )
+      (NP 
+       (NNS problemas)
+      )
      )
     )
    )

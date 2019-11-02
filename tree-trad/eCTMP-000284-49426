@@ -4,7 +4,7 @@
    (PP 
     (PP 
      (PP 
-      (_CONJP_ Não só)
+      (CONJP Não só)
       (PP 
        (IN em_)
        (NP 
@@ -19,7 +19,7 @@
      ,
     )
     (PP 
-     (_CONJP_ mas também)
+     (CONJP mas também)
      (PP 
       (IN em)
       (NP 

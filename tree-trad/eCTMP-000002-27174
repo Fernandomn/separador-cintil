@@ -1,15 +1,17 @@
 (S 
  (S 
   (VP 
-   (CONJP Sempre que)
-   (S 
-    (VB surge)
-    (NP 
-     (DT um)
-     (NNS problema)
+   (CONJP 
+    (CONJP Sempre que)
+    (S 
+     (VB surge)
+     (NP 
+      (DT um)
+      (NNS problema)
+     )
     )
+    ,
    )
-   ,
    (VP 
     (VB chamam)
     (NP 

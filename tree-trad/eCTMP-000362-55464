@@ -32,7 +32,7 @@
      ,
     )
     (PP 
-     (_CONJP_ assim como)
+     (CONJP assim como)
      (PP 
       (IN em_)
       (NP 

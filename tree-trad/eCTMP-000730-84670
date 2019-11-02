@@ -31,27 +31,28 @@
       )
      )
     )
-    ,
-    (CC enquanto)
-    (CC que)
-    (S 
-     (NP 
-      (DT a)
-      (NNS França)
-     )
-     (VP 
-      (VB faz)
+    (CONJP 
+     ,
+     (CONJP enquanto que)
+     (S 
       (NP 
+       (DT a)
+       (NNS França)
+      )
+      (VP 
+       (VB faz)
        (NP 
-        (JJ sucessivas)
         (NP 
-         (NNS descargas)
-         (PP 
-          (IN de)
-          (NP 
+         (JJ sucessivas)
+         (NP 
+          (NNS descargas)
+          (PP 
+           (IN de)
            (NP 
-            (NNS lixo)
-            (JJ radioactivo)
+            (NP 
+             (NNS lixo)
+             (JJ radioactivo)
+            )
            )
           )
          )

@@ -13,21 +13,22 @@
      )
     )
    )
-   ,
-   (CC mesmo)
-   (CC que)
-   (S 
-    (VP 
+   (CONJP 
+    ,
+    (CONJP mesmo que)
+    (S 
      (VP 
-      (RB não)
-      (VB estejam)
-     )
-     (ADJP 
-      (VB sediadas)
-      (PP 
-       (IN em)
-       (NP 
-        (NNS Portugal)
+      (VP 
+       (RB não)
+       (VB estejam)
+      )
+      (ADJP 
+       (VB sediadas)
+       (PP 
+        (IN em)
+        (NP 
+         (NNS Portugal)
+        )
        )
       )
      )

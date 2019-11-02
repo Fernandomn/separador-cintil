@@ -45,30 +45,31 @@
      (JJ decorativa)
     )
    )
-   ,
-   (CC já)
-   (CC que)
-   (S 
-    (NP 
-     (PRP ele)
-    )
-    (VP 
-     (VB volta)
-     (PP 
-      (IN a)
-      (VP 
-       (VB desenhar)
-       (NP 
-        (DT a)
+   (CONJP 
+    ,
+    (CONJP já que)
+    (S 
+     (NP 
+      (PRP ele)
+     )
+     (VP 
+      (VB volta)
+      (PP 
+       (IN a)
+       (VP 
+        (VB desenhar)
         (NP 
-         (NNS disposição)
-         (PP 
-          (IN de_)
-          (NP 
-           (DT as)
+         (DT a)
+         (NP 
+          (NNS disposição)
+          (PP 
+           (IN de_)
            (NP 
-            (JJ próprias)
-            (NNS paredes)
+            (DT as)
+            (NP 
+             (JJ próprias)
+             (NNS paredes)
+            )
            )
           )
          )

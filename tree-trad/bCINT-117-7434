@@ -12,25 +12,25 @@
     )
    )
   )
-  ,
-  (CC uma)
-  (CC vez)
-  (CC que)
-  (S 
-   (NP 
-    (DT os)
-    (NNS bombeiros)
-   )
-   (VP 
-    (VB conseguiram)
+  (CONJP 
+   ,
+   (CONJP uma vez que)
+   (S 
+    (NP 
+     (DT os)
+     (NNS bombeiros)
+    )
     (VP 
+     (VB conseguiram)
      (VP 
-      (VB dominar)
-      (RB rapidamente)
-     )
-     (NP 
-      (DT as)
-      (NNS chamas)
+      (VP 
+       (VB dominar)
+       (RB rapidamente)
+      )
+      (NP 
+       (DT as)
+       (NNS chamas)
+      )
      )
     )
    )

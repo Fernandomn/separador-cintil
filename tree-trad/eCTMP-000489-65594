@@ -1,7 +1,7 @@
 (S 
  (S 
   (S 
-   (_CONJP_ Não só)
+   (CONJP Não só)
    (S 
     (VP 
      (VB anulou)
@@ -13,7 +13,7 @@
    )
   )
   (S 
-   (_CONJP_ como ainda)
+   (CONJP como ainda)
    (S 
     (VP 
      (VP 

@@ -29,21 +29,17 @@ ns = {'base': "http://nlx.di.fc.ul.pt",
       'clarin': "http://nlx.di.fc.ul.pt",
       'xsi': 'http://www.w3.org/2001/XMLSchema-instance'}
 
-occList = ['CL']
+occList = ["CL", "CONJ'"]
+dir_relatorios = 'relatorios/'
 
 
 # metodo criado unicamente para facilitar escrita do projeto final. servepara criar um arquivo com uma lista de conjunções.
 def printOccList(dict):
-    occ_file = open('occurrence_count.csv', 'w')
+    occ_file = open(dir_relatorios + 'occurrence_count.csv', 'w')
     listKeys = settings.posDict.keys()
     for key in sorted(listKeys):
-
         occ_file.write("{0}, {1}\n".format(key, dict[key] if key in dict else 0))
 
-        # if key in dict:
-        #     occ_file.write("{0}, {1}\n".format(key, dict[key]))
-        # else:
-        #     occ_file.write("{0}, {1}\n".format(key, 0))
     occ_file.close()
 
 
@@ -56,7 +52,7 @@ def createListFiles():
 
 
 def createListFile(fileName, list):
-    conjFile = open(fileName, 'w')
+    conjFile = open(dir_relatorios + fileName, 'w')
     list.sort()
     conjFile.write("\n".join(str(item) for item in list))
     conjFile.close()
@@ -64,7 +60,7 @@ def createListFile(fileName, list):
 
 def verificaOcorrencias(occList, treeText):
     for tag in occList:
-        fileName = 'occurrence_list_{0}.txt'.format(tag)
+        fileName = dir_relatorios + 'occurrence_list_{0}.txt'.format(tag)
         occFile = open(fileName, 'a' if os.path.exists(fileName) else 'w')
         if '({0}'.format(tag) in treeText.split():
             occFile.write(treeText + '\n')
@@ -73,7 +69,7 @@ def verificaOcorrencias(occList, treeText):
 
 def iniciaOcorrencias():
     for tag in occList:
-        fileName = 'occurrence_list_{0}.txt'.format(tag)
+        fileName = dir_relatorios + 'occurrence_list_{0}.txt'.format(tag)
         occFile = open(fileName, 'w')
         occFile.close()
 
@@ -89,7 +85,6 @@ def main():
             treeText = tree.text
 
             verificaOcorrencias(occList, treeText)
-            # for index in range(len(treeText)-1, 0, -1):
 
             treeText = translator.traduzirTags(treeText)
 
@@ -100,9 +95,6 @@ def main():
             raw_file.close()
             tree_file.close()
 
-            # print(id.text)
-            # print(raw.text)
-            # print(tree.text)
     createListFiles()
 
 

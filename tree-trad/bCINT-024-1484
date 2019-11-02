@@ -1,11 +1,13 @@
 (S 
  (S 
   (VP 
-   (CONJP Para que)
-   (S 
-    (VB conste)
+   (CONJP 
+    (CONJP Para que)
+    (S 
+     (VB conste)
+    )
+    ,
    )
-   ,
    (VP 
     (PP 
      (IN em_)

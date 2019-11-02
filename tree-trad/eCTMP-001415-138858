@@ -42,20 +42,20 @@
         (VB cumpridos)
        )
       )
-      ,
-      (CC uma)
-      (CC vez)
-      (CC que)
-      (S 
-       ''
-       ''
+      (CONJP 
+       ,
+       (CONJP uma vez que)
        (S 
-        (VB existem)
-        (NP 
-         (CD 5131)
+        ''
+        ''
+        (S 
+         (VB existem)
          (NP 
-          (JJ novos)
-          (NNS accionistas)
+          (CD 5131)
+          (NP 
+           (JJ novos)
+           (NNS accionistas)
+          )
          )
         )
        )

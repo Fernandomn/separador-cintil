@@ -18,31 +18,32 @@
       )
      )
     )
-    ,
-    (CC já)
-    (CC que)
-    (S 
-     (NP 
-      (DT o)
+    (CONJP 
+     ,
+     (CONJP já que)
+     (S 
       (NP 
-       (NNS valor)
-       (PP 
-        (IN em)
-        (NP 
-         (NNS causa)
+       (DT o)
+       (NP 
+        (NNS valor)
+        (PP 
+         (IN em)
+         (NP 
+          (NNS causa)
+         )
         )
        )
       )
-     )
-     (VP 
-      (VB é)
-      (PP 
-       (IN para)
-       (NP 
-        (DT o)
+      (VP 
+       (VB é)
+       (PP 
+        (IN para)
         (NP 
-         (NNS biénio)
-         (NNS 1991-92)
+         (DT o)
+         (NP 
+          (NNS biénio)
+          (NNS 1991-92)
+         )
         )
        )
       )

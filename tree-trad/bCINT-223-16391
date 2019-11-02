@@ -12,26 +12,24 @@
      (NNS penalty)
     )
    )
-   ,
-   (CC em_)
-   (CC a)
-   (CC medida)
-   (CC em)
-   (CC que)
-   (S 
-    (NP 
-     (DT um)
+   (CONJP 
+    ,
+    (CONJP em_ a medida em que)
+    (S 
      (NP 
-      (NNS penalty)
-      (ADJP 
-       (RB bem)
-       (VB marcado)
+      (DT um)
+      (NP 
+       (NNS penalty)
+       (ADJP 
+        (RB bem)
+        (VB marcado)
+       )
       )
      )
-    )
-    (VP 
-     (VB é)
-     (JJ indefensável)
+     (VP 
+      (VB é)
+      (JJ indefensável)
+     )
     )
    )
   )

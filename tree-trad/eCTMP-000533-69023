@@ -27,28 +27,29 @@
      )
      (VB identificadas)
     )
-    ,
-    (CC já)
-    (CC que)
-    (S 
-     (NP 
-      (PRP alguns)
-      (NNS corpos)
-     )
-     (VP 
-      (VP 
-       (VB estão)
-       (ADVP 
-        ''
-        ''
-        (RB totalmente)
-       )
+    (CONJP 
+     ,
+     (CONJP já que)
+     (S 
+      (NP 
+       (PRP alguns)
+       (NNS corpos)
       )
-      (ADJP 
-       (VB calcinados)
+      (VP 
+       (VP 
+        (VB estão)
+        (ADVP 
+         ''
+         ''
+         (RB totalmente)
+        )
+       )
        (ADJP 
-        (CC e)
-        (VB mutilados)
+        (VB calcinados)
+        (ADJP 
+         (CC e)
+         (VB mutilados)
+        )
        )
       )
      )

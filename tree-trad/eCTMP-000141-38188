@@ -20,17 +20,18 @@
      )
     )
    )
-   ,
-   (CC ainda)
-   (CC que)
-   (S 
-    (NP 
-     (DT o)
-     (NNS comissário)
-    )
-    (VP 
-     (VB possa)
-     (VB permanecer)
+   (CONJP 
+    ,
+    (CONJP ainda que)
+    (S 
+     (NP 
+      (DT o)
+      (NNS comissário)
+     )
+     (VP 
+      (VB possa)
+      (VB permanecer)
+     )
     )
    )
   )

@@ -20,15 +20,16 @@
      )
     )
    )
-   ,
-   (CC dado)
-   (CC que)
-   (S 
-    (VP 
-     (VB aceita)
-     (NP 
-      (DT a)
-      (NNS violência)
+   (CONJP 
+    ,
+    (CONJP dado que)
+    (S 
+     (VP 
+      (VB aceita)
+      (NP 
+       (DT a)
+       (NNS violência)
+      )
      )
     )
    )

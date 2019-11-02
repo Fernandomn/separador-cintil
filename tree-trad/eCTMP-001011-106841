@@ -1,10 +1,12 @@
 (S 
  (S 
-  (CONJP Mesmo que)
-  (S 
-   (VB quisessem)
+  (CONJP 
+   (CONJP Mesmo que)
+   (S 
+    (VB quisessem)
+   )
+   ,
   )
-  ,
   (S 
    (NP 
     (DT as)

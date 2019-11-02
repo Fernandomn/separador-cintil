@@ -54,26 +54,27 @@
       )
      )
     )
-    ,
-    (CC sem)
-    (CC que)
-    (S 
-     (VP 
-      (VB tenha)
+    (CONJP 
+     ,
+     (CONJP sem que)
+     (S 
       (VP 
-       (VB encontrado)
-       (NP 
+       (VB tenha)
+       (VP 
+        (VB encontrado)
         (NP 
-         (PRP quem)
-        )
-        (S 
-         (VP 
-          (VB pudesse)
+         (NP 
+          (PRP quem)
+         )
+         (S 
           (VP 
-           (VB comentar)
-           (NP 
-            (DT a)
-            (NNS situação)
+           (VB pudesse)
+           (VP 
+            (VB comentar)
+            (NP 
+             (DT a)
+             (NNS situação)
+            )
            )
           )
          )

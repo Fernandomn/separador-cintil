@@ -13,7 +13,7 @@
     (VB feita)
     (PP 
      (PP 
-      (_CONJP_ não só)
+      (CONJP não só)
       (PP 
        (IN por_)
        (NP 
@@ -35,7 +35,7 @@
       )
      )
      (PP 
-      (_CONJP_ mas também)
+      (CONJP mas também)
       (PP 
        (IN por_)
        (NP 

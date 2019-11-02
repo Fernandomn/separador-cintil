@@ -46,44 +46,45 @@
      )
     )
    )
-   ,
-   (CC já)
-   (CC que)
-   (S 
-    (NP 
+   (CONJP 
+    ,
+    (CONJP já que)
+    (S 
      (NP 
-      (NNS Diniz)
-      (NNS de)
-      (NNS Abreu)
-     )
-    )
-    (VP 
-     (VP 
-      (VB está)
-      (ADVP 
-       ,
-       (RB ainda)
-       ,
+      (NP 
+       (NNS Diniz)
+       (NNS de)
+       (NNS Abreu)
       )
      )
-     (PP 
-      (IN a)
+     (VP 
       (VP 
-       (VB convidar)
-       (NP 
+       (VB está)
+       (ADVP 
+        ,
+        (RB ainda)
+        ,
+       )
+      )
+      (PP 
+       (IN a)
+       (VP 
+        (VB convidar)
         (NP 
-         (NNS pessoas)
-         (PP 
-          ''
-          ''
+         (NP 
+          (NNS pessoas)
           (PP 
-           (IN com)
-           (NP 
+           ''
+           ''
+           (PP 
+            (IN com)
             (NP 
-             (JJ reconhecidos)
              (NP 
-              (NNS méritos)
-              (JJ profissionais)
+              (JJ reconhecidos)
+              (NP 
+               (NNS méritos)
+               (JJ profissionais)
+              )
              )
             )
            )

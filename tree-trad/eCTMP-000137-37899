@@ -4,7 +4,7 @@
    (PP 
     (PP 
      (PP 
-      (_CONJP_ Não só)
+      (CONJP Não só)
       (PP 
        (IN em)
        (NP 
@@ -18,7 +18,7 @@
      ,
     )
     (ADJP 
-     (_CONJP_ mas também)
+     (CONJP mas também)
      (JJ comerciais)
     )
    )

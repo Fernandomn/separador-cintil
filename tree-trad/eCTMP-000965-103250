@@ -41,45 +41,45 @@
       )
      )
     )
-    ,
-    (CC uma)
-    (CC vez)
-    (CC que)
-    (S 
-     (NP 
-      (DT a)
+    (CONJP 
+     ,
+     (CONJP uma vez que)
+     (S 
       (NP 
-       (NNS construção)
-       (PP 
-        (IN de)
-        (NP 
+       (DT a)
+       (NP 
+        (NNS construção)
+        (PP 
+         (IN de)
          (NP 
-          (JJ novos)
           (NP 
-           (NNS edifícios)
-           (JJ escolares)
+           (JJ novos)
+           (NP 
+            (NNS edifícios)
+            (JJ escolares)
+           )
           )
          )
         )
        )
       )
-     )
-     (VP 
-      ''
-      ''
       (VP 
+       ''
+       ''
        (VP 
-        (RB não)
-        (VB previu)
-       )
-       (NP 
-        (DT a)
+        (VP 
+         (RB não)
+         (VB previu)
+        )
         (NP 
-         (NNS construção)
-         (PP 
-          (IN de)
-          (NP 
-           (NNS cantinas)
+         (DT a)
+         (NP 
+          (NNS construção)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS cantinas)
+           )
           )
          )
         )

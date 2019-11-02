@@ -30,22 +30,23 @@
       )
      )
     )
-    ,
-    (CC nem)
-    (CC que)
-    (S 
-     (VP 
-      (VB fosse)
-      (PP 
-       (IN a_)
-       (NP 
-        (DT a)
+    (CONJP 
+     ,
+     (CONJP nem que)
+     (S 
+      (VP 
+       (VB fosse)
+       (PP 
+        (IN a_)
         (NP 
-         (NNS custa)
-         (PP 
-          (IN de)
-          (NP 
-           (NNS reguadas)
+         (DT a)
+         (NP 
+          (NNS custa)
+          (PP 
+           (IN de)
+           (NP 
+            (NNS reguadas)
+           )
           )
          )
         )

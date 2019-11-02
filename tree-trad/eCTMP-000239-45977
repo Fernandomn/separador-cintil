@@ -30,23 +30,24 @@
      )
      (RB cautelosamente)
     )
-    ,
-    (CC até)
-    (CC que)
-    (S 
-     (VP 
-      (NP 
-       (PRP se)
-      )
-      (VB pudesse)
-     )
-     (VP 
-      (VB retirar)
-      (NP 
-       (DT a)
+    (CONJP 
+     ,
+     (CONJP até que)
+     (S 
+      (VP 
        (NP 
-        (NNS pastilha)
-        (JJ detonadora)
+        (PRP se)
+       )
+       (VB pudesse)
+      )
+      (VP 
+       (VB retirar)
+       (NP 
+        (DT a)
+        (NP 
+         (NNS pastilha)
+         (JJ detonadora)
+        )
        )
       )
      )

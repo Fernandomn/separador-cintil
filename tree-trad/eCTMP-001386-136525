@@ -25,22 +25,23 @@
       )
      )
     )
-    ,
-    (CC desde)
-    (CC que)
-    (S 
-     (VP 
-      (VB tenha)
+    (CONJP 
+     ,
+     (CONJP desde que)
+     (S 
       (VP 
-       (VB sido)
+       (VB tenha)
        (VP 
-        (VB escrito)
-        (PP 
-         (IN por)
-         (NP 
+        (VB sido)
+        (VP 
+         (VB escrito)
+         (PP 
+          (IN por)
           (NP 
-           (NNS Agustina)
-           (NNS Bessa-Luís)
+           (NP 
+            (NNS Agustina)
+            (NNS Bessa-Luís)
+           )
           )
          )
         )

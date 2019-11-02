@@ -6,53 +6,54 @@
     (NNS ultimato)
    )
   )
-  ,
-  (CC para)
-  (CC que)
-  (S 
-   (NP 
-    (DT o)
-    (NNS comando)
-   )
-   (VP 
-    (VB reconheça)
+  (CONJP 
+   ,
+   (CONJP para que)
+   (S 
     (NP 
-     (DT a)
+     (DT o)
+     (NNS comando)
+    )
+    (VP 
+     (VB reconheça)
      (NP 
-      (NNS indisciplina)
-      (PP 
+      (DT a)
+      (NP 
+       (NNS indisciplina)
        (PP 
-        (IN de_)
-        (NP 
-         (DT a)
-         (NP 
-          (NNS entrega)
-          (PP 
-           (IN de_)
-           (NP 
-            (DT as)
-            (NNS armas)
-           )
-          )
-         )
-        )
-       )
-       (PP 
-        (CC e)
         (PP 
          (IN de_)
          (NP 
           (DT a)
           (NP 
-           (NNS manifestação)
+           (NNS entrega)
            (PP 
-            (PP 
-             (IN frente)
-             (IN a_)
-            )
+            (IN de_)
             (NP 
-             (DT o)
-             (NNS tribunal)
+             (DT as)
+             (NNS armas)
+            )
+           )
+          )
+         )
+        )
+        (PP 
+         (CC e)
+         (PP 
+          (IN de_)
+          (NP 
+           (DT a)
+           (NP 
+            (NNS manifestação)
+            (PP 
+             (PP 
+              (IN frente)
+              (IN a_)
+             )
+             (NP 
+              (DT o)
+              (NNS tribunal)
+             )
             )
            )
           )

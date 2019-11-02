@@ -11,7 +11,7 @@
      )
     )
     (PP 
-     (_CONJP_ e ,)
+     (CONJP e ,)
      (PP 
       (IN em)
       (NP 
