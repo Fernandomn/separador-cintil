@@ -1,42 +1,73 @@
 import settings
 import sintagma as s
+import re
 
 
-def reconstroiArvoreObj(frase, indice, arvore):
+def reconstroiArvoreObj(frase_split, indice, arvore):
     i = 0
-    while i < (len(frase)):
-        caracter = frase[i]
-        if caracter == '(':
-            classe = ''.join(c for c in frase.split(' ')[0] if c.isalpha() or c == '_')
+
+    for i in range(len(frase_split)):
+        item = frase_split[i]
+        if item == '(':
+            classe = frase_split[i + 1]
             nova_arvore = s.Sintagma(classe, [], arvore.classe, '')
-            novo_indice, subarvore = reconstroiArvoreObj(frase[i + 1:], i + 1, nova_arvore)
+            novo_indice, subarvore = reconstroiArvoreObj(frase_split[i + 1:], i + 1, nova_arvore)
             i = novo_indice + 1
             arvore.filhos.append(subarvore)
-        elif caracter == ')':
-            if frase[:i].find(' ') >= 0:
-                # recupera a classe, verificando char a char se é uma palavra
-                classe = ''.join(c for c in frase.split(' ')[0] if c.isalpha() or c == '_')
-                palavra = frase[:i].split(' ')[1]
-            else:
-                palavra = frase[:i]
-                classe = palavra
-
-            if len(arvore.filhos) > 0:
+        elif item == ')':
+            classe = frase_split[0]
+            palavra = ''.join(frase_split[1:i])
+            if len(arvore.filhos):
                 subarvore = s.Sintagma(classe, arvore.filhos, arvore.classe, '')
             else:
                 subarvore = s.Sintagma(classe, [], arvore.classe, palavra)
             return i + indice, subarvore
-
-        elif caracter in settings.pointList:
-            if frase[i + 1] != ')':
-                i += 1
+        elif item in settings.pointList:
+            if frase_split[i - 1] == 'NNS':
+                # i += 1
                 continue
-            point = caracter if not (caracter == '"' or caracter == "'") else caracter + caracter
-            subarvore = s.Sintagma(settings.pointTag, [], arvore.classe, point)
-            arvore.filhos.append(subarvore)
-            i += 1
-        else:
-            i += 1
+            else:
+                point = item if not (item == '"' or item == "'") else item + item
+                subarvore = s.Sintagma(settings.pointTag, [], arvore.classe, point)
+                arvore.filhos.append(subarvore)
+                i += 1
+        # else:
+        #     i += 1
+
+    # -----------------------------------------
+    # while i < (len(frase)):
+    #     caracter = frase[i]
+    #     if caracter == '(':
+    #         classe = ''.join(c for c in frase.split(' ')[0] if c.isalpha() or c == '_')
+    #         nova_arvore = s.Sintagma(classe, [], arvore.classe, '')
+    #         novo_indice, subarvore = reconstroiArvoreObj(frase[i + 1:], i + 1, nova_arvore)
+    #         i = novo_indice + 1
+    #         arvore.filhos.append(subarvore)
+    #     elif caracter == ')':
+    #         if frase[:i].find(' ') >= 0:
+    #             # recupera a classe, verificando char a char se é uma palavra
+    #             classe = ''.join(c for c in frase.split(' ')[0] if c.isalpha() or c == '_')
+    #             palavra = frase[:i].split(' ')[1]
+    #         else:
+    #             palavra = frase[:i]
+    #             classe = palavra
+    #
+    #         if len(arvore.filhos) > 0:
+    #             subarvore = s.Sintagma(classe, arvore.filhos, arvore.classe, '')
+    #         else:
+    #             subarvore = s.Sintagma(classe, [], arvore.classe, palavra)
+    #         return i + indice, subarvore
+    #
+    #     elif caracter in settings.pointList:
+    #         if frase[i + 1] != ')':
+    #             i += 1
+    #             continue
+    #         point = caracter if not (caracter == '"' or caracter == "'") else caracter + caracter
+    #         subarvore = s.Sintagma(settings.pointTag, [], arvore.classe, point)
+    #         arvore.filhos.append(subarvore)
+    #         i += 1
+    #     else:
+    #         i += 1
     return i, arvore
 
 

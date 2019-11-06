@@ -1,6 +1,7 @@
 import settings
 import treebuilder as tb
 from sintagma import Sintagma
+import re
 
 
 def tradutor(tag):
@@ -146,6 +147,13 @@ def appendRefLists(treeText, inicio, final, classe):
     # ------------------------
 
 
+def fatia_arvore(frase):
+    frase_split = re.split('(\W)', frase)
+    frase_split = [c.strip() for c in frase_split]
+    frase_split = [i for i in frase_split if i != '']
+    return  frase_split
+
+
 def traduzirTags(tree_text):
     settings.isFirstQuoteMark = True
     rever_arvore = False
@@ -181,7 +189,7 @@ def traduzirTags(tree_text):
     # treeText = tb.imprimeArvore(listTree, 0)
 
     raiz = Sintagma('', [], '', '')
-    i, arvore = tb.reconstroiArvoreObj(tree_text, 0, raiz)
+    i, arvore = tb.reconstroiArvoreObj(fatia_arvore(tree_text), 0, raiz)
     if rever_arvore:
         tb.revisaTagsObj(arvore)
     tree_text = tb.imprimeArvoreObj(arvore, 0)
