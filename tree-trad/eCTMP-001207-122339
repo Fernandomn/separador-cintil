@@ -7,7 +7,6 @@
    )
    (VP 
     (PP 
-     ,
      (PP 
       (IN por)
       (NP 
@@ -15,11 +14,9 @@
        (NNS lado)
       )
      )
-     ,
     )
     (VB confessava)
    )
   )
-  :
  )
 )

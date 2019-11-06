@@ -9,8 +9,6 @@
       (NP 
        (NNS situação)
        (ADJP 
-        ''
-        ''
         (JJ grave)
        )
       )
@@ -22,8 +20,6 @@
        (NP 
         (NNS regulamento)
         (ADJP 
-         ''
-         ''
          (JJ insólito)
         )
        )
@@ -32,6 +28,5 @@
     )
    )
   )
-  .
  )
 )

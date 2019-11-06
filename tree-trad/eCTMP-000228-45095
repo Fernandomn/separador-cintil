@@ -9,7 +9,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NP 
        (NNS secretário)
@@ -21,7 +20,6 @@
       )
       (JJ alemão)
      )
-     ,
     )
    )
    (VP 
@@ -39,7 +37,6 @@
      )
     )
     (S 
-     ,
      (S 
       (VP 
        (VB exigindo)
@@ -73,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

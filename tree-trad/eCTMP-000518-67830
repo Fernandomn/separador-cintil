@@ -16,9 +16,7 @@
         (IN de)
         (NP 
          (NP 
-          (CD 
-           ,
-          )
+          (CD 5,2)
           (NP 
            (NN por)
            (NN cento)
@@ -38,6 +36,5 @@
     )
    )
   )
-  .
  )
 )

@@ -8,7 +8,6 @@
       (NNS Roterdão)
      )
     )
-    ,
    )
    (S 
     (S 
@@ -18,7 +17,6 @@
      (VB desistiu)
     )
     (S 
-     ,
      (S 
       (S 
        (NP 
@@ -38,7 +36,6 @@
         (VP 
          (VB prometeu)
          (PP 
-          ,
           (PP 
            (IN em_)
            (NP 
@@ -66,6 +63,5 @@
     )
    )
   )
-  .
  )
 )

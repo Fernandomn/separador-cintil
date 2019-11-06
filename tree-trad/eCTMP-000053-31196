@@ -5,7 +5,6 @@
     (S 
      (ADVP 
       (RB Interinamente)
-      ,
      )
      (S 
       (NP 
@@ -36,14 +35,12 @@
       )
      )
     )
-    ,
    )
    (S 
     (CC mas)
     (S 
      (VP 
       (PP 
-       ,
        (PP 
         (IN em_)
         (NP 
@@ -54,7 +51,6 @@
          )
         )
        )
-       ,
       )
       (VP 
        (VB deverá)
@@ -74,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

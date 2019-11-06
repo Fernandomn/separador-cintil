@@ -4,7 +4,6 @@
    (RB Aliás)
    (S 
     (PP 
-     ,
      (PP 
       (IN em_)
       (NP 
@@ -23,11 +22,8 @@
        )
       )
      )
-     ,
     )
     (S 
-     ''
-     ''
      (S 
       (NP 
        (DT os)
@@ -43,13 +39,8 @@
          (VB cumpridos)
         )
        )
-       ,
-       (CC uma)
-       (CC vez)
-       (CC que)
+       (CONJP uma vez que)
        (S 
-        ''
-        ''
         (S 
          (VB existem)
          (NP 
@@ -66,6 +57,5 @@
     )
    )
   )
-  .
  )
 )

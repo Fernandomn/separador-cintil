@@ -1,8 +1,6 @@
 (
  (S 
   (S 
-   ''
-   ''
    (S 
     (S 
      (ADVP 
@@ -14,7 +12,6 @@
        (RB o)
        (RB outro)
       )
-      ,
      )
      (S 
       (NP 
@@ -29,7 +26,6 @@
          (VB rodopiar)
         )
         (PP 
-         ,
          (PP 
           (IN a)
           (VB rodopiar)
@@ -40,7 +36,6 @@
      )
     )
     (S 
-     ,
      (S 
       (S 
        (VP 
@@ -99,6 +94,5 @@
     )
    )
   )
-  .
  )
 )

@@ -11,7 +11,6 @@
      (S 
       (VP 
        (PP 
-        ,
         (PP 
          (PP 
           (IN de)
@@ -23,7 +22,6 @@
           (NNS ministro)
          )
         )
-        ,
        )
        (VP 
         (VB pode)
@@ -36,8 +34,6 @@
            (NP 
             (PRP alguma)
             (NP 
-             ''
-             ''
              (NP 
               (NNS leviandade)
               (NP 
@@ -59,6 +55,5 @@
     )
    )
   )
-  .
  )
 )

@@ -7,14 +7,12 @@
       (VP 
        (VB Gostaríamos)
        (PP 
-        ,
         (PP 
          (IN por)
          (NP 
           (NNS exemplo)
          )
         )
-        ,
        )
       )
       (PP 
@@ -46,7 +44,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (CC mas)
@@ -87,6 +84,5 @@
     )
    )
   )
-  .
  )
 )

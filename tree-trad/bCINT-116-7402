@@ -3,8 +3,6 @@
   (S 
    (CONJP 
     (S 
-     ''
-     ''
      (S 
       (VB Chegou)
       (NP 
@@ -21,7 +19,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -37,7 +34,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS Bertie)
        (NNS Ahern)
@@ -46,6 +42,5 @@
     )
    )
   )
-  .
  )
 )

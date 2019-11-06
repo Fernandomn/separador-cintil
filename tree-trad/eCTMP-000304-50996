@@ -7,7 +7,6 @@
       (RB Mais)
       (RB tarde)
      )
-     ,
     )
     (VP 
      (VP 
@@ -20,7 +19,6 @@
          (NNS Kopta)
         )
         (PP 
-         ,
          (PP 
           (IN em_)
           (NP 
@@ -28,7 +26,6 @@
            (NNS Egipto)
           )
          )
-         ,
         )
        )
       )
@@ -52,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

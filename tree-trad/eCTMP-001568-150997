@@ -11,7 +11,6 @@
     )
     (VP 
      (PP 
-      ,
       (PP 
        (IN em_)
        (NP 
@@ -28,7 +27,6 @@
         )
        )
       )
-      ,
      )
      (VP 
       (VP 
@@ -40,7 +38,6 @@
         (NNS jazz)
        )
        (NP 
-        ,
         (NP 
          (NP 
           (NP 
@@ -54,7 +51,6 @@
            (NP 
             (NNS Roy)
             (NNS 
-             .
             )
            )
           )

@@ -5,7 +5,6 @@
     (VP 
      (VB Iniciaram)
      (PP 
-      ,
       (PP 
        (IN a_)
        (NP 
@@ -16,7 +15,6 @@
         )
        )
       )
-      ,
      )
     )
     (NP 
@@ -44,9 +42,7 @@
              (S 
               (VP 
                (ADVP 
-                ,
                 (RB agora)
-                ,
                )
                (VP 
                 (VB poderá)
@@ -71,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

@@ -16,8 +16,6 @@
           (DT o)
           (NP 
            (NP 
-            ''
-            ''
             (NNS court)
            )
            (JJ central)
@@ -34,6 +32,5 @@
     (JJ vazio)
    )
   )
-  .
  )
 )

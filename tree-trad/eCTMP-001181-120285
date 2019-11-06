@@ -21,9 +21,7 @@
    )
    (VP 
     (ADVP 
-     ,
      (RB contudo)
-     ,
     )
     (VP 
      (VB poderá)
@@ -31,7 +29,6 @@
       (VP 
        (VB ter)
        (PP 
-        ,
         (PP 
          (IN para)
          (NP 
@@ -42,7 +39,6 @@
           )
          )
         )
-        ,
        )
       )
       (NP 
@@ -55,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

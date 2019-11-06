@@ -14,9 +14,6 @@
    (S 
     (NP 
      (NP 
-      (NNS 
-       ,
-      )
       (NNS o)
       (NNS Estado-Maior)
      )
@@ -68,6 +65,5 @@
     )
    )
   )
-  .
  )
 )

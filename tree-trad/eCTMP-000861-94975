@@ -9,7 +9,6 @@
       (NNS dias)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -42,12 +41,10 @@
              )
             )
             (NP 
-             ,
              (NP 
               (NNS Alberto)
               (NNS Amaral)
              )
-             ,
             )
            )
           )
@@ -65,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

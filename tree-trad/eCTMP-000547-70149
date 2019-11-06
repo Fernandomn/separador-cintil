@@ -39,8 +39,6 @@
       (DT a)
       (NP 
        (NP 
-        ''
-        ''
         (NNS performance)
        )
        (PP 
@@ -55,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

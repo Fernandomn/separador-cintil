@@ -1,12 +1,9 @@
 (
  (CONJP 
-  ''
-  ''
   (CONJP 
    (CONJP 
     (ADVP 
      (RB Sim)
-     ,
     )
     (S 
      (NP 
@@ -24,7 +21,6 @@
      )
     )
    )
-   !
   )
  )
 )

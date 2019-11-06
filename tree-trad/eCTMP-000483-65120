@@ -25,7 +25,6 @@
           (NP 
            (NNS estrutura)
            (CONJP 
-            ,
             (CONJP 
              (NP 
               (PRP que)
@@ -62,6 +61,5 @@
     )
    )
   )
-  .
  )
 )

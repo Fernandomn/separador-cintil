@@ -32,10 +32,7 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
-      ''
-      ''
       (CONJP 
        (CC porque)
        (S 
@@ -73,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

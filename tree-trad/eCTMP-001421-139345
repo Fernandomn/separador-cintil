@@ -6,7 +6,6 @@
     (NP 
      (NNS filme)
      (ADJP 
-      ,
       (ADJP 
        (VB escrito)
        (PP 
@@ -20,7 +19,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -52,6 +50,5 @@
     )
    )
   )
-  .
  )
 )

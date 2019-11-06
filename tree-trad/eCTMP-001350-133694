@@ -19,7 +19,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -33,9 +32,7 @@
      (VP 
       (VB começaram)
       (ADVP 
-       ,
        (RB timidamente)
-       ,
       )
      )
      (PP 
@@ -54,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

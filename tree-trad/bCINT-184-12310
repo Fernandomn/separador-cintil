@@ -10,7 +10,6 @@
        (NNS tempo)
       )
      )
-     ,
     )
     (VB existia)
    )
@@ -22,7 +21,6 @@
       (JJ poderoso)
      )
      (CONJP 
-      ,
       (CONJP 
        (NP 
         (PRP que)
@@ -66,6 +64,5 @@
     )
    )
   )
-  .
  )
 )

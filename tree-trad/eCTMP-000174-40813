@@ -19,9 +19,7 @@
      (VP 
       (VB enviado)
       (ADVP 
-       ,
        (RB entretanto)
-       ,
       )
      )
      (PP 
@@ -65,6 +63,5 @@
     )
    )
   )
-  .
  )
 )

@@ -18,7 +18,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -36,8 +35,6 @@
          (NP 
           (DT os)
           (NP 
-           ''
-           ''
            (NP 
             (NNS Sonetos)
             (NNS Ingleses)
@@ -51,6 +48,5 @@
     )
    )
   )
-  :
  )
 )

@@ -2,8 +2,6 @@
  (S 
   (S 
    (NP 
-    ''
-    ''
     (NP 
      (NNS Stuck)
      (NNS In)
@@ -19,9 +17,7 @@
       (VB é)
      )
      (ADVP 
-      ,
       (RB todavia)
-      ,
      )
     )
     (NP 
@@ -39,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

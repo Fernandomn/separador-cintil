@@ -14,7 +14,6 @@
     )
     (VP 
      (PP 
-      ,
       (PP 
        (IN em_)
        (NP 
@@ -25,7 +24,6 @@
            (NNS jardim)
            (NNS Tunduru)
           )
-          ,
          )
          (PP 
           (IN em)
@@ -36,7 +34,6 @@
         )
        )
       )
-      ,
      )
      (VP 
       (VB conheci)
@@ -48,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

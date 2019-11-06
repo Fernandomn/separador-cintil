@@ -2,8 +2,6 @@
  (S 
   (NP 
    (NP 
-    ''
-    ''
     (NP 
      (NNS Panzer)
      (NNS General)
@@ -12,8 +10,6 @@
    (NP 
     (CC e)
     (NP 
-     ''
-     ''
      (NP 
       (NNS Allied)
       (NNS General)
@@ -21,6 +17,5 @@
     )
    )
   )
-  .
  )
 )

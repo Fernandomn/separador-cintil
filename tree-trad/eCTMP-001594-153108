@@ -17,13 +17,11 @@
       (VP 
        (VP 
         (ADVP 
-         ,
          (ADVP 
           (RB por)
           (RB um)
           (RB lado)
          )
-         ,
         )
         (VP 
          (VB prejudicar)
@@ -36,19 +34,16 @@
          )
         )
        )
-       ,
       )
       (VP 
        (CC mas)
        (VP 
         (ADVP 
-         ,
          (ADVP 
           (RB por)
           (RB outro)
           (RB lado)
          )
-         ,
         )
         (VP 
          (VB derrubar)
@@ -57,7 +52,6 @@
           (NP 
            (NNS governo)
            (CONJP 
-            ,
             (CONJP 
              (NP 
               (PRP que)
@@ -79,6 +73,5 @@
     )
    )
   )
-  .
  )
 )

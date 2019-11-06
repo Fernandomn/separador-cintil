@@ -4,7 +4,6 @@
    (VP 
     (ADVP 
      (RB Visivelmente)
-     ,
     )
     (VP 
      (VB prefere)
@@ -18,7 +17,6 @@
          )
         )
         (NP 
-         ,
          (NP 
           (DT os)
           (NP 
@@ -34,7 +32,6 @@
          )
         )
        )
-       ,
       )
       (NP 
        (DT os)
@@ -53,6 +50,5 @@
     )
    )
   )
-  .
  )
 )

@@ -22,9 +22,7 @@
      (VP 
       (VB é)
       (ADVP 
-       ,
        (RB certamente)
-       ,
       )
      )
      (NP 
@@ -45,7 +43,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (PP 
        (IN através)
@@ -65,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

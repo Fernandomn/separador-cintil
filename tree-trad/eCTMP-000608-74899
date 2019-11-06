@@ -9,7 +9,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS treinador)
       (PP 
@@ -39,19 +38,16 @@
        )
       )
      )
-     ,
     )
    )
    (VP 
     (VP 
      (VB é)
      (ADVP 
-      ,
       (ADVP 
        (RB por)
        (RB enquanto)
       )
-      ,
      )
     )
     (NP 
@@ -68,6 +64,5 @@
     )
    )
   )
-  .
  )
 )

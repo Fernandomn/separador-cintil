@@ -26,12 +26,10 @@
          )
         )
         (NP 
-         ,
          (NP 
           (NNS Benjamin)
           (NNS Netanyahu)
          )
-         ,
         )
        )
       )
@@ -50,7 +48,6 @@
           )
          )
          (NP 
-          ,
           (NP 
            (NNS David)
            (NNS Levy)
@@ -63,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

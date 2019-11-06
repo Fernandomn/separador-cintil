@@ -6,12 +6,10 @@
     (NP 
      (NNS propósitos)
      (ADJP 
-      ,
       (ADJP 
        (RB mesmo)
        (JJ correctos)
       )
-      ,
      )
     )
    )
@@ -25,6 +23,5 @@
     )
    )
   )
-  .
  )
 )

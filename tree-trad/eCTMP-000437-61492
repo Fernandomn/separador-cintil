@@ -7,7 +7,6 @@
      (RB outro)
      (RB lado)
     )
-    ,
    )
    (S 
     (NP 
@@ -44,9 +43,7 @@
        (VB constituem)
       )
       (ADVP 
-       ,
        (RB obviamente)
-       ,
       )
      )
      (NP 
@@ -55,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

@@ -7,14 +7,12 @@
    )
    (VP 
     (PP 
-     ,
      (PP 
       (IN de)
       (NP 
        (NNS resto)
       )
      )
-     ,
     )
     (VP 
      (RB não)
@@ -27,6 +25,5 @@
     )
    )
   )
-  .
  )
 )

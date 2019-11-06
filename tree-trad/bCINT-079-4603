@@ -27,8 +27,6 @@
         (NP 
          (NNS dicionário)
          (ADJP 
-          ''
-          ''
           (JJ on-line)
          )
         )
@@ -45,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

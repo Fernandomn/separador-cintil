@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Depois)
-    ,
    )
    (S 
     (S 
@@ -12,7 +11,6 @@
      )
      (VP 
       (PP 
-       ,
        (PP 
         (PP 
          (IN apesar)
@@ -32,7 +30,6 @@
          )
         )
        )
-       ,
       )
       (VP 
        (VP 
@@ -50,7 +47,6 @@
      (S 
       (VP 
        (S 
-        ,
         (S 
          (VP 
           (VB fitando)
@@ -60,7 +56,6 @@
           )
          )
         )
-        ,
        )
        (VP 
         (VB interpelou)
@@ -73,6 +68,5 @@
     )
    )
   )
-  :
  )
 )

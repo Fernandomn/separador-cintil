@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Actualmente)
-    ,
    )
    (S 
     (VP 
@@ -35,7 +34,6 @@
         (NP 
          (NNS Freixial)
          (PP 
-          ,
           (PP 
            (IN em)
            (NP 
@@ -50,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

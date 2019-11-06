@@ -9,12 +9,10 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS artista)
       (JJ plástico)
      )
-     ,
     )
    )
    (VP 
@@ -22,8 +20,6 @@
     (CONJP 
      (CC que)
      (S 
-      ''
-      ''
       (S 
        (VP 
         (VB é)
@@ -40,6 +36,5 @@
     )
    )
   )
-  .
  )
 )

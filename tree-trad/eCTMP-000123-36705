@@ -15,14 +15,12 @@
      (S 
       (VP 
        (PP 
-        ,
         (PP 
          (IN de)
          (NP 
           (NNS frente)
          )
         )
-        ,
        )
        (VB surgiu)
       )
@@ -37,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

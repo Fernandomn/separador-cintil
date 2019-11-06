@@ -9,9 +9,7 @@
     (IN para)
     (NP 
      (NP 
-      (CD 
-       ,
-      )
+      (CD 2,2)
       (NP 
        (NN por)
        (NN cento)

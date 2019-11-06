@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Finalmente)
-    ,
    )
    (S 
     (NP 
@@ -26,8 +25,6 @@
      (NP 
       (DT a)
       (NP 
-       ''
-       ''
        (NP 
         (JJ rápida)
         (NP 
@@ -66,6 +63,5 @@
     )
    )
   )
-  .
  )
 )

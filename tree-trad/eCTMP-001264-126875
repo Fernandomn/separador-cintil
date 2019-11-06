@@ -3,8 +3,6 @@
   (VP 
    (VB Há)
    (NP 
-    ''
-    ''
     (NP 
      (NNS alunos)
      (CONJP 
@@ -34,7 +32,6 @@
                 (JJ grave)
                )
                (ADJP 
-                ,
                 (JJ dura)
                )
               )
@@ -50,6 +47,5 @@
     )
    )
   )
-  .
  )
 )

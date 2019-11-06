@@ -6,13 +6,11 @@
      (NNS ABB)
     )
     (NP 
-     ,
      (NP 
       (NP 
        (NNS Noel)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (NNS Maquisa)
@@ -70,6 +68,5 @@
     )
    )
   )
-  .
  )
 )

@@ -31,7 +31,6 @@
              (CD cinco)
              (NNS jogos)
             )
-            ,
            )
            (NP 
             (CC ou)
@@ -40,8 +39,6 @@
              (NP 
               (DT um)
               (NP 
-               ''
-               ''
                (NNS set)
               )
              )
@@ -55,7 +52,6 @@
      )
     )
    )
-   .
   )
  )
 )

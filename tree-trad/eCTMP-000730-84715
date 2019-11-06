@@ -21,14 +21,11 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NP 
         (DT o)
         (NP 
          (NP 
-          ''
-          ''
           (NNS príncipe)
          )
          (PP 
@@ -36,8 +33,6 @@
           (NP 
            (DT os)
            (NP 
-            ''
-            ''
             (NP 
              (NNS analistas)
              (JJ políticos)
@@ -48,7 +43,6 @@
         )
        )
        (NP 
-        ,
         (NP 
          (DT o)
          (NP 
@@ -68,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

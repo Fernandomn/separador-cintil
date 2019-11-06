@@ -4,13 +4,10 @@
    (VP 
     (ADVP 
      (RB Doravante)
-     ,
     )
     (VP 
      (VB somos)
      (NP 
-      ''
-      ''
       (NP 
        (DT a)
        (NP 
@@ -68,6 +65,5 @@
     )
    )
   )
-  .
  )
 )

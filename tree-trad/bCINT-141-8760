@@ -2,8 +2,6 @@
  (S 
   (S 
    (NP 
-    ''
-    ''
     (NP 
      (NNS Absent)
      (NNS Friends)
@@ -29,6 +27,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,7 +9,6 @@
       (NNS lado)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -20,7 +19,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS treinador)
        (PP 
@@ -31,12 +29,10 @@
         )
        )
       )
-      ,
      )
     )
     (VB declarou)
    )
   )
-  :
  )
 )

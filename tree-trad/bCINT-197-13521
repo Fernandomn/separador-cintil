@@ -9,7 +9,6 @@
       (NP 
        (NP 
         (NNS cargueiros)
-        ,
        )
        (PP 
         (IN com)
@@ -47,7 +46,6 @@
        (RB bem)
       )
       (S 
-       ,
        (S 
         (VP 
          (VB economizando)
@@ -64,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

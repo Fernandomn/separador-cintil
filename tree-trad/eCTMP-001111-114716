@@ -25,7 +25,6 @@
    )
    (VP 
     (CONJP 
-     ,
      (CONJP 
       (CC se)
       (S 
@@ -35,11 +34,9 @@
        (VB quiser)
       )
      )
-     ,
     )
     (VB acabou)
    )
   )
-  .
  )
 )

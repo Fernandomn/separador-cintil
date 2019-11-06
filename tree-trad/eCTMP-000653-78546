@@ -15,7 +15,6 @@
       (NP 
        (NNS Kilgore)
        (PP 
-        ,
         (PP 
          (IN em_)
          (NP 
@@ -34,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

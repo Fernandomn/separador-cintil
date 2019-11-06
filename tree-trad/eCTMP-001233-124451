@@ -5,7 +5,6 @@
     (DT A)
     (NP 
      (NNS Continental)
-     (NNS /)
      (NNS Mabor)
     )
    )
@@ -23,6 +22,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,7 +9,6 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (CC porque)
       (S 
@@ -27,6 +26,5 @@
     )
    )
   )
-  .
  )
 )

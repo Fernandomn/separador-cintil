@@ -9,7 +9,6 @@
       (NNS contrário)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -28,9 +27,7 @@
          (IN de)
          (NP 
           (NP 
-           (CD 
-            ,
-           )
+           (CD 0,15)
            (NP 
             (NN por)
             (NN cento)
@@ -44,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

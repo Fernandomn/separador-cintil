@@ -21,12 +21,10 @@
        (VP 
         (VB será)
         (ADVP 
-         ,
          (ADVP 
           (RB de)
           (RB novo)
          )
-         ,
         )
        )
        (VB analisado)
@@ -72,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

@@ -26,7 +26,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -68,7 +67,6 @@
                 (NP 
                  (NNS cinema)
                  (ADJP 
-                  ,
                   (ADJP 
                    (RB agora)
                    (ADJP 
@@ -101,6 +99,5 @@
     )
    )
   )
-  .
  )
 )

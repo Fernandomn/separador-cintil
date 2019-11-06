@@ -5,7 +5,6 @@
     (S 
      (ADVP 
       (RB Portanto)
-      ,
      )
      (S 
       (NP 
@@ -16,7 +15,6 @@
          (NNS semana)
         )
        )
-       ,
       )
       (VP 
        (VB é)
@@ -32,12 +30,10 @@
     )
    )
    (S 
-    ,
     (S 
      (VB insistiu)
     )
    )
   )
-  .
  )
 )

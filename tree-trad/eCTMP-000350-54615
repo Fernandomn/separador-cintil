@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Aí)
-    ,
    )
    (S 
     (S 
@@ -13,13 +12,11 @@
        (NNS director-tesoureiro)
       )
       (NP 
-       ,
        (NP 
         (NNS José)
         (NNS Alberto)
         (NNS Pinto)
        )
-       ,
       )
      )
      (VP 
@@ -78,6 +75,5 @@
     )
    )
   )
-  .
  )
 )

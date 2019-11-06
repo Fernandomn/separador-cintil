@@ -22,9 +22,7 @@
          (VP 
           (VB falava)
           (ADVP 
-           ,
            (RB afinal)
-           ,
           )
          )
         )
@@ -37,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

@@ -10,7 +10,6 @@
     )
     (VP 
      (PP 
-      ,
       (PP 
        (IN por_)
        (NP 
@@ -18,7 +17,6 @@
         (NNS contrário)
        )
       )
-      ,
      )
      (VB fazia)
     )
@@ -36,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

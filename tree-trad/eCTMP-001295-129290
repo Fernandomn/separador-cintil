@@ -10,7 +10,6 @@
      (VB poderá)
      (VP 
       (PP 
-       ,
        (PP 
         (IN em_)
         (NP 
@@ -18,7 +17,6 @@
          (NNS altura)
         )
        )
-       ,
       )
       (VP 
        (VP 
@@ -84,6 +82,5 @@
     )
    )
   )
-  .
  )
 )

@@ -15,7 +15,6 @@
           (JJ desnecessário)
          )
          (ADJP 
-          ,
           (ADJP 
            (VB feito)
            (ADVP 
@@ -27,7 +26,6 @@
         )
        )
       )
-      ;
      )
      (NP 
       (DT um)
@@ -39,6 +37,5 @@
     )
    )
   )
-  .
  )
 )

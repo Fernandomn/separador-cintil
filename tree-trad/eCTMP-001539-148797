@@ -16,7 +16,6 @@
        (NNS Vincent)
       )
       (CONJP 
-       ,
        (CONJP 
         (NP 
          (PRP que)
@@ -36,8 +35,6 @@
           (PP 
            (IN com)
            (NP 
-            ''
-            ''
             (NP 
              (NNS La)
              (NNS Discrète)
@@ -52,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

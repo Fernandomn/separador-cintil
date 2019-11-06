@@ -5,8 +5,6 @@
     (NP 
      (JJ referido)
      (NP 
-      ''
-      ''
       (NNS Fórum)
      )
     )
@@ -40,10 +38,7 @@
           )
          )
          (NP 
-          ,
           (NP 
-           ''
-           ''
            (NP 
             (DT A)
             (NP 
@@ -54,7 +49,6 @@
             )
            )
           )
-          ,
          )
         )
        )
@@ -65,9 +59,7 @@
         (NP 
          (CD primeiros)
          (NP 
-          (CD 
-           .
-          )
+          (CD 20.000)
           (NNS exemplares)
          )
         )
@@ -88,6 +80,5 @@
     )
    )
   )
-  .
  )
 )

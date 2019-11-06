@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Felizmente)
-    ,
    )
    (S 
     (NP 
@@ -28,8 +27,6 @@
         (DT a)
         (NP 
          (NP 
-          ''
-          ''
           (NNS carolice)
          )
          (PP 
@@ -50,12 +47,10 @@
          (VB promova)
         )
         (ADVP 
-         ,
          (ADVP 
           (RB de)
           (RB facto)
          )
-         ,
         )
        )
        (NP 
@@ -79,6 +74,5 @@
     )
    )
   )
-  .
  )
 )

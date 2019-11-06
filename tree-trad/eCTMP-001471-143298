@@ -21,8 +21,6 @@
         (NP 
          (JJ possível)
          (NP 
-          ''
-          ''
           (NP 
            (NNS bloqueio)
            (PP 
@@ -39,7 +37,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (CC e)
@@ -49,8 +46,6 @@
       (CONJP 
        (CC que)
        (S 
-        ''
-        ''
         (VP 
          (VB há)
          (NP 
@@ -70,6 +65,5 @@
     )
    )
   )
-  .
  )
 )

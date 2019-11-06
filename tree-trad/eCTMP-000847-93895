@@ -4,15 +4,13 @@
    (NP 
     (NNS Peter)
     (NNS Graff)
-    (NNS *)
    )
-   ,
-  )
-  (VP 
-   (PP 
-    (IN em)
-    (NP 
-     (NNS Tbilissi)
+   (VP 
+    (PP 
+     (IN em)
+     (NP 
+      (NNS Tbilissi)
+     )
     )
    )
   )

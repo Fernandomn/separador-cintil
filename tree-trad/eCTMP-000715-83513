@@ -13,14 +13,12 @@
           (NNS trabalho)
          )
          (NP 
-          ,
           (NP 
            (DT a)
            (NNS bola)
           )
          )
         )
-        ,
        )
        (NP 
         (DT o)
@@ -35,7 +33,6 @@
         )
        )
       )
-      ,
      )
      (NP 
       (DT os)
@@ -44,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

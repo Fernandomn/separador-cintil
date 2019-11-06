@@ -12,7 +12,6 @@
     (VP 
      (VB desenvolvem)
      (PP 
-      ,
       (PP 
        (IN durante)
        (NP 
@@ -20,7 +19,6 @@
         (NNS meses)
        )
       )
-      ,
      )
     )
     (NP 
@@ -53,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

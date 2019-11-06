@@ -16,7 +16,6 @@
        (NP 
         (NNS ONU)
         (CONJP 
-         ,
          (CONJP 
           (NP 
            (PRP que)
@@ -35,6 +34,5 @@
     )
    )
   )
-  :
  )
 )

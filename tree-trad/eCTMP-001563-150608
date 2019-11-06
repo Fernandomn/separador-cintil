@@ -19,7 +19,6 @@
         )
        )
        (NP 
-        ,
         (NP 
          (NP 
           (NNS analista)
@@ -32,8 +31,6 @@
            (NP 
             (NNS jornal)
             (NP 
-             ''
-             ''
              (NNS Segdonia)
             )
            )
@@ -46,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

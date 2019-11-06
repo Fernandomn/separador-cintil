@@ -7,9 +7,7 @@
    )
    (VP 
     (ADVP 
-     ,
      (RB portanto)
-     ,
     )
     (VP 
      (VP 
@@ -25,6 +23,5 @@
     )
    )
   )
-  .
  )
 )

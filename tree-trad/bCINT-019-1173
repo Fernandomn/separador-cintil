@@ -10,8 +10,6 @@
        (NP 
         (NP 
          (NP 
-          ''
-          ''
           (NNS irmãos)
          )
          (PP 
@@ -39,7 +37,6 @@
        )
       )
      )
-     ,
     )
     (VP 
      (VB irão)
@@ -54,7 +51,6 @@
     (NP 
      (NNS medidas)
      (PP 
-      ,
       (PP 
        (IN de)
        (NP 
@@ -68,6 +64,5 @@
     )
    )
   )
-  .
  )
 )

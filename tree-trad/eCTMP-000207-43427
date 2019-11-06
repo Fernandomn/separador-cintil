@@ -9,7 +9,6 @@
       (NNS detidos)
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -24,14 +23,12 @@
       (NNS general)
      )
      (NP 
-      ,
       (NP 
        (NP 
         (CD dois)
         (NNS coronéis)
        )
        (NP 
-        ,
         (NP 
          (NP 
           (DT um)
@@ -51,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

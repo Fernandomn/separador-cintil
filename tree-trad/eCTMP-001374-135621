@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Paradoxalmente)
-    ,
    )
    (S 
     (NP 
@@ -17,7 +16,6 @@
         )
        )
        (NP 
-        ,
         (NP 
          (DT o)
          (NP 
@@ -34,7 +32,6 @@
           )
          )
         )
-        ,
        )
       )
      )
@@ -49,12 +46,10 @@
         )
        )
        (NP 
-        ,
         (NP 
          (NNS Andres)
          (NNS Pastrana)
         )
-        ,
        )
       )
      )
@@ -77,6 +72,5 @@
     )
    )
   )
-  .
  )
 )

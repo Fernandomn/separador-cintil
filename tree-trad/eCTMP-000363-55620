@@ -17,7 +17,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN para)
       (NP 
@@ -43,8 +42,6 @@
                 (NP 
                  (NNS programa)
                  (NP 
-                  ''
-                  ''
                   (NNS Instrumentos)
                  )
                 )
@@ -62,6 +59,5 @@
     )
    )
   )
-  .
  )
 )

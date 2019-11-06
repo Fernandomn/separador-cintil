@@ -41,7 +41,6 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (CC embora)
       (S 
@@ -49,8 +48,6 @@
         (DT o)
         (NP 
          (NP 
-          ''
-          ''
           (NNS capitão)
          )
          (JJ checo)
@@ -93,6 +90,5 @@
     )
    )
   )
-  .
  )
 )

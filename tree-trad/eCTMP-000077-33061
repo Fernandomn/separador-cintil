@@ -9,7 +9,6 @@
       (NNS argumentos)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -37,7 +36,6 @@
            (NNS Olivais)
           )
           (CONJP 
-           ,
            (CONJP 
             (RB onde)
             (S 
@@ -70,8 +68,6 @@
                  )
                 )
                 (PP 
-                 ''
-                 ''
                  (PP 
                   (IN com)
                   (NP 
@@ -99,6 +95,5 @@
     )
    )
   )
-  .
  )
 )

@@ -6,12 +6,10 @@
     (NP 
      (NNS catálogo)
      (ADJP 
-      ,
       (ADJP 
        (RB sempre)
        (VB actualizado)
       )
-      ,
      )
     )
    )
@@ -31,6 +29,5 @@
     )
    )
   )
-  .
  )
 )

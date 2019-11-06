@@ -7,7 +7,6 @@
      (RB outro)
      (RB lado)
     )
-    ,
    )
    (S 
     (NP 
@@ -55,9 +54,7 @@
        )
       )
      )
-     ,
-     (CC sem)
-     (CC que)
+     (CONJP sem que)
      (S 
       (VP 
        (VB tenha)
@@ -86,6 +83,5 @@
     )
    )
   )
-  .
  )
 )

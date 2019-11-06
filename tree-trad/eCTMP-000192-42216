@@ -10,7 +10,6 @@
     )
     (VP 
      (PP 
-      ,
       (PP 
        (IN durante)
        (NP 
@@ -18,7 +17,6 @@
         (NNS trégua)
        )
       )
-      ,
      )
      (VP 
       (VB tenho)
@@ -39,7 +37,6 @@
          )
         )
         (ADVP 
-         ,
          (RB calmamente)
         )
        )
@@ -48,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

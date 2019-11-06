@@ -28,6 +28,9 @@ def reconstroiArvoreObj(frase, indice, arvore):
             return i + indice, subarvore
 
         elif caracter in settings.pointList:
+            if frase[i + 1] != ')':
+                i += 1
+                continue
             point = caracter if not (caracter == '"' or caracter == "'") else caracter + caracter
             subarvore = s.Sintagma(settings.pointTag, [], arvore.classe, point)
             arvore.filhos.append(subarvore)
@@ -56,7 +59,6 @@ def setRemoveTagsObj(arvore):
     if arvore.classe == settings.CPTag:
         for filho in arvore.filhos:
             if filho.classe == settings.CPBarTag:
-                # to_remove = True
                 filho.classe = settings.CPTag
         arvore.classe = settings.removeTag
 
@@ -84,8 +86,7 @@ def imprimeArvoreObj(arvore, nivel):
 
     # raiz
     if arvore.classe == '':
-        return '(\n{0})'.format(imprimeArvoreObj(arvore.filhos[0], nivel+1))
-        # return imprimeArvoreObj(arvore.filhos[0], nivel)
+        return '(\n{0})'.format(imprimeArvoreObj(arvore.filhos[0], nivel + 1))
 
     # nao-terminal
     if len(arvore.filhos) > 0:
@@ -94,7 +95,7 @@ def imprimeArvoreObj(arvore, nivel):
         if arvore.classe in settings.wordLevelTags and arvore.valor != '':
             for filho in arvore.filhos:
                 string_filhos += filho.valor + ' '
-            # string_filhos = string_filhos
+
             string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, string_filhos.strip())
         else:
             for filho in arvore.filhos:
@@ -104,7 +105,8 @@ def imprimeArvoreObj(arvore, nivel):
     # terminal
     else:
         if arvore.classe == settings.pointTag:
-            string_retorno = '{0}{1}\n'.format(espaco_esquerda, arvore.valor)
+            # string_retorno = '{0}{1}\n'.format(espaco_esquerda, arvore.valor)
+            string_retorno = ''
         else:
             string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, arvore.valor)
 

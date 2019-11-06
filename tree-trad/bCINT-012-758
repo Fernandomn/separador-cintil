@@ -21,14 +21,12 @@
     (VP 
      (VB foi)
      (PP 
-      ,
       (PP 
        (IN de)
        (NP 
         (NNS resto)
        )
       )
-      ,
      )
     )
     (VP 
@@ -46,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

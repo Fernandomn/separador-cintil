@@ -40,8 +40,6 @@
              (NP 
               (NNS frase)
               (NP 
-               ''
-               ''
                (NP 
                 (NNS Stop)
                 (NNS it)
@@ -60,6 +58,5 @@
     )
    )
   )
-  .
  )
 )

@@ -7,13 +7,11 @@
    )
    (VP 
     (ADVP 
-     ,
      (ADVP 
       (RB em_)
       (RB o)
       (RB entanto)
      )
-     ,
     )
     (VP 
      (VP 
@@ -32,6 +30,5 @@
     )
    )
   )
-  :
  )
 )

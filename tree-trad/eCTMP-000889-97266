@@ -13,14 +13,12 @@
      (VP 
       (VB são)
       (PP 
-       ,
        (PP 
         (IN por)
         (NP 
          (DT isso)
         )
        )
-       ,
       )
      )
      (VB admitidas)
@@ -40,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

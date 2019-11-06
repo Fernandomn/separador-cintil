@@ -5,7 +5,6 @@
     (ADJP 
      (ADJP 
       (JJ Simples)
-      ,
      )
      (PP 
       (PP 
@@ -17,24 +16,19 @@
            (NNS canções)
            (JJ fortes)
           )
-          ,
          )
          (NP 
           (PRP muitos)
           (NP 
-           ''
-           ''
            (NNS singles)
           )
          )
         )
        )
-       ,
       )
       (ADJP 
        (JJ cru)
        (ADJP 
-        ,
         (ADJP 
          (JJ duro)
          (ADJP 
@@ -48,6 +42,5 @@
     )
    )
   )
-  .
  )
 )

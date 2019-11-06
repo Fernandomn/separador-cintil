@@ -9,9 +9,7 @@
     (VP 
      (VB encontraram)
      (ADVP 
-      ,
       (RB pois)
-      ,
      )
     )
     (NP 
@@ -23,6 +21,5 @@
     )
    )
   )
-  .
  )
 )

@@ -12,7 +12,6 @@
       (NP 
        (NNS Tschiertschen)
        (PP 
-        ,
         (PP 
          (IN em_)
          (NP 
@@ -26,6 +25,5 @@
     )
    )
   )
-  .
  )
 )

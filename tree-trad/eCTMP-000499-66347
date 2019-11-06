@@ -4,7 +4,6 @@
    (VP 
     (VB Havia)
     (PP 
-     ,
      (PP 
       (PP 
        (IN além)
@@ -14,7 +13,6 @@
        (DT isso)
       )
      )
-     ,
     )
    )
    (NP 
@@ -22,6 +20,5 @@
     (NNS coisa)
    )
   )
-  .
  )
 )

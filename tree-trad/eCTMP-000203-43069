@@ -15,7 +15,6 @@
          (NP 
           (NNS concepção)
           (NP 
-           ,
            (NP 
             (NNS construção)
             (NP 
@@ -44,8 +43,6 @@
    (VP 
     (VB teve)
     (NP 
-     ''
-     ''
      (NP 
       (DT um)
       (NP 
@@ -56,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

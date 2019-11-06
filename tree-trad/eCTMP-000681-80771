@@ -22,7 +22,6 @@
             (NP 
              (NNS hoteleiros)
              (CONJP 
-              ,
               (CONJP 
                (NP 
                 (PRP que)
@@ -32,7 +31,6 @@
                  (VP 
                   (VB geriam)
                   (PP 
-                   ,
                    (PP 
                     (IN em)
                     (NP 
@@ -42,7 +40,6 @@
                      )
                     )
                    )
-                   ,
                   )
                  )
                  (NP 
@@ -84,6 +81,5 @@
     )
    )
   )
-  .
  )
 )

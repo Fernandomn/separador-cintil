@@ -14,13 +14,11 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS António)
       (NNS de)
       (NNS Sousa)
      )
-     ,
     )
    )
    (VP 
@@ -31,6 +29,5 @@
     )
    )
   )
-  .
  )
 )

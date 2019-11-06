@@ -27,7 +27,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -43,7 +42,6 @@
         (NP 
          (NNS Jennifer)
          (CONJP 
-          ,
           (CONJP 
            (NP 
             (PRP que)
@@ -58,8 +56,6 @@
                (PP 
                 (IN de)
                 (NP 
-                 ''
-                 ''
                  (NP 
                   (NNS génio)
                   (JJ mau)
@@ -79,6 +75,5 @@
     )
    )
   )
-  .
  )
 )

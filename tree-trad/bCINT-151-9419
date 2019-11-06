@@ -7,7 +7,6 @@
      (RB outro)
      (RB lado)
     )
-    ,
    )
    (S 
     (NP 
@@ -19,8 +18,6 @@
      (CONJP 
       (CC que)
       (S 
-       ''
-       ''
        (VP 
         (PP 
          (IN por)
@@ -47,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

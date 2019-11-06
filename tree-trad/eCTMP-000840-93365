@@ -5,14 +5,12 @@
     (VP 
      (VB Determinou)
      (PP 
-      ,
       (PP 
        (IN por)
        (NP 
         (DT isso)
        )
       )
-      ,
      )
     )
     (NP 
@@ -28,7 +26,6 @@
           (NNS julgamento)
          )
          (CONJP 
-          ,
           (CONJP 
            (PP 
             (IN em)
@@ -118,6 +115,5 @@
     )
    )
   )
-  .
  )
 )

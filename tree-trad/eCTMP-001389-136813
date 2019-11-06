@@ -6,12 +6,10 @@
     (NP 
      (NNS aproximação)
      (ADJP 
-      ,
       (ADJP 
        (RB agora)
        (VB iniciada)
       )
-      ,
      )
     )
    )
@@ -34,6 +32,5 @@
     )
    )
   )
-  :
  )
 )

@@ -4,15 +4,12 @@
    (NP 
     (NP 
      (NP 
-      ''
-      ''
       (NP 
        (NNS The)
        (NNS Orchestra)
       )
      )
      (PP 
-      ,
       (PP 
        (IN de)
        (NP 
@@ -22,7 +19,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -31,15 +27,12 @@
     (NP 
      (NP 
       (NP 
-       ''
-       ''
        (NP 
         (NNS The)
         (NNS Passing)
        )
       )
       (PP 
-       ,
        (PP 
         (IN de)
         (NP 
@@ -54,6 +47,5 @@
     )
    )
   )
-  .
  )
 )

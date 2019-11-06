@@ -22,8 +22,6 @@
      (VB foi)
      (NP 
       (NP 
-       ''
-       ''
        (NP 
         (NNS The)
         (NNS Fool)
@@ -37,7 +35,6 @@
        )
       )
       (NP 
-       ,
        (NP 
         (DT uma)
         (NP 
@@ -75,6 +72,5 @@
     )
    )
   )
-  .
  )
 )

@@ -11,9 +11,7 @@
     (VP 
      (VB ganhou)
      (NP 
-      (CD 
-       ,
-      )
+      (CD 15,12)
       (NNS pontos)
      )
     )
@@ -28,9 +26,7 @@
        (NP 
         (DT os)
         (NP 
-         (CD 
-          ,
-         )
+         (CD 2187,04)
          (NNS pontos)
         )
        )
@@ -39,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

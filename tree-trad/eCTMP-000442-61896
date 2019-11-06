@@ -5,14 +5,12 @@
     (ADJP 
      (JJ Discreto)
      (ADJP 
-      ,
       (ADJP 
        (ADJP 
         (ADJP 
          (RB pouco)
          (JJ ruidoso)
         )
-        ,
        )
        (ADJP 
         (CC mas)
@@ -23,6 +21,5 @@
     )
    )
   )
-  .
  )
 )

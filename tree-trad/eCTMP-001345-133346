@@ -9,14 +9,11 @@
       (NP 
        (NNS jornal)
        (NP 
-        ''
-        ''
         (NNS Sonntagszeitung)
        )
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -59,6 +56,5 @@
     )
    )
   )
-  .
  )
 )

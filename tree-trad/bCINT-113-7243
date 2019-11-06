@@ -38,12 +38,10 @@
              )
             )
             (NP 
-             ,
              (NP 
               (NNS James)
               (NNS Schlessinger)
              )
-             ,
             )
            )
           )
@@ -64,7 +62,6 @@
             )
            )
            (NP 
-            ,
             (NP 
              (NNS Lord)
              (NNS Cromer)
@@ -79,6 +76,5 @@
     )
    )
   )
-  .
  )
 )

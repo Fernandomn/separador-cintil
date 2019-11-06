@@ -19,7 +19,6 @@
          (NNS ouro)
         )
         (NP 
-         ,
          (NP 
           (NP 
            (NP 
@@ -27,9 +26,7 @@
             (JJ puro)
            )
            (ADJP 
-            ,
             (JJ maciço)
-            ,
            )
           )
           (JJ genuíno)
@@ -41,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

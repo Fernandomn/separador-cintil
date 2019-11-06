@@ -3,8 +3,6 @@
   (S 
    (NP 
     (NNS Fall)
-    ''
-    ''
    )
    (VP 
     (VP 
@@ -14,8 +12,6 @@
       (NP 
        (JJ potencial)
        (NP 
-        ''
-        ''
         (NNS single)
        )
       )
@@ -23,6 +19,5 @@
     )
    )
   )
-  .
  )
 )

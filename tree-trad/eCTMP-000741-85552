@@ -7,7 +7,6 @@
      (RB um)
      (RB lado)
     )
-    ,
    )
    (S 
     (NP 
@@ -31,7 +30,6 @@
             (ADJP 
              (JJ portuguesa)
              (CONJP 
-              ,
               (CONJP 
                (PP 
                 (IN de)
@@ -65,6 +63,5 @@
     )
    )
   )
-  .
  )
 )

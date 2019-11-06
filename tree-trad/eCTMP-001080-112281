@@ -1,7 +1,5 @@
 (
  (S 
-  ''
-  ''
   (S 
    (VP 
     (VB Podemos)
@@ -24,7 +22,6 @@
          (NP 
           (NNS Quim)
           (NNS 
-           .
           )
          )
         )

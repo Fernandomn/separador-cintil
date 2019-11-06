@@ -12,9 +12,7 @@
     (CC e)
     (S 
      (ADVP 
-      ,
       (RB ontem)
-      ,
      )
      (S 
       (NP 
@@ -42,14 +40,12 @@
        (VP 
         (VB foi)
         (PP 
-         ,
          (PP 
           (IN para)
           (NP 
            (PRP alguns)
           )
          )
-         ,
         )
        )
        (NP 
@@ -70,6 +66,5 @@
     )
    )
   )
-  .
  )
 )

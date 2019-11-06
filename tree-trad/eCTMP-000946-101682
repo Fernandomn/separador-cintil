@@ -6,7 +6,6 @@
      (ADVP 
       (ADVP 
        (RB Depois)
-       ,
       )
       (PP 
        (CC e)
@@ -27,7 +26,6 @@
        )
       )
      )
-     ,
     )
     (VB aparece)
    )
@@ -36,6 +34,5 @@
     (NNS cinema)
    )
   )
-  .
  )
 )

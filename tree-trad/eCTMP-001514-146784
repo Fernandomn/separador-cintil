@@ -11,14 +11,12 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS ex-presidente)
       (NNS de_)
       (NNS a)
       (NNS CPD)
      )
-     ,
     )
    )
    (VP 
@@ -43,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

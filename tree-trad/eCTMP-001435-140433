@@ -4,7 +4,6 @@
    (RB Depois)
    (S 
     (CONJP 
-     ,
      (CONJP 
       (CC quando)
       (S 
@@ -15,7 +14,6 @@
        (VB surgem)
       )
      )
-     ,
     )
     (S 
      (NP 
@@ -30,6 +28,5 @@
     )
    )
   )
-  .
  )
 )

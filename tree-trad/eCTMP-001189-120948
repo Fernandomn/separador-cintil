@@ -6,12 +6,10 @@
     (NP 
      (NNS cantor)
      (ADJP 
-      ,
       (ADJP 
        (RB já)
        (VB recomposto)
       )
-      ,
      )
     )
    )
@@ -42,6 +40,5 @@
     )
    )
   )
-  :
  )
 )

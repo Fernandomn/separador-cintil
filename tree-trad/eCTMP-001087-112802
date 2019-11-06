@@ -5,7 +5,6 @@
     (ADVP 
      (ADVP 
       (RB Assim)
-      ,
      )
      (PP 
       (CC e)
@@ -18,7 +17,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -32,9 +30,7 @@
      (VB adianta)
      (NP 
       (NP 
-       (CD 
-        ,
-       )
+       (CD 38,8)
        (CD mil)
       )
       (NNS contos)
@@ -42,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

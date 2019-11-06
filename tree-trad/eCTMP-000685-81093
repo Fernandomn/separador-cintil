@@ -12,21 +12,18 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NP 
        (NNS carros)
        (JJ desfeitos)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (NNS árvores)
          (JJ arrancadas)
         )
         (NP 
-         ,
          (NP 
           (NNS entulho)
           (NP 
@@ -53,6 +50,5 @@
     )
    )
   )
-  .
  )
 )

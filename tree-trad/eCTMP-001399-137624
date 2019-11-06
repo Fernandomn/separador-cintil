@@ -16,12 +16,10 @@
      (S 
       (VP 
        (ADVP 
-        ,
         (ADVP 
          (RB pouco)
          (RB depois)
         )
-        ,
        )
        (VB declarou)
       )
@@ -29,6 +27,5 @@
     )
    )
   )
-  :
  )
 )

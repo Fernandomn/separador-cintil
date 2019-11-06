@@ -10,7 +10,6 @@
       (NP 
        (NNS barraca)
        (PP 
-        ,
         (PP 
          (IN a_)
          (NP 
@@ -22,8 +21,6 @@
             (NP 
              (DT o)
              (NP 
-              ''
-              ''
               (NNS shopping)
              )
             )
@@ -37,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

@@ -2,19 +2,14 @@
  (S 
   (NP 
    (NP 
-    ''
-    ''
     (NP 
      (NNS The)
      (NNS Paleface)
     )
    )
    (NP 
-    ,
     (NP 
      (NP 
-      ''
-      ''
       (NP 
        (NNS The)
        (NNS Haunted)
@@ -24,8 +19,6 @@
      (NP 
       (CC e)
       (NP 
-       ''
-       ''
        (NP 
         (NNS The)
         (NNS General)
@@ -35,6 +28,5 @@
     )
    )
   )
-  .
  )
 )

@@ -16,8 +16,6 @@
      (VP 
       (VB é)
       (NP 
-       ''
-       ''
        (NP 
         (NP 
          (DT um)
@@ -26,9 +24,7 @@
        )
       )
      )
-     ,
-     (CC desde)
-     (CC que)
+     (CONJP desde que)
      (S 
       (VP 
        (VB tenha)
@@ -52,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

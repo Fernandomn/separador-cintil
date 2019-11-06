@@ -25,8 +25,6 @@
         (DT o)
         (NP 
          (NP 
-          ''
-          ''
           (NP 
            (NNS Velho)
            (NNS de_)
@@ -35,7 +33,6 @@
           )
          )
          (ADJP 
-          ,
           (ADJP 
            (VB interpretado)
            (PP 
@@ -56,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

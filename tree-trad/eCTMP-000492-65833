@@ -11,8 +11,6 @@
       (NP 
        (NP 
         (NP 
-         ''
-         ''
          (NP 
           (DT uma)
           (NP 
@@ -42,8 +40,6 @@
         (NP 
          (CC e)
          (NP 
-          ''
-          ''
           (NP 
            (DT um)
            (NP 
@@ -77,7 +73,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN segundo)
       (NP 
@@ -91,6 +86,5 @@
     )
    )
   )
-  .
  )
 )

@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Entretanto)
-    ,
    )
    (S 
     (PP 
@@ -25,7 +24,6 @@
         (NNS tema)
        )
       )
-      ,
      )
      (S 
       (S 
@@ -96,6 +94,5 @@
     )
    )
   )
-  .
  )
 )

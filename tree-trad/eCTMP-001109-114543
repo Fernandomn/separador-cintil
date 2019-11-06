@@ -5,7 +5,6 @@
     (ADVP 
      (ADVP 
       (RB Agora)
-      ,
      )
      (PP 
       (IN a_)
@@ -18,7 +17,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -30,7 +28,6 @@
       (NNS de)
       (NNS Córdoba)
      )
-     ,
     )
     (VP 
      (VB é)
@@ -61,6 +58,5 @@
     )
    )
   )
-  .
  )
 )

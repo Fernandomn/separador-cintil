@@ -19,14 +19,12 @@
      (VP 
       (VB ter)
       (PP 
-       ,
        (PP 
         (IN em)
         (NP 
          (NNS Junho)
         )
        )
-       ,
       )
      )
      (NP 
@@ -39,6 +37,5 @@
     )
    )
   )
-  .
  )
 )

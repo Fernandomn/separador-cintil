@@ -9,7 +9,6 @@
     )
     (VP 
      (PP 
-      ,
       (PP 
        (PP 
         (IN apesar)
@@ -20,7 +19,6 @@
         (NNS sobressaltos)
        )
       )
-      ,
      )
      (VP 
       (VP 
@@ -68,6 +66,5 @@
     )
    )
   )
-  .
  )
 )

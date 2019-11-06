@@ -15,7 +15,6 @@
       )
      )
     )
-    ,
    )
    (VP 
     (VB evoluíram)
@@ -29,9 +28,7 @@
         (IN de)
         (NP 
          (NP 
-          (CD 
-           ,
-          )
+          (CD 8,5)
           (NP 
            (NN por)
            (NN cento)
@@ -44,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

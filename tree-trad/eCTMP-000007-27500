@@ -14,7 +14,6 @@
       )
      )
     )
-    ,
    )
    (VP 
     (VP 
@@ -30,8 +29,6 @@
       (NP 
        (NNS orçamento)
        (ADJP 
-        ''
-        ''
         (ADJP 
          (JJ típico)
          (PP 
@@ -66,6 +63,5 @@
     )
    )
   )
-  .
  )
 )

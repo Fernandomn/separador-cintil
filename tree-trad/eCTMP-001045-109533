@@ -17,14 +17,11 @@
       (NP 
        (DT os)
        (NP 
-        (CD 
-         ,
-        )
+        (CD 1878,5)
         (NNS pontos)
        )
       )
       (NP 
-       ,
        (NP 
         (DT uma)
         (NP 
@@ -33,9 +30,7 @@
           (IN de)
           (NP 
            (NP 
-            (CD 
-             ,
-            )
+            (CD 1,35)
             (NP 
              (NN por)
              (NN cento)
@@ -50,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

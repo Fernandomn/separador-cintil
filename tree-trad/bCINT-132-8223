@@ -3,8 +3,6 @@
   (S 
    (CONJP 
     (S 
-     ''
-     ''
      (S 
       (VP 
        (RB Nunca)
@@ -18,7 +16,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -38,7 +35,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS Michael)
        (NNS Bloomberg)
@@ -47,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,14 +9,12 @@
        (NNS actos)
       )
       (NP 
-       ,
        (NP 
         (DT as)
         (NNS fugas)
        )
       )
      )
-     ,
     )
     (NP 
      (DT a)
@@ -48,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

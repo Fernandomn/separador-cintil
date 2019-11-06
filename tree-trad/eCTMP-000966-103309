@@ -35,7 +35,6 @@
            )
           )
           (ADJP 
-           ,
            (ADJP 
             (VB produzidas)
             (PP 
@@ -66,6 +65,5 @@
     )
    )
   )
-  .
  )
 )

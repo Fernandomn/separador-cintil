@@ -9,7 +9,6 @@
       (NNS verdade)
      )
     )
-    ,
    )
    (S 
     (S 
@@ -49,8 +48,6 @@
          (RB activamente)
         )
         (PP 
-         ''
-         ''
          (PP 
           (IN em_)
           (NP 
@@ -75,6 +72,5 @@
     )
    )
   )
-  .
  )
 )

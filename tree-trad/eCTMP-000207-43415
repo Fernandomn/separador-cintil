@@ -3,8 +3,6 @@
   (S 
    (CONJP 
     (S 
-     ''
-     ''
      (S 
       (NP 
        (NP 
@@ -30,7 +28,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -49,7 +46,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS Raymundo)
        (NNS Punongbayan)
@@ -58,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

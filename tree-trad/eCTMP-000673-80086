@@ -21,10 +21,7 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
-       ''
-       ''
        (CONJP 
         (RB onde)
         (S 
@@ -68,8 +65,6 @@
                    (ADJP 
                     (ADJP 
                      (JJ aceitável)
-                     ''
-                     ''
                     )
                    )
                   )
@@ -89,6 +84,5 @@
     )
    )
   )
-  .
  )
 )

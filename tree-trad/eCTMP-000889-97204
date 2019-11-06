@@ -3,7 +3,6 @@
   (S 
    (NP 
     (NP 
-     (NNS /)
      (NNS Jimi)
      (NNS Hendrix)
     )
@@ -68,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

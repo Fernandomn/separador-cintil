@@ -7,14 +7,12 @@
      (NNS peseta)
     )
     (NP 
-     ,
      (NP 
       (NP 
        (DT a)
        (NNS lira)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (DT a)
@@ -63,7 +61,6 @@
             )
            )
            (PP 
-            ,
             (PP 
              (PP 
               (IN face)
@@ -84,6 +81,5 @@
     )
    )
   )
-  .
  )
 )

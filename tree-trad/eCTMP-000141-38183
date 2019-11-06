@@ -10,7 +10,6 @@
        (NNS lugar)
       )
      )
-     ,
     )
     (VB vinha)
    )
@@ -24,8 +23,6 @@
        (JJ genérica)
       )
       (NP 
-       ''
-       ''
        (NP 
         (NNS concelho)
         (NNS de)
@@ -36,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

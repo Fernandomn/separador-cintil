@@ -14,7 +14,6 @@
     )
    )
    (S 
-    ,
     (S 
      (VP 
       (VP 
@@ -41,7 +40,6 @@
              (JJ esperto)
             )
             (CONJP 
-             ,
              (CONJP 
               (CC mas)
               (CONJP 
@@ -73,6 +71,5 @@
     )
    )
   )
-  .
  )
 )

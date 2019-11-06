@@ -23,8 +23,6 @@
            (NP 
             (NNS direitos)
             (ADJP 
-             ''
-             ''
              (JJ mínimos)
             )
            )
@@ -51,7 +49,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (PP 
        (IN de)
@@ -76,7 +73,6 @@
            )
           )
           (NP 
-           ,
            (NP 
             (NNS Michel)
             (NNS Giraud)
@@ -90,6 +86,5 @@
     )
    )
   )
-  .
  )
 )

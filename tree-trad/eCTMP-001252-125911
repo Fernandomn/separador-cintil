@@ -16,13 +16,11 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS Fernando)
       (NNS Henrique)
       (NNS Cardoso)
      )
-     ,
     )
    )
    (VP 
@@ -33,6 +31,5 @@
     )
    )
   )
-  .
  )
 )

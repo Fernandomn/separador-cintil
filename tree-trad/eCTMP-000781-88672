@@ -39,7 +39,6 @@
         (NNS Espanha)
        )
        (NP 
-        ,
         (NP 
          (NP 
           (NNS França)
@@ -56,7 +55,6 @@
      )
      (PP 
       (CC e)
-      ,
       (PP 
        (PP 
         (IN em_)
@@ -69,7 +67,6 @@
         )
        )
        (PP 
-        ,
         (PP 
          (PP 
           (IN com)
@@ -95,6 +92,5 @@
     )
    )
   )
-  .
  )
 )

@@ -26,7 +26,6 @@
         (ADJP 
          (JJ técnicas)
          (CONJP 
-          ,
           (CONJP 
            (NP 
             (PRP que)
@@ -61,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

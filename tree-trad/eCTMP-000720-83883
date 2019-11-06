@@ -8,7 +8,6 @@
       (NP 
        (PRP que)
       )
-      ,
      )
      (S 
       (VP 
@@ -21,11 +20,8 @@
            (PRP ele)
           )
          )
-         ,
         )
         (VP 
-         ''
-         ''
          (VP 
           (VP 
            (VB representaria)
@@ -69,6 +65,5 @@
     )
    )
   )
-  .
  )
 )

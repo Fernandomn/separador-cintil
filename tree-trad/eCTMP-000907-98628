@@ -6,7 +6,6 @@
     (NP 
      (NNS Metro)
      (ADJP 
-      ,
       (ADJP 
        (VB contactado)
        (PP 
@@ -17,7 +16,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -64,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

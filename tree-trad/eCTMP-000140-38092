@@ -15,8 +15,6 @@
     (NP 
      (NP 
       (NP 
-       ''
-       ''
        (NP 
         (NNS La)
         (NNS Caixa)
@@ -30,14 +28,11 @@
       )
      )
      (PP 
-      ,
       (PP 
        (IN com)
        (NP 
         (NP 
-         (CD 
-          ,
-         )
+         (CD 6,5)
          (NP 
           (NN por)
           (NN cento)
@@ -49,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

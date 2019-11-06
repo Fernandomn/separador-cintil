@@ -10,15 +10,12 @@
     (NP 
      (NP 
       (NP 
-       ''
-       ''
        (NP 
         (NNS India)
         (NNS Song)
        )
       )
       (PP 
-       ,
        (PP 
         (IN de)
         (NP 
@@ -33,6 +30,5 @@
     )
    )
   )
-  .
  )
 )

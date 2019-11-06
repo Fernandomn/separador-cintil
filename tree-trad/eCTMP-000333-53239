@@ -19,7 +19,6 @@
      (VP 
       (VB sucumbiu)
       (PP 
-       ,
        (PP 
         (IN em_)
         (NP 
@@ -27,7 +26,6 @@
          (NNS sábado)
         )
        )
-       ,
       )
      )
      (PP 
@@ -39,7 +37,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN em)
       (NP 
@@ -49,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

@@ -19,7 +19,6 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (CC mas)
        (CONJP 
@@ -55,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

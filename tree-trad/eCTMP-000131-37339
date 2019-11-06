@@ -4,7 +4,6 @@
    (S 
     (ADVP 
      (RB Teoricamente)
-     ,
     )
     (S 
      (NP 
@@ -20,7 +19,6 @@
     )
    )
    (S 
-    ,
     (S 
      (NP 
       (DT os)
@@ -36,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

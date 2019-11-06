@@ -36,7 +36,6 @@
           )
          )
          (PP 
-          ,
           (PP 
            (IN a_)
            (NP 
@@ -44,7 +43,6 @@
             (NP 
              (NNS chulas)
              (NP 
-              ,
               (NP 
                (NNS corridinhos)
                (NP 
@@ -62,7 +60,6 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (CC embora)
        (S 
@@ -90,6 +87,5 @@
     )
    )
   )
-  .
  )
 )

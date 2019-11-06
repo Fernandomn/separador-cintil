@@ -1,45 +1,45 @@
-Tag Original (Português) & Nome da Tag & Tag Convertida & Observações\\
-A & Adjetivo & JJ & \\
-A' & Sintagma Adjetival & ADJP & \\
-ADV & Advérbios & RB & \\
-ADV' & Sintagma Adverbial & ADVP & \\
-ADVP & Sintagma Adverbial & ADVP & \\
-AP & Sintagma Adjetival & ADJP & \\
-ART & Artigo & DT & \\
-ART' & Artigo & NP & "Equivaleria ao Determiner Phrase (DP) dos estudos de lingúistica. (citar manual de linguistica). Porém &  PTB não prevê esse tipo de estrutura. O sintagma mais indicado para receber determinantes (artigos) foi &  portanto &  NP "\\
-C & Complementador & ? & \\
-C' & Sintagma Complemental & ? & \\
-CARD & Cardinais & CD & \\
-CARD' & Sintagmas Cardinais & NP & PTB prevê que conjuntos de números são marcados como NP\\
-CL & Clíticos & PRP & "Clíticos podem ser preposições &  pronomes ou artigos. No Cintil &  ele ocorre apenas como pronomes. De acordo com o manual &  “A clitic pronoun has category CL. It is the head of an NP.”"\\
-CONJ & Conjunções & CC & \\
-CONJ' & sintagma Conjuntivo & _CONJP_ & Será explicado na sessão <...>\\
-CONJP & sintagma Conjuntivo & CONJP & \\
-CP & Sintagma Complemental & SBAR & rever\\
-D & Artigo & DT & \\
-D1 & Quantificadores & DT & "Não ocorre no handbook &  só no site. Único caso em que essa tag aparece &  D1 se comporta como Artigo"\\
-D2 & Quantificadores & JJ & "Não ocorre no handbook &  só no site. Único caso em que essa tag aparece &  D2 se comporta como Adjetivo"\\
-DEM & Demonstrativos & DT & "Para o PTB &  this &  that &  these &  those são &  também &  demonstrativos. Logo &  DEM -> DT"\\
-ITJ & Interjeições & UH & \\
-ITJ' & Sintagma de Interjeição & INTJ & "Pelo manual de ""bracketing"" do PTB &  ""INTJ | Interjection. Corresponds approximately to the part-of-speech tag UH (see the POS guidelines [Santorini 1990])."""\\
-N & Substantivo & NNS & \\
-N' & Sintagmas Nominais & NP & \\
-NP & Sintagmas Nominais & NP & \\
-ORD & Ordinais & CD & PTB não prevê o uso de ordinais. Ou melhor: eles costumam ser postos em locuções nominais.\\
-P & Preposição & IN & \\
-P' & Sintagmas Preposicionais & PP & Não ocorre no Handbook\\
-PERCENT & simbolo percentual & NN & Nota 1: pode ser pronome + substantivo tbm ('por cento'). Nota 2: PTB considera o % como NN (single noum)\\
-PERCENT' & Sintagma percentual & NP & PTB considera como NP\\
-PERCENTP & Sintagma percentual & NP & \\
-PNT & Pontuação & ? & Explicado na sessão <..>\\
-POSS & Possessivos & PP$ & \\
-POSS' & Possessivos & NP & Não existe um sintagma pronominal no PTB. Mantivemos como NP\\
-PP & Sintagmas Preposicionais & PP & \\
-PRS & Pronomes Pessoais & PRP & \\
-QNT & Quantificadores & PRP & "De acordo com Castilho (Nova Gramática do Português Brasileiro &  2010) &  ""Os pronomes abrigam as seguintes subclasses [...]: pessoais &  demonstrativos &  possessivos e quantificadores [...]"""\\
-QNT' & Sintagma de Quantificadores & ADJP & "De acordo com Castilho (Nova Gramática do Português Brasileiro &  2010) &  ""O artigo &  os demonstrativos &  os possessivos &  os quantificadores e alguns adjetivos compõem os especificadores do sintagma nominal"""\\
-REL & Relativos & PRP & Pronomes relativos\\
-S & Sentença & S & \\
-V & Verbos  & VB & \\
-V' & Sintagma Verbal & VP & "(que não são PPA &  PPT &  INF ou GER)"\\
-VP & Sintagma Verbal & VP & \\
+Tag Original (Português),Nome da Tag,Tag Convertida,Ocorrências,Observações
+A,Adjetivo,JJ,5527,
+A',Sintagma Adjetival,ADJP,114,
+ADV,Advérbios,RB,5510,
+ADV',Sintagma Adverbial,ADVP,912,
+ADVP,Sintagma Adverbial,ADVP,428,
+AP,Sintagma Adjetival,ADJP,1456,
+ART,Artigo,DT,15583,
+ART',Artigo,NP,1,"Equivaleria ao Determiner Phrase (DP) dos estudos de lingúistica. (citar manual de linguistica). Porém, PTB não prevê esse tipo de estrutura. O sintagma mais indicado para receber determinantes (artigos) foi, portanto, NP "
+C,Complementador,CC,275,
+C',Sintagma Complemental,_CP_,2,
+CARD,Cardinais,CD,2028,
+CARD',Sintagmas Cardinais,NP,504,PTB prevê que conjuntos de números são marcados como NP
+CL,Clíticos,PRP,717,"No Cintil, ocorre apenas como pronomes. De acordo com o manual, “A clitic pronoun has category CL. It is the head of an NP.”"
+CONJ,Conjunções,CC,2460,Será explicado na sessão <...>
+CONJ',sintagma Conjuntivo,_CONJP_,92,Será explicado na sessão <...>
+CONJP,sintagma Conjuntivo,CONJP,609,Será explicado na sessão <...>
+CP,Sintagma Complemental,SBAR,1434,rever
+D,Artigo,DT,29,
+D1,Quantificadores,DT,1,"Não ocorre no handbook, só no site. Único caso em que essa tag aparece, D1 se comporta como Artigo"
+D2,Quantificadores,JJ,1,"Não ocorre no handbook, só no site. Único caso em que essa tag aparece, D2 se comporta como Adjetivo"
+DEM,Demonstrativos,DT,1013,"Para o PTB, this, that, these, those são, também, determinantes. Logo, DT"
+ITJ,Interjeições,UH,4,
+ITJ',Sintagma de Interjeição,INTJ,4,"Pelo manual de ""bracketing"" do PTB, ""INTJ | Interjection. Corresponds approximately to the part-of-speech tag UH (see the POS guidelines [Santorini 1990])."""
+N,Substantivo,NNS,32989,
+N',Sintagmas Nominais,NP,18043,
+NP,Sintagmas Nominais,NP,32258,
+ORD,Ordinais,CD,378,PTB não prevê o uso de ordinais. Ou melhor: eles costumam ser postos em locuções nominais. Não é uma boa transdução
+P,Preposição,IN,13920,
+P',Sintagmas Preposicionais,PP,337,Não ocorre no Handbook
+PERCENT,simbolo percentual,NN,164,Nota 1: pode ser pronome + substantivo tbm ('por cento'). Nota 2: PTB considera o % como NN (single noum)
+PERCENT',Sintagma percentual,NP,80,PTB considera como NP
+PERCENTP,Sintagma percentual,NP,36,
+PNT,Pontuação,?,14748,Explicado na sessão <..>
+POSS,Possessivos,PP$,620,
+POSS',Possessivos,NP,10,Não existe um sintagma pronominal no PTB. Mantivemos como NP
+PP,Sintagmas Preposicionais,PP,15382,
+PRS,Pronomes Pessoais,PRP,395,
+QNT,Quantificadores,PRP,889,"De acordo com Castilho (Nova Gramática do Português Brasileiro, 2010), ""Os pronomes abrigam as seguintes subclasses [...]: pessoais, demonstrativos, possessivos e quantificadores [...]"""
+QNT',Sintagma de Quantificadores,ADJP,19,"De acordo com Castilho (Nova Gramática do Português Brasileiro, 2010), ""O artigo, os demonstrativos, os possessivos, os quantificadores e alguns adjetivos compõem os especificadores do sintagma nominal"""
+REL,Relativos,PRP,861,Pronomes relativos
+S,Sentença,S,24393,
+V,Verbos ,VB,13281,
+V',Sintagma Verbal,VP,2745,"(que não são PPA, PPT, INF ou GER)"
+VP,Sintagma Verbal,VP,15284,

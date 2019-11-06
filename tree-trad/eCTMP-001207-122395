@@ -18,14 +18,10 @@
         (PP 
          (IN de)
          (NP 
-          (CD 
-           .
-           .
-          )
+          (CD 1.226.617)
           (NP 
            (NNS títulos)
            (PP 
-            ,
             (PP 
              (IN com)
              (NP 
@@ -58,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

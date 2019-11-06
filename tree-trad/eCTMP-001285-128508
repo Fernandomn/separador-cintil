@@ -44,9 +44,7 @@
       (CC e)
       (VP 
        (ADVP 
-        ,
         (RB posteriormente)
-        ,
        )
        (VP 
         (VB violadas)
@@ -74,6 +72,5 @@
     )
    )
   )
-  .
  )
 )

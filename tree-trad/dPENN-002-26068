@@ -27,7 +27,6 @@
          )
         )
         (CONJP 
-         ,
          (CONJP 
           (NP 
            (PRP que)
@@ -42,7 +41,6 @@
              (VB polinizadas)
             )
             (S 
-             ,
              (S 
               (VP 
                (VB crescendo)
@@ -68,6 +66,5 @@
     )
    )
   )
-  .
  )
 )

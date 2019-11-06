@@ -3,8 +3,6 @@
   (S 
    (NP 
     (NP 
-     ''
-     ''
      (NP 
       (CD Dois)
       (NP 
@@ -12,7 +10,6 @@
        (ADJP 
         (ADJP 
          (JJ grandes)
-         ,
         )
         (PP 
          (IN de)
@@ -27,7 +24,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -42,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

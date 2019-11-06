@@ -22,14 +22,12 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NP 
        (DT o)
        (NNS terrorismo)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (DT o)
@@ -48,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

@@ -13,12 +13,7 @@
       (NNS penalty)
      )
     )
-    ,
-    (CC em_)
-    (CC a)
-    (CC medida)
-    (CC em)
-    (CC que)
+    (CONJP em_ a medida em que)
     (S 
      (NP 
       (DT um)
@@ -37,6 +32,5 @@
     )
    )
   )
-  .
  )
 )

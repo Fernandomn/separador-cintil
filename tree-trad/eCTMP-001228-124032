@@ -19,9 +19,7 @@
         (IN de)
         (NP 
          (NP 
-          (CD 
-           ,
-          )
+          (CD 0,9)
           (NP 
            (NN por)
            (NN cento)
@@ -33,16 +31,13 @@
      )
     )
     (S 
-     ,
      (S 
       (VP 
        (VB atingindo)
        (NP 
         (DT os)
         (NP 
-         (CD 
-          ,
-         )
+         (CD 1955,37)
          (NNS pontos)
         )
        )
@@ -51,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

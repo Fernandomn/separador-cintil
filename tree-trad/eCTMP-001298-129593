@@ -11,11 +11,9 @@
         (NP 
          (NNS púrpuras)
          (NP 
-          ,
           (NP 
            (NNS velas)
            (NP 
-            ,
             (NP 
              (NNS opas)
              (NP 
@@ -29,14 +27,12 @@
         )
        )
       )
-      ,
      )
      (ADJP 
       (CC mas)
       (ADJP 
        (JJ bela)
        (ADJP 
-        ,
         (ADJP 
          (JJ bélica)
          (ADJP 
@@ -50,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

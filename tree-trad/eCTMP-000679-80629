@@ -9,8 +9,6 @@
       (PP 
        (IN por)
        (NP 
-        ''
-        ''
         (NNS spot)
        )
       )
@@ -33,7 +31,6 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (CC embora)
       (S 
@@ -61,6 +58,5 @@
     )
    )
   )
-  .
  )
 )

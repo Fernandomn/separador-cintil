@@ -31,9 +31,7 @@
       )
       (RB cautelosamente)
      )
-     ,
-     (CC até)
-     (CC que)
+     (CONJP até que)
      (S 
       (VP 
        (NP 
@@ -55,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

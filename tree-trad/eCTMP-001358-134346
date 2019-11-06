@@ -5,7 +5,6 @@
     (NNS Blimunda-mulher)
    )
    (NP 
-    ,
     (NP 
      (NNS heroína)
      (PP 
@@ -30,8 +29,6 @@
           (NP 
            (DT o)
            (NP 
-            ''
-            ''
             (NP 
              (NNS Memorial)
              (NNS de_)
@@ -48,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

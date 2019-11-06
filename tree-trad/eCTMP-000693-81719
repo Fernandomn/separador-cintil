@@ -23,7 +23,6 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (NP 
         (PRP que)
@@ -36,7 +35,6 @@
            (NNS bombeiros)
           )
           (NP 
-           ,
            (NP 
             (NP 
              (NP 
@@ -62,7 +60,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -71,6 +68,5 @@
     (JJ difíceis)
    )
   )
-  .
  )
 )

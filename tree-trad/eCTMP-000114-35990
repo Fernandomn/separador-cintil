@@ -6,15 +6,12 @@
     (NP 
      (NP 
       (NP 
-       ''
-       ''
        (NP 
         (NNS Xanadu)
         (NNS City)
        )
       )
       (PP 
-       ,
        (PP 
         (IN de)
         (NP 
@@ -40,6 +37,5 @@
     )
    )
   )
-  .
  )
 )

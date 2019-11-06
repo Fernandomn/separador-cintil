@@ -6,11 +6,9 @@
     (ADJP 
      (JJ bonito)
      (ADJP 
-      ,
       (ADJP 
        (JJ jovem)
        (ADJP 
-        ,
         (ADJP 
          (JJ dinâmico)
          (ADJP 
@@ -35,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

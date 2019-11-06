@@ -7,7 +7,6 @@
       (RB Pouco)
       (RB depois)
      )
-     ,
     )
     (VP 
      (VB reapareceu)
@@ -24,7 +23,6 @@
           (NP 
            (NNS prima)
            (CONJP 
-            ,
             (CONJP 
              (NP 
               (PRP que)
@@ -79,6 +77,5 @@
     )
    )
   )
-  .
  )
 )

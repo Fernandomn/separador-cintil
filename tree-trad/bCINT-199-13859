@@ -20,8 +20,6 @@
        )
       )
       (VP 
-       ''
-       ''
        (VP 
         (VB é)
         (NP 
@@ -43,7 +41,6 @@
                  (JJ gordo)
                 )
                 (ADJP 
-                 ,
                  (ADJP 
                   (JJ vegetal)
                   (ADJP 
@@ -66,6 +63,5 @@
     )
    )
   )
-  .
  )
 )

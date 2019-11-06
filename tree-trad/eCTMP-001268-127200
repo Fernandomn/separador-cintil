@@ -6,12 +6,10 @@
     (NP 
      (NNS artistas)
      (ADJP 
-      ,
       (ADJP 
        (RB muito)
        (JJ jovens)
       )
-      ,
      )
     )
    )
@@ -30,6 +28,5 @@
     )
    )
   )
-  .
  )
 )

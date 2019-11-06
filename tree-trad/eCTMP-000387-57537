@@ -13,7 +13,6 @@
      (NP 
       (NP 
        (NNS Torbay)
-       ;
       )
       (NP 
        (NP 
@@ -28,8 +27,6 @@
           (NP 
            (NNS publicação)
            (NP 
-            ''
-            ''
             (NP 
              (NNS Intelligence)
              (NNS Quarterly)
@@ -44,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

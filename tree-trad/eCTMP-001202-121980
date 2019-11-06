@@ -8,13 +8,11 @@
       (RB outro)
       (RB lado)
      )
-     ,
     )
     (VB consideram)
    )
   )
   (S 
-   ,
    (S 
     (NP 
      (DT o)
@@ -32,8 +30,6 @@
     (VP 
      (VB poderá)
      (VP 
-      ''
-      ''
       (VP 
        (VP 
         (VB desmotivar)
@@ -63,7 +59,6 @@
          )
         )
        )
-       .
       )
      )
     )

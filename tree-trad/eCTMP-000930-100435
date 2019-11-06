@@ -11,14 +11,10 @@
       (NNS de_)
       (NNS a)
       (NNS Cultura)
-      (NNS 
-       ,
-      )
       (NNS Sousa)
       (NNS Lara)
      )
     )
-    ,
    )
    (VP 
     (VP 
@@ -48,15 +44,11 @@
            (NNS Nacional)
            (NNS de)
            (NNS Bibliotecários)
-           (NNS 
-            ,
-           )
            (NNS Arquivistas)
            (NNS e)
            (NNS Documentalistas)
           )
           (CONJP 
-           ,
            (CONJP 
             (NP 
              (PRP que)
@@ -82,6 +74,5 @@
     )
    )
   )
-  .
  )
 )

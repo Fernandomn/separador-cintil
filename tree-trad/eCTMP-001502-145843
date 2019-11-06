@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Hoje)
-    ,
    )
    (S 
     (NP 
@@ -23,8 +22,6 @@
        (NP 
         (DT o)
         (NP 
-         ''
-         ''
          (NP 
           (NNS texto)
           (JJ alternativo)
@@ -36,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

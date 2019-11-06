@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Antes)
-    ,
    )
    (S 
     (NP 
@@ -18,6 +17,5 @@
     (VB afirmara)
    )
   )
-  :
  )
 )

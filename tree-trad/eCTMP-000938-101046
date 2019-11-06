@@ -6,7 +6,6 @@
     (NP 
      (NNS notícia)
      (ADJP 
-      ,
       (ADJP 
        (ADJP 
         (VB dada)
@@ -22,8 +21,6 @@
            (JJ britânico)
           )
           (NP 
-           ''
-           ''
            (NP 
             (NNS The)
             (NNS Sunday)
@@ -34,7 +31,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -64,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

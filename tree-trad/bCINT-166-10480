@@ -17,7 +17,6 @@
        (NNS folclore)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (DT a)
@@ -41,7 +40,6 @@
             )
            )
            (PP 
-            ,
             (PP 
              (IN com)
              (NP 
@@ -70,6 +68,5 @@
     )
    )
   )
-  .
  )
 )

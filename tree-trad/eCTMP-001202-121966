@@ -8,12 +8,10 @@
     (VP 
      (VB recordou)
      (ADVP 
-      ,
       (ADVP 
        (RB a)
        (RB propósito)
       )
-      ,
      )
     )
     (NP 
@@ -51,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

@@ -6,7 +6,6 @@
     (NP 
      (NNS sala)
      (ADJP 
-      ,
       (ADJP 
        (JJ atenta)
        (ADJP 
@@ -14,12 +13,10 @@
         (JJ devota)
        )
       )
-      ,
      )
     )
    )
    (VB escutava)
   )
-  .
  )
 )

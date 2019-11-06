@@ -15,8 +15,6 @@
     (CONJP 
      (CC que)
      (S 
-      ''
-      ''
       (S 
        (NP 
         (NNS Portugal)
@@ -38,6 +36,5 @@
     )
    )
   )
-  .
  )
 )

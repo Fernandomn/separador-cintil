@@ -10,7 +10,6 @@
        (NNS verdade)
       )
      )
-     ,
     )
     (VP 
      (ADJP 
@@ -23,8 +22,6 @@
       )
       (CONJP de_ o que)
       (NP 
-       ''
-       ''
        (NP 
         (DT Os)
         (NP 
@@ -37,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

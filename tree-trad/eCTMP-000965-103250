@@ -9,7 +9,6 @@
       (NNS aspecto)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -42,10 +41,7 @@
        )
       )
      )
-     ,
-     (CC uma)
-     (CC vez)
-     (CC que)
+     (CONJP uma vez que)
      (S 
       (NP 
        (DT a)
@@ -66,8 +62,6 @@
        )
       )
       (VP 
-       ''
-       ''
        (VP 
         (VP 
          (RB não)
@@ -91,6 +85,5 @@
     )
    )
   )
-  .
  )
 )

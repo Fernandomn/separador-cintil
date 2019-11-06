@@ -15,9 +15,7 @@
       (VP 
        (VB aposta)
        (ADVP 
-        ,
         (RB agora)
-        ,
        )
       )
       (PP 
@@ -26,8 +24,6 @@
         (DT as)
         (NP 
          (NP 
-          ''
-          ''
           (NNS nuances)
          )
          (PP 
@@ -44,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

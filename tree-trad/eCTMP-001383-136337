@@ -2,8 +2,6 @@
  (S 
   (NP 
    (NP 
-    ''
-    ''
     (NP 
      (NNS Nobreza)
      (NNS Baturra)
@@ -12,8 +10,6 @@
    (NP 
     (CC e)
     (NP 
-     ''
-     ''
      (NP 
       (NNS Morena)
       (NNS Clara)
@@ -21,6 +17,5 @@
     )
    )
   )
-  .
  )
 )

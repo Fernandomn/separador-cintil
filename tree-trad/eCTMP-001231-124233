@@ -10,13 +10,11 @@
      (VP 
       (VB produz)
       (ADVP 
-       ,
        (ADVP 
         (RB por)
         (RB um)
         (RB lado)
        )
-       ,
       )
      )
      (NP 
@@ -53,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

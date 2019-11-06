@@ -7,7 +7,6 @@
       (IN Por)
       (RB cá)
      )
-     ,
     )
     (VP 
      (RB ainda)
@@ -25,12 +24,9 @@
            (DT o)
            (NP 
             (NP 
-             ''
-             ''
              (NNS Estebes)
             )
             (ADJP 
-             ,
              (ADJP 
               (ADVP 
                (RB tão)
@@ -60,6 +56,5 @@
     )
    )
   )
-  .
  )
 )

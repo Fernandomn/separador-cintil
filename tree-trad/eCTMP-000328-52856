@@ -5,7 +5,6 @@
     (VP 
      (ADVP 
       (RB Agora)
-      ,
      )
      (VP 
       (VB foi)
@@ -32,12 +31,10 @@
     (S 
      (VP 
       (ADVP 
-       ,
        (ADVP 
         (RB a)
         (RB seguir)
        )
-       ,
       )
       (VP 
        (VB despediu)
@@ -47,7 +44,6 @@
          (NNS treinador)
         )
         (NP 
-         ,
          (NNS Milutinovic)
         )
        )
@@ -56,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

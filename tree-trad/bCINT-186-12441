@@ -9,13 +9,11 @@
      )
     )
     (ADVP 
-     ,
      (ADVP 
       (RB de)
       (RB certo)
       (RB modo)
      )
-     ,
     )
    )
    (NP 
@@ -35,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

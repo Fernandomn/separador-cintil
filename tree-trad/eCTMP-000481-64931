@@ -3,7 +3,6 @@
   (S 
    (NP 
     (NNS Argentina)
-    ,
    )
    (VP 
     (VB iniciou)
@@ -24,6 +23,5 @@
     )
    )
   )
-  .
  )
 )

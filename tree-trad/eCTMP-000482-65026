@@ -12,9 +12,7 @@
      (VP 
       (VB ocupa)
       (ADVP 
-       ,
        (RB entretanto)
-       ,
       )
      )
      (NP 
@@ -51,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

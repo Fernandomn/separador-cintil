@@ -20,7 +20,6 @@
       )
      )
      (ADJP 
-      ,
       (ADJP 
        (VB entregues)
        (PP 
@@ -41,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

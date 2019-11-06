@@ -24,8 +24,6 @@
          )
         )
         (NP 
-         ''
-         ''
          (NP 
           (NNS Harley)
           (NNS Davidson)
@@ -37,7 +35,6 @@
         )
        )
        (PP 
-        ,
         (PP 
          (PP 
           (IN a_)
@@ -58,6 +55,5 @@
     )
    )
   )
-  .
  )
 )

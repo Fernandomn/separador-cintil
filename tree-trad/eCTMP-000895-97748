@@ -3,8 +3,6 @@
   (S 
    (CONJP 
     (S 
-     ''
-     ''
      (S 
       (NP 
        (DT Este)
@@ -45,7 +43,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -59,7 +56,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS director-geral)
        (NNS de_)
@@ -76,6 +72,5 @@
     )
    )
   )
-  .
  )
 )

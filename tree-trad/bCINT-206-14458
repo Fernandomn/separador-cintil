@@ -10,9 +10,7 @@
      (VB movimentou)
      (NP 
       (NP 
-       (CD 
-        ,
-       )
+       (CD 16,8)
        (NP 
         (NP 
          (NN por)
@@ -30,7 +28,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN em_)
       (NP 
@@ -49,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,7 +9,6 @@
        (DT outro)
       )
      )
-     ,
     )
     (VP 
      (VB estamos)
@@ -18,8 +17,6 @@
       (PP 
        (IN de)
        (NP 
-        ''
-        ''
         (NP 
          (DT um)
          (NP 
@@ -55,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

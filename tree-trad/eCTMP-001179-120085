@@ -17,14 +17,12 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS Cardoso)
       (NNS de_)
       (NNS a)
       (NNS Costa)
      )
-     ,
     )
    )
    (VP 
@@ -50,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

@@ -6,7 +6,6 @@
     (NP 
      (NNS documento)
      (CONJP 
-      ,
       (CONJP 
        (PP 
         (IN de)
@@ -30,7 +29,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -42,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

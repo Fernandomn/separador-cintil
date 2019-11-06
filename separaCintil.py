@@ -9,7 +9,7 @@ ns = {'base': "http://nlx.di.fc.ul.pt",
 
 for corpus in raiz.findall('base:corpus', ns):
     for sentenca in corpus.findall('base:sentence', ns):
-        id = sentenca.find('base:id', ns).text.replace('/', '-')
+        id = sentenca.find('base:parse_id', ns).text.replace('/', '-')
         raw = sentenca.find('base:raw', ns)
         tree = sentenca.find('base:tree', ns)
 
@@ -20,6 +20,6 @@ for corpus in raiz.findall('base:corpus', ns):
         rawFile.close()
         treeFile.close()
 
-        # print(id.text)
+        # print(parse_id.text)
         # print(raw.text)
         # print(tree.text)

@@ -7,7 +7,6 @@
      (NP 
       (NNS gato)
       (ADJP 
-       ,
        (ADJP 
         (JJ residente)
         (PP 
@@ -18,7 +17,6 @@
          )
         )
        )
-       ,
       )
      )
     )
@@ -34,6 +32,5 @@
     )
    )
   )
-  .
  )
 )

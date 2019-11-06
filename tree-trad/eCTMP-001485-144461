@@ -10,9 +10,7 @@
     )
     (VP 
      (ADVP 
-      ,
       (RB porém)
-      ,
      )
      (VP 
       (VB aguardava)
@@ -31,7 +29,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (DT a)
       (NP 
@@ -41,6 +38,5 @@
     )
    )
   )
-  :
  )
 )

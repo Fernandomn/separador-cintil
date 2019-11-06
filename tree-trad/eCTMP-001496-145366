@@ -13,7 +13,6 @@
    )
    (S 
     (PP 
-     ,
      (PP 
       (IN a_)
       (NP 
@@ -24,7 +23,6 @@
        )
       )
      )
-     ,
     )
     (S 
      (NP 
@@ -38,7 +36,6 @@
        (NP 
         (NNS representação)
         (ADJP 
-         ,
          (ADJP 
           (RB agora)
           (JJ patética)
@@ -50,6 +47,5 @@
     )
    )
   )
-  .
  )
 )

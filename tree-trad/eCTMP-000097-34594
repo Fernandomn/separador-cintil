@@ -6,7 +6,6 @@
     (NP 
      (NNS tarifas)
      (ADJP 
-      ,
       (ADJP 
        (ADJP 
         (RB mais)
@@ -31,7 +30,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -72,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

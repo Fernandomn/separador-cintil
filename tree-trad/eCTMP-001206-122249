@@ -8,7 +8,6 @@
       (NNS leopardo)
      )
      (NP 
-      ,
       (NP 
        (NP 
         (DT o)
@@ -32,7 +31,6 @@
       )
      )
     )
-    ,
    )
    (VP 
     (PP 
@@ -43,7 +41,6 @@
        (ADJP 
         (JJ gigante)
         (ADJP 
-         ,
          (ADJP 
           (JJ integral)
          )
@@ -54,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

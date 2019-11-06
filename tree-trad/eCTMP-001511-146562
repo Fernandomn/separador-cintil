@@ -21,7 +21,6 @@
        )
       )
       (CONJP 
-       ,
        (CONJP 
         (NP 
          (DT cujas)
@@ -35,12 +34,9 @@
            (VP 
             (VB colhidas)
             (VP 
-             ,
              (VP 
               (VP 
                (VP 
-                ''
-                ''
                 (VB reparadas)
                )
                (RB geneticamente)
@@ -73,6 +69,5 @@
     )
    )
   )
-  .
  )
 )

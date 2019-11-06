@@ -9,14 +9,12 @@
    )
    (S 
     (PP 
-     ,
      (PP 
       (IN com)
       (NP 
        (NNS hip-hop)
       )
      )
-     ,
     )
     (S 
      (NP 
@@ -26,6 +24,5 @@
     )
    )
   )
-  .
  )
 )

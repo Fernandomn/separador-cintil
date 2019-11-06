@@ -3,15 +3,12 @@
   (NP 
    (NP 
     (NP 
-     ''
-     ''
      (NP 
       (NNS O)
       (NNS Decálogo)
      )
     )
     (PP 
-     ,
      (PP 
       (IN de)
       (NP 
@@ -24,6 +21,5 @@
     )
    )
   )
-  .
  )
 )

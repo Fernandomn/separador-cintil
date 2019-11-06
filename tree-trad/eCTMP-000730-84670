@@ -8,8 +8,6 @@
     )
    )
    (VP 
-    ''
-    ''
     (VP 
      (VP 
       (VB têm)
@@ -32,9 +30,7 @@
        )
       )
      )
-     ,
-     (CC enquanto)
-     (CC que)
+     (CONJP enquanto que)
      (S 
       (NP 
        (DT a)
@@ -64,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

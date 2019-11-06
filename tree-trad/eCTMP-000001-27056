@@ -11,13 +11,11 @@
       (NNS Pozzi)
      )
      (NP 
-      ,
       (NP 
        (DT um)
        (NP 
         (NNS jogador)
         (CONJP 
-         ,
          (CONJP 
           (PP 
            (IN com)
@@ -47,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

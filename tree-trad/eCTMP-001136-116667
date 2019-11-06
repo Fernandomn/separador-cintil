@@ -7,12 +7,10 @@
    )
    (VP 
     (ADVP 
-     ,
      (ADVP 
       (RB de)
       (RB novo)
      )
-     ,
     )
     (VP 
      (PP 
@@ -42,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

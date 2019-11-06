@@ -4,7 +4,6 @@
    (VP 
     (ADVP 
      (RB Aliás)
-     ,
     )
     (VP 
      (VP 
@@ -16,8 +15,6 @@
       (NP 
        (NNS termo)
        (ADJP 
-        ''
-        ''
         (JJ disponível)
        )
       )
@@ -25,6 +22,5 @@
     )
    )
   )
-  .
  )
 )

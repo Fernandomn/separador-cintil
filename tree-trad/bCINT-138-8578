@@ -14,7 +14,6 @@
        )
       )
       (NP 
-       ,
        (NP 
         (DT aquela)
         (NP 
@@ -41,7 +40,6 @@
               (NP 
                (NNS Bowie)
                (CONJP 
-                ,
                 (CONJP 
                  (NP 
                   (PRP que)
@@ -95,6 +93,5 @@
     )
    )
   )
-  .
  )
 )

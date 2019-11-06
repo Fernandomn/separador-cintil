@@ -12,9 +12,7 @@
     (VB perdeu)
     (NP 
      (NP 
-      (CD 
-       ,
-      )
+      (CD 2,42)
       (NP 
        (NN por)
        (NN cento)
@@ -23,6 +21,5 @@
     )
    )
   )
-  .
  )
 )

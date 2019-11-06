@@ -14,12 +14,10 @@
     (S 
      (VP 
       (ADVP 
-       ,
        (ADVP 
         (RB como)
         (RB tal)
        )
-       ,
       )
       (VP 
        (VB foi)
@@ -29,6 +27,5 @@
     )
    )
   )
-  .
  )
 )

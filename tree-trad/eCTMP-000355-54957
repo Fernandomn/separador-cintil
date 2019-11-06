@@ -11,9 +11,7 @@
     )
     (VP 
      (ADVP 
-      ,
       (RB contudo)
-      ,
      )
      (VP 
       (VB eram)
@@ -47,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

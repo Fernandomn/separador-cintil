@@ -40,9 +40,6 @@
      (DT a)
      (NP 
       (NNS Nacional)
-      (NNS 
-       ,
-      )
       (NNS a)
       (NNS Ceres)
       (NNS e)
@@ -52,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

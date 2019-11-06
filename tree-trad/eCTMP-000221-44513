@@ -11,9 +11,6 @@
    (S 
     (NP 
      (NP 
-      (NNS 
-       ,
-      )
       (NNS os)
       (NNS Verdes)
      )
@@ -26,8 +23,6 @@
        (DT uma)
        (NP 
         (NP 
-         ''
-         ''
          (NP 
           (NNS sexta-feira)
           (JJ negra)
@@ -49,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

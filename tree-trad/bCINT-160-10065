@@ -17,18 +17,15 @@
       (VP 
        (VB disse)
        (ADVP 
-        ,
         (ADVP 
          (RB em_)
          (RB o)
          (RB entanto)
         )
-        ,
        )
       )
       (RB anteontem)
      )
-     ,
     )
     (CONJP 
      (CC que)
@@ -57,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

@@ -37,7 +37,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (DT o)
        (NP 
@@ -87,7 +86,6 @@
               (NP 
                (NNS Florida)
                (PP 
-                ,
                 (PP 
                  (IN em_)
                  (NP 
@@ -109,6 +107,5 @@
     )
    )
   )
-  .
  )
 )

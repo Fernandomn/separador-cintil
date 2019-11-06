@@ -11,15 +11,12 @@
         (PP 
          (IN de)
          (NP 
-          ''
-          ''
           (NNS marketing)
          )
         )
        )
       )
      )
-     ,
     )
     (VP 
      (VP 
@@ -33,7 +30,6 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (RB até)
        (CONJP 
@@ -71,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

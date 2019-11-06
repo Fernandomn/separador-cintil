@@ -4,14 +4,12 @@
    (S 
     (ADVP 
      (RB Aqui)
-     ,
     )
     (S 
      (S 
       (VB vemos)
      )
      (S 
-      ,
       (S 
        (S 
         (VB ouvimos)
@@ -35,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

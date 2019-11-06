@@ -16,7 +16,6 @@
      (VP 
       (VB prosseguir)
       (PP 
-       ,
        (PP 
         (IN durante)
         (NP 
@@ -24,7 +23,6 @@
          (NNS mês)
         )
        )
-       ,
       )
      )
      (NP 
@@ -43,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

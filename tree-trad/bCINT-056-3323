@@ -31,11 +31,9 @@
        (NP 
         (NNS milhafres)
         (NP 
-         ,
          (NP 
           (NNS bútios)
           (NP 
-           ,
            (NP 
             (NNS mochos)
             (NP 
@@ -50,7 +48,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (CC mas)
@@ -78,6 +75,5 @@
     )
    )
   )
-  .
  )
 )

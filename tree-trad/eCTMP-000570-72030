@@ -13,8 +13,6 @@
         (NP 
          (NNS partido)
          (ADJP 
-          ''
-          ''
           (JJ laranja)
          )
         )
@@ -31,6 +29,5 @@
     )
    )
   )
-  .
  )
 )

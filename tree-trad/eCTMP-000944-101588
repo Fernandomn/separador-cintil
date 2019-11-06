@@ -27,13 +27,10 @@
          (NP 
           (NNS livro)
           (NP 
-           ''
-           ''
            (NNS Eunice)
           )
          )
          (ADJP 
-          ,
           (ADJP 
            (VB editado)
            (PP 
@@ -55,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

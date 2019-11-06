@@ -30,7 +30,6 @@
           (NP 
            (NNS obra)
            (ADJP 
-            ,
             (ADJP 
              (VB dirigida)
              (PP 
@@ -53,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

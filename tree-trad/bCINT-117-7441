@@ -12,7 +12,6 @@
       (NNS bombeiros)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -38,7 +37,6 @@
      (VP 
       (VB receberam)
       (PP 
-       ,
        (PP 
         (IN durante)
         (NP 
@@ -52,7 +50,6 @@
          )
         )
        )
-       ,
       )
      )
      (NP 
@@ -60,7 +57,6 @@
       (NP 
        (NNS chamadas)
        (PP 
-        ,
         (PP 
          (PP 
           (CC quer)
@@ -90,6 +86,5 @@
     )
    )
   )
-  .
  )
 )

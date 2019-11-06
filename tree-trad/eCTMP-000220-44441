@@ -13,7 +13,6 @@
        )
       )
      )
-     ,
     )
     (VP 
      (VB aprendem)
@@ -23,7 +22,6 @@
        (NNS Descobrimentos)
       )
       (NP 
-       ,
        (NP 
         (DT o)
         (NP 
@@ -48,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

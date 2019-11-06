@@ -16,14 +16,12 @@
    )
    (VP 
     (PP 
-     ,
      (PP 
       (IN por)
       (NP 
        (NNS exemplo)
       )
      )
-     ,
     )
     (VP 
      (VP 
@@ -52,6 +50,5 @@
     )
    )
   )
-  .
  )
 )

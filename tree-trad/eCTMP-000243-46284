@@ -18,7 +18,6 @@
       (ADJP 
        (ADJP 
         (JJ castanho)
-        ,
        )
        (PP 
         (IN de_)
@@ -27,8 +26,6 @@
          (NP 
           (NNS marca)
           (NP 
-           ''
-           ''
            (NNS Styito)
           )
          )
@@ -39,6 +36,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,7 +9,6 @@
        (RB um)
        (RB lado)
       )
-      ,
      )
      (VP 
       (VB preenche)
@@ -23,7 +22,6 @@
     )
    )
    (S 
-    ;
     (S 
      (VP 
       (ADVP 
@@ -31,7 +29,6 @@
         (RB por)
         (RB outro)
        )
-       ,
       )
       (VP 
        (VB corre)
@@ -46,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

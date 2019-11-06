@@ -5,12 +5,10 @@
     (VP 
      (VB É)
      (ADVP 
-      ,
       (ADVP 
        (RB em)
        (RB suma)
       )
-      ,
      )
     )
     (NP 
@@ -19,6 +17,5 @@
     )
    )
   )
-  .
  )
 )

@@ -11,16 +11,12 @@
     (VP 
      (VB sublinhou)
      (ADVP 
-      ,
       (RB também)
-      ,
      )
     )
     (CONJP 
      (CC que)
      (S 
-      ''
-      ''
       (S 
        (VP 
         (VP 
@@ -44,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

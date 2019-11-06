@@ -84,8 +84,8 @@ def iniciaOcorrencias():
         occFile.close()
 
 
-def createTreeFile(base_dir, id, text):
-    tree_file = open('{0}-trad/{1}'.format(base_dir, id), 'w', encoding='utf-8')
+def createTreeFile(base_dir, parse_id, text):
+    tree_file = open('{0}-trad/{1}'.format(base_dir, parse_id), 'w', encoding='utf-8')
     tree_file.write(text)
     tree_file.close()
 
@@ -95,7 +95,7 @@ def main():
     iniciaOcorrencias()
     for corpus in raiz.findall('base:corpus', ns):
         for sentenca in corpus.findall('base:sentence', ns):
-            id = sentenca.find('base:id', ns).text.replace('/', '-')
+            parse_id = sentenca.find('base:id', ns).text.replace('/', '-')
             raw = sentenca.find('base:raw', ns)
             tree = sentenca.find('base:tree', ns)
             tree_text = tree.text
@@ -103,8 +103,8 @@ def main():
             verificaOcorrencias(occList, tree_text)
 
             tree_text = translator.traduzirTags(tree_text)
-            createTreeFile('raw', id, raw.text)
-            createTreeFile('tree', id, tree_text)
+            createTreeFile('raw', parse_id, raw.text)
+            createTreeFile('tree', parse_id, tree_text)
 
     createListFiles()
 

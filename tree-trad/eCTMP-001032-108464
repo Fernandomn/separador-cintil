@@ -10,13 +10,11 @@
    )
    (VP 
     (ADVP 
-     ,
      (ADVP 
       (RB ainda)
       (RB por)
       (RB cima)
      )
-     ,
     )
     (VP 
      (VP 
@@ -27,6 +25,5 @@
     )
    )
   )
-  .
  )
 )

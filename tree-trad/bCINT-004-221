@@ -31,9 +31,7 @@
        )
       )
      )
-     ,
-     (CC nem)
-     (CC que)
+     (CONJP nem que)
      (S 
       (VP 
        (VB fosse)
@@ -56,7 +54,6 @@
      )
     )
    )
-   .
   )
  )
 )

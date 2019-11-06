@@ -25,7 +25,6 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (NP 
        (PRP que)
@@ -40,14 +39,12 @@
           (NP 
            (NP 
             (NNS irmã)
-            ,
            )
            (NP 
             (CC ou)
             (NP 
              (NP 
               (NNS namorada)
-              ,
              )
              (NP 
               (CC ou)
@@ -64,6 +61,5 @@
     )
    )
   )
-  .
  )
 )

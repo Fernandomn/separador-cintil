@@ -3,15 +3,12 @@
   (NP 
    (NP 
     (NP 
-     ''
-     ''
      (NP 
       (NNS Os)
       (NNS Ladrões)
      )
     )
     (PP 
-     ,
      (PP 
       (IN de)
       (NP 
@@ -21,7 +18,6 @@
        )
       )
      )
-     ,
     )
    )
   )

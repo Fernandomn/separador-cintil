@@ -13,7 +13,6 @@
      (VP 
       (VB considera)
       (ADVP 
-       ,
        (ADVP 
         (ADVP 
          (RB a)
@@ -30,7 +29,6 @@
          )
         )
        )
-       ,
       )
      )
      (NP 
@@ -56,7 +54,6 @@
      )
     )
    )
-   .
   )
  )
 )

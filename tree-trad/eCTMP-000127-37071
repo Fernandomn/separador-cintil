@@ -6,8 +6,6 @@
      (DT Uma)
      (NP 
       (NP 
-       ''
-       ''
        (NNS Bohème)
       )
       (CONJP 
@@ -51,7 +49,6 @@
       )
      )
     )
-    ,
    )
    (VP 
     (VP 
@@ -61,13 +58,10 @@
     (NP 
      (DT uma)
      (NP 
-      ''
-      ''
       (NNS Bohème)
      )
     )
    )
   )
-  .
  )
 )

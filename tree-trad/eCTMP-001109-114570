@@ -7,14 +7,12 @@
      (RB ontem)
     )
     (PP 
-     ,
      (PP 
       (IN em)
       (NP 
        (NNS Brasília)
       )
      )
-     ,
     )
    )
    (NP 
@@ -39,7 +37,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS Elma)
       (NNS Bezerra)
@@ -48,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

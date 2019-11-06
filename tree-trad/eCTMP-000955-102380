@@ -3,8 +3,6 @@
   (S 
    (CONJP 
     (S 
-     ''
-     ''
      (S 
       (VP 
        (VP 
@@ -41,7 +39,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (S 
@@ -53,7 +50,6 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (CC enquanto)
       (S 
@@ -74,8 +70,6 @@
          (NNS garantias)
         )
         (VP 
-         ''
-         ''
          (VP 
           (VB são)
           (PP 
@@ -93,6 +87,5 @@
     )
    )
   )
-  .
  )
 )

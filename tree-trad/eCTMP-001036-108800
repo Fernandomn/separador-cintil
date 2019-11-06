@@ -9,8 +9,6 @@
       (NP 
        (NNS jornal)
        (NP 
-        ''
-        ''
         (NP 
          (NNS Independent)
          (NNS Financial)
@@ -21,7 +19,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (RB apenas)
@@ -36,14 +33,12 @@
           (NNS Nacional)
          )
          (PP 
-          ,
           (PP 
            (IN em)
            (NP 
             (NNS Harare)
            )
           )
-          ,
          )
         )
         (CONJP 
@@ -68,7 +63,6 @@
         )
        )
       )
-      ,
      )
      (VP 
       (VB apresenta)
@@ -80,6 +74,5 @@
     )
    )
   )
-  .
  )
 )

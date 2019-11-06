@@ -9,7 +9,6 @@
       (NP 
        (NNS candidatura)
        (CONJP 
-        ,
         (CONJP 
          (NP 
           (DT cuja)
@@ -28,7 +27,6 @@
           )
          )
         )
-        ,
        )
       )
      )
@@ -38,15 +36,12 @@
       (VP 
        (VB vai)
        (ADVP 
-        ''
-        ''
         (ADVP 
          (RB de)
          (RB certeza)
         )
        )
       )
-      ,
      )
      (PP 
       (PP 
@@ -61,6 +56,5 @@
     )
    )
   )
-  .
  )
 )

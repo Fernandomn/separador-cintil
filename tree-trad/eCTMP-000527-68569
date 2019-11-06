@@ -14,14 +14,12 @@
       (NNS Madeira)
      )
      (PP 
-      ,
       (PP 
        (IN em)
        (NP 
         (NNS golfe)
        )
       )
-      ,
      )
     )
    )
@@ -68,6 +66,5 @@
     )
    )
   )
-  .
  )
 )

@@ -51,14 +51,12 @@
       (VP 
        (VB entram)
        (PP 
-        ,
         (PP 
          (IN de)
          (NP 
           (NNS rompante)
          )
         )
-        ,
        )
       )
       (PP 
@@ -72,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

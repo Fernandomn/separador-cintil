@@ -14,14 +14,12 @@
          (NP 
           (NNS províncias)
           (PP 
-           ,
            (PP 
             (IN em)
             (NP 
              (NNS Espanha)
             )
            )
-           ,
           )
          )
         )
@@ -54,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

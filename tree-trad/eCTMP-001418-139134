@@ -6,9 +6,7 @@
      (NNS Cinema)
     )
     (ADVP 
-     ,
      (RB também)
-     ,
     )
    )
    (VP 
@@ -23,7 +21,6 @@
         (NNS Lisboa)
        )
        (PP 
-        ,
         (PP 
          (IN em_)
          (NP 
@@ -42,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

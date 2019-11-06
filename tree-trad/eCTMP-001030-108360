@@ -9,7 +9,6 @@
       (NP 
        (NNS casa)
        (PP 
-        ,
         (PP 
          (IN em)
          (NP 
@@ -22,6 +21,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,7 +9,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS presidente)
       (NNS de_)
@@ -21,7 +20,6 @@
       (NNS os)
       (NNS Oceanos)
      )
-     ,
     )
    )
    (VP 
@@ -40,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

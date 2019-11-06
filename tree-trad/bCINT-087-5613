@@ -12,13 +12,11 @@
       (NP 
        (NNS entendimento)
        (ADJP 
-        ,
         (ADJP 
          (RB já)
          (ADJP 
           (VB selado)
           (PP 
-           ,
            (PP 
             (IN em)
             (NP 
@@ -34,6 +32,5 @@
     )
    )
   )
-  .
  )
 )

@@ -4,12 +4,10 @@
    (RB Depois)
    (S 
     (ADVP 
-     ,
      (ADVP 
       (RB de)
       (RB repente)
      )
-     ,
     )
     (S 
      (PP 
@@ -35,7 +33,6 @@
         )
        )
       )
-      ,
      )
      (S 
       (VP 
@@ -60,6 +57,5 @@
     )
    )
   )
-  .
  )
 )

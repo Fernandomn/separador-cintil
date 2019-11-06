@@ -3,14 +3,11 @@
   (S 
    (ADVP 
     (RB Agora)
-    ,
    )
    (S 
     (PP 
      (IN em)
      (NP 
-      ''
-      ''
       (NP 
        (NNS American)
        (NNS Splendor)
@@ -39,6 +36,5 @@
     )
    )
   )
-  .
  )
 )

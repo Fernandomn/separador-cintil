@@ -9,14 +9,12 @@
       (NP 
        (NNS casos)
        (PP 
-        ,
         (PP 
          (IN segundo)
          (NP 
           (NNS noticiários)
          )
         )
-        ,
        )
       )
       (PP 
@@ -40,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

@@ -3,7 +3,6 @@
   (CONJP 
    (ADVP 
     (RB Enfim)
-    ,
    )
    (S 
     (VP 
@@ -24,6 +23,5 @@
     )
    )
   )
-  .
  )
 )

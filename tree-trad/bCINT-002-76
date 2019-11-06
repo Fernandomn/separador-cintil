@@ -9,9 +9,7 @@
       (VP 
        (VB falar)
        (ADVP 
-        ,
         (RB obviamente)
-        ,
        )
       )
       (PP 
@@ -23,7 +21,6 @@
         )
        )
        (PP 
-        ,
         (PP 
          (PP 
           (IN de_)
@@ -33,7 +30,6 @@
           )
          )
          (PP 
-          ,
           (PP 
            (IN de_)
            (NP 
@@ -52,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

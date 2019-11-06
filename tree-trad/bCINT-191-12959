@@ -5,9 +5,7 @@
     (VP 
      (VB Foi)
      (ADVP 
-      ,
       (RB ainda)
-      ,
      )
     )
     (VB aprovada)
@@ -29,7 +27,6 @@
       )
      )
      (ADVP 
-      ,
       (ADVP 
        (RB dentro)
        (PP 
@@ -44,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

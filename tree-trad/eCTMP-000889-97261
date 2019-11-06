@@ -11,7 +11,6 @@
      (ADJP 
       (ADJP 
        (JJ neo-pós-dadaístas)
-       ,
       )
       (ADJP 
        (CC mas)
@@ -20,7 +19,6 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (CC porque)
       (S 
@@ -42,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

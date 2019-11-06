@@ -24,7 +24,6 @@
        (VP 
         (VB será)
         (PP 
-         ,
          (PP 
           (IN segundo)
           (NP 
@@ -34,21 +33,16 @@
            )
           )
          )
-         ,
         )
        )
        (ADVP 
-        ''
-        ''
         (RB meramente)
        )
       )
       (JJ decorativa)
      )
     )
-    ,
-    (CC já)
-    (CC que)
+    (CONJP já que)
     (S 
      (NP 
       (PRP ele)
@@ -81,6 +75,5 @@
     )
    )
   )
-  .
  )
 )

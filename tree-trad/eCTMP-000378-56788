@@ -14,19 +14,15 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS rabo)
        (NP 
-        ,
         (NP 
          (NNS bucho)
          (NP 
-          ,
           (NP 
            (NNS presunto)
            (NP 
-            ,
             (NP 
              (NNS salpicão)
              (NP 
@@ -47,9 +43,7 @@
     (VP 
      (VB fazem)
      (ADVP 
-      ,
       (RB igualmente)
-      ,
      )
     )
     (NP 
@@ -86,6 +80,5 @@
     )
    )
   )
-  .
  )
 )

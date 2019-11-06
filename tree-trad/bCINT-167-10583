@@ -4,13 +4,11 @@
    (RB Hoje)
    (S 
     (ADVP 
-     ,
      (ADVP 
       (RB em_)
       (RB o)
       (RB entanto)
      )
-     ,
     )
     (S 
      (NP 
@@ -45,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

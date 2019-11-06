@@ -8,9 +8,7 @@
      (PP 
       (IN de)
       (NP 
-       (CD 
-        .
-       )
+       (CD 557.611)
        (NP 
         (NNS acções)
         (PP 
@@ -62,7 +60,6 @@
        )
       )
       (CONJP 
-       ,
        (CONJP 
         (RB onde)
         (S 
@@ -83,6 +80,5 @@
     )
    )
   )
-  .
  )
 )

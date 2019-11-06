@@ -1,8 +1,6 @@
 (
  (S 
   (NP 
-   ''
-   ''
    (NNS Colonialistas)
   )
   (VP 
@@ -18,7 +16,6 @@
         (DT o)
         (NP 
          (NNS PSD)
-         (NNS /)
          (NNS Madeira)
         )
        )

@@ -9,7 +9,6 @@
    )
    (VP 
     (PP 
-     ,
      (PP 
       (IN em_)
       (NP 
@@ -17,7 +16,6 @@
        (NNS EUA)
       )
      )
-     ,
     )
     (VP 
      (RB aparentemente)
@@ -28,6 +26,5 @@
     )
    )
   )
-  .
  )
 )

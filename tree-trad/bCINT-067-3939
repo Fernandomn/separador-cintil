@@ -8,8 +8,6 @@
      (NP 
       (NNS coreografia)
       (NP 
-       ''
-       ''
        (NNS Billboards)
       )
      )
@@ -23,7 +21,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NP 
        (NP 
@@ -32,7 +29,6 @@
        )
       )
       (NP 
-       ,
        (NP 
         (NP 
          (NP 
@@ -55,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

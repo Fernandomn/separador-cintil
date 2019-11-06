@@ -23,7 +23,6 @@
      (VP 
       (VB apresenta)
       (PP 
-       ,
        (PP 
         (IN segundo)
         (NP 
@@ -31,7 +30,6 @@
          (NNS psiquiatra)
         )
        )
-       ,
       )
      )
      (NP 
@@ -41,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

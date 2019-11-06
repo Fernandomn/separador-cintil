@@ -13,12 +13,10 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS Douglas)
       (NNS Hurd)
      )
-     ,
     )
    )
    (VP 
@@ -32,8 +30,6 @@
       (VP 
        (VB é)
        (ADJP 
-        ''
-        ''
         (JJ brilhante)
        )
       )
@@ -41,6 +37,5 @@
     )
    )
   )
-  .
  )
 )

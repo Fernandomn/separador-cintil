@@ -37,7 +37,6 @@
          )
         )
         (ADJP 
-         ,
          (ADJP 
           (VB apontado)
           (PP 
@@ -54,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

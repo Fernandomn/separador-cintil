@@ -10,7 +10,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS titular)
       (PP 
@@ -21,7 +20,6 @@
        )
       )
      )
-     ,
     )
    )
    (VP 
@@ -31,7 +29,6 @@
      (NP 
       (NNS Estoril)
       (ADJP 
-       ,
        (ADJP 
         (ADJP 
          (VB despromovido)
@@ -64,6 +61,5 @@
     )
    )
   )
-  .
  )
 )

@@ -10,14 +10,12 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS presidente)
       (NNS de_)
       (NNS as)
       (NNS OGMA)
      )
-     ,
     )
    )
    (VP 
@@ -27,6 +25,5 @@
     )
    )
   )
-  .
  )
 )

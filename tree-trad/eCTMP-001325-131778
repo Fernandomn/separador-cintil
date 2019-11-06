@@ -9,15 +9,12 @@
     (DT os)
     (NP 
      (NP 
-      ''
-      ''
       (NP 
        (JJ grandes)
        (NNS comícios)
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (PP 
         (IN em_)
@@ -43,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

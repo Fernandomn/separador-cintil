@@ -17,12 +17,10 @@
        )
       )
       (NP 
-       ,
        (NP 
         (NNS Guilherme)
         (NNS Dias)
        )
-       ,
       )
      )
     )
@@ -33,8 +31,6 @@
     (NP 
      (NNS época)
      (PP 
-      ''
-      ''
       (PP 
        (IN de_)
        (NP 
@@ -49,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

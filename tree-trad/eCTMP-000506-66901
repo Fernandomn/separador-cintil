@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Entretanto)
-    ,
    )
    (S 
     (NP 
@@ -15,8 +14,6 @@
      (PP 
       (IN em)
       (NP 
-       ''
-       ''
        (NP 
         (NNS estado)
         (PP 
@@ -31,6 +28,5 @@
     )
    )
   )
-  .
  )
 )

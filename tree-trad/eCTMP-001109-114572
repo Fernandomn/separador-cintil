@@ -44,9 +44,6 @@
              (IN de)
              (NP 
               (NP 
-               (NNS 
-                ''
-               )
                (NNS PC)
               )
              )
@@ -60,9 +57,7 @@
          (VP 
           (VB morreu)
           (ADVP 
-           ,
            (RB provavelmente)
-           ,
           )
          )
          (PP 
@@ -76,7 +71,6 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (CC enquanto)
        (S 
@@ -87,6 +81,5 @@
     )
    )
   )
-  .
  )
 )

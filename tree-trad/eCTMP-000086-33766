@@ -13,8 +13,6 @@
       (NP 
        (DT o)
        (NP 
-        ''
-        ''
         (NNS overnight)
        )
       )
@@ -34,9 +32,7 @@
       (DT os)
       (NP 
        (NP 
-        (CD 
-         ,
-        )
+        (CD 4,2525)
         (NP 
          (NN por)
          (NN cento)
@@ -47,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

@@ -8,14 +8,12 @@
     (VP 
      (VB é)
      (PP 
-      ,
       (PP 
        (IN em)
        (NP 
         (NNS Portugal)
        )
       )
-      ,
      )
     )
     (NP 
@@ -58,6 +56,5 @@
     )
    )
   )
-  .
  )
 )

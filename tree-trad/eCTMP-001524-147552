@@ -4,12 +4,10 @@
    (CONJP 
     (INTJ 
      (UH Ah)
-     ,
     )
     (CONJP 
      (ADVP 
       (RB sim)
-      ,
      )
      (S 
       (VP 
@@ -28,7 +26,6 @@
      )
     )
    )
-   .
   )
  )
 )

@@ -27,7 +27,6 @@
        )
       )
       (CONJP 
-       ,
        (CONJP 
         (PP 
          (IN por)
@@ -56,7 +55,6 @@
            )
           )
           (NP 
-           ,
            (NP 
             (NP 
              (NNS armazém)
@@ -77,6 +75,5 @@
     )
    )
   )
-  .
  )
 )

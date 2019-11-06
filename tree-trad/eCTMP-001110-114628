@@ -6,7 +6,6 @@
     (NP 
      (NNS Estoril)
      (PP 
-      ,
       (PP 
        (IN por)
        (NP 
@@ -14,7 +13,6 @@
         (NNS lado)
        )
       )
-      ,
      )
     )
    )
@@ -30,6 +28,5 @@
     )
    )
   )
-  .
  )
 )

@@ -15,20 +15,14 @@
           (NP 
            (NNS exposição)
            (NP 
-            ''
-            ''
             (NP 
              (NNS Educação)
-             (NNS 
-              ,
-             )
              (NNS Arte)
              (NNS e)
              (NNS Cultura)
             )
            )
           )
-          ,
          )
          (PP 
           (IN em_)
@@ -46,7 +40,6 @@
       )
      )
     )
-    ,
    )
    (VP 
     (VB têm)
@@ -62,6 +55,5 @@
     )
    )
   )
-  .
  )
 )

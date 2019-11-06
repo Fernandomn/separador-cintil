@@ -21,7 +21,6 @@
        (NP 
         (NNS jornal)
         (CONJP 
-         ,
          (CONJP 
           (RB onde)
           (S 
@@ -61,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

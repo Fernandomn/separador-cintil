@@ -13,14 +13,12 @@
        )
        (S 
         (PP 
-         ,
          (PP 
           (IN segundo)
           (NP 
            (PRP ambos)
           )
          )
-         ,
         )
         (S 
          (NP 
@@ -69,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

@@ -18,19 +18,16 @@
          (NNS Egipto)
         )
         (NP 
-         ,
          (NP 
           (NP 
            (NNS Irão)
           )
           (NP 
-           ,
            (NP 
             (NP 
              (NNS Paquistão)
             )
             (NP 
-             ,
              (NP 
               (NP 
                (NP 
@@ -56,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

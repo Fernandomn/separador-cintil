@@ -22,9 +22,6 @@
         (IN de)
         (NP 
          (NP 
-          (NNS 
-           ''
-          )
           (NNS Estudos)
           (NNS Brasileiros)
           (NNS de)
@@ -38,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

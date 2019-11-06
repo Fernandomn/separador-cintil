@@ -9,7 +9,6 @@
       (NNS motos)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -20,14 +19,12 @@
     )
     (VP 
      (PP 
-      ,
       (PP 
        (IN em)
        (NP 
         (NNS KTM)
        )
       )
-      ,
      )
      (VP 
       (VB realizou)
@@ -39,7 +36,6 @@
          (NNS tempo)
         )
         (PP 
-         ,
          (PP 
           (PP 
            (IN a_)
@@ -65,6 +61,5 @@
     )
    )
   )
-  .
  )
 )

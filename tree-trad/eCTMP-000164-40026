@@ -1,7 +1,5 @@
 (
  (S 
-  ''
-  ''
   (VP 
    (VB Há)
    (NP 
@@ -14,11 +12,6 @@
        (DT o)
        (NP 
         (NNS Benfica)
-        (NNS 
-         .
-         .
-         .
-        )
        )
       )
      )

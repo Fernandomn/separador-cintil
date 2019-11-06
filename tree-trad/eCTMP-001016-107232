@@ -16,7 +16,6 @@
       (NP 
        (NNS ginásio)
        (CONJP 
-        ,
         (CONJP 
          (RB onde)
          (S 
@@ -44,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

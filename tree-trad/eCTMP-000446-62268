@@ -8,7 +8,6 @@
       (NNS fim)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -18,7 +17,6 @@
     (VP 
      (VB chegaram)
      (CONJP 
-      ,
       (CONJP 
        (CC quando)
        (S 
@@ -41,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

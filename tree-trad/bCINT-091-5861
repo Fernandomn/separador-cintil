@@ -5,12 +5,10 @@
     (VP 
      (VB Temos)
      (ADVP 
-      ,
       (ADVP 
        (RB em)
        (RB conjunto)
       )
-      ,
      )
     )
     (PP 
@@ -25,6 +23,5 @@
     )
    )
   )
-  .
  )
 )

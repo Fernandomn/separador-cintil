@@ -25,7 +25,6 @@
           )
          )
          (NP 
-          ,
           (NP 
            (NNS Gonçalo)
            (NNS Ribeiro)
@@ -33,7 +32,6 @@
            (NNS a)
            (NNS Costa)
           )
-          ,
          )
         )
        )
@@ -48,7 +46,6 @@
            )
           )
           (NP 
-           ,
            (NP 
             (NNS presidente)
             (NNS de_)
@@ -56,7 +53,6 @@
             (NNS Conselho)
             (NNS Nacional)
            )
-           ,
           )
          )
         )
@@ -79,7 +75,6 @@
             )
            )
            (NP 
-            ,
             (NP 
              (NNS Nuno)
              (NNS Correia)
@@ -97,6 +92,5 @@
     )
    )
   )
-  .
  )
 )

@@ -3,8 +3,6 @@
   (NP 
    (NP 
     (NP 
-     ''
-     ''
      (NP 
       (NNS As)
       (NNS Ciganas)
@@ -13,8 +11,6 @@
     (PP 
      (IN contra)
      (NP 
-      ''
-      ''
       (NP 
        (NNS As)
        (NNS Resplendorinas)
@@ -23,6 +19,5 @@
     )
    )
   )
-  .
  )
 )

@@ -5,7 +5,6 @@
     (RB Agora)
     (VP 
      (PP 
-      ,
       (PP 
        (IN por_)
        (NP 
@@ -13,7 +12,6 @@
         (NNS vistos)
        )
       )
-      ,
      )
      (VP 
       (VB foram)
@@ -22,6 +20,5 @@
     )
    )
   )
-  .
  )
 )

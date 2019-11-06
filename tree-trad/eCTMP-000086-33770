@@ -9,13 +9,10 @@
        (NNS troca)
       )
      )
-     ,
     )
     (VP 
      (VB pediu)
      (NP 
-      ''
-      ''
       (NP 
        (DT um)
        (NP 
@@ -42,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

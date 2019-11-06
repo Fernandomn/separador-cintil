@@ -9,14 +9,12 @@
     (VP 
      (VB ratificaram)
      (PP 
-      ,
       (PP 
        (IN por)
        (NP 
         (NNS unanimidade)
        )
       )
-      ,
      )
     )
     (NP 
@@ -51,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

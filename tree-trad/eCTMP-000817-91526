@@ -5,7 +5,6 @@
     (VP 
      (VB Foi)
      (PP 
-      ,
       (PP 
        (IN durante)
        (NP 
@@ -19,7 +18,6 @@
         (NNS ano)
        )
       )
-      ,
      )
     )
     (NP 
@@ -35,7 +33,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS lugar)
        (CONJP 
@@ -65,7 +62,6 @@
                    (NP 
                     (NNS APDL)
                     (ADJP 
-                     ,
                      (ADJP 
                       (RB então)
                       (ADJP 
@@ -100,6 +96,5 @@
     )
    )
   )
-  .
  )
 )

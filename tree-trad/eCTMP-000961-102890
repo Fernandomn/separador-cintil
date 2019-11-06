@@ -21,7 +21,6 @@
          (NP 
           (NNS Huambo)
           (CONJP 
-           ,
            (CONJP 
             (RB onde)
             (S 
@@ -45,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

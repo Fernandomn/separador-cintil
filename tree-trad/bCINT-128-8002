@@ -42,7 +42,6 @@
        )
       )
       (ADJP 
-       ,
        (ADJP 
         (RB ontem)
         (VB pronunciado)
@@ -52,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

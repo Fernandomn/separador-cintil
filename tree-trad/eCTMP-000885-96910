@@ -21,9 +21,7 @@
       )
      )
     )
-    ,
-    (CC dado)
-    (CC que)
+    (CONJP dado que)
     (S 
      (VP 
       (VB aceita)
@@ -35,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

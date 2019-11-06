@@ -3,13 +3,10 @@
   (S 
    (CONJP 
     (S 
-     ''
-     ''
      (S 
       (VP 
        (ADVP 
         (RB Francamente)
-        ,
        )
        (VP 
         (VB temos)
@@ -27,7 +24,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -38,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

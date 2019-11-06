@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Finalmente)
-    ,
    )
    (S 
     (NP 
@@ -31,7 +30,6 @@
              (NNS Corunha)
             )
             (CONJP 
-             ,
              (CONJP 
               (NP 
                (PRP que)
@@ -68,6 +66,5 @@
     )
    )
   )
-  .
  )
 )

@@ -14,9 +14,7 @@
          (NP 
           (NNS poesia)
           (ADJP 
-           ,
            (JJ excessiva)
-           ,
           )
          )
          (JJ cósmica)
@@ -25,7 +23,6 @@
       )
      )
     )
-    ,
    )
    (NP 
     (NP 
@@ -34,6 +31,5 @@
     )
    )
   )
-  .
  )
 )

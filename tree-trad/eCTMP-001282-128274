@@ -5,14 +5,12 @@
     (VP 
      (VB Querem)
      (PP 
-      ,
       (PP 
        (IN por)
        (NP 
         (NNS exemplo)
        )
       )
-      ,
      )
     )
     (VP 
@@ -39,6 +37,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,12 +9,9 @@
        (NNS Attenborough)
       )
       (PP 
-       ,
        (PP 
         (IN com)
         (NP 
-         ''
-         ''
          (NP 
           (NNS In)
           (NNS Love)
@@ -23,7 +20,6 @@
          )
         )
        )
-       ,
       )
      )
     )
@@ -35,12 +31,9 @@
         (NNS Minghella)
        )
        (PP 
-        ,
         (PP 
          (IN com)
          (NP 
-          ''
-          ''
           (NP 
            (NNS The)
            (NNS English)
@@ -60,19 +53,15 @@
          (NNS Allen)
         )
         (PP 
-         ,
          (PP 
           (IN com)
           (NP 
-           ''
-           ''
            (NP 
             (NNS Twin)
             (NNS Town)
            )
           )
          )
-         ,
         )
        )
       )
@@ -90,6 +79,5 @@
     )
    )
   )
-  .
  )
 )

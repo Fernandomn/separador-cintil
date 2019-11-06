@@ -18,13 +18,7 @@
          (DT a)
          (NP 
           (NNS J)
-          (NNS 
-           .
-          )
           (NNS P)
-          (NNS 
-           .
-          )
           (NNS Morgan)
          )
         )
@@ -42,7 +36,6 @@
       )
      )
      (PP 
-      ,
       (PP 
        (IN entre)
        (NP 
@@ -53,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

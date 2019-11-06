@@ -5,7 +5,6 @@
     (RB Depois)
     (VP 
      (PP 
-      ,
       (PP 
        (IN com)
        (NP 
@@ -13,7 +12,6 @@
         (NNS suspiro)
        )
       )
-      ,
      )
      (VP 
       (VB lança)
@@ -23,7 +21,6 @@
         (NNS hipótese)
        )
        (NP 
-        ,
         (NP 
          (DT um)
          (NP 
@@ -50,6 +47,5 @@
     )
    )
   )
-  :
  )
 )

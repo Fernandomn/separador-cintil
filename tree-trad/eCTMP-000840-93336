@@ -25,13 +25,10 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN com)
       (NP 
-       (CD 
-        .
-       )
+       (CD 519.968)
        (NP 
         (NNS acções)
         (JJ negociadas)
@@ -41,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

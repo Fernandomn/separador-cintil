@@ -16,7 +16,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -30,9 +29,7 @@
      (VB atingiu)
      (NP 
       (NP 
-       (CD 
-        ,
-       )
+       (CD 8,5)
        (CD mil)
       )
       (NNS rublos)
@@ -40,6 +37,5 @@
     )
    )
   )
-  .
  )
 )

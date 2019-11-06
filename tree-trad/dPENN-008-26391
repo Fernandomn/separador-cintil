@@ -5,7 +5,6 @@
     (RB Porém)
     (VP 
      (CONJP 
-      ,
       (CONJP 
        (CC quando)
        (S 
@@ -30,7 +29,6 @@
         )
        )
       )
-      ,
      )
      (VP 
       (VB desaprovou)
@@ -42,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

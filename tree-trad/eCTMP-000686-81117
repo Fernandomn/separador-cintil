@@ -6,12 +6,10 @@
     (NP 
      (NNS alvará)
      (ADJP 
-      ,
       (ADJP 
        (RB ainda)
        (VB suspenso)
       )
-      ,
      )
     )
    )
@@ -31,6 +29,5 @@
     )
    )
   )
-  .
  )
 )

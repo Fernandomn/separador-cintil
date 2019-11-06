@@ -20,14 +20,12 @@
           (NP 
            (NNS Francelos)
            (PP 
-            ,
             (PP 
              (IN em)
              (NP 
               (NNS Gaia)
              )
             )
-            ,
            )
           )
          )
@@ -47,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

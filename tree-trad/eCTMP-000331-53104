@@ -10,13 +10,11 @@
        (NNS Cinemateca)
       )
       (NP 
-       ,
        (NP 
         (NNS Rua)
         (NNS Barata)
         (NNS Salgueiro)
        )
-       ,
       )
      )
     )
@@ -36,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

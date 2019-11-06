@@ -10,14 +10,11 @@
    (VP 
     (VB passou)
     (CONJP 
-     ,
      (CONJP 
       (RB até)
       (CONJP 
        (CC porque)
        (S 
-        ''
-        ''
         (S 
          (VP 
           (RB já)
@@ -45,6 +42,5 @@
     )
    )
   )
-  .
  )
 )

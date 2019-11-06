@@ -4,7 +4,6 @@
    (VP 
     (ADVP 
      (RB Entretanto)
-     ,
     )
     (VP 
      (VB rejeitou)
@@ -23,7 +22,6 @@
           )
          )
          (NP 
-          ,
           (NP 
            (JJ pequeno)
            (NP 
@@ -47,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

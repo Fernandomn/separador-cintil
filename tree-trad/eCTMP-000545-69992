@@ -22,7 +22,6 @@
        (NP 
         (NNS regras)
         (PP 
-         ,
          (PP 
           (IN sem)
           (NP 
@@ -36,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

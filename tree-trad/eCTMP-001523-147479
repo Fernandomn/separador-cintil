@@ -5,7 +5,6 @@
     (VP 
      (ADVP 
       (RB Posteriormente)
-      ,
      )
      (VP 
       (VP 
@@ -24,7 +23,6 @@
       )
      )
     )
-    ,
    )
    (NP 
     (NP 
@@ -36,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

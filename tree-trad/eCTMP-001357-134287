@@ -11,9 +11,7 @@
       (VP 
        (VB exigir)
        (ADVP 
-        ,
         (RB silenciosamente)
-        ,
        )
       )
       (NP 
@@ -33,6 +31,5 @@
     )
    )
   )
-  .
  )
 )

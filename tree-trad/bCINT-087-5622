@@ -9,12 +9,10 @@
     (VP 
      (VB tentou)
      (ADVP 
-      ,
       (ADVP 
        (RB em)
        (RB vão)
       )
-      ,
      )
     )
     (VP 
@@ -38,7 +36,6 @@
         )
        )
        (NP 
-        ,
         (NP 
          (NNS Almeida)
          (NNS Santos)
@@ -49,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

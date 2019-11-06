@@ -16,8 +16,6 @@
     (CONJP 
      (CC porque)
      (S 
-      ''
-      ''
       (S 
        (NP 
         (DT este)
@@ -49,6 +47,5 @@
     )
    )
   )
-  .
  )
 )

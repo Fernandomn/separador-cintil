@@ -46,7 +46,6 @@
         )
        )
        (ADJP 
-        ,
         (ADJP 
          (VB disputada)
          (PP 
@@ -65,7 +64,6 @@
              )
             )
             (PP 
-             ,
              (PP 
               (IN em)
               (NP 
@@ -83,6 +81,5 @@
     )
    )
   )
-  .
  )
 )

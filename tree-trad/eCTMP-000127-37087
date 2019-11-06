@@ -9,7 +9,6 @@
       (NNS banco)
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -22,17 +21,8 @@
      (NP 
       (NP 
        (NNS Neno)
-       (NNS 
-        ,
-       )
        (NNS Veloso)
-       (NNS 
-        ,
-       )
        (NNS Paneira)
-       (NNS 
-        ,
-       )
        (NNS Samuel)
       )
      )
@@ -45,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

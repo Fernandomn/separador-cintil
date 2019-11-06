@@ -5,14 +5,12 @@
     (VP 
      (VB Era)
      (PP 
-      ,
       (PP 
        (IN de)
        (NP 
         (NNS resto)
        )
       )
-      ,
      )
     )
     (NP 
@@ -24,8 +22,6 @@
        (NP 
         (DT o)
         (NP 
-         ''
-         ''
          (NP 
           (NNS Correio)
           (NNS Braziliense)
@@ -37,6 +33,5 @@
     )
    )
   )
-  .
  )
 )

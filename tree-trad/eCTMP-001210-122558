@@ -10,13 +10,10 @@
        (NNS verso)
       )
      )
-     ,
     )
     (VP 
      (VB constava)
      (PP 
-      ''
-      ''
       (PP 
        (IN por)
        (NP 
@@ -30,7 +27,6 @@
             (NNS subscritor)
            )
            (NP 
-            ,
             (NP 
              (NNS Eduardo)
              (NNS de)
@@ -47,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

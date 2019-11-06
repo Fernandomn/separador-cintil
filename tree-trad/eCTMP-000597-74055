@@ -10,7 +10,6 @@
         (NNS missão)
        )
        (NP 
-        ,
         (NP 
          (DT os)
          (NP 
@@ -20,7 +19,6 @@
         )
        )
       )
-      ,
      )
      (NP 
       (DT as)
@@ -30,13 +28,11 @@
       )
      )
     )
-    ,
    )
    (NP 
     (DT as)
     (NNS estratégias)
    )
   )
-  ?
  )
 )

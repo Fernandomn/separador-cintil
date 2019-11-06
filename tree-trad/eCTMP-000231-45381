@@ -20,7 +20,6 @@
         )
        )
        (ADJP 
-        ,
         (ADJP 
          (JJ estreita)
          (ADJP 
@@ -28,7 +27,6 @@
           (JJ alta)
          )
         )
-        ,
        )
       )
       (PP 
@@ -52,6 +50,5 @@
     )
    )
   )
-  .
  )
 )

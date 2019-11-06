@@ -14,9 +14,7 @@
    )
    (S 
     (ADVP 
-     ,
      (RB porém)
-     ,
     )
     (S 
      (VP 
@@ -43,7 +41,6 @@
              (ADJP 
               (JJ política)
               (ADJP 
-               ,
                (ADJP 
                 (JJ cultural)
                 (ADJP 
@@ -71,6 +68,5 @@
     )
    )
   )
-  .
  )
 )

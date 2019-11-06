@@ -6,7 +6,6 @@
     (NP 
      (NNS Mafalda)
      (CONJP 
-      ,
       (CONJP 
        (NP 
         (PRP que)
@@ -24,7 +23,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -39,6 +37,5 @@
     )
    )
   )
-  :
  )
 )

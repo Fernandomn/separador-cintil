@@ -11,8 +11,6 @@
       (DT a)
       (NP 
        (NP 
-        ''
-        ''
         (NP 
          (NNS amnistia)
          (JJ total)
@@ -33,7 +31,6 @@
     )
    )
    (S 
-    ,
     (S 
      (NP 
       (DT o)
@@ -52,6 +49,5 @@
     )
    )
   )
-  :
  )
 )

@@ -7,7 +7,6 @@
      (RB outro)
      (RB lado)
     )
-    ,
    )
    (S 
     (NP 
@@ -24,12 +23,10 @@
        )
       )
       (ADJP 
-       ,
        (ADJP 
         (RB aliás)
         (JJ necessário)
        )
-       ,
       )
      )
     )
@@ -53,6 +50,5 @@
     )
    )
   )
-  .
  )
 )

@@ -33,8 +33,6 @@
       (VP 
        (VB constituem)
        (NP 
-        ''
-        ''
         (NP 
          (DT um)
          (NP 
@@ -45,7 +43,6 @@
        )
       )
       (PP 
-       ,
        (PP 
         (IN segundo)
         (NP 
@@ -67,6 +64,5 @@
     )
    )
   )
-  :
  )
 )

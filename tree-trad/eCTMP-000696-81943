@@ -14,7 +14,6 @@
       (NNS anos)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -26,7 +25,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS presidente)
        (NP 
@@ -34,7 +32,6 @@
         (NNS recandidato)
        )
       )
-      ,
      )
     )
     (VP 
@@ -48,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

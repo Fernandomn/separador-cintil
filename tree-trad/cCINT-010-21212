@@ -10,7 +10,6 @@
     (NP 
      (NNS refrão)
      (CONJP 
-      ,
       (CONJP 
        (NP 
         (PRP que)
@@ -50,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

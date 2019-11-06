@@ -8,8 +8,6 @@
       (NP 
        (DT uma)
        (NP 
-        ''
-        ''
         (NNS newbie)
        )
       )
@@ -29,15 +27,11 @@
             (VB serem)
            )
            (ADJP 
-            ''
-            ''
             (JJ visíveis)
            )
           )
           (ADVP 
-           ,
            (RB ainda)
-           ,
           )
          )
          (NP 
@@ -60,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

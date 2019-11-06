@@ -30,7 +30,6 @@
         )
        )
        (NP 
-        ,
         (NP 
          (NNS professor)
          (NNS de_)
@@ -50,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

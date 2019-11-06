@@ -12,7 +12,6 @@
     (VB tremeram)
    )
    (S 
-    ,
     (S 
      (NP 
       (DT a)
@@ -20,9 +19,7 @@
      )
      (VP 
       (ADVP 
-       ,
        (RB subitamente)
-       ,
       )
       (VP 
        (VB ficou)
@@ -37,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

@@ -28,12 +28,10 @@
     (S 
      (VP 
       (ADVP 
-       ,
        (ADVP 
         (RB de)
         (RB facto)
        )
-       ,
       )
       (VP 
        (VB tinha)
@@ -45,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

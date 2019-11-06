@@ -9,16 +9,12 @@
    )
    (VP 
     (PP 
-     ,
      (PP 
       (IN com)
       (NP 
-       ''
-       ''
        (NNS Chiquinho)
       )
      )
-     ,
     )
     (VP 
      (VB fundou)
@@ -41,6 +37,5 @@
     )
    )
   )
-  .
  )
 )

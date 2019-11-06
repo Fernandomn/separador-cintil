@@ -8,8 +8,6 @@
      (PP 
       (IN de)
       (NP 
-       ''
-       ''
        (NP 
         (NNS A)
         (NNS escuridão)
@@ -31,23 +29,14 @@
     (PP 
      (IN a)
      (NP 
-      ''
-      ''
       (NP 
        (NNS Teatro)
-       (NNS 
-        ,
-       )
        (NNS alarme)
-       (NNS 
-        ,
-       )
        (NNS explosão)
       )
      )
     )
    )
   )
-  .
  )
 )

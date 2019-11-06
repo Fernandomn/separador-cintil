@@ -12,9 +12,7 @@
     )
     (VP 
      (ADVP 
-      ,
       (RB ontem)
-      ,
      )
      (VP 
       (VB contactar)
@@ -31,6 +29,5 @@
     )
    )
   )
-  .
  )
 )

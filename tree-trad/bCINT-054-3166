@@ -30,7 +30,6 @@
             (NNS avô)
            )
            (NP 
-            ,
             (NP 
              (DT o)
              (NP 
@@ -39,7 +38,6 @@
                (NNS Molinari)
               )
               (CONJP 
-               ,
                (CONJP 
                 (NP 
                  (PRP que)
@@ -61,6 +59,5 @@
     )
    )
   )
-  .
  )
 )

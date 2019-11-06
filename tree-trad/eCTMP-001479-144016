@@ -9,7 +9,6 @@
       (NNS contexto)
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -49,8 +48,6 @@
         (NP 
          (DT a)
          (NP 
-          ''
-          ''
           (NP 
            (JJ grave)
            (NP 
@@ -73,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

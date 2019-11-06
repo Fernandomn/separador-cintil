@@ -14,7 +14,6 @@
       )
      )
      (ADJP 
-      ,
       (ADJP 
        (VB efectuadas)
        (PP 
@@ -30,7 +29,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -46,8 +44,6 @@
         (PP 
          (IN de)
          (NP 
-          ''
-          ''
           (NP 
            (PRP alguns)
            (NP 
@@ -79,6 +75,5 @@
     )
    )
   )
-  .
  )
 )

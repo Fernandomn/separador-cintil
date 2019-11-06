@@ -40,9 +40,7 @@
           (VP 
            (VB procurar)
            (ADVP 
-            ,
             (RB depois)
-            ,
            )
           )
           (PP 
@@ -56,7 +54,6 @@
            )
           )
          )
-         ,
         )
         (VP 
          (VB definir)
@@ -87,7 +84,6 @@
      )
     )
    )
-   .
   )
  )
 )

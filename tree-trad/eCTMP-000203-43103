@@ -13,7 +13,6 @@
        (NNS Gonzo)
       )
       (CONJP 
-       ,
        (CONJP 
         (NP 
          (PRP que)
@@ -23,8 +22,6 @@
           (VP 
            (VB cantará)
            (NP 
-            ''
-            ''
             (NP 
              (DT Um)
              (NP 
@@ -43,7 +40,6 @@
               (NNS Nucha)
              )
              (NP 
-              ,
               (NP 
                (NP 
                 (NP 
@@ -52,7 +48,6 @@
                 )
                )
                (NP 
-                ,
                 (NP 
                  (NP 
                   (NP 
@@ -77,7 +72,6 @@
              )
             )
             (PP 
-             ,
              (PP 
               (IN entre)
               (NP 
@@ -95,6 +89,5 @@
     )
    )
   )
-  .
  )
 )

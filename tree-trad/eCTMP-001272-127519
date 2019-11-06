@@ -18,14 +18,12 @@
     (VP 
      (VB custam)
      (PP 
-      ,
       (PP 
        (IN em)
        (NP 
         (NNS média)
        )
       )
-      ,
      )
     )
     (NP 
@@ -53,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

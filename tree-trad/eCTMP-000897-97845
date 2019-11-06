@@ -9,18 +9,14 @@
       (NNS Torralta)
      )
     )
-    ,
    )
    (S 
-    ''
-    ''
     (S 
      (NP 
       (DT os)
       (NP 
        (NNS projectos)
        (PP 
-        ,
         (PP 
          (IN em)
          (NP 
@@ -38,7 +34,6 @@
           )
          )
         )
-        ,
        )
       )
      )
@@ -70,6 +65,5 @@
     )
    )
   )
-  .
  )
 )

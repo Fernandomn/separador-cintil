@@ -19,7 +19,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN em_)
       (NP 
@@ -32,7 +31,6 @@
          (NNS Medicina)
         )
         (PP 
-         ,
          (PP 
           (IN em)
           (NP 
@@ -46,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

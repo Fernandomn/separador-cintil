@@ -6,12 +6,10 @@
     (NP 
      (NNS ideias)
      (ADJP 
-      ,
       (ADJP 
        (RB mesmo)
        (JJ boas)
       )
-      ,
      )
     )
    )
@@ -26,6 +24,5 @@
     )
    )
   )
-  .
  )
 )

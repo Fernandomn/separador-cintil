@@ -4,8 +4,6 @@
    (NP 
     (NP 
      (NP 
-      ''
-      ''
       (NP 
        (NNS A)
        (NNS Mansão)
@@ -24,22 +22,18 @@
       )
      )
     )
-    ,
    )
    (NP 
     (CC e)
     (NP 
      (NP 
       (NP 
-       ''
-       ''
        (NP 
         (NNS Inspiração)
         (NNS Trágica)
        )
       )
       (PP 
-       ,
        (PP 
         (IN com)
         (NP 
@@ -54,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

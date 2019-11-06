@@ -4,7 +4,6 @@
    (S 
     (ADVP 
      (RB Enfim)
-     ,
     )
     (S 
      (NP 
@@ -40,7 +39,6 @@
         )
        )
        (CONJP 
-        ,
         (CONJP 
          (NP 
           (PRP que)
@@ -71,7 +69,6 @@
      )
     )
    )
-   .
   )
  )
 )

@@ -13,13 +13,11 @@
         (CC e)
         (ADJP 
          (ADVP 
-          ,
           (ADVP 
            (RB de)
            (RB certa)
            (RB forma)
           )
-          ,
          )
          (JJ triste)
         )
@@ -29,6 +27,5 @@
     )
    )
   )
-  .
  )
 )

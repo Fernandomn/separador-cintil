@@ -12,7 +12,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -39,14 +38,12 @@
      (VP 
       (VB tentaram)
       (PP 
-       ,
        (PP 
         (IN sem)
         (NP 
          (NNS êxito)
         )
        )
-       ,
       )
      )
      (NP 
@@ -65,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

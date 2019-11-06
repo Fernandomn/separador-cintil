@@ -22,11 +22,9 @@
          (NP 
           (NNS Sony)
           (NNS 
-           .
           )
          )
          (CONJP 
-          ,
           (CONJP 
            (NP 
             (PRP que)
@@ -55,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

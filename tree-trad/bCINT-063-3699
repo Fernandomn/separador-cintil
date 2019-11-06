@@ -22,7 +22,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (DT uma)
        (NP 
@@ -30,7 +29,6 @@
         (ADJP 
          (ADJP 
           (JJ burguesa)
-          ,
          )
          (ADJP 
           (RB muito)
@@ -43,6 +41,5 @@
     )
    )
   )
-  .
  )
 )

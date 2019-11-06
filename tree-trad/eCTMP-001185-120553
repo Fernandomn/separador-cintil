@@ -47,9 +47,7 @@
       )
      )
     )
-    ,
-    (CC já)
-    (CC que)
+    (CONJP já que)
     (S 
      (NP 
       (NP 
@@ -62,9 +60,7 @@
       (VP 
        (VB está)
        (ADVP 
-        ,
         (RB ainda)
-        ,
        )
       )
       (PP 
@@ -75,8 +71,6 @@
          (NP 
           (NNS pessoas)
           (PP 
-           ''
-           ''
            (PP 
             (IN com)
             (NP 
@@ -98,6 +92,5 @@
     )
    )
   )
-  .
  )
 )

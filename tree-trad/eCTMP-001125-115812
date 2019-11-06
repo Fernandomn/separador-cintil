@@ -7,8 +7,6 @@
      (PRP muita)
      (NP 
       (NP 
-       ''
-       ''
        (NNS oficina)
       )
       (CONJP 
@@ -27,7 +25,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NP 
        (DT a)
@@ -49,7 +46,6 @@
        )
       )
       (NP 
-       ,
        (NP 
         (DT um)
         (NP 
@@ -95,6 +91,5 @@
     )
    )
   )
-  .
  )
 )

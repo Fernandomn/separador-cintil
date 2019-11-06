@@ -16,7 +16,6 @@
       (NP 
        (NNS cimento)
        (ADJP 
-        ,
         (ADJP 
          (VB suportado)
          (PP 
@@ -32,6 +31,5 @@
     )
    )
   )
-  .
  )
 )

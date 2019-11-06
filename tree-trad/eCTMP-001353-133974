@@ -29,7 +29,6 @@
     (S 
      (VP 
       (PP 
-       ,
        (PP 
         (IN a_)
         (NP 
@@ -37,13 +36,11 @@
          (NNS noite)
         )
        )
-       ,
       )
       (VB estuda)
      )
     )
    )
   )
-  .
  )
 )

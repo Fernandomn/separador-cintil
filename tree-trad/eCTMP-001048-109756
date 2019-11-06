@@ -5,13 +5,11 @@
     (VP 
      (VB Temos)
      (ADVP 
-      ,
       (ADVP 
        (RB por)
        (RB outro)
        (RB lado)
       )
-      ,
      )
     )
     (NP 
@@ -34,7 +32,6 @@
          (NP 
           (NNS diversidade)
           (PP 
-           ,
            (PP 
             (PP 
              (IN a)
@@ -69,6 +66,5 @@
     )
    )
   )
-  .
  )
 )

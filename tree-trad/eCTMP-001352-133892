@@ -24,7 +24,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN em_)
       (NP 
@@ -43,7 +42,6 @@
              (NNS Ritmos)
             )
             (CONJP 
-             ,
              (CONJP 
               (NP 
                (PRP que)
@@ -75,6 +73,5 @@
     )
    )
   )
-  .
  )
 )

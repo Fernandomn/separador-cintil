@@ -1,7 +1,5 @@
 (
  (S 
-  ''
-  ''
   (VP 
    (VP 
     (VP 
@@ -15,7 +13,6 @@
        )
       )
       (NP 
-       ,
        (NP 
         (PRP muitos)
         (NP 
@@ -32,12 +29,10 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (CC porque)
       (S 
        (PP 
-        ,
         (PP 
          (IN a_)
          (NP 
@@ -45,7 +40,6 @@
           (NNS vezes)
          )
         )
-        ,
        )
        (S 
         (NP 
@@ -73,7 +67,6 @@
      )
     )
    )
-   .
   )
  )
 )

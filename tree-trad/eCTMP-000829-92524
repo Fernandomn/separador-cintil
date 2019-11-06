@@ -6,7 +6,6 @@
     (NP 
      (NNS piloto)
      (ADJP 
-      ,
       (ADJP 
        (VB atormentado)
        (PP 
@@ -17,7 +16,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -31,6 +29,5 @@
     )
    )
   )
-  .
  )
 )

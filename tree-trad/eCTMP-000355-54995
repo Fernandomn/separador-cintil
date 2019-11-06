@@ -6,7 +6,6 @@
     (NP 
      (NNS achado)
      (ADJP 
-      ,
       (ADJP 
        (VB realizado)
        (PP 
@@ -30,7 +29,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -52,6 +50,5 @@
     )
    )
   )
-  .
  )
 )

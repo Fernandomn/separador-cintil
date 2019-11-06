@@ -18,9 +18,7 @@
     (VP 
      (VB anunciou)
      (ADVP 
-      ,
       (RB ontem)
-      ,
      )
     )
     (NP 
@@ -45,7 +43,6 @@
        )
       )
       (PP 
-       ,
        (PP 
         (IN em_)
         (NP 
@@ -72,6 +69,5 @@
     )
    )
   )
-  .
  )
 )

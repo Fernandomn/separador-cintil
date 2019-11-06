@@ -63,12 +63,10 @@
        (S 
         (VP 
          (ADVP 
-          ,
           (ADVP 
            (RB em)
            (RB breve)
           )
-          ,
          )
          (VP 
           (VB será)
@@ -90,6 +88,5 @@
     )
    )
   )
-  .
  )
 )

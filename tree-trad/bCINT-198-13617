@@ -5,17 +5,13 @@
     (DT A)
     (NP 
      (NP 
-      ''
-      ''
       (NP 
        (NNS presidência)
        (JJ imperial)
       )
      )
      (ADJP 
-      ,
       (JJ mítica)
-      ,
      )
     )
    )
@@ -24,6 +20,5 @@
     (VB destruída)
    )
   )
-  .
  )
 )

@@ -4,16 +4,15 @@
    (NP 
     (NNS Jean-Claude)
     (NNS Chauviere)
-    (NNS *)
    )
-  )
-  (VP 
-   (PP 
-    (IN em)
-    (NP 
+   (VP 
+    (PP 
+     (IN em)
      (NP 
-      (NNS San)
-      (NNS Diego)
+      (NP 
+       (NNS San)
+       (NNS Diego)
+      )
      )
     )
    )

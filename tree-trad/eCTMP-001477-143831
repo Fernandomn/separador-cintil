@@ -4,16 +4,12 @@
    (VP 
     (ADVP 
      (RB Aliás)
-     ,
     )
     (VP 
      (VP 
       (VB adianta)
-      ,
      )
      (CONJP 
-      ''
-      ''
       (S 
        (VP 
         (VB vivemos)
@@ -49,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

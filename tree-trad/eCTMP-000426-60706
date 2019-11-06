@@ -18,8 +18,6 @@
       (VP 
        (VB é)
        (NP 
-        ''
-        ''
         (NP 
          (DT um)
          (NP 
@@ -27,12 +25,10 @@
           (ADJP 
            (ADJP 
             (JJ sério)
-            ,
            )
            (ADJP 
             (JJ competente)
             (CONJP 
-             ,
              (CONJP 
               (NP 
                (PRP que)
@@ -58,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

@@ -7,13 +7,11 @@
    )
    (VP 
     (ADVP 
-     ,
      (ADVP 
       (RB por)
       (RB outro)
       (RB lado)
      )
-     ,
     )
     (VP 
      (VP 
@@ -29,7 +27,6 @@
        )
       )
       (PP 
-       ,
        (PP 
         (IN com)
         (NP 
@@ -55,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

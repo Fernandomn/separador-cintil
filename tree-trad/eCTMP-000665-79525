@@ -3,14 +3,11 @@
   (S 
    (ADVP 
     (RB Assim)
-    ,
    )
    (S 
     (NP 
      (DT o)
      (NP 
-      ''
-      ''
       (NNS teletrabalhador)
      )
     )
@@ -41,7 +38,6 @@
        )
       )
       (VP 
-       ,
        (VP 
         (VP 
          (VB partilhar)
@@ -67,6 +63,5 @@
     )
    )
   )
-  .
  )
 )

@@ -23,7 +23,6 @@
        (NP 
         (NNS histórias)
         (CONJP 
-         ,
          (CONJP 
           (NP 
            (PRP que)
@@ -68,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

@@ -12,7 +12,6 @@
      (VP 
       (VB sei)
       (CONJP 
-       ,
        (CONJP 
         (CC porque)
         (S 
@@ -68,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

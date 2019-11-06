@@ -12,7 +12,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -20,7 +19,6 @@
      (NP 
       (NNS vítima)
       (CONJP 
-       ,
        (CONJP 
         (NP 
          (PRP que)
@@ -37,7 +35,6 @@
          )
         )
        )
-       ,
       )
      )
     )
@@ -54,7 +51,6 @@
         (NNS Santos)
        )
        (ADJP 
-        ,
         (ADJP 
          (JJ residente)
          (PP 
@@ -71,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

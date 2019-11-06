@@ -40,9 +40,7 @@
        (VP 
         (VB custa)
         (NP 
-         (CD 
-          .
-         )
+         (CD 7.500)
          (NNS escudos)
         )
        )
@@ -51,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

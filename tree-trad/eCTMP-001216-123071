@@ -1,15 +1,12 @@
 (
  (S 
   (S 
-   ''
-   ''
    (S 
     (VP 
      (RB Pois)
      (VP 
       (ADVP 
        (RB então)
-       ,
       )
       (VP 
        (VB vêm)
@@ -26,6 +23,5 @@
     )
    )
   )
-  .
  )
 )

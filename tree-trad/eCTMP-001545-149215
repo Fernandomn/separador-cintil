@@ -20,7 +20,6 @@
          )
         )
         (NP 
-         ,
          (NP 
           (NNS ex-programador)
           (PP 
@@ -30,7 +29,6 @@
            )
           )
          )
-         ,
         )
        )
       )
@@ -42,7 +40,6 @@
       (DT a)
       (NP 
        (NNS Warner)
-       (NNS /)
        (NNS Amex)
        (NNS Entertainment)
        (NNS Company)
@@ -51,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

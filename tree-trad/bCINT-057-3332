@@ -17,10 +17,7 @@
         (NP 
          (NNS bicho)
          (CONJP 
-          ,
           (CONJP 
-           ''
-           ''
            (CONJP 
             (NP 
              (PRP que)
@@ -56,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

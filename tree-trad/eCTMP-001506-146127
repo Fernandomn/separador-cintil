@@ -21,7 +21,6 @@
      )
     )
     (CONJP 
-     ,
      (CONJP 
       (CC enquanto)
       (S 
@@ -52,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

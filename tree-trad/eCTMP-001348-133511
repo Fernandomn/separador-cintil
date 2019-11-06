@@ -5,20 +5,18 @@
     (NP 
      (NNS João)
      (NNS Medeiros)
-     (NNS -)
     )
-   )
-   (VP 
-    (VB Sofreu)
-    (NP 
-     (DT uma)
+    (VP 
+     (VB Sofreu)
      (NP 
-      (NNS rotura)
-      (JJ muscular)
+      (DT uma)
+      (NP 
+       (NNS rotura)
+       (JJ muscular)
+      )
      )
     )
    )
   )
-  .
  )
 )

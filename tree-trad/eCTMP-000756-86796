@@ -9,7 +9,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS presidente)
       (NNS de_)
@@ -20,7 +19,6 @@
       (NNS de)
       (NNS Paialvo)
      )
-     ,
     )
    )
    (VP 
@@ -74,6 +72,5 @@
     )
    )
   )
-  .
  )
 )

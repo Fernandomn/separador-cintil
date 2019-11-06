@@ -16,7 +16,6 @@
       (NNS Candil)
      )
      (NP 
-      ,
       (NP 
        (NNS empresa)
        (CONJP 
@@ -43,7 +42,6 @@
            )
           )
           (NP 
-           ,
            (NP 
             (NNS filho)
             (PP 
@@ -66,6 +64,5 @@
     )
    )
   )
-  .
  )
 )

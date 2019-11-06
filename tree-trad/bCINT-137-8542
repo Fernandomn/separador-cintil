@@ -28,7 +28,6 @@
        (NP 
         (DT aquelas)
         (NP 
-         ,
          (NP 
           (CONJP 
            (NP 
@@ -52,7 +51,6 @@
                )
               )
               (NP 
-               ,
                (NP 
                 (DT o)
                 (NP 
@@ -73,6 +71,5 @@
     )
    )
   )
-  .
  )
 )

@@ -6,9 +6,7 @@
     (NP 
      (NNS mar)
      (ADJP 
-      ,
       (JJ encapelado)
-      ,
      )
     )
    )
@@ -37,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

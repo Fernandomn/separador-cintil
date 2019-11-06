@@ -36,7 +36,6 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (CC porque)
        (S 
@@ -49,7 +48,6 @@
          (NP 
           (NNS ruelas)
           (ADJP 
-           ,
            (ADJP 
             (JJ pequenas)
             (ADJP 
@@ -65,7 +63,6 @@
      )
     )
    )
-   .
   )
  )
 )

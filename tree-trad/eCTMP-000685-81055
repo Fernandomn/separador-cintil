@@ -4,14 +4,12 @@
    (VP 
     (VB Há)
     (PP 
-     ,
      (PP 
       (IN por)
       (NP 
        (NNS exemplo)
       )
      )
-     ,
     )
    )
    (NP 
@@ -51,7 +49,6 @@
        )
       )
       (CONJP 
-       ,
        (CONJP 
         (CC e)
         (CONJP 
@@ -72,6 +69,5 @@
     )
    )
   )
-  .
  )
 )

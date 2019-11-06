@@ -2,8 +2,6 @@
  (S 
   (S 
    (S 
-    ''
-    ''
     (VP 
      (VP 
       (VB Houve)
@@ -28,16 +26,12 @@
     (S 
      (VP 
       (ADVP 
-       ,
        (ADVP 
         (RB mais)
         (RB tarde)
        )
-       ,
       )
       (VP 
-       ''
-       ''
        (VP 
         (VB houve)
         (NP 
@@ -45,10 +39,7 @@
           (NNS coincidências)
          )
          (NP 
-          ,
           (NP 
-           ''
-           ''
            (NP 
             (NNS aproveitamento)
             (PP 
@@ -68,6 +59,5 @@
     )
    )
   )
-  .
  )
 )

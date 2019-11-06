@@ -13,7 +13,6 @@
        (NNS UEO)
       )
      )
-     ,
     )
     (VP 
      (VB tem)
@@ -23,12 +22,10 @@
        (VP 
         (VB ser)
         (ADVP 
-         ,
          (ADVP 
           (RB de)
           (RB facto)
          )
-         ,
         )
        )
        (NP 
@@ -51,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

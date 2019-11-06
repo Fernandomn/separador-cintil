@@ -10,12 +10,10 @@
      (VP 
       (VB são)
       (ADVP 
-       ,
        (ADVP 
         (RB de)
         (RB facto)
        )
-       ,
       )
      )
      (NP 
@@ -39,7 +37,6 @@
      )
     )
    )
-   .
   )
  )
 )

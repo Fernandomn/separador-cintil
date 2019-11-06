@@ -9,12 +9,10 @@
     (VP 
      (VB serão)
      (ADVP 
-      ,
       (ADVP 
        (RB em)
        (RB princípio)
       )
-      ,
      )
     )
     (NP 
@@ -34,6 +32,5 @@
     )
    )
   )
-  .
  )
 )

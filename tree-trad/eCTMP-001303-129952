@@ -8,12 +8,10 @@
     )
     (VP 
      (ADVP 
-      ,
       (ADVP 
        (RB por)
        (RB acaso)
       )
-      ,
      )
      (VP 
       (VB encontrará)
@@ -39,7 +37,6 @@
             )
            )
            (PP 
-            ,
             (PP 
              (IN com)
              (NP 
@@ -63,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

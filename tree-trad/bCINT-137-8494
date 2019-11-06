@@ -14,7 +14,6 @@
     )
    )
    (S 
-    ,
     (S 
      (VB apareceu)
      (NP 
@@ -22,7 +21,6 @@
       (NP 
        (NNS Fernando)
        (CONJP 
-        ,
         (CONJP 
          (NP 
           (PRP que)
@@ -54,6 +52,5 @@
     )
    )
   )
-  .
  )
 )

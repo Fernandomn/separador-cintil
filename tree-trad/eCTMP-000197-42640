@@ -9,13 +9,11 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NP 
        (NNS escopcês)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (NNS vice-presidente)
@@ -26,7 +24,6 @@
        )
       )
      )
-     ,
     )
    )
    (VP 
@@ -52,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

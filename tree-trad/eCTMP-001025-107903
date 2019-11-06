@@ -9,12 +9,10 @@
     (VP 
      (VB foi)
      (PP 
-      ,
       (PP 
        (IN de)
        (RB longe)
       )
-      ,
      )
     )
     (NP 
@@ -38,6 +36,5 @@
     )
    )
   )
-  .
  )
 )

@@ -10,7 +10,6 @@
    )
    (S 
     (CONJP 
-     ,
      (CONJP 
       (CC caso)
       (S 
@@ -24,7 +23,6 @@
        )
       )
      )
-     ,
     )
     (S 
      (NP 
@@ -38,12 +36,10 @@
      )
      (VP 
       (ADVP 
-       ,
        (ADVP 
         (RB por)
         (RB certo)
        )
-       ,
       )
       (VP 
        (VB irá)
@@ -58,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

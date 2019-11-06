@@ -9,7 +9,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (DT o)
       (NP 
@@ -20,7 +19,6 @@
        (JJ socialista)
       )
      )
-     ,
     )
    )
    (VP 
@@ -28,13 +26,10 @@
     (VP 
      (VB gostou)
      (ADVP 
-      ''
-      ''
       (RB muito)
      )
     )
    )
   )
-  .
  )
 )

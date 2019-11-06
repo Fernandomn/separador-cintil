@@ -6,7 +6,6 @@
     (NP 
      (NNS boavisteiros)
      (CONJP 
-      ,
       (CONJP 
        (NP 
         (PRP que)
@@ -27,7 +26,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -45,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

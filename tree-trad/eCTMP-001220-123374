@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Depois)
-    ,
    )
    (S 
     (NP 
@@ -25,7 +24,6 @@
          )
         )
         (NP 
-         ,
          (NP 
           (NNS Jesus)
           (NNS Echevarrie)
@@ -37,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

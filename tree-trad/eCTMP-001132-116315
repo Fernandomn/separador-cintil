@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Actualmente)
-    ,
    )
    (S 
     (NP 
@@ -36,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

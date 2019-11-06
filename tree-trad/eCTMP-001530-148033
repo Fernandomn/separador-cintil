@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Ontem)
-    ,
    )
    (S 
     (NP 
@@ -27,17 +26,13 @@
         (NP 
          (DT as)
          (NP 
-          (CD 
-           ,
-          )
+          (CD 91,20)
          )
         )
         (NP 
          (CC e)
          (NP 
-          (CD 
-           ,
-          )
+          (CD 92,10)
           (NNS pesetas)
          )
         )
@@ -47,6 +42,5 @@
     )
    )
   )
-  .
  )
 )

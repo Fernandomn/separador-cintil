@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Hoje)
-    ,
    )
    (S 
     (NP 
@@ -22,7 +21,6 @@
          (NNS Guitar)
         )
         (PP 
-         ,
          (PP 
           (IN em)
           (NP 
@@ -36,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

@@ -27,21 +27,18 @@
           (NNS dor)
          )
          (NP 
-          ,
           (NP 
            (NP 
             (DT o)
             (NNS desespero)
            )
            (NP 
-            ,
             (NP 
              (NP 
               (DT a)
               (NNS cólera)
              )
              (NP 
-              ,
               (NP 
                (NP 
                 (DT a)
@@ -73,6 +70,5 @@
     )
    )
   )
-  .
  )
 )

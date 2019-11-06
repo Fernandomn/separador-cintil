@@ -5,7 +5,6 @@
     (RB Depois)
     (VP 
      (PP 
-      ,
       (PP 
        (IN em_)
        (NP 
@@ -13,7 +12,6 @@
         (NNS montanhas)
        )
       )
-      ,
      )
      (VP 
       (VB melhorou)
@@ -28,6 +26,5 @@
     )
    )
   )
-  .
  )
 )

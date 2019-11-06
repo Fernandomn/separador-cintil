@@ -12,17 +12,13 @@
     (VP 
      (VB constituiu)
      (ADVP 
-      ,
       (RB talvez)
-      ,
      )
     )
     (NP 
      (DT o)
      (NP 
       (NP 
-       ''
-       ''
        (NP 
         (NNS tour)
         (PP 
@@ -44,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

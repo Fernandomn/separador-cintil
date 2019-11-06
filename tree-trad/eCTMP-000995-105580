@@ -12,7 +12,6 @@
          (NNS Lusol)
         )
        )
-       ,
       )
       (VP 
        (VB prefere)
@@ -29,7 +28,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (CC mas)
@@ -46,7 +44,6 @@
        )
       )
       (CONJP 
-       ,
        (CONJP 
         (CC caso)
         (S 
@@ -71,6 +68,5 @@
     )
    )
   )
-  .
  )
 )

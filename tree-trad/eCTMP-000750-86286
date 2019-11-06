@@ -10,7 +10,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS presidente)
       (NNS de_)
@@ -21,7 +20,6 @@
       (NNS Castelo)
       (NNS Branco)
      )
-     ,
     )
    )
    (VP 
@@ -44,7 +42,6 @@
       )
      )
      (PP 
-      ,
       (PP 
        (PP 
         (IN a)
@@ -68,6 +65,5 @@
     )
    )
   )
-  .
  )
 )

@@ -7,7 +7,6 @@
       (RB Cá)
       (RB fora)
      )
-     ,
     )
     (VP 
      (VB são)
@@ -19,14 +18,12 @@
          (NNS entrevistas)
         )
         (NP 
-         ,
          (NP 
           (DT os)
           (NNS comentários)
          )
         )
        )
-       ,
       )
       (NP 
        (DT o)
@@ -57,6 +54,5 @@
     )
    )
   )
-  .
  )
 )

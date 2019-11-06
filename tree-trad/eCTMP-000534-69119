@@ -6,15 +6,12 @@
      (RB Por)
      (RB agora)
     )
-    ,
    )
    (S 
     (NP 
      (PRP eles)
     )
     (VP 
-     ''
-     ''
      (VP 
       (VB são)
       (NP 
@@ -27,6 +24,5 @@
     )
    )
   )
-  .
  )
 )

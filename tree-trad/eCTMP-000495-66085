@@ -5,12 +5,10 @@
     (VP 
      (VB São)
      (ADVP 
-      ,
       (ADVP 
        (RB muito)
        (RB possivelmente)
       )
-      ,
      )
     )
     (NP 
@@ -26,6 +24,5 @@
     )
    )
   )
-  .
  )
 )

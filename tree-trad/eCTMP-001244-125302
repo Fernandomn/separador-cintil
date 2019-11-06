@@ -13,13 +13,11 @@
         (VP 
          (VB é)
          (ADVP 
-          ,
           (ADVP 
            (RB cada)
            (RB vez)
            (RB mais)
           )
-          ,
          )
         )
         (NP 
@@ -51,6 +49,5 @@
     )
    )
   )
-  .
  )
 )

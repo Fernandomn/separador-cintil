@@ -21,15 +21,12 @@
     )
     (NP 
      (NP 
-      ''
-      ''
       (NP 
        (NNS Ghost)
        (NNS world)
       )
      )
      (NP 
-      ,
       (NP 
        (DT a)
        (NP 
@@ -44,7 +41,6 @@
            )
           )
           (NP 
-           ,
            (NP 
             (DT outro)
             (NP 
@@ -66,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

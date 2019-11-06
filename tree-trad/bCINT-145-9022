@@ -15,7 +15,6 @@
    )
   )
   (S 
-   ,
    (S 
     (S 
      (VP 
@@ -40,7 +39,6 @@
           (NNS quinteto)
           (NNS Dealema)
          )
-         ,
         )
         (ADJP 
          (VB apadrinhado)
@@ -57,9 +55,6 @@
                (NNS Mind)
                (NNS Da)
                (NNS Gap)
-               (NNS 
-                .
-               )
               )
              )
             )

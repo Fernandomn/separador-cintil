@@ -5,7 +5,6 @@
     (VB Experimenta)
     (VP 
      (PP 
-      ,
       (PP 
        (IN em_)
        (NP 
@@ -35,7 +34,6 @@
         )
        )
       )
-      ,
      )
      (VP 
       (VB definir)
@@ -47,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

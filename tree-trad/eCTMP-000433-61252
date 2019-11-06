@@ -8,7 +8,6 @@
       (RB um)
       (RB lado)
      )
-     ,
     )
     (VP 
      (VB temos)
@@ -27,7 +26,6 @@
        )
       )
       (PP 
-       ,
        (PP 
         (IN com)
         (NP 
@@ -46,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

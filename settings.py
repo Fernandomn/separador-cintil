@@ -21,7 +21,7 @@ def init():
     global tagsProblematicas
 
     CWordDict = {}
-    pointList = ['"', "'"]
+    pointList = ['"', "'", "...", "-", "/", "-lrb-", "-rrb-", ",", ".", "*"]
     conjTag = 'CC'
     conjBarTag = '_CONJP_'
     conjPTag = 'CONJP'

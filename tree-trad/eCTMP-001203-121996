@@ -12,14 +12,11 @@
        (VP 
         (VB fizeram)
         (NP 
-         ''
-         ''
          (NP 
           (NP 
            (NNS Europa)
           )
           (NP 
-           ,
            (NP 
             (NNS Europa)
            )
@@ -38,6 +35,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,28 +9,24 @@
       (NNS Miquelina)
      )
      (NP 
-      ,
       (NP 
        (NP 
         (DT a)
         (NNS Cacilda)
        )
        (NP 
-        ,
         (NP 
          (NP 
           (DT a)
           (NNS Ambrosina)
          )
          (NP 
-          ,
           (NP 
            (NP 
             (DT a)
             (NNS Gracinda)
            )
            (NP 
-            ,
             (NP 
              (NP 
               (DT o)
@@ -59,6 +55,5 @@
     )
    )
   )
-  .
  )
 )

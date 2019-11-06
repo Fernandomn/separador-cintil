@@ -7,14 +7,12 @@
      (VP 
       (VB estão)
       (PP 
-       ,
        (PP 
         (IN por)
         (NP 
          (NNS exemplo)
         )
        )
-       ,
       )
      )
     )
@@ -42,6 +40,5 @@
     )
    )
   )
-  .
  )
 )

@@ -5,12 +5,10 @@
     (VP 
      (VB Encontra)
      (ADVP 
-      ,
       (ADVP 
        (RB por)
        (RB acaso)
       )
-      ,
      )
     )
     (NP 
@@ -33,6 +31,5 @@
     )
    )
   )
-  .
  )
 )

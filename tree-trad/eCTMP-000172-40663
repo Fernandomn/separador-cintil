@@ -4,9 +4,6 @@
    (NP 
     (NP 
      (NNS Antiguidades)
-     (NNS 
-      ,
-     )
      (NNS Pintura)
      (NNS e)
      (NNS Objectos)
@@ -15,7 +12,6 @@
     )
    )
    (NP 
-    ,
     (NP 
      (DT uma)
      (NP 
@@ -57,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

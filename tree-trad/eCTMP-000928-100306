@@ -9,7 +9,6 @@
    )
    (S 
     (PP 
-     ,
      (PP 
       (PP 
        (IN para)
@@ -21,7 +20,6 @@
        (NNS projectores)
       )
      )
-     ,
     )
     (S 
      (NP 
@@ -50,6 +48,5 @@
     )
    )
   )
-  .
  )
 )

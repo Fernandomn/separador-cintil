@@ -7,14 +7,12 @@
      (VP 
       (VB ministrado)
       (PP 
-       ,
        (PP 
         (IN entre)
         (NP 
          (DT outros)
         )
        )
-       ,
       )
      )
      (PP 
@@ -38,7 +36,6 @@
         )
        )
        (NP 
-        ,
         (NP 
          (NP 
           (NNS professores)
@@ -72,6 +69,5 @@
     )
    )
   )
-  .
  )
 )

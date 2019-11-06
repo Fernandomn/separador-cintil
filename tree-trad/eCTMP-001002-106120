@@ -15,7 +15,6 @@
      )
      (VP 
       (CONJP 
-       ,
        (CONJP 
         (CC quando)
         (S 
@@ -32,7 +31,6 @@
          )
         )
        )
-       ,
       )
       (VP 
        (VB permitem)
@@ -57,6 +55,5 @@
     )
    )
   )
-  .
  )
 )

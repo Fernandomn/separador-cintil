@@ -17,7 +17,6 @@
         (NP 
          (NNS imigrantes)
          (CONJP 
-          ,
           (CONJP 
            (NP 
             (PRP que)
@@ -57,6 +56,5 @@
     )
    )
   )
-  .
  )
 )

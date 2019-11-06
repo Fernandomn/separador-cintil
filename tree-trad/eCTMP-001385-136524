@@ -9,15 +9,11 @@
      )
     )
     (VP 
-     ''
-     ''
      (VP 
       (VP 
        (VB digo)
        (ADVP 
-        ,
         (RB agora)
-        ,
        )
       )
       (CONJP 
@@ -35,6 +31,5 @@
     )
    )
   )
-  .
  )
 )

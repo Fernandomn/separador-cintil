@@ -15,9 +15,7 @@
       (VP 
        (VB enviado)
        (ADVP 
-        ,
         (RB recentemente)
-        ,
        )
       )
       (PP 
@@ -34,6 +32,5 @@
     )
    )
   )
-  .
  )
 )

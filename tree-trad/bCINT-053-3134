@@ -58,19 +58,15 @@
            )
           )
           (NP 
-           ,
            (NP 
             (NNS antecessor)
             (PP 
              (IN de)
              (NP 
-              ''
-              ''
               (NNS Bibi)
              )
             )
            )
-           ,
           )
          )
         )
@@ -131,6 +127,5 @@
     )
    )
   )
-  .
  )
 )

@@ -4,7 +4,6 @@
    (VP 
     (ADVP 
      (RB Primeiro)
-     ,
     )
     (VP 
      (VB foi)
@@ -29,7 +28,6 @@
          )
         )
         (NP 
-         ,
          (NP 
           (DT um)
           (NP 
@@ -49,6 +47,5 @@
     )
    )
   )
-  .
  )
 )

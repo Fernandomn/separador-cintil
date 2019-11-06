@@ -7,14 +7,12 @@
    )
    (VP 
     (PP 
-     ,
      (PP 
       (IN por)
       (NP 
        (NNS exemplo)
       )
      )
-     ,
     )
     (VP 
      (VB é)
@@ -35,14 +33,12 @@
             (NNS áudio)
            )
            (NP 
-            ,
             (NP 
              (NP 
               (DT o)
               (NNS vídeo)
              )
              (NP 
-              ,
               (NP 
                (NP 
                 (DT as)
@@ -71,6 +67,5 @@
     )
    )
   )
-  .
  )
 )

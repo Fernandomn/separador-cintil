@@ -5,8 +5,6 @@
     (PP 
      (IN Contra)
      (NP 
-      ''
-      ''
       (NP 
        (PRP tudo)
        (NP 
@@ -15,7 +13,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (NP 
@@ -37,8 +34,6 @@
       (RB agora)
      )
      (NP 
-      ''
-      ''
       (NP 
        (NP 
         (NNS justiça)
@@ -67,6 +62,5 @@
     )
    )
   )
-  .
  )
 )

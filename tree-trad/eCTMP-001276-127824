@@ -7,13 +7,11 @@
     )
     (VP 
      (ADVP 
-      ,
       (ADVP 
        (RB por)
        (RB outro)
        (RB lado)
       )
-      ,
      )
      (VP 
       (VB é)
@@ -30,6 +28,5 @@
     )
    )
   )
-  .
  )
 )

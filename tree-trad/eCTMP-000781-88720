@@ -3,7 +3,6 @@
   (CONJP 
    (ADVP 
     (RB Não)
-    ,
    )
    (S 
     (NP 
@@ -12,9 +11,7 @@
     )
     (VP 
      (ADVP 
-      ,
       (RB definitivamente)
-      ,
      )
      (VP 
       (RB não)
@@ -23,6 +20,5 @@
     )
    )
   )
-  .
  )
 )

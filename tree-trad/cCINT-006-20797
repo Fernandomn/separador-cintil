@@ -10,7 +10,6 @@
        (NNS sopa)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (NNS carne)
@@ -31,6 +30,5 @@
     )
    )
   )
-  .
  )
 )

@@ -8,8 +8,6 @@
     (VP 
      (VB dizem)
      (CONJP 
-      ''
-      ''
       (S 
        (VP 
         (RB bem)
@@ -21,7 +19,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN com)
       (NP 
@@ -63,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

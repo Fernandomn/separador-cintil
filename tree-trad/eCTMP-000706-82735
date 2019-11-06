@@ -16,7 +16,6 @@
          (NP 
           (NNS América)
           (CONJP 
-           ,
            (CONJP 
             (RB onde)
             (S 
@@ -47,6 +46,5 @@
     )
    )
   )
-  .
  )
 )

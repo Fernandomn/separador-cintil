@@ -21,14 +21,12 @@
        (S 
         (VP 
          (PP 
-          ,
           (PP 
            (IN segundo)
            (NP 
             (NNS Tannery)
            )
           )
-          ,
          )
          (VP 
           (VP 
@@ -55,6 +53,5 @@
     )
    )
   )
-  .
  )
 )

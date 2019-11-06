@@ -10,14 +10,12 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS director)
        (NNS de_)
        (NNS o)
        (NNS Bingo)
       )
-      ,
      )
     )
     (VP 
@@ -66,6 +64,5 @@
     )
    )
   )
-  .
  )
 )

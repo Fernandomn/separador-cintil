@@ -12,15 +12,11 @@
        (NNS o)
        (NNS soviete)
        (NNS regional)
-       (NNS 
-        ,
-       )
        (NNS Oleg)
        (NNS Diatchkin)
       )
      )
     )
-    ,
    )
    (VP 
     (VP 
@@ -34,7 +30,6 @@
      )
     )
     (PP 
-     ,
      (PP 
       (IN por)
       (NP 
@@ -44,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

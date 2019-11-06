@@ -9,9 +9,7 @@
     (VP 
      (VB chamou)
      (ADVP 
-      ,
       (RB depois)
-      ,
      )
     )
     (NP 
@@ -33,6 +31,5 @@
     )
    )
   )
-  .
  )
 )

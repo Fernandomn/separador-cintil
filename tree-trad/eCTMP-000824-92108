@@ -14,7 +14,6 @@
     (CC mas)
     (S 
      (ADVP 
-      ,
       (ADVP 
        (ADVP 
         (NP 
@@ -24,7 +23,6 @@
        )
        (RB depois)
       )
-      ,
      )
      (S 
       (NP 
@@ -41,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

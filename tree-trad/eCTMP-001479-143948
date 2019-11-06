@@ -3,14 +3,11 @@
   (CONJP 
    (ADVP 
     (RB Não)
-    ,
    )
    (S 
     (NP 
      (DT o)
      (NP 
-      ''
-      ''
       (NNS caso)
      )
     )
@@ -23,12 +20,10 @@
         (NNS criança)
        )
        (NP 
-        ,
         (NP 
          (NNS Victoire)
          (NNS Thivisol)
         )
-        ,
        )
       )
       (NP 
@@ -40,12 +35,9 @@
          (NP 
           (NP 
            (NP 
-            ''
-            ''
             (NNS Ponette)
            )
            (PP 
-            ,
             (PP 
              (IN de)
              (NP 
@@ -65,6 +57,5 @@
     )
    )
   )
-  .
  )
 )

@@ -35,12 +35,10 @@
          )
         )
         (ADJP 
-         ,
          (ADJP 
           (RB também)
           (JJ norte-americano)
          )
-         ,
         )
        )
       )
@@ -52,8 +50,6 @@
       (NP 
        (NNS obra)
        (NP 
-        ''
-        ''
         (NP 
          (NNS História)
          (NNS de)
@@ -63,7 +59,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS edição)
        (PP 
@@ -81,6 +76,5 @@
     )
    )
   )
-  .
  )
 )

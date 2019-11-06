@@ -13,14 +13,12 @@
      (VP 
       (VB falou)
       (PP 
-       ,
        (PP 
         (IN por)
         (NP 
          (NNS exemplo)
         )
        )
-       ,
       )
      )
     )
@@ -37,7 +35,6 @@
       )
      )
      (NP 
-      ,
       (NP 
        (NNS Carlos)
        (NNS Reis)
@@ -46,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

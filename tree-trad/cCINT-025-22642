@@ -6,12 +6,10 @@
    )
    (VP 
     (ADVP 
-     ,
      (ADVP 
       (RB por)
       (RB acaso)
      )
-     ,
     )
     (VP 
      (VB sei)
@@ -22,6 +20,5 @@
     )
    )
   )
-  .
  )
 )

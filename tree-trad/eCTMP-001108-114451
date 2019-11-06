@@ -13,13 +13,7 @@
       (NP 
        (NP 
         (NNS Bach)
-        (NNS 
-         ,
-        )
         (NNS Schnittke)
-        (NNS 
-         ,
-        )
         (NNS Telemann)
         (NNS e)
         (NNS Stradella)
@@ -29,6 +23,5 @@
     )
    )
   )
-  .
  )
 )

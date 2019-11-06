@@ -3,13 +3,10 @@
   (S 
    (ADVP 
     (RB Depois)
-    ,
    )
    (S 
     (S 
      (NP 
-      ''
-      ''
       (NNS Magic)
      )
      (VP 
@@ -42,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

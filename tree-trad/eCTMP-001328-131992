@@ -1,13 +1,10 @@
 (
  (S 
-  ''
-  ''
   (S 
    (S 
     (VP 
      (ADVP 
       (RB Depois)
-      ,
      )
      (VP 
       (VB passou)
@@ -30,7 +27,6 @@
      )
     )
    )
-   .
   )
  )
 )

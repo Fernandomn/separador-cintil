@@ -41,7 +41,6 @@
        (NNS Cabral)
       )
       (CONJP 
-       ,
        (CONJP 
         (NP 
          (PRP que)
@@ -51,7 +50,6 @@
           (S 
            (VB afirma)
           )
-          ,
          )
          (S 
           (VP 
@@ -74,6 +72,5 @@
     )
    )
   )
-  .
  )
 )

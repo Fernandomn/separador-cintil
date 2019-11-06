@@ -9,14 +9,12 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS presidente)
       (NNS de_)
       (NNS a)
       (NNS Câmara)
      )
-     ,
     )
    )
    (VP 
@@ -34,8 +32,6 @@
        (NP 
         (DT o)
         (NP 
-         ''
-         ''
          (NP 
           (JJ alto)
           (NP 
@@ -57,8 +53,6 @@
          (DT o)
          (NP 
           (NP 
-           ''
-           ''
            (NP 
             (NNS gesto)
             (JJ nobre)
@@ -81,6 +75,5 @@
     )
    )
   )
-  .
  )
 )

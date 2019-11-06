@@ -7,8 +7,6 @@
      (NP 
       (DT o)
       (NP 
-       ''
-       ''
        (NP 
         (NNS Finantial)
         (NNS Times)
@@ -16,7 +14,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (VP 
@@ -42,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

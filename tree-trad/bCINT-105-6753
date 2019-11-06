@@ -6,7 +6,6 @@
      (NNS Cristina)
     )
     (NP 
-     ,
      (NP 
       (NP 
        (NNS Marisa)
@@ -14,8 +13,6 @@
       (NP 
        (CC e)
        (NP 
-        ''
-        ''
         (NNS Francisco)
        )
       )
@@ -30,6 +27,5 @@
     )
    )
   )
-  .
  )
 )

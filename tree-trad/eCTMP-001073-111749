@@ -13,12 +13,10 @@
    )
    (VP 
     (ADVP 
-     ,
      (ADVP 
       (RB por)
       (RB enquanto)
      )
-     ,
     )
     (VP 
      (VP 
@@ -31,6 +29,5 @@
     )
    )
   )
-  .
  )
 )

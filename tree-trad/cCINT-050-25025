@@ -14,7 +14,6 @@
     (S 
      (VP 
       (ADVP 
-       ,
        (ADVP 
         (RB depois)
         (PP 
@@ -33,13 +32,11 @@
          )
         )
        )
-       ,
       )
       (VB adiantou)
      )
     )
    )
   )
-  :
  )
 )

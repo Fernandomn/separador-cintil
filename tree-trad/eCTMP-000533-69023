@@ -28,9 +28,7 @@
       )
       (VB identificadas)
      )
-     ,
-     (CC já)
-     (CC que)
+     (CONJP já que)
      (S 
       (NP 
        (PRP alguns)
@@ -40,8 +38,6 @@
        (VP 
         (VB estão)
         (ADVP 
-         ''
-         ''
          (RB totalmente)
         )
        )
@@ -56,7 +52,6 @@
      )
     )
    )
-   .
   )
  )
 )

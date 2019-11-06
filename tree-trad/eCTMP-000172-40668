@@ -6,7 +6,6 @@
     (NP 
      (NNS comissão)
      (CONJP 
-      ,
       (CONJP 
        (NP 
         (PRP que)
@@ -24,7 +23,6 @@
         )
        )
       )
-      ,
      )
     )
    )
@@ -53,6 +51,5 @@
     )
    )
   )
-  .
  )
 )

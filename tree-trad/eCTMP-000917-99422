@@ -7,9 +7,7 @@
    )
    (VP 
     (ADVP 
-     ,
      (RB contudo)
-     ,
     )
     (VP 
      (VB acabaria)
@@ -56,7 +54,6 @@
               (NP 
                (NNS Alpiarça)
                (CONJP 
-                ,
                 (CONJP 
                  (RB onde)
                  (S 
@@ -83,6 +80,5 @@
     )
    )
   )
-  .
  )
 )

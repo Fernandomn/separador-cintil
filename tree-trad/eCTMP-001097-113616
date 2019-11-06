@@ -4,7 +4,6 @@
    (RB Contudo)
    (VP 
     (PP 
-     ,
      (PP 
       (IN segundo)
       (NP 
@@ -14,11 +13,8 @@
        )
       )
      )
-     ,
     )
     (VP 
-     ''
-     ''
      (VP 
       (VB há)
       (NP 
@@ -48,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

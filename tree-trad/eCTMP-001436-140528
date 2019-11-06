@@ -15,26 +15,19 @@
        (NP 
         (NP 
          (NP 
-          ''
-          ''
           (NP 
            (NNS comida)
            (JJ tropical)
           )
          )
          (NP 
-          ,
           (NP 
            (NP 
-            ''
-            ''
             (NNS desporto)
            )
            (NP 
             (CC ou)
             (NP 
-             ''
-             ''
              (NP 
               (NNS festas)
               (JJ mundanas)
@@ -50,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

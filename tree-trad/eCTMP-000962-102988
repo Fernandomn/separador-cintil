@@ -7,14 +7,12 @@
      (NNS passas)
     )
     (NP 
-     ,
      (NP 
       (NP 
        (DT o)
        (NNS champanhe)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (DT os)
@@ -40,6 +38,5 @@
     )
    )
   )
-  .
  )
 )

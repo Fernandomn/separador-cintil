@@ -9,7 +9,6 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS director-executivo)
       (PP 
@@ -28,15 +27,12 @@
        )
       )
      )
-     ,
     )
    )
    (VP 
     (VP 
      (VB está)
      (ADJP 
-      ''
-      ''
       (ADJP 
        (RB cuidadosamente)
        (JJ optimista)
@@ -64,6 +60,5 @@
     )
    )
   )
-  .
  )
 )

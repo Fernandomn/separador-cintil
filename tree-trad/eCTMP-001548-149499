@@ -5,7 +5,6 @@
     (VP 
      (VB Mostra)
      (PP 
-      ,
       (PP 
        (IN em_)
        (NP 
@@ -13,7 +12,6 @@
         (NNS costas)
        )
       )
-      ,
      )
     )
     (NP 
@@ -78,6 +76,5 @@
     )
    )
   )
-  .
  )
 )

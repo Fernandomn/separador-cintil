@@ -13,19 +13,19 @@ def tradutor(tag):
             "ADV'": "ADVP",  # Sintagma Adverbial
             "ADVP": "ADVP",  # Sintagma Adverbial
             "AP": "ADJP",  # Sintagma Adjectival
+            "ART": "DT",  # Artigo # Artigo [REVISAR] (TODO) nota: unico caso em que essa tag aparece está errado.
             "ART'": "NP",  # sintagma de artigo - não ocorre no handbook
             # # o artigo 'Primeiros passos na aquisição da sintaxe:' chama NP de DT. talvez ajude. mas acho que é melhor corrigir essa árvore.
-            "ART": "DT",  # Artigo # Artigo [REVISAR] (TODO) nota: unico caso em que essa tag aparece está errado.
-            "C'": settings.CPBarTag,  # "SBAR" Sintagma Objetal  - nao ocorre no handbook
             "C": settings.CTag,  # Complemento (TODO) objeto
+            "C'": settings.CPBarTag,  # "SBAR" Sintagma Objetal  - nao ocorre no handbook
             "CP": settings.CPTag,  # "SBAR"  Sintagma Objetal (TODO) v
             "CARD": "CD",  # Cardinais
             "CARD'": "NP",  # Sintagmas Cardinais
             # "CJ": "CC",  # Conjunções - Essa tag aparece apenas em manuais. não ocorre no CINTIL em momento algum.
             "CL": "PRP",  # Clíticos [explicar] https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/clitico/15150
             # "CN": "NNS",  # Nomes comuns
-            "CONJ'": settings.conjBarTag,  # sintagma Conjuntivo
             "CONJ": settings.conjTag,  # Conjunções
+            "CONJ'": settings.conjBarTag,  # sintagma Conjuntivo
             "CONJP": settings.conjPTag,  # sintagma Conjuntivo
             "D": "DT",  # Artigo
             "D1": "DT",  # Quantificadores - nao ocorre no handbook, só no site
@@ -65,8 +65,8 @@ def tradutor(tag):
             "PERCENTP": "NP",  # Sintagma percentual (TODO) nota: ptb considera como NP
             # "PNM": "NP",  # Parte de Nome (TODO) v
             "PNT": settings.pointTag,  # Pontuação
-            "POSS'": "NP",  # Possessivos (TODO) nota: não existe um sintagma pronominal. o jeito é manter o NP msm
             "POSS": "PP$",  # Possessivos v
+            "POSS'": "NP",  # Possessivos (TODO) nota: não existe um sintagma pronominal. o jeito é manter o NP msm
             # "POSSP": "NP",  # Possessivos (TODO) nota: não ocorre
             "PP": "PP",  # Sintagmas Preposicionais
             # "PPA": "VBN",  # Particípios passados que não formam tempos compostos
@@ -97,7 +97,9 @@ def classeProblematica(classe):
 
 def extraiPnt(index, inicio, treeText):
     final = inicio + treeText[inicio:].index(')')
-    pntWord = treeText[final - 1]
+    inicio = inicio +treeText[inicio:].index(' ')
+    # pntWord = treeText[final - 1]
+    pntWord = treeText[inicio+1:final].strip()
     if pntWord == '"' or pntWord == "'":
         # se é a primeira ocorrência
         if settings.isFirstQuoteMark:
@@ -159,9 +161,15 @@ def traduzirTags(tree_text):
             if classe == settings.pointTag:
                 tree_text = extraiPnt(index, inicio, tree_text)
             else:
-                classeTraduzida = tradutor(classe)
-                tree_text = tree_text[:inicio] + classeTraduzida + tree_text[final:]
-                if not rever_arvore and classeProblematica(classeTraduzida):
+                classe_traduzida = tradutor(classe)
+                if classe_traduzida == 'NNS':
+                    palavra = tree_text[final:final+tree_text[final:].index(')')].strip()
+                    if palavra in settings.pointList:
+                        # classe_traduzida = settings.pointTag
+                        tree_text = extraiPnt(index, inicio, tree_text)
+                        # continue
+                tree_text = tree_text[:inicio] + classe_traduzida + tree_text[final:]
+                if not rever_arvore and classeProblematica(classe_traduzida):
                     rever_arvore = True
 
             appendRefLists(tree_text, inicio, final, classe)

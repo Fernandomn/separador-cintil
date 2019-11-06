@@ -31,11 +31,9 @@
     (NP 
      (NNS militares)
      (NP 
-      ,
       (NP 
        (NNS polícias)
        (NP 
-        ,
         (NP 
          (NNS rebeldes)
          (NP 
@@ -49,6 +47,5 @@
     )
    )
   )
-  .
  )
 )

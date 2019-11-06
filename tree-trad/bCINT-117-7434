@@ -13,10 +13,7 @@
      )
     )
    )
-   ,
-   (CC uma)
-   (CC vez)
-   (CC que)
+   (CONJP uma vez que)
    (S 
     (NP 
      (DT os)
@@ -37,6 +34,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,7 +9,6 @@
     (VP 
      (VB está)
      (PP 
-      ,
       (PP 
        (IN em_)
        (NP 
@@ -17,7 +16,6 @@
         (NNS momento)
        )
       )
-      ,
      )
     )
     (ADJP 
@@ -41,6 +39,5 @@
     )
    )
   )
-  .
  )
 )

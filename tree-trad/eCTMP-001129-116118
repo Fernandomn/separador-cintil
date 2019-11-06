@@ -15,12 +15,10 @@
         (JJ pequena)
        )
        (ADJP 
-        ,
         (ADJP 
          (RB maioritariamente)
          (JJ social-democrata)
         )
-        ,
        )
       )
       (CONJP 
@@ -47,6 +45,5 @@
     )
    )
   )
-  .
  )
 )

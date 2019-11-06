@@ -9,7 +9,6 @@
      )
      (VP 
       (PP 
-       ,
        (PP 
         (IN durante)
         (NP 
@@ -17,7 +16,6 @@
          (NNS anos)
         )
        )
-       ,
       )
       (VP 
        (VB esqueceu)
@@ -56,7 +54,6 @@
      )
     )
    )
-   .
   )
  )
 )

@@ -20,8 +20,6 @@
         (NP 
          (NNS filme)
          (NP 
-          ''
-          ''
           (NP 
            (NNS Cyrano)
            (NNS de)
@@ -30,7 +28,6 @@
          )
         )
         (PP 
-         ,
          (PP 
           (IN com)
           (NP 
@@ -47,6 +44,5 @@
     )
    )
   )
-  .
  )
 )

@@ -9,9 +9,7 @@
    )
    (S 
     (ADVP 
-     ,
      (RB previsivelmente)
-     ,
     )
     (S 
      (NP 
@@ -34,6 +32,5 @@
     )
    )
   )
-  .
  )
 )

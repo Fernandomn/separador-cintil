@@ -25,12 +25,10 @@
      (CC que)
      (S 
       (ADVP 
-       ,
        (ADVP 
         (RB de)
         (RB facto)
        )
-       ,
       )
       (S 
        (NP 
@@ -43,6 +41,5 @@
     )
    )
   )
-  :
  )
 )

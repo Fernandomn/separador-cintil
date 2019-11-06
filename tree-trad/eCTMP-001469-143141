@@ -13,7 +13,6 @@
         )
         (RB aí)
        )
-       ,
       )
       (VP 
        (VB fizemos)
@@ -27,7 +26,6 @@
       )
      )
     )
-    ,
    )
    (S 
     (CC mas)
@@ -48,14 +46,12 @@
          (NP 
           (NNS jogo)
           (PP 
-           ,
            (PP 
             (IN em)
             (NP 
              (NNS casa)
             )
            )
-           ,
           )
          )
          (PP 
@@ -75,6 +71,5 @@
     )
    )
   )
-  .
  )
 )

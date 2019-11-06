@@ -3,7 +3,6 @@
   (S 
    (ADVP 
     (RB Hoje)
-    ,
    )
    (S 
     (NP 
@@ -36,7 +35,6 @@
       )
      )
      (CONJP 
-      ,
       (CONJP 
        (CC se)
        (VP 
@@ -59,7 +57,6 @@
           )
          )
          (NP 
-          ,
           (NP 
            (DT a)
            (NP 
@@ -80,6 +77,5 @@
     )
    )
   )
-  .
  )
 )

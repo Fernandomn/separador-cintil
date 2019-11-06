@@ -13,12 +13,10 @@
      )
     )
     (NP 
-     ,
      (NP 
       (NNS Oginga)
       (NNS Odinga)
      )
-     ,
     )
    )
    (VP 
@@ -35,6 +33,5 @@
     )
    )
   )
-  :
  )
 )

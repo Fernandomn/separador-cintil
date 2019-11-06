@@ -17,14 +17,12 @@
       (NNS Belém)
      )
      (PP 
-      ,
       (PP 
        (IN em)
        (NP 
         (NNS Lisboa)
        )
       )
-      ,
      )
     )
    )
@@ -45,6 +43,5 @@
     )
    )
   )
-  .
  )
 )

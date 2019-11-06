@@ -38,14 +38,12 @@
      )
     )
     (PP 
-     ,
      (PP 
       (PP 
        (NP 
         (DT esta)
         (NNS semana)
        )
-       ,
       )
       (PP 
        (IN em)
@@ -57,6 +55,5 @@
     )
    )
   )
-  .
  )
 )

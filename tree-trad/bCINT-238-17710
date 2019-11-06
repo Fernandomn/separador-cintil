@@ -21,13 +21,11 @@
        (S 
         (VP 
          (ADVP 
-          ,
           (ADVP 
            (RB cada)
            (RB vez)
            (RB mais)
           )
-          ,
          )
          (VP 
           (VB constitui)
@@ -66,6 +64,5 @@
     )
    )
   )
-  .
  )
 )

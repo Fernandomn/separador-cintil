@@ -26,7 +26,6 @@
      (JJ animalista)
     )
     (PP 
-     ,
      (PP 
       (IN com)
       (NP 
@@ -58,13 +57,10 @@
           )
          )
          (NP 
-          ,
           (NP 
            (DT o)
            (NP 
             (NP 
-             ''
-             ''
              (NP 
               (NNS Homem)
               (NNS de)
@@ -72,7 +68,6 @@
              )
             )
             (ADJP 
-             ,
              (ADJP 
               (ADJP 
                (VB descoberto)
@@ -106,6 +101,5 @@
     )
    )
   )
-  .
  )
 )

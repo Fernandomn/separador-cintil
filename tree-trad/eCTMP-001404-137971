@@ -7,14 +7,12 @@
      (NNS futebol)
     )
     (NP 
-     ,
      (NP 
       (NP 
        (DT as)
        (NNS prisões)
       )
       (NP 
-       ,
        (NP 
         (NP 
          (DT o)
@@ -92,6 +90,5 @@
     )
    )
   )
-  .
  )
 )

@@ -2,8 +2,6 @@
  (S 
   (NP 
    (NP 
-    ''
-    ''
     (NP 
      (NNS Antologia)
      (NNS de_)
@@ -17,8 +15,6 @@
    (NP 
     (CC e)
     (NP 
-     ''
-     ''
      (NP 
       (NNS O)
       (NNS Surrealismo)
@@ -30,6 +26,5 @@
     )
    )
   )
-  .
  )
 )

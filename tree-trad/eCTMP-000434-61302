@@ -7,7 +7,6 @@
     (NP 
      (NNS suspeita)
      (PP 
-      ,
       (PP 
        (IN sem)
        (NP 
@@ -19,6 +18,5 @@
     )
    )
   )
-  !
  )
 )

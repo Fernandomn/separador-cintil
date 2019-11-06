@@ -23,7 +23,6 @@
        )
       )
       (CONJP 
-       ,
        (CONJP 
         (NP 
          (PRP que)
@@ -46,7 +45,6 @@
               )
              )
              (ADVP 
-              ,
               (ADVP 
                (RB junto)
                (PP 
@@ -74,6 +72,5 @@
     )
    )
   )
-  .
  )
 )
