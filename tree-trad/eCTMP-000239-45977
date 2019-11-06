@@ -24,14 +24,15 @@
     (VP 
      (VP 
       (VP 
-       (VB puxá#-CL-ia)
+       (VB -CL-ia)
        (NP 
         (PRP -lo)
        )
       )
       (RB cautelosamente)
      )
-     (CONJP até que)
+     (CC até)
+     (CC que)
      (S 
       (VP 
        (NP 

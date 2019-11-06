@@ -54,7 +54,8 @@
        )
       )
      )
-     (CONJP sem que)
+     (CC sem)
+     (CC que)
      (S 
       (VP 
        (VB tenha)

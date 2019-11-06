@@ -6,7 +6,7 @@ import re
 def reconstroiArvoreObj(frase_split, indice, arvore):
     i = 0
 
-    for i in range(len(frase_split)):
+    while i < len(frase_split):
         item = frase_split[i]
         if item == '(':
             classe = frase_split[i + 1]
@@ -16,23 +16,26 @@ def reconstroiArvoreObj(frase_split, indice, arvore):
             arvore.filhos.append(subarvore)
         elif item == ')':
             classe = frase_split[0]
-            palavra = ''.join(frase_split[1:i])
+            palavra = frase_split[i - 1]
             if len(arvore.filhos):
                 subarvore = s.Sintagma(classe, arvore.filhos, arvore.classe, '')
             else:
-                subarvore = s.Sintagma(classe, [], arvore.classe, palavra)
+                subarvore = s.Sintagma(classe, [], arvore.classe_pai, palavra)
             return i + indice, subarvore
         elif item in settings.pointList:
             if frase_split[i - 1] == 'NNS':
-                # i += 1
-                continue
-            else:
-                point = item if not (item == '"' or item == "'") else item + item
-                subarvore = s.Sintagma(settings.pointTag, [], arvore.classe, point)
+                frase_split[i - 1] = settings.pointTag
+                subarvore = s.Sintagma(settings.pointTag, [], arvore.classe, item)
+                # i+=1
                 arvore.filhos.append(subarvore)
-                i += 1
-        # else:
-        #     i += 1
+                # continue
+            else:
+                # point = item if not (item == '"' or item == "'") else item + item
+                subarvore = s.Sintagma(settings.pointTag, [], arvore.classe, item)
+                arvore.filhos.append(subarvore)
+            i += 1
+        else:
+            i += 1
 
     # -----------------------------------------
     # while i < (len(frase)):
@@ -127,7 +130,8 @@ def imprimeArvoreObj(arvore, nivel):
             for filho in arvore.filhos:
                 string_filhos += filho.valor + ' '
 
-            string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, string_filhos.strip())
+            string_retorno = '{0}{1}\n'.format(espaco_esquerda, string_filhos.strip())
+            # string_retorno = '{0}({1} {2})\n'.format(espaco_esquerda, arvore.classe, string_filhos.strip())
         else:
             for filho in arvore.filhos:
                 string_filhos += imprimeArvoreObj(filho, nivel + 1)

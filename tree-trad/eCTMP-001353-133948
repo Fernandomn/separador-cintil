@@ -12,7 +12,9 @@
       (PRP -o)
      )
     )
-    (CONJP tanto mais que)
+    (CC tanto)
+    (CC mais)
+    (CC que)
     (S 
      (NP 
       (DT o)

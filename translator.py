@@ -98,9 +98,9 @@ def classeProblematica(classe):
 
 def extraiPnt(index, inicio, treeText):
     final = inicio + treeText[inicio:].index(')')
-    inicio = inicio +treeText[inicio:].index(' ')
+    inicio = inicio + treeText[inicio:].index(' ')
     # pntWord = treeText[final - 1]
-    pntWord = treeText[inicio+1:final].strip()
+    pntWord = treeText[inicio + 1:final].strip()
     if pntWord == '"' or pntWord == "'":
         # se é a primeira ocorrência
         if settings.isFirstQuoteMark:
@@ -148,10 +148,10 @@ def appendRefLists(treeText, inicio, final, classe):
 
 
 def fatia_arvore(frase):
-    frase_split = re.split('(\W)', frase)
+    frase_split = re.findall('[\(\)]|[\wÀ-ú\,\.\'\"\!\*\,-\/\:\;\?\`]*', frase)
     frase_split = [c.strip() for c in frase_split]
     frase_split = [i for i in frase_split if i != '']
-    return  frase_split
+    return frase_split
 
 
 def traduzirTags(tree_text):
@@ -171,7 +171,7 @@ def traduzirTags(tree_text):
             else:
                 classe_traduzida = tradutor(classe)
                 if classe_traduzida == 'NNS':
-                    palavra = tree_text[final:final+tree_text[final:].index(')')].strip()
+                    palavra = tree_text[final:final + tree_text[final:].index(')')].strip()
                     if palavra in settings.pointList:
                         # classe_traduzida = settings.pointTag
                         tree_text = extraiPnt(index, inicio, tree_text)
@@ -189,7 +189,8 @@ def traduzirTags(tree_text):
     # treeText = tb.imprimeArvore(listTree, 0)
 
     raiz = Sintagma('', [], '', '')
-    i, arvore = tb.reconstroiArvoreObj(fatia_arvore(tree_text), 0, raiz)
+    text_split = fatia_arvore(tree_text)
+    i, arvore = tb.reconstroiArvoreObj(text_split, 0, raiz)
     if rever_arvore:
         tb.revisaTagsObj(arvore)
     tree_text = tb.imprimeArvoreObj(arvore, 0)

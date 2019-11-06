@@ -30,7 +30,8 @@
        )
       )
      )
-     (CONJP enquanto que)
+     (CC enquanto)
+     (CC que)
      (S 
       (NP 
        (DT a)
