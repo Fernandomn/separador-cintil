@@ -114,14 +114,6 @@ def extraiPnt(index, inicio, treeText):
 
     return treeText[:index] + pntWord + treeText[final + 1:]
 
-
-# def extraiEoe(index, inicio, treeText):
-#     final = inicio + treeText[inicio:].index(')')
-#     eoeWord = treeText[final - 1]
-#     return treeText[:index] + eoeWord + treeText[final + 1:]
-#     pass
-
-
 def appendRefLists(treeText, inicio, final, classe):
     if classe == settings.conjTag or classe == 'CONJ':
         palavra = treeText[inicio: inicio + treeText[inicio:].index(')')].split()[1].lower()
@@ -175,18 +167,11 @@ def traduzirTags(tree_text):
                     if palavra in settings.pointList:
                         # classe_traduzida = settings.pointTag
                         tree_text = extraiPnt(index, inicio, tree_text)
-                        # continue
                 tree_text = tree_text[:inicio] + classe_traduzida + tree_text[final:]
                 if not rever_arvore and classeProblematica(classe_traduzida):
                     rever_arvore = True
 
             appendRefLists(tree_text, inicio, final, classe)
-
-    # if rever_arvore:
-    # i, listTree = tb.reconstroiArvore(treeText, 0, [])
-    # listTree = ['S', listTree]
-    # tb.revisaTags(listTree)  # ???
-    # treeText = tb.imprimeArvore(listTree, 0)
 
     raiz = Sintagma('', [], '', '')
     text_split = fatia_arvore(tree_text)
